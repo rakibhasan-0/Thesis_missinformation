@@ -1,0 +1,52 @@
+Headline:
+Smart particle could hold climate change key
+
+MainText:
+A climate tech company has won an £8m investment to mass produce tiny particles that can be "programmed" to soak up and store greenhouse gases.
+
+Promethean Particles, in Nottingham, is working with metal-organic frameworks (MOFs) - tiny nanoparticles that have extremely large internal surface areas.
+
+One teaspoon of the super adsorbent particles contains the equivalent area of two tennis courts.
+
+The company is hoping to use the new financing, which has been led by Mercia Ventures and Aramco Ventures, to build a bigger manufacturing facility and expand its team. 
+It is also aiming to drive down the price of MOFs from tens of thousands of pounds to just £25 per kilo.
+
+The key to reducing the price and scaling up production would be to make the nanoparticles from cheap, widely available metals such as zinc and magnesium.
+
+James Stephenson, chief executive officer (CEO) of Promethean, said: "MOFs are an incredible class of materials that have shown all kinds of potential in lots of applications."
+
+Their internal surfaces can be lab-engineered to become "sticky" for different gases.
+
+Out in the real world, the nanoparticles can act as both mini-sponges and mini-sieves, able to both separate and store large volumes of different gases.
+
+These properties could be used to reduce the climate impact of producing cement, metals and energy, which continue to emit huge quantities of greenhouse gases.
+
+MOF particles from Promethean are already being used in a prototype carbon capture unit at Drax power station in Yorkshire.
+Analysis
+
+By Sally Bowman, BBC East Midlands environment correspondent
+
+Carbon capture and storage (CCS) has long been proposed as essential to national plans for a carbon-neutral future.
+
+The idea is that carbon dioxide from energy-hungry industries is intercepted before it enters the atmosphere and is then transported for permanent storage deep underground.
+
+The UK has announced several carbon capture projects as part of its pledge to capture and store 20 to 30 million tonnes of carbon dioxide a year by 2030.
+
+Yet so far, CCS has proved expensive and energy-intensive. No large-scale project is yet up and running.
+
+Critics see it as a dangerous distraction from the need to rapidly reduce emissions.
+
+The potential for MOFs to first filter out greenhouse gases at source, and then store them for easier transportation, is what has got the experts excited.
+
+But up to now, the cost of these nanoparticles has made that eye-wateringly expensive.
+
+If MOFs could be produced for a fraction of the current price, it could be a game-changer for CCS and good news for a fast-warming planet. 
+Mr Stephens said the challenge ahead was what brought him and the team to work every day.
+
+He said: "We see, and the world agrees, that carbon capture is needed as part of the solution [to the energy transition]. The existing carbon capture technologies have significant challenges in terms of the energy that's used.
+
+"We are very much about the mission that we're on, and we see every day that we can make a significant difference to some of these global issues."
+
+Selina Ambrose, product manager at the University of Nottingham spin-out, said: "There's so much more that we can be doing with MOF development and scaling up."
+
+Additional scientists and engineers would scale up production and research to "show the world what MOFs can really do", she added.

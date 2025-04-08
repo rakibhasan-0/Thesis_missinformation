@@ -1,0 +1,15 @@
+Headline:
+EU carbon market emissions drop 5% in 2024, on track for 2030 target
+
+MainText:
+BRUSSELS/LONDON April 4 (Reuters) - Carbon dioxide emissions regulated under the European Union's emissions trading system (ETS) fell by 5% in 2024, driven by cuts in the power sector, the European Commission said on Friday.
+Around 45% of the European Union's output of greenhouse gases is regulated by the EU ETS, which is the 27-nation bloc's flagship scheme to tackle global warming by charging for the right to emit carbon dioxide (CO2).
+It forces manufacturers, power companies and airlines to pay for the CO2 they emit by surrendering carbon allowances.
+"ETS emissions are now around 50% below 2005 levels and on track to achieve the 2030 target of -62%," the EU Commission said in a statement.
+The largest fall was in the power sector, which saw a 12% drop in emissions compared with 2023 levels.
+“This reduction is due to an increase in electricity production from renewables by 8% and nuclear by 5%, coupled with a decrease in gas by 8% and coal by 15%," the Commission said.
+Emissions from industry were stable, with a 5% cut in emissions from the cement sector offset by a 7% rise in the fertilizer sector.
+Aviation sector emissions rose around 15%, which the Commission said was due to a broadening of geographical coverage with non-domestic flights included.
+The ETS was expanded to include some maritime emissions last year, with 72 million tons of CO2 reported for 2024.
+Benchmark prices in the EU ETS fell around 4.5% on Friday afternoon to 63 euros per metric ton in line with sharp declines in other markets after China announced retaliatory tariffs on U.S. goods, fanning global recession fears.
+Prices have fallen around 25% since their peak this year in last January.
