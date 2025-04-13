@@ -1,0 +1,10 @@
+Please summarize the following text in 5–6 sentences, focusing on the key points and avoiding unnecessary details. Then, format it in a valid JSON object with the following structure: your generated summary will be placed in the summary attribute, and the given headline and main text will be placed in the headline and main text attribute.
+
+{
+  "id": "article_041", 
+  "headline": "STRING", 
+  "main_text": "STRING", 
+  "summary": "STRING" 
+}
+
+Text:
