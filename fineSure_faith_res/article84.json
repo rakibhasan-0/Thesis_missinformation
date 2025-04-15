@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "At COP29, Azerbaijani President Ilham Aliyev sparked controversy by calling oil and gas a 'gift of God' and defending fossil fuel expansion, despite growing global concerns.",
+    "reason": "The transcript confirms President Aliyev described oil and gas as a 'gift of God' and defended fossil fuel production, though it does not explicitly use the word 'controversy'; however, this is a reasonable interpretation given the context and contrasting views.",
+    "category": "no error"
+  },
+  {
+    "sentence": "UN Secretary General António Guterres criticized continued reliance on fossil fuels as 'absurd' and emphasized the urgency of limiting global warming.",
+    "reason": "Guterres is quoted in the transcript calling doubling down on fossil fuels 'absurd' and stressing the urgency of limiting global temperature rise to 1.5°C.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The UK pledged to reduce emissions by 81% by 2035 and encouraged others to match its ambition.",
+    "reason": "The transcript states the UK made an 81% reduction pledge for 2035 and called on other countries to match the target.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Many are concerned Azerbaijan may be using the conference to promote its oil and gas industry, with the event chaired by a former oil executive.",
+    "reason": "The transcript notes concerns about Azerbaijan using COP29 to boost investment in its oil and gas sector, and that the chair is a former oil executive.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Discussions at COP29 are focused on increasing climate finance for poorer nations, with calls for a $1 trillion global fund.",
+    "reason": "The transcript confirms discussions are focused on securing more funds for developing nations, with calls for a $1 trillion fund from public and private sources.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Meanwhile, climate impacts such as deadly floods and extreme heat are prompting urgent calls for decarbonization and adaptation worldwide.",
+    "reason": "The transcript includes examples of deadly floods in Spain and heat in Burkina Faso, both attributed to climate change, with leaders calling for decarbonization and adaptation.",
+    "category": "no error"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "Following severe flooding during Storm Babet, homeowner Claire Sneddon experienced major damage and stress despite assurances that previous floods were rare.",
+    "reason": "The transcript confirms that Claire Sneddon experienced internal flooding during Storm Babet and had been told by the estate agent that prior flooding was a once-in-a-lifetime event.",
+    "category": "no error"
+  },
+  {
+    "sentence": "As climate change increases the frequency and severity of natural disasters, new technologies are emerging to assess and mitigate risks.",
+    "reason": "The transcript discusses the increased risk of extreme weather due to climate change and the development of tools and models to assess and manage those risks.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The UK Environment Agency updated its flood and coastal erosion maps, predicting that by 2050, one in four properties could face flood risks.",
+    "reason": "The transcript states that updated flood data from the Environment Agency estimates one in four properties in England could be at risk of flooding by mid-century.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Companies like Climate X and Faura are developing advanced modeling tools to simulate disaster impacts and help insurers, developers, and homebuyers evaluate property vulnerabilities.",
+    "reason": "The transcript details both Climate X and Faura's work in modeling disaster impacts to assist insurers, developers, and homebuyers in assessing property risk.",
+    "category": "no error"
+  },
+  {
+    "sentence": "In the US, firms like Redfin are integrating climate risk into property listings, influencing buyer decisions.",
+    "reason": "The transcript confirms Redfin provides climate risk estimates for properties and notes how this can influence buyer decisions.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Sneddon now works in flood risk awareness and urges others to research climate threats before buying a home.",
+    "reason": "The transcript confirms that Sneddon now works for a flood risk company and advises others to investigate flood risk when buying property.",
+    "category": "no error"
+  }
+]

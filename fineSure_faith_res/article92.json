@@ -1,0 +1,42 @@
+[
+  {
+    "sentence": "A new Ember report shows Europe achieved a record 47% of its electricity from renewables in 2023, with solar surpassing coal and combined wind and solar exceeding gas.",
+    "reason": "The transcript states that clean energy sources provided 47% of Europe's electricity, with solar overtaking coal and solar plus wind surpassing gas, aligning with the summary.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The transition has reduced emissions and saved billions in fossil fuel imports, driven by political and economic support, pandemic recovery funding, and the fallout from Russia’s invasion of Ukraine.",
+    "reason": "The transcript supports this statement by attributing reduced emissions and cost savings to renewables, political backing, the COVID-19 recovery fund, and the shift after Russia’s invasion of Ukraine.",
+    "category": "no error"
+  },
+  {
+    "sentence": "In contrast, the U.S.",
+    "reason": "This is a sentence fragment without a complete predicate and does not convey a meaningful, standalone statement.",
+    "category": "grammatical error"
+  },
+  {
+    "sentence": "under Donald Trump is pushing fossil fuels, halting wind projects and prioritizing oil and gas expansion.",
+    "reason": "The transcript confirms that Trump signed an executive order to freeze wind projects and declared an energy emergency to expand oil and gas production.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Experts warn the U.S.",
+    "reason": "This is a sentence fragment lacking a complete predicate, making it grammatically incomplete.",
+    "category": "grammatical error"
+  },
+  {
+    "sentence": "risks falling behind in the global clean energy shift.",
+    "reason": "The transcript quotes Ember's insights director stating that the U.S. risks being left behind in the clean industrial revolution, supporting this summary claim.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Despite Europe’s progress, challenges remain, especially in decarbonizing transport and heating sectors.",
+    "reason": "The transcript includes expert commentary that replacing fossil fuels in transport and heat is harder than in electricity, confirming this challenge.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Analysts also caution that recent gains could be short-lived if gas prices fall due to an anticipated LNG oversupply.",
+    "reason": "The transcript includes analysis warning that an LNG glut could reduce gas prices and impact the competitiveness of renewables, supporting the summary.",
+    "category": "no error"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "A major IPBES report warns that treating climate change, biodiversity loss, food insecurity, health, and water issues in isolation leads to ineffective and sometimes harmful outcomes.",
+    "reason": "The transcript clearly states that treating these issues in silos leads to unintended consequences and ineffective responses, aligning with the summary.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The review urges governments to adopt a holistic approach, as current siloed governance fails to address the interlinked nature of these global crises.",
+    "reason": "The transcript supports this by stating that fragmented governance overlooks interdependencies and causes unintended trade-offs, supporting the summary claim.",
+    "category": "no error"
+  },
+  {
+    "sentence": "It identifies over 70 low-cost integrated solutions and emphasizes that short-term financial priorities often ignore massive unaccounted-for environmental costs.",
+    "reason": "The transcript states the report lists 70+ low-cost solutions and that short-term financial goals ignore costs to biodiversity, water, health, and climate change.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Real-world examples, such as a successful health and biodiversity intervention in Senegal, illustrate the benefits of holistic strategies.",
+    "reason": "The transcript provides a detailed example from Senegal where addressing water pollution and invasive species led to health and biodiversity improvements.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The report highlights that more than half of the global population, particularly in developing countries, is already impacted by environmental degradation.",
+    "reason": "The transcript states more than half the world's population, especially in developing countries, is affected by declines in biodiversity, water, and food.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Without urgent action, future projections under 'business as usual' scenarios point to worsening conditions for biodiversity, water, and human health, but sustainable practices could still deliver positive co-benefits across all areas.",
+    "reason": "The transcript outlines that business-as-usual scenarios will worsen biodiversity, water, and health, while sustainable strategies could lead to co-benefits across sectors.",
+    "category": "no error"
+  }
+]

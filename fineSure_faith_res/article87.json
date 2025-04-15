@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "The Scottish government has reversed its ban on wood-burning stoves in new homes after backlash from rural and island communities.",
+    "reason": "The transcript confirms that the Scottish government amended the New Build Heat Standard to allow wood-burning stoves after concerns from rural and island communities, which amounts to a policy reversal.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The original regulations aimed to eliminate polluting heating systems like gas and oil boilers but were amended to allow bioenergy and peat-based systems due to concerns over energy resilience.",
+    "reason": "The transcript states the original rules banned direct-emission heating systems and that bioenergy and peat-based systems were later allowed following concerns about resilience in bad weather and outages.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Supporters of the change argued that low-carbon alternatives are limited in remote areas, and the ban could have worsened fuel poverty.",
+    "reason": "Statements from groups like Scottish Land & Estates and rural politicians in the transcript highlight the lack of low-carbon alternatives and risks of fuel poverty, aligning with this summary.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Critics, including health campaigners, warned that wood-burning contributes to air pollution and poses health risks.",
+    "reason": "The transcript features warnings from Asthma and Lung UK Scotland and other health campaigners about the health risks of wood-burning and air pollution.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The revised policy retains the ban on gas and oil boilers but allows flexibility for secondary heating sources.",
+    "reason": "The transcript confirms that the ban on gas and oil boilers remains, while flexibility was added for secondary systems like wood-burning stoves.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Ministers say the update balances environmental goals with the practical needs of rural households.",
+    "reason": "Minister Alasdair Allan stated that the changes maintain the spirit of the original law while addressing rural concerns, supporting this summary claim.",
+    "category": "no error"
+  }
+]

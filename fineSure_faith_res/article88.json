@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "Scientists are using drones to monitor soil erosion in potato fields, particularly in Worcestershire, where heavy rainfall is creating deep cracks and washing soil away.",
+    "reason": "The transcript confirms that drones are being used to monitor erosion in Worcestershire potato fields, where heavy rain is causing deep soil cracks.",
+    "category": "no error"
+  },
+  {
+    "sentence": "As climate change leads to more intense downpours, farmers like Alan Moule face tough decisions about reducing potato production to prevent further erosion.",
+    "reason": "The transcript explains that Alan Moule attributes worsening erosion to increased rainfall, a result of climate change, and has reduced potato farming to combat it.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Moule has already converted some fields to pasture, which helps retain soil but comes at a cost.",
+    "reason": "The transcript confirms that Moule has grassed over some potato fields to retain soil, and that such decisions are difficult, implying a cost.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Researchers from the University of Worcester are combining drone imagery and soil samples to calculate nutrient loss and assign financial value to the damage.",
+    "reason": "The transcript states that University of Worcester researchers are using drones and soil samples to assess nutrient loss and calculate financial impacts.",
+    "category": "no error"
+  },
+  {
+    "sentence": "This data helps shift the conversation from emotional to economic, aiding initiatives like Natural England’s Catchment Sensitive Farming project.",
+    "reason": "The transcript explains that financial data helps turn emotional decisions into economic ones and mentions collaboration with the Catchment Sensitive Farming project.",
+    "category": "no error"
+  },
+  {
+    "sentence": "By quantifying erosion costs, experts can encourage farmers to adopt practices that benefit both their finances and the environment.",
+    "reason": "The transcript supports this by showing experts like James Griffiths using cost data to make the case for alternative practices with financial and environmental benefits.",
+    "category": "no error"
+  }
+]

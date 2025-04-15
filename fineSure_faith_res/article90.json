@@ -1,0 +1,37 @@
+[
+  {
+    "sentence": "A new IQAir report reveals that most of the world’s population is exposed to polluted air, with only seven countries meeting WHO air quality standards in 2022.",
+    "reason": "The transcript confirms that only seven countries met WHO air quality standards and most of the world’s population is breathing polluted air.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Chad, Bangladesh, Pakistan, India, and the Democratic Republic of Congo ranked as the most polluted, while countries like Australia and Estonia met the guidelines.",
+    "reason": "The transcript lists Chad, Bangladesh, Pakistan, India, and the DRC as the most polluted, and names Australia and Estonia among the countries that met WHO standards.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The lack of air quality monitoring infrastructure, especially in Africa, hampers accurate reporting.",
+    "reason": "The transcript highlights Africa’s monitoring shortfall, with only one station for every 3.7 million people, impacting data accuracy.",
+    "category": "no error"
+  },
+  {
+    "sentence": "This issue is expected to worsen as the U.S.",
+    "reason": "This is a sentence fragment that lacks a complete predicate and thus does not convey a clear, factual statement on its own.",
+    "category": "grammatical error"
+  },
+  {
+    "sentence": "ends its global air quality monitoring program, previously relied on by over 30 countries.",
+    "reason": "The transcript states that the U.S. is ending its embassy-based air quality monitoring program, which was relied upon by at least 34 countries, so the figure in the summary is slightly understated but still broadly accurate.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Climate change is contributing to worsening air conditions by fueling longer and more intense wildfires.",
+    "reason": "The transcript attributes worsening pollution to climate change, which is intensifying wildfires in regions like Southeast Asia and South America.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The report underscores the urgent need for more comprehensive monitoring and global action to address air pollution.",
+    "reason": "While this exact statement isn’t quoted, the overall context of the transcript supports the idea that more monitoring and action are needed, making it a valid interpretation.",
+    "category": "no error"
+  }
+]

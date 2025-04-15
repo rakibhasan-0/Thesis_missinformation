@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "A report by the Environment Agency warns that around 1,100 properties on the East Yorkshire coast could be lost to coastal erosion by 2055, a figure that could rise fivefold without preventive measures.",
+    "reason": "The transcript clearly states that about 1,100 properties could be lost by 2055, and that without sea defences, the number could be five times higher, aligning with this summary statement.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The region is already among the fastest eroding coastlines in Europe, losing an estimated 14 feet of land each year.",
+    "reason": "The transcript confirms East Yorkshire is one of the fastest eroding coastlines in Europe, with 14 feet (4.5 meters) lost annually, according to the council.",
+    "category": "no error"
+  },
+  {
+    "sentence": "In addition to erosion, over 115,000 properties in Yorkshire and Humber face flooding risks from rivers and the sea, risks expected to increase with climate change.",
+    "reason": "The transcript notes 115,200 properties at medium or high flood risk and states that climate change is expected to increase these risks.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The report underscores the growing challenge of protecting vulnerable areas amid rising sea levels, more frequent storms, and limited flood defence budgets.",
+    "reason": "The transcript discusses rising sea levels, more powerful rainfall events, and the finite nature of flood defence budgets, supporting this summary statement.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Local communities like Kilnsea are already experiencing the effects, with past losses of land and buildings to the sea.",
+    "reason": "The transcript confirms that Kilnsea has lost parts of its original village to the sea, including a church and graveyard, and continues to be vulnerable.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The Environment Agency plans to release detailed risk maps to help residents understand and prepare for the threats.",
+    "reason": "The transcript states that the Environment Agency will publish more granular data in the coming months so residents can see their own risk and plan accordingly.",
+    "category": "no error"
+  }
+]

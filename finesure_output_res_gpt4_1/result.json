@@ -1,0 +1,22 @@
+
+
+[Evaluation Results]
+
+* completeness score per model (higher is better)
+
+  gpt-4	58.6%
+
+* completeness model ranking (left is better)
+
+['gpt-4']
+
+* conciseness score per model (higher is better)
+
+  gpt-4	88.3%
+
+* conciseness model ranking (left is better)
+
+['gpt-4']
+
+* success rate: 98.7%
+

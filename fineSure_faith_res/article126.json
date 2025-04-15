@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "Kuwait implemented brief power cuts in industrial and agricultural areas due to a surge in electricity demand caused by rising temperatures and ongoing maintenance at power plants.",
+    "reason": "The transcript states that Kuwait temporarily cut electricity in industrial and agricultural areas due to surging demand from hot weather and restricted generating capacity due to plant maintenance, which aligns with this sentence.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Temperatures reached 38°C, prompting the electricity ministry to urge residents to reduce consumption during peak hours.",
+    "reason": "The transcript confirms temperatures rose to 38°C and the ministry asked residents to reduce electricity use, especially during specific hours.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Similar load-shedding measures were used last summer, and Kuwait has increasingly relied on electricity imports from neighboring Gulf countries.",
+    "reason": "The transcript notes Kuwait used programmed load-shedding last summer and imported electricity from the Gulf Cooperation Council Interconnection Authority, which supports this summary statement.",
+    "category": "no error"
+  },
+  {
+    "sentence": "To address long-term energy needs, Kuwait has agreed to import liquefied natural gas from Qatar and partnered with China to develop renewable energy projects.",
+    "reason": "The transcript says Kuwait made an agreement with QatarEnergy to import LNG and signed a framework agreement with China to develop renewable energy projects.",
+    "category": "no error"
+  },
+  {
+    "sentence": "These steps aim to stabilize the country's power supply as demand continues to grow.",
+    "reason": "While the exact purpose is not stated in the transcript, the context implies these measures are intended to address increasing demand and future power needs, making the interpretation reasonable.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Power was restored within two hours of the recent outages.",
+    "reason": "The transcript explicitly states that Wednesday's outages lasted less than two hours before electricity was restored.",
+    "category": "no error"
+  }
+]

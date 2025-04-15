@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "Las Vegas, long known for its excess, is transforming into a leader in sustainability through major investments in solar energy and water conservation.",
+    "reason": "The transcript highlights that Las Vegas has shifted from being known for excess to becoming a recognized leader in sustainability due to major solar and water-saving investments.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Since 2005, the city has invested millions in green initiatives, supported by federal and local policies, resulting in a significant drop in water consumption despite population growth.",
+    "reason": "The transcript confirms that sustainability efforts began in 2005, were bolstered by the 2009 Recovery Act, and led to a significant reduction in water use despite population increases.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The Las Vegas Strip has made notable progress, with resorts exceeding the state's renewable energy targets and companies like MGM developing large-scale solar arrays.",
+    "reason": "The transcript states that most resorts have exceeded the state’s 40% renewable energy requirement, and MGM developed a 100-megawatt solar array powering multiple properties.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Water conservation efforts have saved billions of gallons through efficient technologies and landscaping changes.",
+    "reason": "MGM’s properties alone have saved 16 billion gallons of water since 2007 through aggressive water-saving policies including efficient technologies and landscaping changes.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Resorts World Hotel has achieved full renewable energy use, though experts note it remains an outlier among hotels.",
+    "reason": "The transcript confirms Resorts World is powered entirely by renewable energy and is described as an anomaly among the Strip's hotels for its high performance.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Despite the progress, challenges like high energy demands from air conditioning and transportation remain, but Las Vegas is increasingly seen as a model for sustainable urban development in arid regions.",
+    "reason": "The transcript notes that transportation and air conditioning remain major emission sources, and multiple experts state Las Vegas is emerging as a model for sustainability in desert cities.",
+    "category": "no error"
+  }
+]

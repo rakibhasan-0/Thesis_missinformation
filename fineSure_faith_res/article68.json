@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "While the total number of tropical cyclones like hurricanes, typhoons, and cyclones is not expected to increase due to climate change, their intensity is likely to grow.",
+    "reason": "The transcript states that while the global frequency of tropical cyclones is unlikely to increase, their intensity is expected to rise with warming, making this summary accurate.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Warmer oceans and a more humid atmosphere fuel stronger storms with higher wind speeds, more rainfall, and increased coastal flooding.",
+    "reason": "The transcript explains how warmer oceans and a warmer atmosphere lead to stronger storms, more rainfall, and elevated storm surges, aligning with the summary.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The IPCC reports that a higher proportion of storms are reaching category three or above, and rapid intensification events have become more common.",
+    "reason": "The transcript confirms the IPCC reports a higher proportion of storms reaching category three or above and an increase in rapid intensification events in the Atlantic.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Rising sea levels and slower storm movement contribute to more severe flooding, as seen in storms like Hurricane Harvey and Katrina.",
+    "reason": "The transcript notes that rising sea levels and slower-moving storms lead to more severe flooding, with examples from Hurricane Harvey and Katrina.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Climate change is making such intense storms more probable, with stronger winds and rainfall.",
+    "reason": "The transcript clearly states that climate change is increasing the likelihood of more intense storms with stronger winds and heavier rainfall.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Looking ahead, a warming planet will likely cause a greater share of storms to reach the highest intensity levels, particularly if global temperatures rise beyond 1.5°C.",
+    "reason": "The transcript mentions that a higher share of tropical cyclones may reach category 4 or 5 as global temperatures rise, with projections for 1.5°C and beyond.",
+    "category": "no error"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "In 2024, carbon dioxide emissions under the EU’s emissions trading system (ETS) dropped by 5%, mainly due to significant reductions in the power sector.",
+    "reason": "The transcript confirms a 5% drop in ETS emissions in 2024, driven primarily by reductions in the power sector.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Renewable and nuclear energy production increased while coal and gas usage declined, contributing to a 12% emissions cut in the power sector.",
+    "reason": "The transcript states that renewables rose by 8%, nuclear by 5%, coal fell by 15%, and gas by 8%, leading to a 12% drop in power sector emissions.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The ETS now covers around 45% of the EU's greenhouse gas emissions and has reduced emissions by about 50% from 2005 levels, keeping the bloc on track for its 2030 target.",
+    "reason": "The transcript states the ETS covers around 45% of EU emissions and that emissions are 50% below 2005 levels, with progress on track for the 2030 target of -62%.",
+    "category": "no error"
+  },
+  {
+    "sentence": "While industry emissions remained stable, aviation emissions rose 15% due to expanded coverage of international flights.",
+    "reason": "The transcript states that industry emissions were stable and aviation emissions increased by 15% due to broader geographic coverage including non-domestic flights.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Maritime emissions were newly included, accounting for 72 million tons of CO2.",
+    "reason": "The transcript confirms that maritime emissions were newly included in the ETS, totaling 72 million tons of CO2 in 2024.",
+    "category": "no error"
+  },
+  {
+    "sentence": "ETS carbon prices have declined 25% since January amid broader economic concerns, including trade tensions between China and the U.S.",
+    "reason": "The transcript mentions a 25% drop in ETS carbon prices since January, with the recent 4.5% drop linked to China’s retaliatory tariffs, raising recession fears.",
+    "category": "no error"
+  }
+]

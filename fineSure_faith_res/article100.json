@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "A new report by the World Weather Attribution (WWA) network finds that global warming intensified the rainy season across West and Central Africa in 2024, causing deadly floods that killed around 1,500 people and displaced over one million.",
+    "reason": "The transcript confirms that WWA attributed intensified rainy seasons in West and Central Africa in 2024 to global warming, resulting in floods that killed about 1,500 and displaced over a million.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Human-induced climate change made rainfall across the Niger and Lake Chad basins 5–20% worse, with the risk of such extreme floods rising as temperatures continue to climb.",
+    "reason": "This matches the transcript, which says human-driven climate change worsened seasonal downpours in the Niger and Lake Chad basins by 5–20%, with rising flood risks linked to temperature increases.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Scientists warn that if global warming reaches 2°C above pre-industrial levels, events like this year’s floods could occur annually by the 2050s.",
+    "reason": "The transcript includes a WWA warning that such downpours could happen every year if warming hits 2°C by the 2050s, so this summary statement is accurate.",
+    "category": "no error"
+  },
+  {
+    "sentence": "War-torn Sudan was particularly affected, where displaced populations were driven into flood-prone areas, exacerbating the crisis.",
+    "reason": "The transcript confirms Sudan was a focus of the study and that displaced people were forced into flood-prone areas, intensifying the impact, aligning with the summary.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Despite contributing minimally to global emissions, Africa is among the regions suffering the most from climate-related disasters.",
+    "reason": "The transcript states that Africa has contributed very little to global carbon emissions but is being hit hardest by extreme weather, supporting this summary.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Experts are calling for urgent action at COP29, improved infrastructure like dam maintenance, and investments in early warning systems to mitigate future impacts.",
+    "reason": "The transcript includes calls from scientists for COP29 action, dam maintenance, and early warning systems, all aimed at addressing future climate impacts.",
+    "category": "no error"
+  }
+]

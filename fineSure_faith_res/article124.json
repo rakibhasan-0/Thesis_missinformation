@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "Global coal power capacity grew by 18.8 GW in 2024, the smallest increase in 20 years, but new plants in China and India continued to outpace closures elsewhere.",
+    "reason": "The transcript confirms that global coal capacity rose by 18.8 GW in 2024, the smallest in two decades, with China and India leading new additions that outweighed retirements.",
+    "category": "no error"
+  },
+  {
+    "sentence": "China led with 30.5 GW of new coal capacity, despite pledges to limit coal, while India added 5.6 GW.",
+    "reason": "The transcript states that China added 30.5 GW and India 5.6 GW of new coal power in 2024, despite China’s pledge to 'strictly control' coal expansion.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The total global coal capacity is now 13% higher than at the time of the Paris Agreement.",
+    "reason": "The transcript explicitly states that global coal generation capacity is now 13% higher than it was when the Paris Agreement was signed.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Meanwhile, renewable energy saw a record 585 GW increase but is still struggling to replace fossil fuels, mainly just keeping pace with rising demand.",
+    "reason": "The transcript confirms a 585 GW increase in renewables and quotes an expert stating renewables are largely meeting increased demand rather than displacing fossil fuels.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Some countries, including the U.S., are delaying coal plant retirements due to insufficient clean energy capacity.",
+    "reason": "The transcript notes that countries, including the U.S., are delaying retirements, primarily due to not building enough clean energy to replace coal plants.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Experts warn that the energy transition is not progressing fast enough to meet 2030 climate targets.",
+    "reason": "The transcript includes a warning that renewable energy must grow 16.6% annually to meet the 2030 target, and experts say the transition is too slow.",
+    "category": "no error"
+  }
+]

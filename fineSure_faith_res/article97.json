@@ -1,0 +1,37 @@
+[
+  {
+    "sentence": "At COP29 in Baku, U.S.",
+    "reason": "This is an incomplete sentence and lacks a predicate or object, making it grammatically incorrect and factually unclear.",
+    "category": "grammatical error"
+  },
+  {
+    "sentence": "climate envoy John Podesta reassured global leaders that America's clean energy transition would continue despite Donald Trump's re-election, citing the resilience of Biden's Inflation Reduction Act.",
+    "reason": "There is a factual error: Trump has not been re-elected, and Podesta was responding to Trump’s electoral victory, not a confirmed re-election; thus, the sentence misrepresents the current political context.",
+    "category": "circumstantial error"
+  },
+  {
+    "sentence": "While Trump has vowed to exit the Paris Agreement and boost fossil fuels, Podesta emphasized that scientific facts and global cooperation would drive climate progress forward.",
+    "reason": "The transcript confirms Trump's stated intentions and Podesta’s emphasis on facts and ongoing global climate efforts, making this an accurate summary.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Delegates at the summit reached a major agreement on carbon market rules, paving the way for a UN-backed system to trade high-quality emissions credits.",
+    "reason": "The transcript confirms that a key agreement on carbon market rules was reached, laying the groundwork for a UN-backed credit trading system, matching the summary.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Nearly 200 countries agreed on foundational standards for carbon offsets, though further negotiations are needed.",
+    "reason": "The transcript states that nearly 200 nations agreed to crucial ground rules but other parts still need negotiation, so this summary is accurate.",
+    "category": "no error"
+  },
+  {
+    "sentence": "In a notable development, the Taliban attended the summit for the first time since regaining power, with Afghanistan seeking international support for its renewable energy plans.",
+    "reason": "The transcript confirms the Taliban attended COP29 for the first time since 2021 and that Afghanistan is requesting support for its wind and solar energy efforts.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The summit will continue for two weeks, focusing on climate finance and reducing fossil fuel dependence.",
+    "reason": "The transcript states the summit will last for two weeks and address climate finance and the transition from fossil fuels, accurately reflected in the summary.",
+    "category": "no error"
+  }
+]

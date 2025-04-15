@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "Australia experienced its second-hottest summer on record in 2024–25, with temperatures 1.89°C above the long-term average, according to the Bureau of Meteorology.",
+    "reason": "According to the transcript, the 2024–25 summer was indeed the second-hottest on record at 1.89°C above the long-term average.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Despite La Niña-like conditions, which usually bring cooler weather, heat was widespread across the country, with all mainland states ranking among their top 10 hottest summers.",
+    "reason": "The transcript confirms that temperatures were unusually high despite La Niña-like conditions, and each mainland state was among its 10 hottest on record.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Climate scientist Dr. Linden Ashcroft emphasized that such extreme heat would not have been possible without climate change and warned it may become one of the cooler summers of the 21st century.",
+    "reason": "Dr. Ashcroft is quoted attributing the extreme heat to climate change and predicting this summer will end up being one of the coolest going forward.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Western Australia recorded its hottest summer overall, including the warmest night-time temperatures.",
+    "reason": "The transcript states that WA had its hottest summer on record, including record warm night-time temperatures.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Rainfall was only slightly below average, though some regions like South Australia and the Northern Territory remained particularly dry.",
+    "reason": "The transcript confirms overall summer rainfall was slightly below average, with SA and NT notably dry.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The bureau's autumn forecast predicts an increased likelihood of unusually high temperatures nationwide.",
+    "reason": "The transcript indicates that the Bureau of Meteorology’s autumn forecast shows a higher chance of unusually warm days and nights across all of Australia.",
+    "category": "no error"
+  }
+]

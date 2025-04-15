@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "A new report by the European Environment Agency warns that climate change poses catastrophic risks to Europe, threatening hundreds of thousands of lives and over €1 trillion annually in economic losses, especially from heatwaves and coastal flooding.",
+    "reason": "The transcript confirms the EEA warns of catastrophic risks, with potential losses over €1 trillion per year from coastal floods and hundreds of thousands of deaths from heatwaves.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The assessment highlights that Europe is unprepared for worsening climate impacts, urging immediate action to protect healthcare systems, infrastructure, and agriculture.",
+    "reason": "The transcript states that Europe is not prepared for worsening risks and calls for urgent policies targeting healthcare, farming, and infrastructure.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Even if the Paris Agreement goal of limiting warming to 1.5°C is met, severe risks will persist.",
+    "reason": "The report notes that climate risks will not diminish even if the 1.5°C goal is achieved.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Southern Europe is particularly vulnerable, with current farming subsidies largely neglecting risk management.",
+    "reason": "The transcript specifically states that climate-related hazards will hit southern Europe hard and that less than 2% of EU farming subsidies support risk management.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Climate events have already caused between 85,000 and 145,000 deaths in Europe over the past 40 years, with major recent disasters including deadly heatwaves, floods, and wildfires.",
+    "reason": "The transcript confirms the death toll estimate and references specific disasters like the 2022 heatwaves, 2021 floods, and wildfires in Italy.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The report calls for climate risk integration into all policy sectors and stronger international cooperation to avoid worsening outcomes.",
+    "reason": "The transcript states that the report urges integrating climate risk into policies across sectors and implies broader collective action is needed, supporting the call for cooperation.",
+    "category": "no error"
+  }
+]

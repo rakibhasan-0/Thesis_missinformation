@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "Asia has taken the lead in global energy transition efforts in early 2025, with countries like China, India, South Korea, and Japan reducing fossil fuel use and significantly increasing clean power output.",
+    "reason": "The transcript explicitly states that these Asian countries reduced fossil fuel use and increased clean power output more than their international peers in early 2025.",
+    "category": "no error"
+  },
+  {
+    "sentence": "India led in clean energy growth with a 26% year-on-year increase, while South Korea achieved a 15% cut in fossil fuel electricity generation.",
+    "reason": "The transcript confirms that India had a 26% increase in clean power production and South Korea reduced fossil fuel electricity generation by 15% in January 2025.",
+    "category": "no error"
+  },
+  {
+    "sentence": "In contrast, Europe and the U.S. experienced setbacks, with increased fossil fuel use due to weak wind output in Europe and high electricity demand in North America.",
+    "reason": "The transcript states that Europe increased fossil fuel use due to weak wind output and the U.S. due to strong electricity demand, matching the summary.",
+    "category": "no error"
+  },
+  {
+    "sentence": "U.S. coal-fired generation rose 20% in early 2025, while natural gas output dipped slightly due to rising prices.",
+    "reason": "The transcript states U.S. coal generation increased by 20% and natural gas-fired output dropped by about 1% due to rising gas prices, which aligns with this sentence.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Poor wind performance in Europe forced higher reliance on gas and coal, threatening their emissions goals.",
+    "reason": "The transcript describes how weak wind output in Europe led to increased coal and gas use, and the interpretation of this threatening emissions goals is a reasonable inference.",
+    "category": "no error"
+  },
+  {
+    "sentence": "If these trends persist, Asia may further solidify its role as a global leader in the clean energy transition.",
+    "reason": "The transcript suggests that if current trends continue, Asia could widen its lead and strengthen its role in global clean energy transition momentum.",
+    "category": "no error"
+  }
+]

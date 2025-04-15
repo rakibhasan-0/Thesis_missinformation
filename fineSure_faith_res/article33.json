@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "The Trump administration has launched a sweeping rollback of climate and pollution regulations, including a proposal to revoke the EPA’s foundational finding that greenhouse gases endanger public health.",
+    "reason": "The transcript confirms a wide-scale rollback and a proposal to reconsider (potentially revoke) the EPA's 2009 endangerment finding, aligning with the summary.",
+    "category": "no error"
+  },
+  {
+    "sentence": "This move threatens to dismantle key climate protections and follows the announcement of 31 regulatory reversals affecting power plants, vehicles, and water pollution.",
+    "reason": "The transcript mentions 31 reversals targeting power plants, vehicles, and waterways, with implications for climate protections, which matches the summary.",
+    "category": "no error"
+  },
+  {
+    "sentence": "EPA administrator Lee Zeldin framed the actions as a deregulatory victory, while environmentalists and former officials condemned them as harmful and unlawful.",
+    "reason": "Lee Zeldin is not mentioned in the transcript; the EPA administrator is not named, making this an entity error.",
+    "category": "entity error"
+  },
+  {
+    "sentence": "The administration also shut down environmental justice offices and froze billions in climate-related grants.",
+    "reason": "The transcript mentions plans to eliminate environmental justice offices and halt climate-related grants, but does not mention freezing 'billions'—making the scale inaccurate.",
+    "category": "circumstantial error"
+  },
+  {
+    "sentence": "Critics argue these steps undermine decades of progress and endanger public health and the environment.",
+    "reason": "The transcript includes critics warning the actions jeopardize public and environmental health, which is consistent with this summary statement.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Further rollbacks are expected as part of the administration’s plan to boost the fossil fuel industry through the newly formed Energy Dominance Council.",
+    "reason": "The transcript confirms that the Energy Dominance Council plans more rollbacks to benefit the fossil fuel industry.",
+    "category": "no error"
+  }
+]

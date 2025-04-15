@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "Scientists are increasingly concerned that the Atlantic Meridional Overturning Circulation (Amoc), which keeps the UK and north-west Europe warm, could weaken or collapse due to climate change.",
+    "reason": "The transcript confirms growing scientific concern that Amoc could weaken or collapse, and explains its role in warming the UK and northwest Europe.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Although the probability of a full collapse this century is uncertain, recent studies suggest the risk may be greater than previously thought, potentially as high as 10–20%.",
+    "reason": "The transcript cites Prof. Lenton estimating a 10–20% risk of Amoc reaching a tipping point this century, indicating a greater concern than earlier IPCC assessments.",
+    "category": "no error"
+  },
+  {
+    "sentence": "A weakening or collapse of Amoc could lead to drastically colder winters in the UK and major disruptions to global weather patterns, including the monsoons.",
+    "reason": "The transcript discusses the possibility of significantly colder conditions in the UK and disruptions to tropical rain belts including the monsoon system if Amoc collapses.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Contributing factors include increased freshwater from melting Greenland ice and reduced ocean salinity, which prevent the normal sinking of water needed for circulation.",
+    "reason": "The transcript clearly explains how additional freshwater from melting ice and increased rainfall reduce ocean salinity, hindering the sinking process crucial to Amoc.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Despite uncertainties, scientists warn that the potential consequences are too serious to ignore and urge governments to prepare.",
+    "reason": "The transcript includes concerns about governmental preparedness and emphasizes the serious risks, even amid uncertainty, prompting calls for action.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Cutting greenhouse gas emissions remains the most effective way to reduce the risk of triggering this climate tipping point.",
+    "reason": "Multiple scientists in the transcript stress that reducing greenhouse gas emissions is key to lowering the risk of an Amoc slowdown or collapse.",
+    "category": "no error"
+  }
+]

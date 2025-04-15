@@ -1,0 +1,37 @@
+[
+  {
+    "sentence": "Despite the Trump administration's withdrawal from international climate efforts, the Cop30 president André Corrêa do Lago emphasized that the U.S.",
+    "reason": "The transcript confirms Corrêa do Lago emphasized the U.S. remains central despite Trump’s withdrawal from international climate cooperation.",
+    "category": "no error"
+  },
+  {
+    "sentence": "will remain central to solving the climate crisis through its innovation, technology, and private sector contributions.",
+    "reason": "Corrêa do Lago specifically cited the U.S.'s innovation and technology, and suggested that organizations outside of the government could play a role, aligning with this statement.",
+    "category": "no error"
+  },
+  {
+    "sentence": "He stressed that the upcoming summit in Belém, Brazil – the first held in the Amazon – will focus not only on negotiations but also on accelerating implementation of existing climate commitments.",
+    "reason": "The transcript confirms that Corrêa do Lago emphasized shifting the focus beyond negotiations to implementation, and that the summit will be the first held in the Amazon.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Brazil plans to spotlight climate justice, Indigenous leadership, and meaningful emissions reductions.",
+    "reason": "The transcript states Brazil will conduct an 'ethical stocktake' on climate justice and give Indigenous people a key role, aligning with the summary.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Corrêa do Lago encouraged all nations to submit ambitious climate plans and highlighted the importance of making them investable.",
+    "reason": "He wrote to countries urging steep emission cuts, and Ana Toni emphasized the need for investment-ready plans, which together support this statement.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The summit’s organizers are engaging businesses and investors early to ensure real-world impact.",
+    "reason": "Ana Toni noted strong early interest from investors, and both she and Corrêa do Lago highlighted the role of non-government actors in implementation.",
+    "category": "no error"
+  },
+  {
+    "sentence": "A letter from Brazil to global leaders warned against the “banality of inaction” and invoked a collective spirit to inspire action amid growing global and geopolitical challenges.",
+    "reason": "The letter quoted Hannah Arendt's concept of 'banality of inaction' and referred to collective Brazilian concepts like 'mutirão' and 'virada' to inspire global unity and urgency.",
+    "category": "no error"
+  }
+]

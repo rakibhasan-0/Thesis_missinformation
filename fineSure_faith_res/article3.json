@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "Japan is battling its largest wildfire in over 30 years, with flames engulfing about 1,200 hectares of forest near Ofunato in the Iwate region.",
+    "reason": "The transcript confirms that this is Japan’s largest wildfire in more than three decades and that about 1,200 hectares in Ofunato have burned.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The fire has led to the evacuation of over a thousand people and damaged more than 80 buildings, with one fatality reported.",
+    "reason": "The transcript states more than 1,000 people were evacuated, over 80 buildings damaged, and one body was found at the scene.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Approximately 1,700 firefighters have been deployed nationwide to combat the blaze.",
+    "reason": "About 1,700 firefighters were mobilized from across the country, as noted in the transcript.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The cause of the wildfire is still unknown, and additional fires have been reported in other regions including Yamanashi.",
+    "reason": "The transcript confirms the cause remains unknown and that two other fires have been reported, one in Yamanashi.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Experts link the increasing frequency and intensity of wildfires to Japan’s unusually dry conditions and record-breaking heat, attributed to climate change.",
+    "reason": "The transcript does not mention experts directly linking an increase in wildfire frequency and intensity to climate change; it notes wildfires have declined since the 1970s.",
+    "category": "out-of-context error"
+  },
+  {
+    "sentence": "Ofunato’s rainfall in February was the lowest on record, exacerbating fire risks in an already dry season.",
+    "reason": "The transcript confirms 2.5mm of rain is a record low for February in Ofunato, thus increasing dryness-related fire risk.",
+    "category": "no error"
+  }
+]

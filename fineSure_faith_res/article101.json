@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "Italy and Switzerland are redrawing their Alpine border near the Matterhorn due to glacial melting caused by climate change, which has shifted natural watershed boundaries used to define their border.",
+    "reason": "The transcript states that the border change is occurring near the Matterhorn due to melting glaciers, which redefine watershed boundaries used as the natural border, aligning with this summary.",
+    "category": "no error"
+  },
+  {
+    "sentence": "As glaciers recede, the highest points that determine the ridge line have moved, effectively transferring a small amount of territory to Switzerland.",
+    "reason": "The transcript confirms that the ridge line has shifted further into Italian territory, giving Switzerland a small amount of land, making this statement accurate.",
+    "category": "no error"
+  },
+  {
+    "sentence": "This shift is part of a broader trend seen in other Alpine regions, such as Italy’s borders with Austria.",
+    "reason": "The transcript notes a similar border agreement between Italy and Austria in 2006 due to melting glaciers, supporting the summary's claim of a broader trend.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The changing border has implications for tourism, environmental management, and safety responsibilities, especially as glacial melt increases risks like avalanches.",
+    "reason": "The transcript discusses shared ski terrain, responsibilities for glacier management, and avalanche risks exacerbated by glacial melt, aligning with this summary.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Reports show that Swiss glaciers have lost 10% of their volume in just two years, with 2023 being Europe’s second-warmest year on record.",
+    "reason": "The transcript states a 10% glacier volume loss in 2022–2023 and confirms 2023 as Europe’s second-warmest year, making this summary accurate.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Experts warn that glacier loss may be irreversible without drastic climate action, though innovative solutions like reflective geotextiles and seabed curtains are being explored to slow the melting process.",
+    "reason": "The transcript mentions irreversible glacier loss without major climate action and describes both geotextiles and seabed curtains as innovative mitigation efforts.",
+    "category": "no error"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "The World Meteorological Organization (WMO) has issued a 'red alert' warning about global warming, highlighting record-breaking levels of greenhouse gases, rising temperatures, and melting ice in its latest State of the Global Climate report.",
+    "reason": "The transcript confirms that the WMO sounded a 'red alert' over global warming in its latest report and highlighted record-breaking greenhouse gases, rising temperatures, and melting ice.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The report warns that 2024 is highly likely to surpass 2023 as the hottest year on record, with the 12-month average from March 2023 to February 2024 exceeding the critical 1.5°C warming threshold set by the Paris Agreement.",
+    "reason": "The transcript states that the 12-month period from March 2023 to February 2024 averaged 1.56°C, surpassing 1.5°C, and WMO warns there is a high probability 2024 could be even hotter than 2023.",
+    "category": "no error"
+  },
+  {
+    "sentence": "UN Secretary-General António Guterres described the situation as a 'planet on the brink,' urging action against fossil fuel emissions.",
+    "reason": "The transcript includes Guterres' quote describing the planet as 'on the brink' and blaming fossil fuel pollution for worsening climate chaos.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Scientists caution that while El Niño contributes to warming, human-driven emissions are the primary cause.",
+    "reason": "The transcript notes that El Niño can increase temperatures but emphasizes that fossil fuel emissions are a major driver, as highlighted by WMO and Guterres.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The WMO stresses the urgency of reducing emissions as climate records continue to be broken.",
+    "reason": "The transcript shows the WMO warning that efforts to reverse warming are inadequate and highlighting repeated broken climate records.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The report emphasizes that the world is dangerously close to breaching agreed-upon climate limits, with far-reaching consequences.",
+    "reason": "The transcript states that the 1.5°C limit is 'increasingly in jeopardy' and that current conditions are dangerously close to breaching it, implying serious consequences.",
+    "category": "no error"
+  }
+]

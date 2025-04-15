@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "Peterborough City Council has announced it may need up to £8.8bn in investment to reach its net zero carbon emissions goal by 2040.",
+    "reason": "The transcript confirms the council stated it needs £8.8bn to help meet its 2040 net zero target, though it also clarified that some of that is part of ongoing investment.",
+    "category": "no error"
+  },
+  {
+    "sentence": "This figure emerged during the presentation of Phase Two of its Local Area Energy Plan (LAEP), aimed at delivering large-scale carbon reduction projects across the city.",
+    "reason": "The transcript indicates the £8.8bn figure was discussed during the presentation of Phase Two of the LAEP, which targets transformative carbon reduction projects city-wide.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The council has already reduced its emissions by 28.6% since declaring a climate emergency in 2018-19.",
+    "reason": "The transcript reports a 28.6% reduction in emissions since 2018-19 when the council declared a climate emergency.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Officials emphasized that the £8.8bn estimate includes ongoing energy investments and should be viewed across decades.",
+    "reason": "Hannah Swinburne clarified that the £8.8bn includes existing energy system investments and should be considered over decades.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The council hopes to attract commercial partners, similar to Bristol’s 20-year net zero partnership, to support the plan.",
+    "reason": "The transcript confirms the council referenced Bristol's commercial partnership and expressed a goal to replicate such support for Peterborough's plan.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Further evaluation over the coming months will determine the feasibility of achieving the target and securing necessary investment.",
+    "reason": "The transcript states that the council will spend the coming months exploring whether the plan is realistically achievable, aligning with the summary.",
+    "category": "no error"
+  }
+]

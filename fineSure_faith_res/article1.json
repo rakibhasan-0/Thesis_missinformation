@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "A new study recommends applying an 'investment portfolio' strategy to global tree-planting efforts to manage climate and economic uncertainties.",
+    "reason": "The study explicitly recommends an 'investment portfolio' strategy for large-scale tree planting to manage climate and economic risks.",
+    "category": "no error"
+  },
+  {
+    "sentence": "This approach involves diversifying tree species and planting locations to minimize the risk of poor outcomes under uncertain future conditions.",
+    "reason": "The summary accurately reflects the study's suggestion to diversify species and locations to reduce the risks associated with uncertain future climate and economic conditions.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The UK, EU, and US have all pledged large-scale tree planting, but future climate and economic conditions could affect which species are most effective.",
+    "reason": "This statement correctly summarizes the pledges made by the UK, EU, and US, and the impact of uncertain future conditions on tree species effectiveness.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Researchers from the University of Exeter argue that integrating both climate and economic risks offers the most cost-effective method of removing carbon.",
+    "reason": "The summary correctly captures the argument by Exeter researchers that combining both climate and economic risk analysis yields the most cost-effective tree planting approach for carbon removal.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The study used the UK as a model, showing that strategic planting can limit the risk of failure by balancing species and sites.",
+    "reason": "The statement is accurate; the study used the UK as a model and demonstrated that balancing species and locations can mitigate risks.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Despite potential downsides, tree-planting remains the best large-scale solution for carbon removal if approached carefully.",
+    "reason": "This is a correct paraphrase of Brett Day's quote asserting tree planting as the best available solution if done strategically.",
+    "category": "no error"
+  }
+]

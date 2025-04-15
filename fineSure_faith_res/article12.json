@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "Climate change is severely impacting cacao production in West Africa, the region responsible for about 70% of the world’s supply, leading to falling harvests and record-high cocoa prices.",
+    "reason": "This aligns with the transcript’s statements on how climate change is affecting West Africa (about 70% of global cacao), reducing harvests and pushing cocoa prices to record highs.",
+    "category": "no error"
+  },
+  {
+    "sentence": "A study by Climate Central found global heating has added three extra weeks of extreme heat during the growing season in countries like Ivory Coast and Ghana, reducing crop yields and quality.",
+    "reason": "The transcript mentions the Climate Central study showing an extra three weeks over 32°C, and researchers explicitly link the heat to decreased harvest quantity and quality.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Additional stressors include disease, irregular rainfall, and illegal activities such as smuggling and mining.",
+    "reason": "The transcript cites disease (including mealybugs), unusual rainfall patterns, smuggling, and illegal mining as factors harming cacao production.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Cocoa prices have surged above $10,000 per tonne, prompting companies like Lindt to raise product prices.",
+    "reason": "The transcript states New York cocoa prices exceeded $10,000 a tonne and notes Lindt’s decision to raise prices due to increasing cocoa costs.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Separate research by Christian Aid and the UN highlights how climate-driven aridity threatens not just chocolate, but global food systems and livelihoods.",
+    "reason": "Christian Aid’s report focuses on climate impacts in West Africa, and UN research (UNCCD) warns of widespread aridity, affecting broader ecosystems and livelihoods.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Experts urge coordinated action to combat the drivers of land degradation and protect vulnerable communities and ecosystems.",
+    "reason": "The transcript quotes experts emphasizing collective action to address greenhouse gas emissions and land-degrading practices to safeguard livelihoods and the planet’s capacity to sustain life.",
+    "category": "no error"
+  }
+]

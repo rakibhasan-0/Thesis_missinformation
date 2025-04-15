@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "Countries are meeting in South Korea to finalize a global treaty aimed at curbing plastic pollution, seen as one of the most significant environmental agreements since the Paris climate accord.",
+    "reason": "The transcript confirms that nations are gathering in Busan, South Korea, to finalize a plastics treaty, which UNEP describes as the most significant multilateral environmental deal since the 2015 Paris climate accord.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The treaty faces challenges from oil-producing nations and the fossil fuel industry, which oppose limits on plastic production and prefer recycling-focused solutions.",
+    "reason": "The transcript explicitly states that oil-producing countries like Iran, Russia, and Saudi Arabia oppose plastic production limits and advocate for recycling instead.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Environmental advocates stress that reducing plastic production is essential to tackling both pollution and climate change, with proposals like a 40% cut by 2040.",
+    "reason": "The transcript mentions advocacy for a 40% cut by 2040, supported by countries like Rwanda and Peru, and highlights the need to reduce plastic production to address pollution and climate change.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Some experts argue that even this target is insufficient, calling for a 75% cut to stay within the 1.5°C global warming limit.",
+    "reason": "The transcript cites Greenpeace and modeling suggesting that a 75% cut is needed by 2040 to stay within the 1.5°C carbon budget.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The final agreement is uncertain, especially with political shifts like a potential Trump presidency, but many countries and global South nations continue to push for ambitious action.",
+    "reason": "The transcript discusses the uncertainty around the final agreement, mentions concerns about the incoming Trump presidency, and highlights continued ambition from the Global South and EU nations.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The outcome will shape not only plastic pollution policy but potentially the future direction of fossil fuel reliance.",
+    "reason": "The transcript links plastic production to fossil fuel markets and states that the treaty will influence the future of fossil fuels, not just waste management.",
+    "category": "no error"
+  }
+]

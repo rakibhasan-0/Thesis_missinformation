@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "A new report warns that global deforestation in 2023 far exceeded the levels needed to stay on track to end deforestation by 2030, with 6.37 million hectares lost—45% above the annual target.",
+    "reason": "The transcript confirms that 6.37 million hectares were lost in 2023, which is 45% above the target of 4.4 million hectares, and that this level significantly exceeded the goal to stay on track for 2030.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Nearly all of the deforestation occurred in tropical regions, where emissions from forest loss reached 3.7 billion metric tons of CO₂-equivalent.",
+    "reason": "The transcript states that 96% of deforestation occurred in tropical regions and that tropical deforestation caused emissions of nearly 3.7 billion metric tons CO₂-equivalent.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Bolivia and Indonesia were highlighted for recent surges in deforestation, reversing previous progress.",
+    "reason": "The transcript notes a 351% increase in Bolivia from 2015–2023 and a sharp rise in Indonesia after previous declines, supporting this summary.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Key drivers include agriculture, infrastructure development, fires, and logging.",
+    "reason": "The transcript lists agriculture, road construction (infrastructure), fires, and commercial logging as main drivers of deforestation.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Oceania was the only region to meet its deforestation reduction target.",
+    "reason": "The transcript clearly states that Oceania was the only region to meet the 2023 deforestation reduction target.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Experts stress the urgency of strong policy enforcement and a shift in global consumption and production habits to meet forest protection goals.",
+    "reason": "The transcript includes calls for strong policies, enforcement, and changes in consumption and production models to meet forest goals.",
+    "category": "no error"
+  }
+]

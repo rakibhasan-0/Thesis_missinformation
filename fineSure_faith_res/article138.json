@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "A new study reveals that sea temperatures around the Great Barrier Reef over the past decade have been the highest in 400 years, posing an existential threat to the ecosystem.",
+    "reason": "The transcript states that sea temperatures over the past decade are the highest in 400 years and that this poses an 'existential threat' to the reef.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Researchers used centuries-old coral cores to trace historical environmental conditions and linked the warming to recent mass bleaching events.",
+    "reason": "The study re-examined coral cores to trace environmental changes and mentioned five mass bleaching events in the past nine years, implying a link to warming.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Coral bleaching, caused by extreme heat, leads to the expulsion of algae critical for coral survival, often resulting in coral death if temperatures remain high.",
+    "reason": "The transcript explains that bleaching occurs when coral expels algae due to high temperatures and that prolonged heat prevents recovery, leading to coral death.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The findings raise concerns that ongoing climate change could permanently alter the reef, which is currently a UNESCO World Heritage site.",
+    "reason": "The transcript discusses the concern that the reef will change permanently and confirms its status as a UNESCO World Heritage site.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Scientists urge stronger global action on climate change and call for the reef to be designated as endangered to highlight the severity of the crisis.",
+    "reason": "Scientists in the transcript advocate for action on climate change and hope the reef is designated as 'endangered' to signal the urgency of the problem.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Despite the grim findings, researchers say there is still hope if global warming is limited through collective action.",
+    "reason": "Dr. Henley states there's still a 'glimmer of hope' if global warming is restricted, supporting this sentence’s claim.",
+    "category": "no error"
+  }
+]

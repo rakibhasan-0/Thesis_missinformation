@@ -1,0 +1,37 @@
+[
+  {
+    "sentence": "Salmon have returned to Oregon's Klamath River Basin for the first time in over a century following the largest dam removal project in U.S.",
+    "reason": "The transcript states that a Chinook salmon was spotted in Oregon's Klamath River Basin for the first time since 1912, and confirms this followed the largest dam removal project in U.S. history.",
+    "category": "no error"
+  },
+  {
+    "sentence": "history.",
+    "reason": "This is a sentence fragment that appears to be mistakenly separated from the previous sentence; it is not meaningful on its own.",
+    "category": "grammatical error"
+  },
+  {
+    "sentence": "Four hydroelectric dams that blocked fish migration and devastated local salmon populations were dismantled after decades of advocacy by tribal communities.",
+    "reason": "The transcript explains that four dams blocked fish migration and were removed after decades of campaigning by tribes, including the Yurok and Karuk, confirming the statement.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The return of autumn-run Chinook salmon so soon after the final dam's removal surprised biologists and tribal members, who expected it would take years.",
+    "reason": "The transcript confirms that both biologists and tribal members were surprised by the early return of Chinook salmon, having expected it would take years.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The Klamath River, once a vital salmon habitat for Indigenous tribes like the Yurok, is showing signs of ecological recovery.",
+    "reason": "The transcript describes the river’s historic importance to tribes like the Yurok and includes quotes expressing hope and recognition of ecological recovery.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The restoration effort not only revives critical fish species but also brings renewed cultural and spiritual hope for the tribes.",
+    "reason": "The transcript details the emotional, cultural, and spiritual significance of the salmon’s return for tribal members, confirming this statement.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Tribal leaders are continuing restoration work and envision a future where salmon fisheries thrive once again.",
+    "reason": "The transcript includes several quotes from tribal leaders discussing ongoing restoration and hopes for reviving traditional salmon fisheries.",
+    "category": "no error"
+  }
+]

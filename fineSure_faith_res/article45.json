@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "A new study by World Weather Attribution (WWA) finds that climate change significantly increased the likelihood of the recent record-breaking wildfires in Los Angeles.",
+    "reason": "The transcript confirms that the WWA study found climate change significantly increased the likelihood of the devastating LA fires, which were also described as the most destructive in LA's history.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The fires, which killed 28 people and destroyed over 10,000 homes, were fueled by a combination of unusually hot, dry, and windy conditions, a prolonged fire season, and historically low rainfall—all linked to global warming.",
+    "reason": "The transcript supports this claim, listing these exact factors as contributors to the fires and linking them to human-induced climate change.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Scientists concluded that such extreme fire conditions are now much more common due to fossil fuel-driven climate change.",
+    "reason": "The transcript clearly attributes increased fire risk to human-caused climate change driven by fossil fuel emissions, as stated by multiple scientists.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The study also highlighted failures in infrastructure and emergency response, particularly in vulnerable communities.",
+    "reason": "The transcript mentions infrastructure failures (e.g., water pumps affected by power outages) and delayed warnings in west Altadena, a vulnerable community with high African American home ownership.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Toxic smoke from the fires is expected to cause widespread health impacts, adding to the already rising death toll from wildfire pollution in North America.",
+    "reason": "The transcript notes the smoke has already affected millions and is expected to cause further deaths, supported by prior global and North American wildfire pollution mortality data.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Experts warn that without urgent cuts to emissions, such disasters will become increasingly frequent and deadly.",
+    "reason": "Multiple experts in the transcript, including Clair Barnes and Friederike Otto, emphasize the need for emissions cuts to prevent worsening climate-driven disasters.",
+    "category": "no error"
+  }
+]

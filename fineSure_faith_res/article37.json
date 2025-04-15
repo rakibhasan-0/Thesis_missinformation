@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "Donald Trump's decision to halt US overseas aid, including climate finance, is expected to severely impact global efforts to combat climate change, particularly for vulnerable developing nations.",
+    "reason": "The transcript supports that Trump halted US overseas aid including climate finance and that this is seen as a severe blow to global climate efforts and vulnerable nations.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The US previously contributed about 18% of total climate finance from wealthy countries, and cutting this funding could significantly undermine the goal of limiting global warming to 1.5°C.",
+    "reason": "The transcript states the US was responsible for about $8 in every $100 of climate finance, i.e., 8%, not 18%; this is an entity error regarding the percentage contribution.",
+    "category": "entity error"
+  },
+  {
+    "sentence": "The Trump administration has also withdrawn from international climate agreements and partnerships, including the Paris Accord and a major energy transition program with Indonesia.",
+    "reason": "The transcript confirms withdrawal from the Paris Agreement and the Just Transition Energy Partnership with Indonesia.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Critics warn that these cuts abandon millions of people already suffering from climate-related disasters and shift an even greater financial burden onto other countries.",
+    "reason": "The transcript contains quotes from campaigners highlighting abandonment of vulnerable communities and a call for other countries to step up, aligning with the summary.",
+    "category": "no error"
+  },
+  {
+    "sentence": "With a global goal to raise $1.3 trillion in climate finance annually by 2035, the lack of US support could make that target far more difficult to achieve.",
+    "reason": "The transcript explicitly states the $1.3 trillion goal by 2035 and notes that US absence will make achieving that harder.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Climate advocates are calling for greater accountability and leadership from both the US and other developed nations to fill the growing funding gap.",
+    "reason": "The transcript includes quotes from advocates urging wealthy nations to show leadership and hold the US accountable, which matches the summary.",
+    "category": "no error"
+  }
+]

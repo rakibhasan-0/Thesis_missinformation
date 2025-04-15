@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "A recent Australian study highlights how rising global temperatures are worsening cardiovascular disease, which is already a leading cause of death in the country.",
+    "reason": "The transcript confirms that cardiovascular disease is the second-highest contributor to fatal health burden in Australia and that heat is worsening the issue due to climate change.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Researchers found that heat is a significant and often overlooked contributor to heart-related health issues, particularly in hotter regions like the Northern Territory.",
+    "reason": "The transcript supports that heat is a significant and previously overlooked factor in cardiovascular health and identifies the Northern Territory as a region at higher risk.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The study warns that the burden of heat-related heart diseases could double in the next 25 years due to climate change.",
+    "reason": "The transcript includes a quote from the study’s lead author stating the burden could double in the next 25 years, aligning with this summary.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Vulnerable populations, including the elderly and those with chronic conditions, are at the highest risk, prompting calls for targeted adaptation strategies such as wellness check-ins and heat safety education.",
+    "reason": "The transcript mentions elderly people, those with chronic conditions, and low socioeconomic status as vulnerable groups, and describes specific adaptation strategies like check-ins and behavioral education.",
+    "category": "no error"
+  },
+  {
+    "sentence": "While the data is specific to Australia, experts believe similar trends are likely worldwide.",
+    "reason": "The transcript notes that while the study is based on Australian data, experts such as Filippo Crea suggest it’s reasonable to assume similar global trends.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The findings underscore the urgent need for public health policies to address climate-related health risks.",
+    "reason": "The transcript highlights calls from researchers for health measures and policy changes to address heat-related health risks, supporting this summary.",
+    "category": "no error"
+  }
+]

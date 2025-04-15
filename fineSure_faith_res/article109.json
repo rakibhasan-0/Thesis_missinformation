@@ -1,0 +1,37 @@
+[
+  {
+    "sentence": "Donald Trump's return to the presidency has triggered major rollbacks of U.S.",
+    "reason": "The transcript clearly states that on his first day back, Trump signed executive orders initiating significant climate policy and clean energy rollbacks.",
+    "category": "no error"
+  },
+  {
+    "sentence": "climate policies, including freezing clean energy grants, pausing offshore wind projects, and withdrawing from the Paris Climate Agreement.",
+    "reason": "The transcript confirms all three actions: freezing clean energy grants, halting offshore wind permits, and withdrawing from the Paris Agreement.",
+    "category": "no error"
+  },
+  {
+    "sentence": "His administration argues these changes will boost economic growth, but critics warn they threaten clean energy jobs, investment, and progress on emissions reductions.",
+    "reason": "This aligns with the transcript, which states the administration defends the changes as economic drivers while critics highlight the risk to jobs and emissions goals.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Despite renewable energy outperforming fossil fuels in job creation and grid contributions, the EPA under Lee Zeldin is dismantling key initiatives, with some actions already challenged and halted in court.",
+    "reason": "The transcript provides evidence of renewables outpacing fossil fuels in job creation, Zeldin’s regulatory rollbacks, and a judge halting part of the EPA's funding termination.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Economists warn that climate inaction could slash global GDP by up to 34% by 2100, with extreme weather already costing trillions.",
+    "reason": "The transcript cites Boston Consulting Group warning of a 15%-34% GDP reduction by 2100 due to 3°C warming, and over $2 trillion in extreme weather damages globally in the past decade.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Clean energy sectors, especially in Republican states, had seen massive job growth and investment following the 2022 Inflation Reduction Act.",
+    "reason": "The transcript confirms this, stating that 60% of post-IRA clean energy projects were in Republican districts, and large investments and job gains occurred.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Experts caution that undermining these gains for fossil fuel expansion risks reversing environmental and economic progress.",
+    "reason": "The transcript includes expert warnings that dismantling clean energy policies threatens both environmental and economic achievements.",
+    "category": "no error"
+  }
+]

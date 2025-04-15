@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "January 2025 was the warmest on record, defying expectations that it would be cooler than January 2024 due to the shift from El Niño to La Niña.",
+    "reason": "The transcript confirms that January 2025 broke the previous January temperature record and that it was expected to be cooler due to the La Niña transition.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Scientists from Copernicus and NASA attribute the overall trend to greenhouse gas emissions but remain puzzled by the magnitude of recent temperature increases.",
+    "reason": "The transcript includes statements from Copernicus and NASA scientists attributing warming to greenhouse gases, while noting confusion over the recent exceptional warmth.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Several theories are being explored, including lingering effects from El Niño, reduced atmospheric aerosols, and possible changes in ocean behavior.",
+    "reason": "The transcript lists all of these theories as possible explanations for the unexpected warmth, aligning with the summary.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The reduced presence of aerosols, which historically helped cool the planet, may now be revealing more of the underlying warming.",
+    "reason": "The transcript discusses declining aerosol levels and their diminished cooling effect, possibly exposing more of the warming from greenhouse gases.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Some researchers warn of a potential feedback loop involving ocean-driven cloud loss, though this remains speculative.",
+    "reason": "The transcript describes a speculative theory about ocean warming reducing low-level clouds, which could amplify warming, and notes its uncertainty.",
+    "category": "no error"
+  },
+  {
+    "sentence": "While 2025 may still end up cooler than recent years, experts agree that without a major reduction in emissions, record-breaking warmth will continue.",
+    "reason": "The transcript states that 2025 could still be cooler than 2023 or 2024, but scientists agree temperatures will keep rising without emission cuts.",
+    "category": "no error"
+  }
+]

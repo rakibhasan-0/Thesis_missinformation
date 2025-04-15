@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "The UK government plans to end the North Sea windfall tax, known as the Energy Profits Levy, by 2030 and is consulting on a replacement tax triggered by exceptionally high profits or prices.",
+    "reason": "The transcript confirms the Energy Profits Levy is set to end in 2030 and that the government is consulting on a new tax triggered by high profits or prices.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The levy was introduced in 2022 amid surging energy prices and later increased, causing some energy firms to reconsider operations.",
+    "reason": "The transcript confirms the levy began in 2022, was increased multiple times, and led firms like Apache to announce North Sea exits due to financial pressure.",
+    "category": "no error"
+  },
+  {
+    "sentence": "While the government pledges no new oil and gas licences, it also promises a stable investment environment and transition support for the sector.",
+    "reason": "The transcript notes a pledge for no new licences, support for a stable investment environment, and a commitment to a phased transition with the sector.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Environmental groups support the move but stress the need for real investment in green technologies and job creation.",
+    "reason": "Environmental groups like Greenpeace, Uplift, and Unite express support while urging the government to invest in green technologies and job creation.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Industry voices welcome the clarity but warn against hindering investment.",
+    "reason": "The transcript includes comments from OEUK's David Whitehouse welcoming the consultation but warning about the impact of the tax on investment.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The government envisions the North Sea as a key player in clean energy development, aiming to balance environmental goals with economic stability.",
+    "reason": "The transcript confirms that the government sees the North Sea as central to the clean energy future and is working to balance climate goals with economic interests.",
+    "category": "no error"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "A study by the University of Leeds found that hedgerows store significantly more carbon in the soil—about 40 tonnes more per hectare—compared to intensively managed grassland.",
+    "reason": "The transcript confirms that University of Leeds researchers found hedgerows store on average 40 tonnes more carbon per hectare than intensively managed grassland.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Researchers analyzed samples from farms across England, highlighting the environmental and biodiversity benefits of planting and maintaining hedges.",
+    "reason": "The transcript mentions farms in Yorkshire, Cumbria, and West Sussex and notes both biodiversity and environmental benefits associated with hedgerows.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Hedgerows not only support pollinators and wildlife but also help combat climate change by boosting soil carbon levels.",
+    "reason": "The transcript notes that hedgerows support pollinators, wildlife, and significantly increase soil carbon storage, aligning with this sentence.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Experts emphasize that maintaining existing hedges is just as important as planting new ones to prevent stored carbon from being released.",
+    "reason": "Prof. Pippa Chapman explicitly states that maintaining existing hedgerows is vital to prevent carbon loss, supporting this summary sentence.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Around half of Britain's hedgerows were lost between the 1940s and 1990s, and continued neglect poses a threat.",
+    "reason": "The transcript cites that about half of Britain’s hedgerows were lost during that period and mentions ongoing threats like neglect and removal.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The findings support efforts to restore hedgerows as part of the UK’s net zero strategy and encourage traditional management practices like hedge laying.",
+    "reason": "The transcript states the data could inform predictions related to the UK’s net zero goals and highlights the importance of traditional practices like hedge laying.",
+    "category": "no error"
+  }
+]

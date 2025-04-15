@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "Experts and conservationists are searching for rare British daffodil varieties that may still exist in gardens or parks but have not been seen in decades.",
+    "reason": "The transcript confirms that conservationists are searching for long-lost daffodil varieties that may still exist in gardens or parks but haven't been observed in many years.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Varieties like the bright orange-yellow 'Sussex bonfire' and a rare pinkish daffodil named after Sarah Backhouse are among those feared lost.",
+    "reason": "The transcript identifies 'Sussex bonfire' and a salmon-pink daffodil named after Sarah Backhouse as rare varieties that have not been seen or whose whereabouts are uncertain.",
+    "category": "no error"
+  },
+  {
+    "sentence": "These daffodils are important not only for their beauty but also for their potential use in medicine, such as Alzheimer's treatment.",
+    "reason": "The transcript notes that daffodils bring joy and are a source of galantamine, a treatment for Alzheimer's disease, supporting this summary sentence.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The RHS and Plant Heritage are urging the public to help locate these flowers and document where daffodils bloom this spring.",
+    "reason": "The RHS is explicitly asking for public help in finding daffodils and documenting blooming locations, and Plant Heritage is also involved in the conservation effort.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Tracking their presence and flowering patterns may also reveal how climate change is affecting them.",
+    "reason": "The transcript includes a statement from an RHS scientist explaining that mapping flowering times can help study the effects of climate change.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Preserving these varieties helps maintain genetic diversity crucial for future plant breeding.",
+    "reason": "The transcript mentions that finding and conserving rare daffodils helps preserve genetic material for future plant breeding.",
+    "category": "no error"
+  }
+]

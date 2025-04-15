@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "New research from Australian scientists reveals that global warming of 4°C could make the average person 40% poorer, significantly more than previous estimates.",
+    "reason": "This aligns with the transcript, which states that at 4°C of warming, the new model predicts a 40% decrease in average wealth, much higher than earlier estimates.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Even a 2°C rise could reduce global per capita GDP by 16%, highlighting flaws in existing economic models that underestimate the impact of climate change.",
+    "reason": "The transcript confirms that a 2°C rise could reduce GDP per capita by 16%, which is far greater than the previously estimated 1.4%, demonstrating flaws in older models.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The study enhanced a popular economic model to include extreme weather events and their cascading effects on global supply chains.",
+    "reason": "This is accurate—the study incorporated climate change forecasts to assess extreme weather impacts across global supply chains using a popular economic model.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Critics argue that traditional integrated assessment models overlook these interconnected risks, leading to inadequate climate policies.",
+    "reason": "This reflects the criticisms in the transcript regarding IAMs not capturing interconnected risks like global supply chain disruptions, resulting in misleading policy implications.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Experts emphasize that economic harms will be global due to trade dependencies and that urgent retooling of economic forecasting is needed.",
+    "reason": "The transcript supports this; Neal and others argue that climate harms will be global because of trade links and that economic models need urgent retooling to reflect these impacts.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The findings also suggest that the benefits of aggressive climate action have been seriously understated in current policymaking frameworks.",
+    "reason": "This aligns with Mark Lawrence’s statement that the economic benefits of urgent climate action have been significantly understated due to the disconnect in current models.",
+    "category": "no error"
+  }
+]

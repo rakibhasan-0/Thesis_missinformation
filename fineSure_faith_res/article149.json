@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "Oil drilling at the Horse Hill site in Surrey has been suspended following a Supreme Court ruling that planning permission was unlawfully granted without considering the full climate impact.",
+    "reason": "The transcript confirms that the Supreme Court ruled planning permission should have considered full climate impact, and drilling has now been suspended.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Environmental campaigners, including Friends of the Earth, welcomed the move after a lengthy legal battle.",
+    "reason": "The transcript quotes a Friends of the Earth lawyer expressing excitement about the suspension following a long legal campaign.",
+    "category": "no error"
+  },
+  {
+    "sentence": "UK Oil and Gas Plc (UKOG), which operates the site through its subsidiary, stated it had complied with regulations and is now working with Surrey County Council (SCC) to safely suspend operations.",
+    "reason": "UKOG's statement in the transcript claims full regulatory compliance and collaboration with SCC on safely suspending operations.",
+    "category": "no error"
+  },
+  {
+    "sentence": "SCC previously defended its approval process but now acknowledges the court's ruling and is continuing its enforcement investigation.",
+    "reason": "SCC previously said it followed planning law and now states it's pleased that oil production has ceased, with an enforcement investigation ongoing.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The suspension marks a significant victory for climate campaigners and raises broader questions about how fossil fuel projects are approved in the UK.",
+    "reason": "The transcript presents the suspension as a success for campaigners and includes commentary that raises concerns about how the project proceeded post-ruling.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The site had been operating for four months after the ruling, which critics say highlights regulatory gaps.",
+    "reason": "Friends of the Earth’s lawyer points out the site operated unchecked for four months after the court ruling, suggesting potential regulatory oversight issues.",
+    "category": "no error"
+  }
+]

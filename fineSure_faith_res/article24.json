@@ -1,0 +1,33 @@
+
+[
+  {
+    "sentence": "Major US banks, including Morgan Stanley and JPMorgan Chase, have predicted that climate goals such as the Paris Agreement will likely fail, with global temperatures expected to rise by 3°C.",
+    "reason": "The sentence correctly reflects the transcript, which cites Morgan Stanley and JPMorgan Chase expressing skepticism about the Paris Agreement and forecasting a 3°C increase.",
+    "category": "no error"
+  },
+  {
+    "sentence": "While this poses catastrophic risks like heatwaves and economic disruption, banks forecast that the air conditioning industry will thrive, projecting 41% market growth by 2030.",
+    "reason": "This aligns with the transcript stating catastrophic impacts from warming and a 41% growth projection for air conditioning by Morgan Stanley; however, the transcript mentions this growth by 'the end of this decade' (i.e., 2030), so the date is correct.",
+    "category": "no error"
+  },
+  {
+    "sentence": "These institutions are retreating from climate commitments, with several quitting the Net-Zero Banking Alliance.",
+    "reason": "The summary matches the transcript, which says that six major US banks, including those mentioned, have exited the Net-Zero Banking Alliance.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Critics argue that banks are prioritizing profit over climate responsibility, especially under the influence of Donald Trump's anti-environmental policies.",
+    "reason": "This is supported by the transcript, where critics like Paddy McCully link the banks’ retreat to Trump’s climate denial and deregulation agenda.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Although air conditioning may offer short-term business gains, its reliance on fossil fuels could worsen the climate crisis.",
+    "reason": "The transcript confirms this, noting that air conditioning powered by fossil fuels exacerbates emissions, even if profitable.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Analysts emphasize that while the world may benefit economically in limited ways, the overall risks and losses from climate change will be severe and widespread.",
+    "reason": "This is a fair synthesis of statements in the transcript from various analysts who acknowledge some economic opportunities but stress severe climate risks overall.",
+    "category": "no error"
+  }
+]

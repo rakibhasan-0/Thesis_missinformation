@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "Japan recorded its hottest July since records began in 1898, with temperatures averaging 2.16°C above normal, breaking the previous year’s record.",
+    "reason": "The transcript confirms July 2023 was the hottest since 1898, with temperatures 2.16°C above average, surpassing the previous year's record of 1.91°C.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Some areas saw temperatures exceed 40°C, with a peak of 41.0°C in Sano, Tochigi Prefecture.",
+    "reason": "The transcript explicitly mentions that temperatures exceeded 40°C in seven locations and peaked at 41.0°C in Sano, making this statement factually accurate.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Sixty-two observation posts, including in major cities like Tokyo and Nagoya, set new temperature records.",
+    "reason": "The transcript states that 62 out of 153 observation posts, including those in central Tokyo and Nagoya, set new records.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The Japan Meteorological Agency attributed the extreme heat to a Pacific high-pressure system and warm southern air, warning that higher-than-usual temperatures would continue into August.",
+    "reason": "This accurately reflects the transcript’s explanation for the heat and the forecast of continued high temperatures into August.",
+    "category": "no error"
+  },
+  {
+    "sentence": "At least 59 people have died from heatstroke since April, highlighting the growing health risks.",
+    "reason": "The transcript confirms at least 59 deaths due to heatstroke since April, which supports this summary sentence.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The event aligns with global patterns, as the EU reported the planet's warmest day in modern history and the UN urged immediate climate action.",
+    "reason": "The transcript mentions both the EU’s report of the warmest global day and the UN Secretary General’s call for action, supporting this summary.",
+    "category": "no error"
+  }
+]

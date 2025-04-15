@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "Japanese researchers have discovered microplastics in cloud water for the first time, finding 6.7 to 13.9 particles per litre in samples collected from Mount Fuji and Mount Oyama.",
+    "reason": "The transcript confirms that this is the first report of airborne microplastics in cloud water, and the measured concentration was 6.7 to 13.9 particles per litre from samples taken on Mount Fuji and Mount Oyama.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The study, published in *Environmental Chemistry Letters*, identified nine types of plastic polymers and rubber in particles ranging from 7.1 to 94.6 micrometres.",
+    "reason": "The transcript states that nine different types of polymers and one type of rubber were found, with sizes ranging from 7.1 to 94.6 micrometres.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Scientists warn that microplastics in the upper atmosphere may degrade under UV radiation and contribute to climate change by releasing greenhouse gases.",
+    "reason": "The transcript quotes lead author Okochi stating that microplastics degrade under UV radiation in the upper atmosphere and contribute to greenhouse gases.",
+    "category": "no error"
+  },
+  {
+    "sentence": "These airborne particles may also be part of a 'plastic rainfall' cycle, contaminating food and water supplies.",
+    "reason": "The transcript from Waseda University mentions 'plastic rainfall' and implies contamination of food and water via microplastics in clouds.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Waseda University emphasized the growing evidence of microplastics being present in human organs and their potential health risks.",
+    "reason": "The transcript states that Waseda University noted microplastics have been detected in organs like the lungs, heart, and blood, and mentioned associated health risks.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The findings underscore the global reach and environmental impact of plastic pollution, highlighting an urgent need for action.",
+    "reason": "The transcript warns of irreversible and serious environmental damage if plastic air pollution is not addressed, supporting this interpretation.",
+    "category": "no error"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "China has set a goal to eliminate severe air pollution by the end of 2025, reinforcing its commitment to environmental protection through stricter pollution control and emissions reduction measures.",
+    "reason": "The transcript states that China aims to effectively eliminate severe air pollution by end-2025 and is ramping up pollution control and emissions reduction efforts.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The government plans to enhance air quality forecasting and management of PM2.5 and ozone pollutants, which the WHO says contribute to around 2 million deaths annually in the country.",
+    "reason": "The transcript confirms plans to improve forecasting and management of PM2.5 and ozone, and cites WHO data linking air pollution to 2 million deaths annually in China.",
+    "category": "no error"
+  },
+  {
+    "sentence": "In 2024, China's air quality improved with PM2.5 levels dropping to 29.3 micrograms per cubic metre and 87.2% of days rated as having good air quality.",
+    "reason": "The transcript provides these exact figures for 2024 PM2.5 levels and proportion of good air quality days.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The government also aims to implement global-standard emission regulations and expand the use of new energy vehicles and machinery in transport hubs.",
+    "reason": "The transcript states that China will introduce new emission standards aligned with global best practices and increase new energy vehicle use in airports, ports, and logistics parks.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Additional measures include shifting bulk goods transport from road to rail and waterways.",
+    "reason": "The transcript confirms that authorities plan to promote bulk goods transport by rail and water instead of roads.",
+    "category": "no error"
+  },
+  {
+    "sentence": "These efforts align with President Xi Jinping’s emphasis on green development as part of building a modern socialist nation.",
+    "reason": "The transcript quotes Xi Jinping promoting environmental protection and green lifestyles as essential to building a modern socialist country.",
+    "category": "no error"
+  }
+]

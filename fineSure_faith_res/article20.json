@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "Leading US banks and financial institutions now predict that global climate targets, including the Paris Agreement's 2°C limit, will fail, with global heating expected to reach 3°C.",
+    "reason": "This sentence accurately reflects the transcript, which reports that institutions like Morgan Stanley and JPMorgan Chase believe the Paris Agreement goals are effectively dead and expect a 3°C rise.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Reports from Morgan Stanley and others indicate that while this will bring environmental catastrophes, it could also fuel a 41% growth in the air conditioning market, creating new profit opportunities.",
+    "reason": "This aligns with the transcript, which notes Morgan Stanley predicts disasters from 3°C warming but also forecasts a 41% growth in the air conditioning market.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The finance sector's retreat from climate commitments is evidenced by major banks exiting the Net-Zero Banking Alliance and weakening decarbonization goals.",
+    "reason": "This is factually correct, as the transcript mentions that six major US banks left the Net-Zero Banking Alliance and that Morgan Stanley weakened its decarbonization targets.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Critics argue this shift is both cynical and dangerous, especially as Trump’s return to power promotes climate denial and deregulation.",
+    "reason": "The sentence reflects statements in the transcript, including McCully calling the reports cynical and noting Trump’s role in promoting climate denial and deregulation.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Though some banks acknowledge that air conditioning itself contributes to emissions, they see cooling technologies as a growth area.",
+    "reason": "This is supported by the transcript where Morgan Stanley acknowledges emissions from AC use but sees cooling as a long-term growth theme.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Climate experts warn this mindset reflects a broader trend of 'greenhushing' and prioritizing profits over urgent climate action.",
+    "reason": "The summary accurately references climate economist Gernot Wagner’s comments on greenhushing and investing due to climate change.",
+    "category": "no error"
+  }
+]

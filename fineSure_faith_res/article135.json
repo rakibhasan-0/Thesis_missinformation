@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "A new study led by the University of Bristol highlights the serious health risks posed by prolonged exposure to extreme weather due to climate change.",
+    "reason": "The transcript confirms that the study by the University of Bristol addresses health risks from long-term exposure to extreme weather caused by climate change.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Researchers found that frequent heatwaves and flooding can worsen mental health issues and increase the spread of infectious diseases.",
+    "reason": "The transcript states that frequent and lasting weather extremes such as heatwaves and flooding exacerbate mental health problems and infectious diseases.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Long-term heat exposure is also linked to disrupted sleep, cognitive decline, and conditions such as Alzheimer's and dementia.",
+    "reason": "The transcript explicitly states that long-term heat exposure disrupts sleep and is associated with cognitive decline and diseases like Alzheimer’s and dementia.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The study emphasizes that current climate risk assessments may underestimate the long-term impacts of persistent weather changes on public health.",
+    "reason": "The transcript includes a statement from Dann Mitchell that current risk assessments do not capture the serious mortality and morbidity impacts of long-term weather pattern exposure.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Researchers are calling for more data and updated assessments to better understand how climate factors interact with chronic health conditions.",
+    "reason": "The transcript mentions that more research is needed to determine the long-term effects and that updated global estimates are necessary, supporting the summary’s claim.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The findings come as global temperatures continue to rise, with 2023 being the hottest year on record and global warming surpassing 1.5°C in early 2024.",
+    "reason": "The transcript confirms that 2023 was the warmest year on record and that global warming exceeded 1.5°C between February 2023 and January 2024.",
+    "category": "no error"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "Queensland’s Liberal National Party (LNP) government has launched a review of the state's ambitious emissions reduction target of 75% by 2035, raising concerns that the commitment may be weakened or scrapped.",
+    "reason": "The transcript confirms the LNP-led government launched a review of the 75% emissions target and includes concerns it may be amended or repealed.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Energy Minister David Janetzki defended the move as a way to ensure credibility and investor certainty, emphasizing a pragmatic, economically-driven energy transition that includes gas and extended coal use.",
+    "reason": "Janetzki framed the review in terms of credibility and investment certainty, while also supporting a pragmatic transition involving gas and extended coal, consistent with the summary.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The review will be conducted by a new productivity commission, bypassing an already-established expert panel.",
+    "reason": "The transcript explicitly states the review will be handled by a new productivity commission instead of the existing Clean Economy Expert Panel.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Environmental groups and conservationists condemned the decision, warning it could jeopardize the Great Barrier Reef and increase climate-related risks.",
+    "reason": "Environmental groups like the Queensland Conservation Council and the Australian Conservation Foundation criticized the move, citing threats to the Great Barrier Reef and worsening climate impacts.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Critics also expressed frustration that the LNP appears to be backtracking on campaign promises made just months earlier.",
+    "reason": "The transcript includes criticism that the LNP government was elected on promises to reduce emissions by 75% by 2035 and is now seen as reneging on that commitment.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The government also confirmed the extension of coal power station operations and a shift away from hydrogen toward gas and “sustainable fuels.”",
+    "reason": "The transcript confirms the extension of coal plant operations and the renaming of the Hydrogen Division to reflect a pivot toward gas and sustainable fuels.",
+    "category": "no error"
+  }
+]

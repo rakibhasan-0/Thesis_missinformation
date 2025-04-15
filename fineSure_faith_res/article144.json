@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "A new analysis by the World Weather Attribution group shows that human-induced climate change significantly intensified and increased the likelihood of the ten deadliest weather events over the past 20 years.",
+    "reason": "The transcript confirms that WWA found human-induced climate change made the ten deadliest extreme weather events of the last 20 years more intense and more likely.",
+    "category": "no error"
+  },
+  {
+    "sentence": "These events—including droughts, heatwaves, and cyclones—have killed over 570,000 people across Europe, Africa, and Asia.",
+    "reason": "The transcript states that these types of events have killed more than 570,000 people across Europe, Africa, and Asia.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The study found that climate change made the 2011 Somalia drought, multiple European heatwaves, and deadly tropical cyclones more severe.",
+    "reason": "The transcript provides details on the 2011 Somalia drought, European heatwaves, and tropical cyclones in Bangladesh, Myanmar, and the Philippines being made more severe by climate change.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Researchers used simulations to compare current events with a world unaffected by industrial-era emissions, demonstrating a clear link between rising global temperatures and extreme weather.",
+    "reason": "The transcript explains that WWA used simulations comparing today’s climate with a world without industrial-era emissions to assess climate change’s role in extreme weather.",
+    "category": "no error"
+  },
+  {
+    "sentence": "They warn that fatalities from such events are likely underreported, especially in poorer nations.",
+    "reason": "The transcript states that death tolls are likely underestimated, especially for heatwaves in poorer countries where deaths aren’t well recorded.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Experts stress the urgent need for climate resilience as extreme weather is expected to worsen with every fraction of a degree in global warming.",
+    "reason": "Experts in the transcript, including Roop Singh, emphasize the importance of building resilience and warn that warming will lead to more severe and frequent extreme events.",
+    "category": "no error"
+  }
+]

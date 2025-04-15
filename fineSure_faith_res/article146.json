@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "The UN World Water Development Report 2024 warns that increasing global water scarcity is exacerbating conflicts and threatening peace, with 2.2 billion people lacking clean drinking water and 3.5 billion without proper sanitation.",
+    "reason": "The transcript states that global water scarcity is fueling conflicts and instability, and provides the figures of 2.2 billion without clean water and 3.5 billion without safely managed sanitation.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Women and girls are particularly affected, especially in rural areas, as water collection duties disrupt education and expose them to gender-based violence.",
+    "reason": "The transcript explains that girls and women, especially in rural areas, are most affected by water scarcity due to water-fetching responsibilities and cites increased gender-based violence in displaced populations.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Climate change is intensifying droughts and floods, worsening water access and driving migration, with 10% of global migration linked to water stress.",
+    "reason": "The transcript states that global warming is expected to increase droughts and floods, and confirms that 10% of global migration is linked to water stress.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The report emphasizes that cooperation is lacking, with only 24 of 153 countries sharing water resources having comprehensive agreements.",
+    "reason": "The transcript states that although 153 countries share water resources, only 24 have signed cooperation agreements covering all shared waters.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Providing water and sanitation access in 140 low- to middle-income countries would require $114 billion annually.",
+    "reason": "The transcript explicitly says it would cost $114 billion annually to provide water, sanitation, and hygiene in 140 low- to middle-income countries.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Experts stress the urgency of addressing the water crisis globally, as it directly impacts food security, public health, and stability.",
+    "reason": "The transcript includes expert commentary linking water scarcity to food production, health risks, and geopolitical instability, supporting this summary statement.",
+    "category": "no error"
+  }
+]

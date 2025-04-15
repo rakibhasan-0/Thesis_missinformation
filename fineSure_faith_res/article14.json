@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "GoFundMe raised over $250 million for victims of the Los Angeles wildfires, surpassing all donations for other global disasters in the previous year.",
+    "reason": "The transcript states that GoFundMe raised over $250 million for fire relief in southern California, not specifically Los Angeles, making this a geographic misattribution.",
+    "category": "circumstantial error"
+  },
+  {
+    "sentence": "More than a million donors from 160 countries contributed, aiding families, businesses, and nonprofits involved in relief efforts.",
+    "reason": "The transcript confirms over a million donors from all 50 states and 160 countries contributed to support families, businesses, and nonprofits.",
+    "category": "no error"
+  },
+  {
+    "sentence": "While private fundraising has provided crucial support, it has also faced criticism for reinforcing social inequalities, as lower-income and minority families raised significantly less on average.",
+    "reason": "The transcript supports this claim, noting criticism of inequities in fundraising and that Black and Latino families raised significantly less on average.",
+    "category": "no error"
+  },
+  {
+    "sentence": "To address this, GoFundMe implemented randomization and partnered with organizers to amplify underrepresented fundraisers.",
+    "reason": "The transcript confirms that GoFundMe randomizes fundraiser visibility and partners with organizers to support marginalized communities.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The growing role of private fundraising comes amid federal disaster aid uncertainties, especially as former President Trump criticizes FEMA and threatens to cut funding to California.",
+    "reason": "The transcript clearly outlines Trump’s criticism of FEMA and efforts to withhold federal disaster aid from California, supporting this summary.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Despite the challenges, recipients of GoFundMe support, like the Marrone family, have found hope and relief through the platform.",
+    "reason": "The transcript directly quotes the Marrone family describing their experience with GoFundMe as hopeful and meaningful, validating the summary.",
+    "category": "no error"
+  }
+]

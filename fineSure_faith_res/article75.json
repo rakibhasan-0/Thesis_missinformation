@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "Firefighters in Devon and Somerset are warning the public against using barbecues on moorlands due to the increasing risk of wildfires.",
+    "reason": "The transcript confirms that Steven Fisher from Devon and Somerset Fire and Rescue Service warned against using barbecues on moorlands due to wildfire risk.",
+    "category": "no error"
+  },
+  {
+    "sentence": "A recent blaze on the Quantock Hills required overnight efforts and highlighted the challenge of controlling such fires, especially with ongoing dry weather and a wildfire amber alert in place.",
+    "reason": "The transcript describes a recent fire on the Quantock Hills with overnight firefighting efforts, a rare Met Office amber alert, and mentions dry weather, aligning with the summary.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Items like disposable barbecues, glass jars, and cigarettes can easily ignite fires, prompting officials to urge caution.",
+    "reason": "The transcript explicitly lists these items as potential fire hazards and includes calls for public caution, so this is accurate.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Climate experts note that wildfires are becoming more frequent and severe as a result of climate change, placing greater strain on emergency services.",
+    "reason": "Both Philip Evans from Greenpeace and Phil Garrigan from NFCC mention climate change increasing wildfire frequency and the pressure it puts on services.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The UK recorded 286 wildfires between January and early April 2025, surpassing numbers from the same period in 2022.",
+    "reason": "The transcript states there were 286 wildfires recorded in that timeframe, more than 100 above the same period in 2022, confirming the accuracy.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Authorities stress the need for immediate investment and adaptation to address the rising threat posed by extreme weather events.",
+    "reason": "Phil Garrigan from the NFCC emphasizes the need to adapt and invest in response to the rising threat from climate-driven extreme weather events.",
+    "category": "no error"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "HSBC has delayed its net zero emissions target for its operations and supply chain from 2030 to 2050, citing unexpected challenges faced by its clients and suppliers.",
+    "reason": "This matches the transcript, which explains that HSBC is pushing its target from 2030 to 2050 because clients and suppliers have struggled to reduce emissions.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The bank also reduced the environmental portion of its CEO Georges Elhedery’s new bonus plan, which could total up to £15m annually, with £9m linked to long-term incentives.",
+    "reason": "The transcript confirms the CEO’s bonus can reach £15m annually, including a long-term incentive plan worth up to £9m, and that the environmental portion was reduced.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Critics have condemned HSBC for weakening its environmental commitments while continuing to profit from financing fossil fuels.",
+    "reason": "The transcript notes multiple campaigners criticizing HSBC’s decision and highlighting its role in financing fossil fuels.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The bank’s revised bonus metrics exclude financed emissions due to difficulties in tracking them, focusing instead on internal emission reductions.",
+    "reason": "According to the transcript, HSBC says financed emissions are challenging to measure, so its bonus plan focuses on the bank’s own operations.",
+    "category": "no error"
+  },
+  {
+    "sentence": "These changes come amid a broader retreat from climate commitments by major banks in the US.",
+    "reason": "The transcript describes how six major US banks have withdrawn from the net-zero banking alliance, indicating a broader retreat from climate commitments.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Despite the backlash, HSBC maintains its overarching 2050 net zero goal and plans to cut $1.5bn in costs by 2026, following a 6.6% rise in pre-tax profits to $32.3bn in 2024.",
+    "reason": "HSBC remains committed to net zero by 2050, plans to cut $1.5bn in costs by 2026, and reported a 6.6% increase in 2024 pre-tax profits to $32.3bn, all consistent with the transcript.",
+    "category": "no error"
+  }
+]

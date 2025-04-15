@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "UK carbon emissions dropped by 4% in 2024, primarily due to reduced gas and coal use in electricity generation and industry, according to the Department for Energy Security and Net Zero.",
+    "reason": "This accurately reflects the transcript, which states that emissions fell by 4% in 2024 and attributes the reduction to decreased gas and coal use in electricity and industry sectors, as noted by DESNZ.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Emissions from the electricity sector fell by 15% and from industry by 9%, aided by the closure of the last coal-fired power station and increased renewable energy use.",
+    "reason": "The transcript confirms these percentages and attributes the reduction to factors like coal station closure and more renewable energy, so this is factually accurate.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Transport remained the largest source of emissions, though diesel car usage declined slightly.",
+    "reason": "This aligns with the transcript, which states that transport accounted for 30% of emissions and that diesel car usage fell, leading to a 2% drop in transport emissions.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Buildings-related emissions rose by 2%, attributed to higher gas use, although unusually warm weather helped reduce heating needs overall.",
+    "reason": "This is consistent with the transcript, which mentions a 2% rise due to higher gas use and also discusses how above-average temperatures kept residential emissions relatively low.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Greenpeace welcomed the reduction but criticized ongoing dependence on costly and polluting gas.",
+    "reason": "This accurately reflects Doug Parr's comments in the transcript, which include both welcoming the emissions drop and criticizing reliance on gas.",
+    "category": "no error"
+  },
+  {
+    "sentence": "CO2 accounted for 78% of the total greenhouse gas emissions in 2024, with other gases like methane and nitrous oxide also included in the official statistics.",
+    "reason": "The transcript specifies that CO2 made up about 78% of 2024 emissions, and lists other greenhouse gases included in the estimates, making this sentence factually correct.",
+    "category": "no error"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "Bangladesh has reopened schools despite enduring its longest and most intense heatwave since records began in 1948, with temperatures reaching 42.7°C and averaging 4–5°C above normal in Dhaka.",
+    "reason": "The transcript confirms that the heatwave is the longest since 1948, that schools reopened despite it, and that temperatures reached 42.7°C and were 4–5°C above normal in Dhaka.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The heatwave, now lasting 29 days, has affected about 75% of the country, prompting an extended alert from the weather bureau.",
+    "reason": "The transcript states the heatwave reached 29 days and was affecting about three-quarters of the country, with the weather bureau extending alerts.",
+    "category": "no error"
+  },
+  {
+    "sentence": "While preschools remain closed and primary school hours shortened, approximately 32 million students had previously been kept at home.",
+    "reason": "The transcript confirms that preschools remain closed, primary hours were shortened, and 32 million students were previously kept home due to the shutdown.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Hospitals have seen a surge in heat-related illnesses such as heatstroke and dehydration.",
+    "reason": "The transcript mentions a large number of patients at Mughdah Hospital with heatstroke, dehydration, exhaustion, and respiratory issues, validating this statement.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Experts attribute the extreme conditions to both climate change and human activities like urbanisation and deforestation.",
+    "reason": "The transcript states climate change and human factors such as urbanisation and forest clearance are responsible for the extreme heat.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Meteorologists warn that such severe heatwaves will become more frequent in the future unless drastic action is taken.",
+    "reason": "While the transcript confirms meteorologists warn about more frequent future heatwaves, it does not mention 'drastic action' as a condition to prevent them, making that part an extrapolation.",
+    "category": "out-of-context error"
+  }
+]

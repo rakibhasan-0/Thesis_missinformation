@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "Construction is underway on what is set to become Europe’s largest battery storage facility in Coalburn, South Lanarkshire, with the site located on a former coal mine.",
+    "reason": "The transcript confirms that construction is underway at Coalburn, described as potentially Europe's largest battery storage project, and part of it is on a former opencast coal mine.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The project, developed by Copenhagen Infrastructure Partners (CIP), will store enough electricity to power three million homes and aims to stabilize the UK's increasingly renewable energy grid.",
+    "reason": "The transcript confirms CIP is the developer and the project will store electricity for three million homes, aiming to balance the renewable-powered grid.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The facility will charge using surplus wind power and discharge when demand is high, operating in two-hour cycles.",
+    "reason": "The transcript states that the batteries will be charged using excess wind power, discharged during high demand, and operate for two hours per cycle.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Phase one began in 2023 and is expected to be operational later this year, with phase two and a similar site in Fife also moving forward.",
+    "reason": "The transcript confirms phase one began in November 2023, with expected operation later this year, and that phase two and a Fife site are progressing.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The total capacity of CIP’s projects will reach 3GWh, enough to power 4.5 million homes for two hours.",
+    "reason": "The transcript states that with the Devilla site, CIP’s capacity will reach 3GWh, powering 4.5 million homes for two hours.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The initiative supports the UK’s 2030 clean power goal and net-zero target by 2050, while repurposing former fossil fuel sites for renewable infrastructure.",
+    "reason": "The transcript links the project to the UK’s 2030 clean power system and 2050 net-zero goal, and mentions it is being built on former fossil fuel sites like Broken Cross.",
+    "category": "no error"
+  }
+]

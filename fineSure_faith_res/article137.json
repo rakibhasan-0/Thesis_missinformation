@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "Promethean Particles, a Nottingham-based climate tech company, has secured £8 million to mass produce metal-organic frameworks (MOFs), nanoparticles that can capture and store greenhouse gases.",
+    "reason": "The transcript confirms that Promethean Particles received £8 million to mass produce MOFs designed to capture and store greenhouse gases.",
+    "category": "no error"
+  },
+  {
+    "sentence": "MOFs have enormous internal surface areas and can be engineered to trap specific gases, making them promising for carbon capture and storage (CCS) applications.",
+    "reason": "The transcript describes MOFs as having large surface areas and being engineered to become 'sticky' for specific gases, making them useful for CCS.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The company aims to reduce the cost of MOFs from thousands of pounds to £25 per kilo by using abundant metals like zinc and magnesium.",
+    "reason": "The transcript clearly states the goal to reduce MOF prices to £25/kg by using cheap, widely available metals such as zinc and magnesium.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Their MOFs are already in use at a prototype CCS unit at Drax power station.",
+    "reason": "The transcript confirms that MOFs from Promethean are being used in a prototype carbon capture unit at Drax power station.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Experts see MOFs as a potential game-changer for climate solutions if production becomes affordable, especially since CCS has so far been expensive and limited in scale.",
+    "reason": "The transcript includes expert commentary that MOFs could be transformative for CCS if made affordable and notes that CCS has been costly and underdeveloped so far.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Promethean plans to expand its team and facilities to accelerate development and showcase the full potential of MOFs in mitigating climate change.",
+    "reason": "The transcript states that Promethean intends to use funding to expand its team and facilities, with the broader mission of advancing MOF development for climate mitigation.",
+    "category": "no error"
+  }
+]

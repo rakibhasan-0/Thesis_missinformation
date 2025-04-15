@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "China experienced its hottest year on record in 2024, with an average national temperature of 10.92°C, the highest since records began in 1961.",
+    "reason": "The transcript confirms 2024 was China’s hottest year on record with an average temperature of 10.92°C, the highest since full records began in 1961.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The last four years have all been the warmest on record, and all of the top ten warmest years occurred in the 21st century.",
+    "reason": "The transcript states that the last four years were the warmest and all top ten warmest years since 1961 occurred in the 21st century.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Major cities like Shanghai and Guangzhou also recorded unprecedented heat, with Shanghai marking its warmest year since 1873 and Guangzhou experiencing a record-long summer.",
+    "reason": "The transcript confirms Shanghai had its warmest year since 1873 and Guangzhou had a record-long summer of 240 days over 22°C, supporting the summary.",
+    "category": "no error"
+  },
+  {
+    "sentence": "July, August, and the autumn of 2024 were the hottest ever recorded in China.",
+    "reason": "The transcript states that July, August, and autumn of the previous year were the hottest on record, aligning with the summary’s 2024 reference.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The extreme heat has been accompanied by stronger storms and increased rainfall, leading to deadly floods and mass evacuations.",
+    "reason": "The transcript notes that stronger storms and higher rainfall accompanied the warming, resulting in deadly floods and mass evacuations.",
+    "category": "no error"
+  },
+  {
+    "sentence": "These trends highlight the escalating impacts of climate change in the region.",
+    "reason": "While not stated explicitly, the summary inference about climate change impacts is consistent with the transcript’s documented warming and extreme weather trends.",
+    "category": "no error"
+  }
+]

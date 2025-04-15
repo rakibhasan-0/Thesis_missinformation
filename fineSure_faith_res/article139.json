@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "A new study from the University of Stirling warns that climate change could nearly double Scotland’s tick population by 2080, significantly increasing the risk of Lyme disease.",
+    "reason": "The transcript confirms that the study predicts a 99% increase in tick numbers by 2080 with a 4°C temperature rise and raises concerns about the increased risk of tick-borne diseases like Lyme disease.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Using a new statistical model, researchers predict a 99% rise in tick density if global temperatures rise by 4°C, though the increase would be limited to 26% with just a 1°C rise.",
+    "reason": "The transcript specifies a 99% increase in tick density with a 4°C rise and 26% with a 1°C rise, based on a model developed by the University of Stirling researchers.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Warmer temperatures could also allow ticks to thrive in currently unsuitable habitats, especially mountainous areas.",
+    "reason": "The transcript notes that many montane (mountainous) areas currently tick-free could support sustained populations by 2080 due to warming.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Lyme disease, spread by infected ticks, is difficult to diagnose and can lead to long-term health issues such as memory loss and heart arrhythmia.",
+    "reason": "The transcript states Lyme disease can be hard to diagnose and causes symptoms like memory loss and heart arrhythmia.",
+    "category": "no error"
+  },
+  {
+    "sentence": "While some higher altitudes in Scotland may remain too cold for ticks, the study’s model can be applied to other regions and diseases.",
+    "reason": "The transcript confirms that higher peaks in Scotland may remain too cold for tick expansion, and the model could be adapted for other regions and pathogens.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The findings underscore the importance of limiting global warming and improving disease risk forecasting.",
+    "reason": "While this is a general interpretation, it is supported by the transcript’s emphasis on the implications of climate-driven tick expansion and the model’s potential use for broader disease forecasting.",
+    "category": "no error"
+  }
+]

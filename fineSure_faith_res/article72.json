@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "After years of decline, nuclear power is experiencing renewed interest driven by climate goals, energy security concerns, and demand from tech giants like Microsoft, Google, and Amazon.",
+    "reason": "The transcript confirms a revival in nuclear interest due to emissions goals, energy security, and investments from major tech companies including Microsoft, Google, and Amazon.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Countries such as the US, UK, France, and South Korea are planning to expand or revive nuclear programs, with 31 nations aiming to triple nuclear power by 2050.",
+    "reason": "The transcript states that these countries are renewing nuclear plans and that 31 countries have pledged to triple nuclear power by 2050.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Small Modular Reactors (SMRs) are being promoted as a more affordable and scalable alternative to traditional nuclear plants, though they remain unproven commercially.",
+    "reason": "The transcript explains that SMRs are intended to be smaller, more affordable, and scalable, but have not yet been proven commercially.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Public opinion remains divided due to past nuclear accidents and unresolved issues like long-term radioactive waste disposal.",
+    "reason": "The transcript discusses public fear stemming from disasters like Chernobyl and Fukushima, and the unresolved challenge of nuclear waste disposal.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Supporters argue that nuclear energy is essential for meeting carbon reduction targets, while critics highlight high costs and cleaner alternatives.",
+    "reason": "The transcript includes supporters stating nuclear is vital for emissions goals, while critics argue it's costly and not as clean as other options.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The future of nuclear power may hinge on resolving waste management and proving the viability of new technologies like SMRs.",
+    "reason": "The transcript concludes by emphasizing that resolving nuclear waste issues and proving SMRs’ feasibility are key to determining nuclear’s future.",
+    "category": "no error"
+  }
+]

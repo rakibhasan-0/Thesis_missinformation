@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "Desertification is accelerating worldwide, with four football fields of land turning into desert every second—threatening food security, biodiversity, and livelihoods.",
+    "reason": "The transcript confirms that desertification is increasing rapidly, with four football fields of land degrading every second and severe impacts on food security, biodiversity, and livelihoods.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Nearly half of Earth's land is at risk, especially in dry regions that support a large portion of global agriculture.",
+    "reason": "The transcript states that nearly half of the planet's land mass is on the brink of turning into nonarable desert, and that these drylands support 45% of global agriculture.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Climate change, extreme drought, deforestation, and unsustainable practices are major contributors.",
+    "reason": "The transcript lists climate change, extreme drought, deforestation, overgrazing, and unsustainable agriculture as key drivers of desertification.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The UN aims to restore 1.5 billion hectares of degraded land by 2030, and initiatives like Africa's Great Green Wall and projects in Mongolia show some progress, despite funding issues.",
+    "reason": "The transcript confirms the UN's 1.5 billion hectare restoration goal by 2030 and discusses the partial progress of Africa’s Great Green Wall and Mongolia’s efforts, including funding challenges.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Solutions focus on soil restoration, sustainable agriculture, water conservation, and empowering local communities.",
+    "reason": "The transcript mentions soil restoration, sustainable farming and grazing, water conservation (e.g., half-moon ponds), and local involvement as key strategies.",
+    "category": "no error"
+  },
+  {
+    "sentence": "As desertification worsens, it could lead to mass displacement and increased conflict over resources if not urgently addressed.",
+    "reason": "The transcript states that desertification could cause forced migration and conflicts over declining resources if left unaddressed.",
+    "category": "no error"
+  }
+]

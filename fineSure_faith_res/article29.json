@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "New research by the OECD and UNDP shows that tackling the climate crisis will boost, rather than harm, economic growth.",
+    "reason": "This aligns with the transcript, which states that OECD and UNDP research found taking climate action results in a net increase in GDP growth, countering criticism that it harms the economy.",
+    "category": "no error"
+  },
+  {
+    "sentence": "By setting ambitious emission-reduction targets, countries could see a net global GDP gain of 0.23% by 2040, with even higher gains by 2050, including up to 60% growth in advanced economies and 124% in lower-income nations.",
+    "reason": "The figures cited in this sentence match those reported in the transcript, including the 0.23% global GDP gain by 2040 and projected increases by 2050 for advanced and lower-income economies.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The report warns that failing to act could cost the world up to one-third of its GDP by the century’s end, with Europe facing ongoing annual contractions from extreme weather impacts.",
+    "reason": "This is consistent with the transcript, which warns of a one-third loss in global GDP if climate change is unchecked, and outlines Europe's projected GDP contractions from extreme weather.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Immediate investments in climate action could also lift 175 million people out of poverty by 2030.",
+    "reason": "This aligns with the transcript, which states that investments in emissions cuts could lift 175 million people out of poverty by the end of the decade.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Despite growing renewable energy capacity, fossil fuel investments continue, with significant job creation in both sectors.",
+    "reason": "The transcript confirms both rising renewable capacity and ongoing fossil fuel investments, including job growth in both sectors.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Experts emphasize that climate action is a national security imperative and economically viable, countering claims that it stifles growth.",
+    "reason": "This is accurate based on the transcript: experts such as Simon Stiell and Achim Steiner highlight climate action as a national security issue and economically beneficial.",
+    "category": "no error"
+  }
+]

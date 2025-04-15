@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "After nearly a decade of negotiations, countries have agreed on a global deal to reduce shipping emissions, making it the first industry with internationally mandated emission reduction targets.",
+    "reason": "The transcript confirms that after nearly 10 years of talks, a global deal was reached, and shipping is the first industry with internationally mandated emission reduction targets.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Starting in 2028, ship owners will be required to use cleaner fuels or face fines of up to $380 per tonne of CO2, though a proposed blanket carbon tax was dropped.",
+    "reason": "The transcript clearly states that starting in 2028, penalties of up to $380 per tonne of CO2 will apply, and the blanket carbon tax proposal was indeed dropped.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The deal faced resistance from Saudi Arabia, the US, and other fossil fuel-heavy nations, while small island states and environmental groups criticized it as too weak.",
+    "reason": "The transcript confirms opposition from Saudi Arabia, the US (which pulled out), and criticism from small island states and environmental groups calling the deal inadequate.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The agreement could lead to an estimated 8% reduction in emissions by 2030, falling short of the IMO’s 20% target.",
+    "reason": "The transcript notes that the agreement could achieve an 8% reduction by 2030, which is below the IMO’s previously agreed 20% target.",
+    "category": "no error"
+  },
+  {
+    "sentence": "A significant challenge remains the cost gap between cheap fossil fuels and expensive green alternatives like ammonia or e-kerosene.",
+    "reason": "The transcript explains the significant cost gap between fossil fuels and green alternatives such as ammonia and e-kerosene, making this summary accurate.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Funds from the penalties will support greener fuel development and assist developing nations, but experts agree more action will be needed to truly decarbonize the sector.",
+    "reason": "The transcript confirms that penalty funds will go into a Net Zero fund for green fuel development and developing countries, and experts state that more action is required.",
+    "category": "no error"
+  }
+]

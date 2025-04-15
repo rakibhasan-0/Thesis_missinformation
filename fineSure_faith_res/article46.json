@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "Bristol city council is considering reducing black bin rubbish collections to once every four weeks, which would make it the first in England to do so.",
+    "reason": "The transcript explicitly states that Bristol city council is considering a move to four-weekly collections and believes it would be the first local authority in England to do so.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The Green-led council argues the move could save over £2m annually and boost recycling rates, which have recently declined.",
+    "reason": "This aligns with the transcript, which states the council estimates savings of more than £2m and wants to reverse a drop in recycling rates.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Critics, including nearly 2,000 petitioners, worry this change could lead to more fly-tipping and household pressure.",
+    "reason": "The transcript mentions that nearly 2,000 people signed a Labour petition expressing concerns about increased fly-tipping and pressure on families.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The council, however, claims there’s no evidence of increased fly-tipping in areas with less frequent collections.",
+    "reason": "The transcript states that the council has not seen evidence of increased fly-tipping in areas that have moved to three-weekly collections.",
+    "category": "no error"
+  },
+  {
+    "sentence": "A six-week consultation is underway, with potential adjustments to recycling infrastructure and support for larger households.",
+    "reason": "The transcript confirms a six-week consultation is in progress and discusses possible changes to recycling infrastructure and support for large households.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The decision will also factor in rising costs tied to incineration and landfill, which may exceed £8m without changes.",
+    "reason": "The council estimates that new charges for incineration and landfill will add over £8m annually if no changes are made, supporting this sentence.",
+    "category": "no error"
+  }
+]

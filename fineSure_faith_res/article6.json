@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "UK waters are warming rapidly, particularly in the southern North Sea, making the region a marine 'hot spot' with major implications for local fish populations.",
+    "reason": "The transcript explicitly states that the southern North Sea is warming quickly, making the North Atlantic one of the world’s marine 'hot spots.'",
+    "category": "no error"
+  },
+  {
+    "sentence": "Traditional British fish species like cod, haddock, and salmon are becoming harder to find, as they shift northward or face extinction due to rising sea temperatures.",
+    "reason": "The transcript confirms that fishers must travel further north to find cod and haddock, and salmon stocks face potential extinction due to warming waters.",
+    "category": "no error"
+  },
+  {
+    "sentence": "In their place, species like anchovy, bluefin tuna, and sardines are becoming more common, prompting calls for UK consumers to adapt their food preferences.",
+    "reason": "According to the transcript, these species (plus squid and red mullet) are replacing cod, haddock, and salmon, and fishers need consumers’ tastes to shift accordingly.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Scientists warn that deeper issues may arise from increased ocean acidity and the potential disruption of critical currents like the Gulf Stream due to Arctic ice melt.",
+    "reason": "The transcript warns of increased acidity killing marine species and melting Arctic ice potentially halting the Gulf Stream.",
+    "category": "no error"
+  },
+  {
+    "sentence": "These changes threaten the stability of the UK’s food supply from the sea.",
+    "reason": "The transcript explicitly states these dramatic changes could cause the loss of a major UK food source.",
+    "category": "no error"
+  },
+  {
+    "sentence": "In response, the UK government is funding research to anticipate dangerous tipping points in marine ecosystems.",
+    "reason": "The transcript notes that the government has funded new research to predict when dangerous climate tipping points might occur.",
+    "category": "no error"
+  }
+]

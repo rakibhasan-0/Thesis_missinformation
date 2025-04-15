@@ -1,0 +1,33 @@
+
+[
+  {
+    "sentence": "Renowned climate scientist James Hansen argues that the international goal of limiting global warming to 2°C is no longer feasible due to underestimated climate sensitivity and the warming effects of reduced shipping pollution.",
+    "reason": "Hansen explicitly states that the 2°C target is 'dead' and links the faster warming to higher climate sensitivity and reduced shipping pollution.",
+    "category": "no error"
+  },
+  {
+    "sentence": "His study suggests Earth could reach 2°C of warming by 2045, increasing the likelihood of tipping points such as the collapse of Atlantic ocean currents.",
+    "reason": "The transcript mentions a 2°C threshold by 2045 and references tipping points including a possible Atlantic ocean currents collapse.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Hansen criticizes current climate policies and proposes urgent actions, including a carbon fee-and-dividend system, rapid nuclear energy expansion, and further research into solar geoengineering.",
+    "reason": "The transcript confirms Hansen’s support for carbon fee-and-dividend, nuclear power, and research into ‘purposeful global cooling.’",
+    "category": "no error"
+  },
+  {
+    "sentence": "While some scientists find his predictions high-end, they acknowledge the worst-case scenarios are plausible.",
+    "reason": "The transcript notes that Hansen’s estimates are on the higher side but cannot be ruled out, reflecting experts’ remarks.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The study also emphasizes that anti-pollution regulations may have unintentionally accelerated warming by reducing sulfate aerosols that previously blocked sunlight.",
+    "reason": "Hansen’s team highlights the reduction in shipping emissions of sulphate aerosols as a key factor in the recent temperature spike.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Hansen concludes that political reform is essential for empowering citizens to demand meaningful climate action.",
+    "reason": "The transcript quotes Hansen calling for systemic political changes to curb special interests and enable more robust climate policies.",
+    "category": "no error"
+  }
+]

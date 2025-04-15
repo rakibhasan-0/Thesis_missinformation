@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "Climate change is causing a significant drop in the number of Bewick’s swans migrating to the UK, with only 87 returning to the Slimbridge reserve this year and no cygnets among them.",
+    "reason": "The transcript confirms that climate change is causing fewer Bewick’s swans to migrate to the UK, with only 87 arriving at Slimbridge this year and none being cygnets.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The Wildfowl and Wetlands Trust (WWT) has recorded an 86% decline in their population at the site over nearly 50 years.",
+    "reason": "The transcript states the population of Bewick's swans at Slimbridge has declined by 86% over nearly 50 years.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Warmer European winters allow the swans to stop their migration earlier in countries like Denmark and the Netherlands.",
+    "reason": "The transcript confirms that due to warmer temperatures in Europe, swans are short-stopping their migration in countries including Denmark and the Netherlands.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The swans also face dangers from lead poisoning and illegal shooting during their migration.",
+    "reason": "The transcript explicitly states that the swans face threats from toxic lead poisoning and illegal shooting on their migration route.",
+    "category": "no error"
+  },
+  {
+    "sentence": "WWT is urging the UK government to ban lead ammunition to protect the species.",
+    "reason": "The transcript mentions that WWT is leading a coalition of charities urging the UK government to ban lead ammunition to protect swans.",
+    "category": "no error"
+  },
+  {
+    "sentence": "They also stress the need for more wetlands to counteract climate change and support migratory birds.",
+    "reason": "The transcript includes a call for more wetlands to help reverse climate impacts and protect species like the Bewick’s swan.",
+    "category": "no error"
+  }
+]

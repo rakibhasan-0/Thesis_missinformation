@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "The European Commission reaffirmed its commitment to ensuring all new cars and vans sold in the EU are zero-emission by 2035, while also maintaining intermediate targets for 2025 and 2030.",
+    "reason": "The transcript confirms the Commission's commitment to the 2035 target for zero CO2 emissions from new vehicles, and also upholding 2025 and 2030 targets.",
+    "category": "no error"
+  },
+  {
+    "sentence": "However, it granted automakers an extended three-year compliance window for the 2025 targets, sparking criticism from environmental groups.",
+    "reason": "The transcript clearly states the EU granted a three-year compliance period instead of one for the 2025 targets, which drew criticism from campaigners like BEUC and T&E.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Transport Commissioner Apostolos Tsitsikostas emphasized that while regulatory reviews would be accelerated, the targets themselves remain unchanged.",
+    "reason": "The transcript quotes Tsitsikostas saying the 2026 review would be brought forward, but targets for 2025, 2030, and 2035 would remain unchanged.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Industry groups welcomed some aspects of the action plan but warned that the delay could hinder progress in making affordable electric vehicles.",
+    "reason": "The transcript does not state that industry groups warned about delays affecting affordable EV production; this point was made by campaign groups like BEUC and T&E, making the attribution incorrect.",
+    "category": "entity error"
+  },
+  {
+    "sentence": "Campaigners urged the EU to resist further concessions and to push ahead with legislation supporting battery production and EV infrastructure.",
+    "reason": "This aligns with the views expressed by campaigners like T&E and E-Mobility Europe, who opposed further concessions and supported related legislation.",
+    "category": "no error"
+  },
+  {
+    "sentence": "E-Mobility Europe stressed the need for bold implementation to keep pace with U.S. and Chinese competition.",
+    "reason": "While E-Mobility Europe did call for bold implementation, the claim about keeping pace with U.S. and Chinese competition is not attributed to them in the transcript, making this a case of attributing unstated reasoning.",
+    "category": "out-of-context error"
+  }
+]

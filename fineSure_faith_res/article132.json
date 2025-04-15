@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "Kashmir’s saffron growers are turning to indoor farming as climate change threatens traditional cultivation methods in the region.",
+    "reason": "The transcript confirms that climate change is impacting traditional saffron farming in Kashmir and that farmers are adopting indoor methods as a response.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Pampore, known for producing the majority of India's saffron, has seen a steep decline in output due to rising temperatures and erratic rainfall, with production falling from 8 metric tons in 2010–11 to 2.6 metric tons in 2023–24.",
+    "reason": "The transcript states that Pampore produces most of India’s saffron, and output fell from 8 to 2.6 metric tons between 2010–11 and 2023–24 due to temperature rise and erratic rainfall.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Researchers from Sher-e-Kashmir University have developed successful indoor growing techniques using nutrient-filled tubes, which improve temperature resistance and reduce crop failure risks.",
+    "reason": "The transcript attributes the indoor growing method using nutrient-filled tubes to Dr. Bashir Ilahi from Sher-e-Kashmir University and describes its benefits including temperature resistance and reduced crop failure.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Some local farmers and members of the Saffron Growers Association have already adopted these methods.",
+    "reason": "The transcript confirms that members of the Saffron Growers Association, including its president, have been cultivating saffron indoors for a few years.",
+    "category": "no error"
+  },
+  {
+    "sentence": "While traditional farmers remain proud of the saffron’s heritage and quality, they acknowledge the need for innovation.",
+    "reason": "Although not all traditional farmers explicitly acknowledge the need for innovation, the overall sentiment in the transcript supports this balanced portrayal between pride in tradition and recognition of modern techniques.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Growers are calling for increased government support to expand indoor cultivation in response to mounting environmental challenges.",
+    "reason": "The transcript includes a quote from a grower urging the government to promote indoor cultivation due to climate change, supporting this statement.",
+    "category": "no error"
+  }
+]

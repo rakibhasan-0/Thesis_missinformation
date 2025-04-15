@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "A new study confirms that climate change significantly increased the likelihood of the extreme heat and dryness that fueled devastating wildfires in Los Angeles.",
+    "reason": "The transcript explicitly states that climate change made the hot, dry conditions about 35% more likely and contributed to the LA wildfires, supporting the sentence.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Researchers from World Weather Attribution found that such conditions are now about 35% more likely due to global warming, with fire-prone weather expected once every 17 years.",
+    "reason": "The transcript confirms that WWA found the hot, dry conditions are 35% more likely and expected about once every 17 years due to climate change.",
+    "category": "no error"
+  },
+  {
+    "sentence": "They also observed that the fire season has lengthened by around 23 days and that drought conditions in LA are now over twice as likely as before widespread fossil fuel use.",
+    "reason": "The transcript notes a 23-day increase in fire season length and that dry October–December conditions are now about 2.4 times more likely due to climate change.",
+    "category": "no error"
+  },
+  {
+    "sentence": "While other factors contribute to wildfires, scientists are confident that rising temperatures and prolonged dry spells are making intense fire events more common.",
+    "reason": "The transcript states that wildfires are complex, but researchers are confident that warming and dry conditions increase the likelihood of intense fires.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Satellite data, climate models, and real-world observations align to support these findings.",
+    "reason": "While the transcript does not mention 'satellite data' explicitly, it does say that climate models and real-world observations align. The addition of satellite data is not supported by the transcript.",
+    "category": "out-of-context error"
+  },
+  {
+    "sentence": "The study adds urgency to addressing climate change, especially as overlapping dry seasons and Santa Ana winds amplify fire risks in the region.",
+    "reason": "The transcript describes how dry seasons increasingly overlap with Santa Ana winds, heightening fire risk, and underscores the growing threat posed by climate change.",
+    "category": "no error"
+  }
+]

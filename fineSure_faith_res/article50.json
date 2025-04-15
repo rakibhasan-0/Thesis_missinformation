@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "The Monmouthshire and Brecon Canal is receiving emergency water from the Usk Reservoir to prevent it from running dry, costing up to £100,000 a week.",
+    "reason": "The transcript confirms water will be taken from the Usk Reservoir to prevent the canal from drying, and that the cost could reach £100,000 per week if dry conditions persist.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The Canal and River Trust, which manages the canal, has diverted repair funds to cover this temporary solution but warns it is not financially sustainable.",
+    "reason": "The Trust used funds earmarked for repairs to pay for the emergency water and stated that this short-term solution is financially unsustainable.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Changes in legislation to protect rivers like the Usk have restricted water access, exacerbating the impact of dry weather and climate change.",
+    "reason": "The transcript explains that new legislation requires licences that limit how much water can be drawn from rivers like the Usk, compounding the challenges posed by dry weather.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Environmentalists support the restrictions to preserve habitats, but the Trust fears that the canal’s drying would harm its historic structure, ecology, tourism, and jobs.",
+    "reason": "The transcript reports that environmentalists back the water restrictions to protect species, while the Trust warns of serious consequences if the canal dries.",
+    "category": "no error"
+  },
+  {
+    "sentence": "A public petition with over 10,000 signatures urges the Welsh government to help fund a long-term solution.",
+    "reason": "The transcript confirms that a petition to the Senedd has garnered over 10,000 signatures urging the Welsh government to help preserve the canal.",
+    "category": "no error"
+  },
+  {
+    "sentence": "While Welsh Water agreed to supply water without affecting drinking water supplies, the Trust insists a permanent fix is urgently needed.",
+    "reason": "Welsh Water stated that supplying water will not affect drinking supplies, and the Trust emphasized the need for a long-term solution.",
+    "category": "no error"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "Global coffee prices have surged to record highs, with Arabica beans reaching over $3.44 per pound due to poor weather conditions in Brazil and Vietnam, the world's top producers.",
+    "reason": "The transcript states Arabica beans hit $3.44/lb and attributes this to bad weather in Brazil and Vietnam, the top two producers, confirming the summary.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Both countries experienced droughts followed by heavy rains, threatening the 2025 crop and reducing supply of both Arabica and Robusta varieties.",
+    "reason": "The transcript explains that both Brazil and Vietnam faced droughts and heavy rain, threatening crops and reducing supply of Arabica and Robusta.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Major coffee companies like Nestlé and Lavazza, which had previously absorbed higher costs, are now considering passing price increases to consumers.",
+    "reason": "The transcript confirms that both Nestlé and Lavazza had absorbed higher costs but are now raising or considering raising prices due to market pressure.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Demand for coffee remains strong globally, especially in countries like China where consumption has more than doubled over the past decade.",
+    "reason": "The transcript explicitly mentions that global demand is high and coffee consumption in China has more than doubled in the past decade.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Industry experts warn that low inventories and sustained demand will likely keep prices elevated.",
+    "reason": "The transcript includes a statement from an S&P analyst noting high demand and low inventories, predicting continued upward pressure on prices.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Coffee, the second most traded commodity after oil, may see continued market pressure in the coming months.",
+    "reason": "The transcript identifies coffee as the second most traded commodity after oil and indicates that prices will remain high due to ongoing factors, supporting the summary statement.",
+    "category": "no error"
+  }
+]

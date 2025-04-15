@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "At COP29 in Baku, nations are renegotiating climate finance goals as the $100 billion annual pledge made in 2009 has proven insufficient.",
+    "reason": "The transcript states countries are recommitting to a new goal at COP29 and that the $100bn target is insufficient for current climate needs, confirming this summary sentence.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Funding is needed for three key areas: loss and damage from current climate impacts, mitigation to reduce emissions, and adaptation for future climate resilience.",
+    "reason": "The transcript explicitly describes funding categories for loss and damage, mitigation, and adaptation, aligning with this summary.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Developing nations seek a more ambitious financial target and fairer distribution, with more grants instead of debt-increasing loans.",
+    "reason": "The transcript states developing countries want sub-goals and are concerned about loans increasing debt, and a quote from Oxfam’s Dabi criticizes the current imbalance, supporting this summary.",
+    "category": "no error"
+  },
+  {
+    "sentence": "While past promises fell short, estimates now suggest trillions are needed, with figures ranging from $1.3 trillion to $6.9 trillion by 2030.",
+    "reason": "The transcript notes that the $100bn goal wasn’t met by 2020, and cites estimates from G77+ China and a UN committee ranging from $1.3tn to $6.9tn, validating the statement.",
+    "category": "no error"
+  },
+  {
+    "sentence": "There is also debate about who should contribute, as emerging economies like China now have significant emissions.",
+    "reason": "The transcript confirms there’s ongoing debate about contribution, with the US wanting China to be required to contribute due to its current emissions and economic growth.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Richer countries face pressure to commit more amid global climate disasters and calls for equitable financial support.",
+    "reason": "The transcript shows pressure on developed nations to increase commitments and address equity, especially in light of increasing climate impacts and ongoing funding debates.",
+    "category": "no error"
+  }
+]

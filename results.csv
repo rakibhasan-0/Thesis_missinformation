@@ -1,0 +1,1107 @@
+
+Input ID: article_001
+Success: True
+  [Alignment Label]: [1, 1, 0, 0, 0, 1, 0, 0, 1, 0, 1, 0, 0, 0, 1, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6]
+  [Completeness Score]: 43.8%
+  [Conciseness  Score]: 100.0%
+PS C:\THESIS_SUM\FinSure_framework> python C:\THESIS_SUM\FinSure_framework\FineSurE-ACL24\finesure\keyfact-alignment.py  C:\THESIS_SUM\updated_sum.json C:\THESIS_SUM\keyfacts_from_main\all_keyfacts.jsonl C:\THESIS_SUM\finesure_output_res_gpt4_1
+
+Input ID: article_001
+Success: True
+  [Alignment Label]: [1, 1, 0, 0, 0, 1, 0, 0, 1, 0, 1, 0, 0, 0, 1, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6]
+  [Completeness Score]: 43.8%
+  [Conciseness  Score]: 100.0%
+
+Input ID: article_002
+Success: True
+  [Alignment Label]: [1, 1, 1, 0, 0, 0, 1, 1, 0, 1, 1, 1, 1, 0, 0, 0]
+PS C:\THESIS_SUM\FinSure_framework> python C:\THESIS_SUM\FinSure_framework\FineSurE-ACL24\finesure\keyfact-alignment.py  C:\THESIS_SUM\updated_sum.json C:\THESIS_SUM\keyfacts_from_main\all_keyfacts.jsonl C:\THESIS_SUM\finesure_output_res_gpt4_1
+
+Input ID: article_001
+Success: True
+  [Alignment Label]: [1, 1, 0, 0, 0, 1, 0, 0, 1, 0, 1, 0, 0, 0, 1, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6]
+  [Completeness Score]: 43.8%
+  [Conciseness  Score]: 100.0%
+
+Input ID: article_001
+Success: True
+  [Alignment Label]: [1, 1, 0, 0, 0, 1, 0, 0, 1, 0, 1, 0, 0, 0, 1, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6]
+  [Completeness Score]: 43.8%
+  [Conciseness  Score]: 100.0%
+  [Alignment Label]: [1, 1, 0, 0, 0, 1, 0, 0, 1, 0, 1, 0, 0, 0, 1, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6]
+  [Completeness Score]: 43.8%
+  [Conciseness  Score]: 100.0%
+  [Completeness Score]: 43.8%
+  [Conciseness  Score]: 100.0%
+
+Input ID: article_002
+Success: True
+  [Alignment Label]: [1, 1, 1, 0, 0, 0, 1, 1, 0, 1, 1, 1, 1, 0, 0, 0]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4]
+  [Completeness Score]: 56.2%
+  [Conciseness  Score]: 66.7%
+
+Input ID: article_003
+Success: True
+  [Alignment Label]: [1, 1, 1, 0, 1, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4]
+  [Completeness Score]: 50.0%
+  [Conciseness  Score]: 66.7%
+
+Input ID: article_004
+Success: True
+  [Alignment Label]: [1, 1, 0, 1, 1, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6]
+  [Completeness Score]: 62.5%
+  [Conciseness  Score]: 100.0%
+
+Input ID: article_005
+Success: True
+  [Alignment Label]: [1, 0, 1, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 5]
+  [Completeness Score]: 37.5%
+  [Conciseness  Score]: 66.7%
+
+Input ID: article_006
+Success: True
+  [Alignment Label]: [1, 1, 1, 0, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 1, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6]
+  [Completeness Score]: 81.2%
+  [Conciseness  Score]: 100.0%
+
+Input ID: article_007
+Success: True
+  [Alignment Label]: [1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 5, 6]
+  [Completeness Score]: 68.8%
+  [Conciseness  Score]: 83.3%
+
+Input ID: article_008
+Success: True
+  [Alignment Label]: [1, 1, 1, 1, 0, 0, 1, 0, 0, 1, 1, 0, 1, 1, 0, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6]
+  [Completeness Score]: 62.5%
+  [Conciseness  Score]: 100.0%
+
+Input ID: article_009
+Success: True
+  [Alignment Label]: [1, 1, 0, 0, 1, 0, 0, 1, 1, 1, 0, 0, 0, 0, 1, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 6]
+  [Completeness Score]: 50.0%
+  [Conciseness  Score]: 83.3%
+
+Input ID: article_010
+Success: True
+  [Alignment Label]: [1, 0, 0, 0, 1, 0, 1, 0, 1, 0, 1, 1, 0, 0, 0, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5]
+  [Completeness Score]: 43.8%
+  [Conciseness  Score]: 83.3%
+
+Input ID: article_011
+Success: True
+  [Alignment Label]: [1, 1, 1, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4]
+  [Completeness Score]: 50.0%
+  [Conciseness  Score]: 66.7%
+
+Input ID: article_012
+Success: True
+  [Alignment Label]: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 1, 0, 0]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4]
+  [Completeness Score]: 56.2%
+  [Conciseness  Score]: 66.7%
+
+Input ID: article_013
+Success: True
+  [Alignment Label]: [1, 1, 1, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4]
+  [Completeness Score]: 37.5%
+  [Conciseness  Score]: 66.7%
+
+Input ID: article_014
+Success: True
+  [Alignment Label]: [1, 0, 1, 1, 1, 0, 1, 1, 0, 0, 1, 0, 0, 0, 1, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6]
+  [Completeness Score]: 56.2%
+  [Conciseness  Score]: 100.0%
+
+Input ID: article_015
+Success: True
+  [Alignment Label]: [0, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 0, 0]
+  [Matched Sentence Line Numbers]: [1, 2, 4, 5]
+  [Completeness Score]: 68.8%
+  [Conciseness  Score]: 66.7%
+
+Input ID: article_016
+Success: True
+  [Alignment Label]: [0, 1, 1, 0, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 0, 0]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5]
+  [Completeness Score]: 62.5%
+  [Conciseness  Score]: 100.0%
+
+Input ID: article_017
+Success: True
+  [Alignment Label]: [1, 1, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5]
+  [Completeness Score]: 62.5%
+  [Conciseness  Score]: 83.3%
+
+Input ID: article_018
+Success: True
+  [Alignment Label]: [1, 1, 1, 0, 0, 0, 1, 1, 0, 1, 1, 1, 0, 0, 1, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6]
+  [Completeness Score]: 62.5%
+  [Conciseness  Score]: 100.0%
+
+Input ID: article_019
+Success: True
+  [Alignment Label]: [1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 0, 1, 1, 1, 1, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6]
+  [Completeness Score]: 81.2%
+  [Conciseness  Score]: 100.0%
+
+Input ID: article_020
+Success: True
+  [Alignment Label]: [1, 1, 1, 1, 0, 0, 1, 0, 1, 0, 0, 1, 1, 0, 0, 0]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5]
+  [Completeness Score]: 50.0%
+  [Conciseness  Score]: 83.3%
+
+Input ID: article_021
+Success: True
+  [Alignment Label]: [1, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0, 0, 1, 1, 0, 0]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5]
+  [Completeness Score]: 43.8%
+  [Conciseness  Score]: 83.3%
+
+Input ID: article_022
+Success: True
+  [Alignment Label]: [0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5]
+  [Completeness Score]: 50.0%
+  [Conciseness  Score]: 83.3%
+
+Input ID: article_023
+Success: True
+  [Alignment Label]: [1, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0, 1, 1, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6]
+  [Completeness Score]: 50.0%
+  [Conciseness  Score]: 100.0%
+
+Input ID: article_024
+Success: True
+  [Alignment Label]: [1, 0, 1, 1, 0, 0, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 5]
+  [Completeness Score]: 43.8%
+  [Conciseness  Score]: 66.7%
+
+Input ID: article_025
+Success: True
+  [Alignment Label]: [1, 0, 0, 1, 0, 1, 1, 0, 0, 1, 1, 1, 1, 1, 0, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5]
+  [Completeness Score]: 62.5%
+  [Conciseness  Score]: 83.3%
+
+Input ID: article_026
+Success: True
+  [Alignment Label]: [1, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 1, 0, 1, 1, 0]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 6]
+  [Completeness Score]: 56.2%
+  [Conciseness  Score]: 83.3%
+
+Input ID: article_027
+Success: True
+  [Alignment Label]: [1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 1]
+  [Matched Sentence Line Numbers]: [1, 3, 4, 6]
+  [Completeness Score]: 25.0%
+  [Conciseness  Score]: 66.7%
+
+Input ID: article_028
+Success: True
+  [Alignment Label]: [1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 1, 1, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6]
+  [Completeness Score]: 61.5%
+  [Conciseness  Score]: 100.0%
+
+Input ID: article_029
+Success: True
+  [Alignment Label]: [1, 1, 1, 1, 1, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0, 0]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 6]
+  [Completeness Score]: 56.2%
+  [Conciseness  Score]: 83.3%
+
+Input ID: article_030
+Success: True
+  [Alignment Label]: [1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1, 1, 0, 1, 0, 0]
+  [Matched Sentence Line Numbers]: [1, 3, 4, 5]
+  [Completeness Score]: 37.5%
+  [Conciseness  Score]: 66.7%
+
+Input ID: article_031
+Success: True
+  [Alignment Label]: [0, 1, 0, 0, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 1, 0]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6]
+  [Completeness Score]: 62.5%
+  [Conciseness  Score]: 100.0%
+
+Input ID: article_032
+Success: True
+  [Alignment Label]: [1, 0, 0, 0, 1, 0, 1, 1, 0, 0, 1, 1, 1, 1, 0, 0]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4]
+  [Completeness Score]: 50.0%
+  [Conciseness  Score]: 66.7%
+
+Input ID: article_033
+Success: True
+  [Alignment Label]: [1, 1, 0, 1, 1, 0, 0, 1, 0, 1, 1, 1, 1, 0, 1, 0]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6]
+  [Completeness Score]: 62.5%
+  [Conciseness  Score]: 100.0%
+
+Input ID: article_034
+Success: True
+  [Alignment Label]: [1, 0, 0, 1, 0, 1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6]
+  [Completeness Score]: 68.8%
+  [Conciseness  Score]: 100.0%
+
+Input ID: article_035
+Success: True
+  [Alignment Label]: [1, 1, 1, 1, 1, 0, 1, 1, 0, 1, 1, 0, 0, 0, 1, 0]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 7]
+  [Completeness Score]: 62.5%
+  [Conciseness  Score]: 85.7%
+
+Input ID: article_036
+Success: True
+  [Alignment Label]: [1, 1, 1, 1, 0, 1, 1, 1, 0, 0, 1, 0, 0, 0, 1, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6]
+  [Completeness Score]: 62.5%
+  [Conciseness  Score]: 85.7%
+
+Input ID: article_037
+Success: True
+  [Alignment Label]: [1, 1, 0, 0, 0, 1, 0, 1, 0, 0, 0, 1, 0, 1, 0, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 5, 6]
+  [Completeness Score]: 43.8%
+  [Conciseness  Score]: 83.3%
+
+Input ID: article_038
+Success: True
+  [Alignment Label]: [1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 1, 0, 0, 1, 1, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5]
+  [Completeness Score]: 75.0%
+  [Conciseness  Score]: 83.3%
+
+Input ID: article_039
+Success: True
+  [Alignment Label]: [1, 1, 1, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4]
+  [Completeness Score]: 37.5%
+  [Conciseness  Score]: 66.7%
+
+Input ID: article_040
+Success: True
+  [Alignment Label]: [1, 0, 1, 1, 0, 1, 0, 0, 1, 0, 1, 1, 1, 0, 1, 0]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6]
+  [Completeness Score]: 56.2%
+  [Conciseness  Score]: 100.0%
+
+Input ID: article_041
+Success: True
+  [Alignment Label]: [1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 1, 0]
+  [Matched Sentence Line Numbers]: [1, 3, 4, 5, 6]
+  [Completeness Score]: 31.2%
+  [Conciseness  Score]: 83.3%
+
+Input ID: article_042
+Success: True
+  [Alignment Label]: [1, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6]
+  [Completeness Score]: 37.5%
+  [Conciseness  Score]: 100.0%
+
+Input ID: article_043
+Success: True
+  [Alignment Label]: [1, 0, 1, 0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 1]
+  [Matched Sentence Line Numbers]: [2, 5, 6]
+  [Completeness Score]: 37.5%
+  [Conciseness  Score]: 50.0%
+
+Input ID: article_044
+Success: True
+  [Alignment Label]: [0, 1, 1, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 5]
+  [Completeness Score]: 37.5%
+  [Conciseness  Score]: 66.7%
+
+Input ID: article_045
+Success: True
+  [Alignment Label]: [0, 0, 0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5]
+  [Completeness Score]: 25.0%
+  [Conciseness  Score]: 83.3%
+
+Input ID: article_046
+Success: True
+  [Alignment Label]: [1, 1, 1, 1, 0, 1, 1, 1, 0, 0, 0, 1, 1, 0, 1, 0]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6]
+  [Completeness Score]: 62.5%
+  [Conciseness  Score]: 100.0%
+
+Input ID: article_047
+Success: True
+  [Alignment Label]: [0, 1, 1, 1, 1, 0, 0, 1, 0, 1, 0, 0, 1, 1, 0, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6]
+  [Completeness Score]: 56.2%
+  [Conciseness  Score]: 100.0%
+
+Input ID: article_048
+Success: True
+  [Alignment Label]: [0, 1, 1, 0, 1, 0, 1, 1, 1, 1, 0, 1, 0, 0, 0, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6]
+  [Completeness Score]: 56.2%
+  [Conciseness  Score]: 100.0%
+
+Input ID: article_049
+Success: True
+  [Alignment Label]: [0, 1, 1, 1, 1, 1, 1, 0, 1, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 5, 6]
+  [Completeness Score]: 80.0%
+  [Conciseness  Score]: 83.3%
+
+Input ID: article_050
+Success: True
+  [Alignment Label]: [1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 1, 1, 1, 1, 1, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6]
+  [Completeness Score]: 87.5%
+  [Conciseness  Score]: 100.0%
+
+Input ID: article_051
+Success: True
+  [Alignment Label]: [1, 1, 1, 0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6]
+  [Completeness Score]: 43.8%
+  [Conciseness  Score]: 100.0%
+
+Input ID: article_052
+Success: True
+  [Alignment Label]: [1, 1, 0, 0, 1, 1, 1, 1, 0, 0, 1, 1, 1, 0, 0, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6]
+  [Completeness Score]: 62.5%
+  [Conciseness  Score]: 100.0%
+
+Input ID: article_053
+Success: True
+  [Alignment Label]: [1, 1, 0, 0, 1, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5]
+  [Completeness Score]: 46.7%
+  [Conciseness  Score]: 83.3%
+
+Input ID: article_054
+Success: True
+  [Alignment Label]: [1, 1, 1, 1, 1, 0, 1, 0, 0, 1, 0, 1, 0]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6]
+  [Completeness Score]: 61.5%
+  [Conciseness  Score]: 100.0%
+
+Input ID: article_055
+Success: True
+  [Alignment Label]: [1, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 1, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6]
+  [Completeness Score]: 69.2%
+  [Conciseness  Score]: 100.0%
+
+Input ID: article_056
+Success: True
+  [Alignment Label]: [1, 1, 0, 1, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6]
+  [Completeness Score]: 62.5%
+  [Conciseness  Score]: 100.0%
+
+Input ID: article_057
+Success: True
+  [Alignment Label]: [1, 1, 0, 1, 1, 0, 0, 1, 1, 0, 1, 0, 0, 1, 1, 0]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6]
+  [Completeness Score]: 56.2%
+  [Conciseness  Score]: 100.0%
+
+Input ID: article_058
+Success: True
+  [Alignment Label]: [1, 1, 1, 1, 1, 0, 1, 0, 0, 1, 1, 1, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6]
+  [Completeness Score]: 76.9%
+  [Conciseness  Score]: 100.0%
+
+Input ID: article_059
+Success: True
+  [Alignment Label]: [1, 0, 0, 1, 0, 1, 0, 1, 1, 1, 1, 1, 0, 1, 0, 1]
+  [Matched Sentence Line Numbers]: [2, 3, 4, 5]
+  [Completeness Score]: 62.5%
+  [Conciseness  Score]: 66.7%
+
+Input ID: article_060
+Success: True
+  [Alignment Label]: [1, 1, 1, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 1, 0, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 4, 5, 6]
+  [Completeness Score]: 50.0%
+  [Conciseness  Score]: 83.3%
+
+Input ID: article_061
+Success: True
+  [Alignment Label]: [1, 1, 1, 0, 1, 1, 0, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+  [Matched Sentence Line Numbers]: [2, 3, 5, 6]
+  [Completeness Score]: 50.0%
+  [Conciseness  Score]: 66.7%
+
+Input ID: article_062
+Success: True
+  [Alignment Label]: [0, 1, 1, 0, 0, 0, 1, 0, 0, 0, 1, 1, 0, 0, 1, 1]
+  [Matched Sentence Line Numbers]: [1, 3, 4, 5, 6]
+  [Completeness Score]: 43.8%
+  [Conciseness  Score]: 83.3%
+
+Input ID: article_063
+Success: True
+  [Alignment Label]: [1, 0, 0, 1, 0, 1, 1, 1, 0, 0, 1, 1, 0, 1, 1, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 6]
+  [Completeness Score]: 62.5%
+  [Conciseness  Score]: 83.3%
+invalid character '’' (U+2019) (<unknown>, line 84)
+
+Input ID: article_064
+Success: False
+  [Alignment Label]: []
+  [Matched Sentence Line Numbers]: []
+
+Input ID: article_065
+Success: True
+  [Alignment Label]: [1, 0, 1, 0, 0, 1, 0, 1, 0, 1, 1, 1, 0, 1, 0, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 6]
+  [Completeness Score]: 56.2%
+  [Conciseness  Score]: 83.3%
+
+Input ID: article_066
+Success: True
+  [Alignment Label]: [1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 1, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6]
+  [Completeness Score]: 68.8%
+  [Conciseness  Score]: 100.0%
+
+Input ID: article_067
+Success: True
+  [Alignment Label]: [1, 1, 0, 1, 0, 0, 1, 0, 1, 1, 1, 1, 0, 0, 0, 0]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4]
+  [Completeness Score]: 50.0%
+  [Conciseness  Score]: 66.7%
+
+Input ID: article_068
+Success: True
+  [Alignment Label]: [0, 1, 1, 1, 0, 1, 1, 1, 1, 0, 0, 1, 0, 1, 1, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6]
+  [Completeness Score]: 68.8%
+  [Conciseness  Score]: 100.0%
+
+Input ID: article_069
+Success: True
+  [Alignment Label]: [1, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 1, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6]
+  [Completeness Score]: 50.0%
+  [Conciseness  Score]: 100.0%
+
+Input ID: article_070
+Success: True
+  [Alignment Label]: [1, 0, 1, 0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6]
+  [Completeness Score]: 43.8%
+  [Conciseness  Score]: 100.0%
+
+Input ID: article_071
+Success: True
+  [Alignment Label]: [1, 1, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 1, 1, 1, 0]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5]
+  [Completeness Score]: 50.0%
+  [Conciseness  Score]: 83.3%
+
+Input ID: article_072
+Success: True
+  [Alignment Label]: [1, 1, 1, 0, 0, 1, 1, 0, 1, 0, 1, 1, 0, 0, 0, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5]
+  [Completeness Score]: 56.2%
+  [Conciseness  Score]: 83.3%
+
+Input ID: article_073
+Success: True
+  [Alignment Label]: [0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1]
+  [Matched Sentence Line Numbers]: [1, 3, 5]
+  [Completeness Score]: 25.0%
+  [Conciseness  Score]: 50.0%
+
+Input ID: article_074
+Success: True
+  [Alignment Label]: [1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 5]
+  [Completeness Score]: 50.0%
+  [Conciseness  Score]: 66.7%
+
+Input ID: article_075
+Success: True
+  [Alignment Label]: [1, 0, 1, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6]
+  [Completeness Score]: 68.8%
+  [Conciseness  Score]: 100.0%
+
+Input ID: article_076
+Success: True
+  [Alignment Label]: [1, 1, 1, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5]
+  [Completeness Score]: 56.2%
+  [Conciseness  Score]: 83.3%
+
+Input ID: article_077
+Success: True
+  [Alignment Label]: [1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0]
+  [Matched Sentence Line Numbers]: [2, 3, 4, 5]
+  [Completeness Score]: 43.8%
+  [Conciseness  Score]: 66.7%
+
+Input ID: article_078
+Success: True
+  [Alignment Label]: [1, 1, 1, 1, 0, 1, 0, 0, 1, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4]
+  [Completeness Score]: 70.0%
+  [Conciseness  Score]: 66.7%
+
+Input ID: article_079
+Success: True
+  [Alignment Label]: [1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 0, 1, 1, 1, 0, 0]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6]
+  [Completeness Score]: 68.8%
+  [Conciseness  Score]: 100.0%
+
+Input ID: article_080
+Success: True
+  [Alignment Label]: [0, 1, 1, 1, 0, 1, 1, 1, 1, 0, 1, 0, 0, 1, 1, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6]
+  [Completeness Score]: 68.8%
+  [Conciseness  Score]: 100.0%
+
+Input ID: article_081
+Success: True
+  [Alignment Label]: [1, 1, 0, 0, 1, 0, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6]
+  [Completeness Score]: 68.8%
+  [Conciseness  Score]: 100.0%
+
+Input ID: article_082
+Success: True
+  [Alignment Label]: [1, 1, 0, 0, 1, 0, 0, 1, 1, 1, 1, 1, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5]
+  [Completeness Score]: 69.2%
+  [Conciseness  Score]: 83.3%
+
+Input ID: article_083
+Success: True
+  [Alignment Label]: [1, 0, 1, 0, 1, 1, 0, 0, 0, 1, 0, 1, 0, 1, 0, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6, 7]
+  [Completeness Score]: 50.0%
+  [Conciseness  Score]: 100.0%
+
+Input ID: article_084
+Success: True
+  [Alignment Label]: [1, 0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5]
+  [Completeness Score]: 31.2%
+  [Conciseness  Score]: 83.3%
+
+
+Input ID: article_085
+Success: True
+  [Alignment Label]: [1, 0, 1, 1, 0, 1, 1, 0, 0, 0, 1, 1, 1, 1, 1, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6]
+  [Completeness Score]: 68.8%
+  [Conciseness  Score]: 100.0%
+
+Input ID: article_086
+Success: True
+  [Alignment Label]: [1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5]
+  [Completeness Score]: 83.3%
+  [Conciseness  Score]: 83.3%
+
+Input ID: article_087
+Success: True
+  [Alignment Label]: [1, 0, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 0, 1, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5]
+  [Completeness Score]: 56.2%
+  [Conciseness  Score]: 83.3%
+
+Input ID: article_088
+Success: True
+  [Alignment Label]: [1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6]
+  [Completeness Score]: 83.3%
+  [Conciseness  Score]: 100.0%
+
+Input ID: article_089
+Success: True
+  [Alignment Label]: [1, 0, 1, 1, 0, 1, 1, 0, 0, 0, 1, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5]
+  [Completeness Score]: 58.3%
+  [Conciseness  Score]: 83.3%
+
+Input ID: article_090
+Success: True
+  [Alignment Label]: [1, 1, 0, 0, 1, 1, 0, 1, 0, 0, 1, 0, 1, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 5, 6]
+  [Completeness Score]: 57.1%
+  [Conciseness  Score]: 57.1%
+
+Input ID: article_091
+Success: True
+  [Alignment Label]: [1, 1, 0, 1, 1, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4]
+  [Completeness Score]: 53.3%
+  [Conciseness  Score]: 66.7%
+
+Input ID: article_092
+Success: True
+  [Alignment Label]: [1, 1, 1, 0, 0, 1, 0, 1, 0, 0, 1, 1, 1, 1, 0, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 4, 7, 8]
+  [Completeness Score]: 62.5%
+  [Conciseness  Score]: 62.5%
+
+Input ID: article_093
+Success: True
+  [Alignment Label]: [1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 5]
+  [Completeness Score]: 66.7%
+  [Conciseness  Score]: 66.7%
+
+Input ID: article_094
+Success: True
+  [Alignment Label]: [1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6]
+  [Completeness Score]: 85.7%
+  [Conciseness  Score]: 100.0%
+
+Input ID: article_095
+Success: True
+  [Alignment Label]: [1, 1, 1, 1, 1, 0, 1, 0, 0, 1, 1, 1, 1, 0]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6]
+  [Completeness Score]: 71.4%
+  [Conciseness  Score]: 100.0%
+
+Input ID: article_096
+Success: True
+  [Alignment Label]: [1, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6]
+  [Completeness Score]: 75.0%
+  [Conciseness  Score]: 100.0%
+
+Input ID: article_097
+Success: True
+  [Alignment Label]: [1, 0, 1, 1, 1, 1, 1, 0, 0, 1, 0, 1, 0, 0, 1, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6, 7]
+  [Completeness Score]: 62.5%
+  [Conciseness  Score]: 100.0%
+
+Input ID: article_098
+Success: True
+  [Alignment Label]: [1, 1, 1, 1, 0, 1, 1, 1, 0, 0, 1, 1, 1, 0, 1, 0]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5]
+  [Completeness Score]: 68.8%
+  [Conciseness  Score]: 83.3%
+
+Input ID: article_099
+Success: True
+  [Alignment Label]: [1, 0, 1, 1, 0, 1, 0, 1, 0, 1, 1, 1, 1, 0]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6, 7]
+  [Completeness Score]: 64.3%
+  [Conciseness  Score]: 100.0%
+
+Input ID: article_100
+Success: True
+  [Alignment Label]: [1, 1, 1, 0, 0, 1, 0, 1, 1, 0, 1, 1, 0, 0]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6]
+  [Completeness Score]: 57.1%
+  [Conciseness  Score]: 100.0%
+
+Input ID: article_101
+Success: True
+  [Alignment Label]: [1, 1, 0, 0, 1, 0, 1, 0, 1, 0, 0, 1, 0, 0, 1, 0]
+  [Matched Sentence Line Numbers]: [1, 3, 4, 5, 6]
+  [Completeness Score]: 43.8%
+  [Conciseness  Score]: 83.3%
+
+Input ID: article_102
+Success: True
+  [Alignment Label]: [1, 1, 0, 1, 1, 1, 1, 0, 1, 1, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6]
+  [Completeness Score]: 81.8%
+  [Conciseness  Score]: 100.0%
+
+Input ID: article_103
+Success: True
+  [Alignment Label]: [1, 1, 0, 0, 0, 1, 0, 1, 0, 1, 0, 1, 1, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 4, 5, 6]
+  [Completeness Score]: 57.1%
+  [Conciseness  Score]: 83.3%
+
+Input ID: article_104
+Success: True
+  [Alignment Label]: [1, 1, 1, 0, 1, 1, 1, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5]
+  [Completeness Score]: 87.5%
+  [Conciseness  Score]: 83.3%
+
+Input ID: article_105
+Success: True
+  [Alignment Label]: [1, 1, 0, 0, 1, 1, 1, 1, 0, 1, 1, 1, 1, 0, 1, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6]
+  [Completeness Score]: 75.0%
+  [Conciseness  Score]: 100.0%
+
+Input ID: article_106
+Success: True
+  [Alignment Label]: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6]
+  [Completeness Score]: 62.5%
+  [Conciseness  Score]: 100.0%
+
+Input ID: article_107
+Success: True
+  [Alignment Label]: [1, 1, 1, 0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 0, 1, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6]
+  [Completeness Score]: 56.2%
+  [Conciseness  Score]: 100.0%
+
+Input ID: article_108
+Success: True
+  [Alignment Label]: [1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 1, 0, 0, 1, 1, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6]
+  [Completeness Score]: 56.2%
+  [Conciseness  Score]: 100.0%
+
+Input ID: article_109
+Success: True
+  [Alignment Label]: [0, 1, 0, 0, 1, 1, 1, 1, 0, 1, 1, 0, 1, 1, 0, 1]
+  [Matched Sentence Line Numbers]: [2, 4, 5, 6, 7]
+  [Completeness Score]: 62.5%
+  [Conciseness  Score]: 71.4%
+
+Input ID: article_110
+Success: True
+  [Alignment Label]: [1, 1, 0, 0, 1, 0, 1, 1, 1, 1, 0, 1, 1, 0, 0, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6]
+  [Completeness Score]: 62.5%
+  [Conciseness  Score]: 100.0%
+
+Input ID: article_111
+Success: True
+  [Alignment Label]: [1, 1, 0, 0, 0, 0, 1, 1, 1, 0, 1, 0, 0, 1, 1, 1]
+  [Matched Sentence Line Numbers]: [1, 3, 4, 5, 6]
+  [Completeness Score]: 56.2%
+  [Conciseness  Score]: 83.3%
+
+Input ID: article_112
+Success: True
+  [Alignment Label]: [0, 1, 0, 1, 1, 1, 1, 1, 0, 1, 0, 0, 1, 1, 0, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6]
+  [Completeness Score]: 62.5%
+  [Conciseness  Score]: 100.0%
+
+Input ID: article_113
+Success: True
+  [Alignment Label]: [0, 0, 1, 0, 1, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6]
+  [Completeness Score]: 56.2%
+  [Conciseness  Score]: 100.0%
+
+Input ID: article_114
+Success: True
+  [Alignment Label]: [1, 0, 0, 1, 1, 0, 1, 1, 0, 1, 1, 0, 1, 1, 0, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6]
+  [Completeness Score]: 62.5%
+  [Conciseness  Score]: 100.0%
+
+Input ID: article_115
+Success: True
+  [Alignment Label]: [0, 1, 0, 1, 1, 0, 1, 1, 1, 1, 0, 0, 0, 1, 0, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6, 7]
+  [Completeness Score]: 56.2%
+  [Conciseness  Score]: 100.0%
+
+Input ID: article_116
+Success: True
+  [Alignment Label]: [0, 1, 0, 1, 0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4]
+  [Completeness Score]: 37.5%
+  [Conciseness  Score]: 66.7%
+
+Input ID: article_117
+Success: True
+  [Alignment Label]: [1, 1, 1, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 4, 5]
+  [Completeness Score]: 37.5%
+  [Conciseness  Score]: 66.7%
+
+Input ID: article_118
+Success: True
+  [Alignment Label]: [1, 1, 0, 1, 0, 1, 0, 1, 0, 1, 1, 1, 0, 0, 0, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5]
+  [Completeness Score]: 56.2%
+  [Conciseness  Score]: 83.3%
+
+Input ID: article_119
+Success: True
+  [Alignment Label]: [0, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 0, 1, 1, 1, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6]
+  [Completeness Score]: 75.0%
+  [Conciseness  Score]: 100.0%
+
+Input ID: article_120
+Success: True
+  [Alignment Label]: [1, 1, 0, 1, 0, 1, 0, 0, 0, 0, 1, 1, 0, 1, 1, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6]
+  [Completeness Score]: 56.2%
+  [Conciseness  Score]: 100.0%
+
+Input ID: article_121
+Success: True
+  [Alignment Label]: [0, 1, 0, 0, 1, 1, 0, 0, 1, 0, 0, 1, 1, 1, 1, 0]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6]
+  [Completeness Score]: 50.0%
+  [Conciseness  Score]: 100.0%
+
+Input ID: article_122
+Success: True
+  [Alignment Label]: [0, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 0, 1, 1, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6]
+  [Completeness Score]: 75.0%
+  [Conciseness  Score]: 100.0%
+
+Input ID: article_123
+Success: True
+  [Alignment Label]: [1, 1, 1, 0, 1, 0, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6]
+  [Completeness Score]: 62.5%
+  [Conciseness  Score]: 100.0%
+
+Input ID: article_124
+Success: True
+  [Alignment Label]: [1, 1, 0, 1, 1, 0, 0, 1, 0, 1, 1, 1, 0, 0, 1, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6]
+  [Completeness Score]: 62.5%
+  [Conciseness  Score]: 100.0%
+
+Input ID: article_125
+Success: True
+  [Alignment Label]: [1, 0, 1, 0, 1, 0, 0, 1, 1, 1, 0, 1, 0, 0, 1, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 7]
+  [Completeness Score]: 56.2%
+  [Conciseness  Score]: 85.7%
+
+Input ID: article_126
+Success: True
+  [Alignment Label]: [1, 1, 1, 1, 1, 0, 0, 1, 0, 1, 1, 1, 0, 1, 1, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6]
+  [Completeness Score]: 75.0%
+  [Conciseness  Score]: 100.0%
+
+Input ID: article_127
+Success: True
+  [Alignment Label]: [1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 1, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6]
+  [Completeness Score]: 75.0%
+  [Conciseness  Score]: 100.0%
+
+Input ID: article_128
+Success: True
+  [Alignment Label]: [1, 1, 1, 1, 1, 0, 0, 0, 1, 0, 1, 0, 0, 0, 1, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6]
+  [Completeness Score]: 56.2%
+  [Conciseness  Score]: 100.0%
+
+Input ID: article_129
+Success: True
+  [Alignment Label]: [1, 1, 1, 1, 1, 0, 1, 0, 0, 1, 1, 1, 0, 1, 0, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6]
+  [Completeness Score]: 68.8%
+  [Conciseness  Score]: 100.0%
+
+Input ID: article_130
+Success: True
+  [Alignment Label]: [1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6]
+  [Completeness Score]: 81.2%
+  [Conciseness  Score]: 100.0%
+
+Input ID: article_131
+Success: True
+  [Alignment Label]: [1, 0, 1, 1, 0, 0, 1, 0, 1, 1, 1, 1, 1, 0, 0, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6]
+  [Completeness Score]: 62.5%
+  [Conciseness  Score]: 100.0%
+
+Input ID: article_132
+Success: True
+  [Alignment Label]: [1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 1, 0]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 6]
+  [Completeness Score]: 50.0%
+  [Conciseness  Score]: 83.3%
+
+Input ID: article_133
+Success: True
+  [Alignment Label]: [1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6]
+  [Completeness Score]: 87.5%
+  [Conciseness  Score]: 100.0%
+
+Input ID: article_134
+Success: True
+  [Alignment Label]: [1, 1, 0, 0, 1, 0, 1, 1, 1, 0, 0, 1, 0, 1, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6]
+  [Completeness Score]: 60.0%
+  [Conciseness  Score]: 100.0%
+
+Input ID: article_135
+Success: True
+  [Alignment Label]: [1, 0, 1, 1, 0, 1, 0, 1, 1, 1, 0, 0, 1, 1, 0, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6]
+  [Completeness Score]: 62.5%
+  [Conciseness  Score]: 100.0%
+
+Input ID: article_136
+Success: True
+  [Alignment Label]: [1, 0, 1, 0, 1, 1, 1, 1, 0, 0, 1, 1, 1, 0, 0, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6]
+  [Completeness Score]: 62.5%
+  [Conciseness  Score]: 100.0%
+
+Input ID: article_137
+Success: True
+  [Alignment Label]: [1, 1, 0, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 1, 1, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6]
+  [Completeness Score]: 75.0%
+  [Conciseness  Score]: 100.0%
+
+Input ID: article_138
+Success: True
+  [Alignment Label]: [1, 1, 0, 1, 1, 0, 1, 0, 0, 1, 0, 1, 1, 1, 0, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6]
+  [Completeness Score]: 62.5%
+  [Conciseness  Score]: 100.0%
+
+Input ID: article_139
+Success: True
+  [Alignment Label]: [1, 0, 1, 1, 0, 1, 1, 1, 0, 0, 1, 1, 0, 1, 0, 0]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6]
+  [Completeness Score]: 56.2%
+  [Conciseness  Score]: 100.0%
+
+Input ID: article_140
+Success: True
+  [Alignment Label]: [1, 1, 0, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6]
+  [Completeness Score]: 81.2%
+  [Conciseness  Score]: 100.0%
+
+Input ID: article_141
+Success: True
+  [Alignment Label]: [1, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 1, 0, 1, 0, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 4, 5, 6]
+  [Completeness Score]: 43.8%
+  [Conciseness  Score]: 83.3%
+
+Input ID: article_142
+Success: True
+  [Alignment Label]: [1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 1, 0, 1, 1, 0]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6]
+  [Completeness Score]: 75.0%
+  [Conciseness  Score]: 100.0%
+
+Input ID: article_143
+Success: True
+  [Alignment Label]: [1, 0, 1, 0, 1, 0, 0, 0, 1, 0, 1, 1, 1, 1, 0, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6]
+  [Completeness Score]: 56.2%
+  [Conciseness  Score]: 100.0%
+
+Input ID: article_144
+Success: True
+  [Alignment Label]: [1, 1, 0, 0, 1, 1, 0, 1, 0, 1, 0, 1, 1, 0, 0, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6]
+  [Completeness Score]: 56.2%
+  [Conciseness  Score]: 100.0%
+
+Input ID: article_145
+Success: True
+  [Alignment Label]: [1, 0, 1, 1, 0, 0, 1, 0, 1, 1, 0, 0, 1, 1, 1, 0]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5, 6]
+  [Completeness Score]: 56.2%
+  [Conciseness  Score]: 100.0%
+invalid syntax (<unknown>, line 84)
+
+Input ID: article_146
+Success: True
+  [Alignment Label]: [1, 1, 1, 1, 1, 0, 1, 0, 1, 0, 0, 1, 1, 0, 0, 0]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4, 5]
+  [Completeness Score]: 56.2%
+  [Conciseness  Score]: 83.3%
+
+Input ID: article_147
+Success: True
+  [Alignment Label]: [1, 1, 1, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0, 0, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 6]
+  [Completeness Score]: 50.0%
+  [Conciseness  Score]: 66.7%
+
+Input ID: article_148
+Success: True
+  [Alignment Label]: [1, 1, 0, 1, 1, 0, 0, 1, 1, 1, 0, 1, 0, 0, 0, 0]
+  [Matched Sentence Line Numbers]: [1, 3, 4, 5, 6]
+  [Completeness Score]: 50.0%
+  [Conciseness  Score]: 83.3%
+
+Input ID: article_149
+Success: True
+  [Alignment Label]: [0, 0, 1, 1, 1, 0, 1, 1, 0, 0, 0, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 4]
+  [Completeness Score]: 50.0%
+  [Conciseness  Score]: 66.7%
+
+Input ID: article_150
+Success: True
+  [Alignment Label]: [1, 1, 1, 0, 1, 1, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1]
+  [Matched Sentence Line Numbers]: [1, 2, 3, 5]
+  [Completeness Score]: 50.0%
+  [Conciseness  Score]: 66.7%
+
+
+[Evaluation Results]
+
+* completeness score per model (higher is better)
+
+  gpt-4 58.6%
+
+* completeness model ranking (left is better)
+
+['gpt-4']
+
+* conciseness score per model (higher is better)
+
+  gpt-4 88.3%
+
+* conciseness model ranking (left is better)
+
+['gpt-4']
+
+* success rate: 98.7%
+
+

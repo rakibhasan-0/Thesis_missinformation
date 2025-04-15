@@ -1,56 +1,81 @@
 import json
+import glob
+import os
+import csv
+import re
 
-def check_docids(summaries_path, keyfacts_path):
+def extract_numeric_id(doc_id_str):
     """
-    Checks whether the doc_id values in the summaries file
-    match those in the keyfacts file.
+    Extract trailing digits from a doc ID string (e.g., 'article_001' -> 1).
+    If no digits are found, return 9999999 so the file sorts last.
     """
-    summaries_doc_ids = set()
-    keyfacts_doc_ids = set()
+    match = re.search(r'(\d+)$', doc_id_str)
+    if match:
+        return int(match.group(1))
+    return 9999999
 
-    # Read the summaries JSONL, gather doc_ids
-    with open(summaries_path, 'r', encoding='utf-8') as sf:
-        for line in sf:
-            if line.strip():
-                data = json.loads(line)
-                doc_id = data['doc_id']
-                summaries_doc_ids.add(doc_id)
+def calculate_faithfulness_score(json_file_path):
+    """
+    Reads a JSON file containing sentence fact-check results.
+    Returns a tuple (doc_id, faithfulness_percent), where:
+      - doc_id is derived from the file name.
+      - faithfulness_percent is the percentage of sentences
+        marked "no error."
+    """
+    file_name = os.path.basename(json_file_path)
+    doc_id = os.path.splitext(file_name)[0]
 
-    # Read the keyfacts JSONL, gather doc_ids
-    with open(keyfacts_path, 'r', encoding='utf-8') as kf:
-        for line in kf:
-            if line.strip():
-                data = json.loads(line)
-                doc_id = data['doc_id']
-                keyfacts_doc_ids.add(doc_id)
+    with open(json_file_path, 'r', encoding='utf-8') as json_file:
+        data = json.load(json_file)
 
-    # Compare sets
-    only_in_summaries = summaries_doc_ids - keyfacts_doc_ids
-    only_in_keyfacts = keyfacts_doc_ids - summaries_doc_ids
+    total_sentences = len(data)
+    no_error_count = sum(
+        1 for item in data if item.get("category", "").lower() == "no error"
+    )
 
-    print("\n--- Checking doc_id Consistency ---\n")
-    if not only_in_summaries and not only_in_keyfacts:
-        print("✔ All doc_ids match between the two files!")
+    # Avoid divide-by-zero if file is empty
+    if total_sentences == 0:
+        faithfulness_percent = 0.0
     else:
-        if only_in_summaries:
-            print("The following doc_ids appear in summaries but NOT in keyfacts:")
-            for d in sorted(only_in_summaries):
-                print(" ", d)
-        if only_in_keyfacts:
-            print("\nThe following doc_ids appear in keyfacts but NOT in summaries:")
-            for d in sorted(only_in_keyfacts):
-                print(" ", d)
+        faithfulness_percent = (no_error_count / total_sentences) * 100
 
-    print("\n--- Summary Stats ---")
-    print(f"Summaries has {len(summaries_doc_ids)} unique doc_ids.")
-    print(f"Keyfacts has {len(keyfacts_doc_ids)} unique doc_ids.")
+    return doc_id, faithfulness_percent
+
+def main():
+    input_folder = r"C:\THESIS_SUM\fineSure_faith_res"
+    output_csv = r"C:\THESIS_SUM\final_faithfulness.csv"
+
+    json_files = glob.glob(os.path.join(input_folder, "*.json"))
+    if not json_files:
+        print(f"No JSON files found in: {input_folder}")
+        return
+
+    results = []
+    for json_path in json_files:
+        doc_id, faithfulness_score = calculate_faithfulness_score(json_path)
+        results.append((doc_id, faithfulness_score))
+
+    # Sort the results by numeric ID extracted from the doc_id
+    results.sort(key=lambda x: extract_numeric_id(x[0]))
+
+    # Compute the overall average faithfulness
+    if results:
+        overall_faithfulness = sum(score for _, score in results) / len(results)
+    else:
+        overall_faithfulness = 0.0
+
+    # Write all results to CSV
+    with open(output_csv, 'w', newline='', encoding='utf-8') as csvfile:
+        writer = csv.writer(csvfile)
+        writer.writerow(["doc_id", "faithfulness_percent"])
+
+        for doc_id, score in results:
+            writer.writerow([doc_id, f"{score:.2f}"])
+
+        writer.writerow(["OVERALL", f"{overall_faithfulness:.2f}"])
+
+    print(f"Wrote faithfulness data for {len(results)} articles to {output_csv}")
+    print(f"Overall Faithfulness: {overall_faithfulness:.2f}%")
 
 if __name__ == "__main__":
-    # Example usage:
-    # python check_docids.py
-
-    # Update these with your actual paths:
-    summaries_path = r"C:\THESIS_SUM\finesure_input.jsonl"
-    keyfacts_path  = r"C:\THESIS_SUM\keyfacts_from_main\all_keyfacts.jsonl"
-
-    check_docids(summaries_path, keyfacts_path)
+    main()

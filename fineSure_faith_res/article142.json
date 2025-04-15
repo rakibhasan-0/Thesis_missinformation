@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "A new study by the World Weather Attribution group finds that human-induced climate change made the recent extreme heatwave in the US southwest, Mexico, and Central America 35 times more likely.",
+    "reason": "The transcript confirms that the WWA group found climate change made the heatwave around 35 times more likely in the specified regions.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The heatwave, occurring from May to early June, was made 1.4°C hotter by climate change, which significantly increased health risks and contributed to fatalities, including among vulnerable wildlife like howler monkeys.",
+    "reason": "The transcript states that climate change made the hottest five-day stretch 1.4°C warmer, and notes fatalities and howler monkey deaths linked to the heatwave.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Scientists warn that as fossil fuel emissions continue, such deadly and record-breaking temperatures will become more common.",
+    "reason": "The transcript includes warnings from scientists that continued fossil fuel emissions will increase the frequency of deadly and extreme temperatures.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The report also highlights the serious danger of high night-time temperatures, which prevent the body from recovering.",
+    "reason": "The transcript mentions that high night-time temperatures are a severe health threat as they prevent the body from resting and recovering.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Compared to conditions in the year 2000, such heatwaves are now four times more likely due to global warming.",
+    "reason": "The transcript clearly states that such a heatwave is now four times more likely than in the year 2000 due to global warming.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Researchers urge urgent climate action, emphasizing that each fraction of temperature rise increases the threat to human health and life.",
+    "reason": "The transcript includes warnings from scientists that every fraction of warming increases health risks, and includes calls for action to reduce emissions.",
+    "category": "no error"
+  }
+]

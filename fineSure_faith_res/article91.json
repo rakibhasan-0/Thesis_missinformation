@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "A global study published in Nature has found that glacier ice loss has accelerated dramatically, with 36% more ice lost between 2012 and 2023 compared to the previous decade.",
+    "reason": "The transcript confirms a 36% increase in glacier ice loss between 2012–2023 compared to 2000–2011, based on a study published in Nature.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The research shows glaciers have lost about 5% of their total volume since 2000, with some regions, like the European Alps, losing up to 40%.",
+    "reason": "The transcript states that global glaciers have lost around 5% of their volume since 2000 and up to 40% in the European Alps.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Smaller glaciers are particularly vulnerable, and many may not survive the century, contributing to faster-than-expected sea-level rise.",
+    "reason": "The transcript explicitly states that regions with smaller glaciers are losing them faster and that many may not survive the century, contributing to rising sea levels.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The study estimates an annual ice loss of 273 billion tonnes—equivalent to 30 years of global water use.",
+    "reason": "The transcript confirms the annual ice loss estimate of 273 billion tonnes and compares it to 30 years of global water consumption.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The findings highlight the urgent need to cut greenhouse gas emissions to slow glacier melt and its consequences.",
+    "reason": "The transcript includes a statement from Zemp emphasizing the need to reduce greenhouse gas emissions to save glaciers and reduce warming.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Experts warn that continued warming will intensify the loss, especially from major ice sheets in Greenland and Antarctica.",
+    "reason": "The transcript includes commentary from an external expert warning that further glacier loss could indicate how Greenland and Antarctica may respond, and that ice sheets are losing mass at increasing rates.",
+    "category": "no error"
+  }
+]

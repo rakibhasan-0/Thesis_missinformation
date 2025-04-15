@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "A new study by Durham University reveals that the Greenland ice sheet is cracking faster than ever, with crevasses significantly increasing in size and depth between 2016 and 2021.",
+    "reason": "This statement directly reflects the transcript's findings about rapid crevasse growth over that five-year period.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Using high-resolution satellite data, researchers found that these changes are occurring over just five years—much faster than previously observed.",
+    "reason": "This accurately summarizes the transcript's mention of high-resolution imagery and faster-than-expected crevasse formation.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The cracking is closely linked to the accelerating movement of the ice sheet, driven by rising air and ocean temperatures due to climate change.",
+    "reason": "The transcript confirms that crevasse formation correlates with ice sheet acceleration, linked to warmer air and ocean temperatures.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Since 1992, Greenland has contributed approximately 14mm to global sea level rise.",
+    "reason": "This matches the transcript’s statement that Greenland has added about 14mm to sea level since 1992.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Lead author Dr. Tom Chudley emphasizes that improved understanding of these rapid dynamic changes is crucial for more accurate projections of future sea level rise.",
+    "reason": "The transcript quotes Dr. Chudley highlighting the importance of better projections and understanding of dynamic instabilities.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Current models may underestimate the risk, with potential sea level increases reaching up to one meter by 2100 and 10 meters by 2300.",
+    "reason": "The transcript specifically cites up to one meter of sea level rise by 2100 and ten meters by 2300, indicating existing models might not fully capture these dynamics.",
+    "category": "no error"
+  }
+]

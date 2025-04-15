@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "Brazil, once hailed as a climate leader, is facing criticism for prioritizing oil expansion under President Lula da Silva, even as it prepares to host COP30.",
+    "reason": "The transcript explains that Lula was initially seen as a climate champion, but is now criticized for promoting oil expansion while preparing to host COP30.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Lula's support for oil exploration and joining OPEC+ has sparked backlash from environmentalists, who view it as a contradiction to the country's climate commitments.",
+    "reason": "The transcript shows environmentalists criticizing Lula’s support for oil exploration and Brazil’s move to join OPEC+ as undermining climate leadership.",
+    "category": "no error"
+  },
+  {
+    "sentence": "While the government argues that oil revenues can support a green transition, critics say Brazil lacks concrete policies and continues to heavily subsidize fossil fuels over renewables.",
+    "reason": "The transcript states the government justifies oil expansion as funding for a green transition, while critics highlight the lack of national renewable policies and large fossil fuel subsidies.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Although deforestation in the Amazon has declined under Lula, Brazil's climate targets are seen as insufficient to meet the Paris Agreement goals.",
+    "reason": "The transcript confirms reduced deforestation under Lula and includes criticism that Brazil's targets are not aligned with the 1.5°C Paris Agreement goal.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Additionally, Brazil faces severe climate impacts, including record droughts and wildfires, further highlighting the urgency of bold climate action.",
+    "reason": "The transcript discusses Brazil’s record droughts and devastating wildfires, emphasizing the urgency for stronger climate measures.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The debate reflects tension between economic development and environmental responsibility in Brazil's current climate strategy.",
+    "reason": "The transcript conveys this tension, with Lula’s government promoting oil for economic growth while facing pressure for stronger climate responsibility.",
+    "category": "no error"
+  }
+]

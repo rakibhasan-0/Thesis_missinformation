@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "India’s capital Delhi is facing an unprecedented heatwave, with temperatures nearing 50°C, leading to rising cases of heat stroke and the establishment of the country's first heat stroke emergency clinic at Ram Manohar Lohia Hospital.",
+    "reason": "The transcript confirms Delhi is experiencing an unprecedented heatwave nearing 50°C, with rising heat stroke cases and the opening of what is possibly the first heat stroke clinic in India at Ram Manohar Lohia Hospital.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Since May, the clinic has treated over 40 patients and recorded seven deaths, primarily among outdoor workers and those living in slums with poor living conditions.",
+    "reason": "The transcript states that the clinic has treated over 40 people and recorded seven deaths, mainly among men working outdoors and those in poor living conditions, including slums.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Doctors stress the importance of rapid cooling for survival, while reports highlight that heatwaves are affecting vulnerable populations across India.",
+    "reason": "Doctors in the transcript emphasize that early cooling is critical, and surveys/reports confirm heatwaves are impacting vulnerable populations nationwide.",
+    "category": "no error"
+  },
+  {
+    "sentence": "A new survey reveals that 45% of households had at least one member fall ill from the heat, disproportionately affecting the poorest.",
+    "reason": "The CRI survey in the transcript found that 45% of households reported at least one member falling ill, with more severe illness among poorer households.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The crisis is also impacting productivity, with billions of labor hours lost and minimal political attention to heat emergencies.",
+    "reason": "The transcript cites a Lancet study on productivity losses and commentary about heat emergencies not receiving political attention.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Experts warn that worsening climate conditions and inadequate policy responses could intensify the human and economic toll of future heatwaves.",
+    "reason": "Experts in the transcript highlight the worsening climate, inadequate heat action plans, and the growing toll of heatwaves, supporting this summary statement.",
+    "category": "no error"
+  }
+]

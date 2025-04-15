@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "A new space mission will launch the Biomass satellite to map carbon levels in the world's most inaccessible tropical forests.",
+    "reason": "The transcript confirms that the Biomass satellite will be launched to create maps of tropical forests and assess their carbon content, including in remote, dense areas.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Using a revolutionary P-band radar, the spacecraft will create 3D images of dense forest canopies across Africa, Asia, and South America to monitor vegetation and underground structures.",
+    "reason": "The transcript states that the satellite will use a P-band synthetic aperture radar to scan tropical forests in these regions and will map vegetation and sub-surface geology.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Scientists aim to assess how much carbon these forests store and how deforestation is impacting global carbon emissions.",
+    "reason": "This aligns with the transcript’s explanation that the mission’s goal is to calculate carbon stored in forests and observe how deforestation alters these levels.",
+    "category": "no error"
+  },
+  {
+    "sentence": "This data will help improve climate forecasts by clarifying the carbon flow between Earth’s forests and the atmosphere.",
+    "reason": "The transcript explicitly states that understanding carbon storage and changes will help scientists predict how the Earth will respond to rising temperatures.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The five-year mission, funded by the European Space Agency and led by Airbus UK, will also examine biodiversity loss due to agriculture and mining.",
+    "reason": "The transcript confirms that the ESA-funded mission, led by Airbus UK, will also gather data on biodiversity loss driven by mining and agriculture.",
+    "category": "no error"
+  },
+  {
+    "sentence": "By integrating satellite data with AI, researchers hope to predict future environmental changes with greater accuracy.",
+    "reason": "The transcript mentions that ESA plans to integrate Biomass data with AI and machine learning to forecast future environmental conditions.",
+    "category": "no error"
+  }
+]

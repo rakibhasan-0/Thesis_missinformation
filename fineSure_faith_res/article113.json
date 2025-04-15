@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "India's Kumbh Mela, the largest religious gathering in the world, has raised significant environmental concerns due to the massive influx of attendees, which has strained water resources and increased pollution, particularly in the Ganges River.",
+    "reason": "The transcript confirms that Kumbh Mela is the world's largest religious gathering and notes the strain on water resources, pollution, and contamination of the Ganges River due to the event.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Despite these challenges, spiritual leaders used the event as a platform to promote environmental awareness and sustainable practices.",
+    "reason": "The transcript states that for the first time, spiritual and religious leaders came together at the Kumbh to promote sustainability and raise awareness of environmental issues.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Religious figures collaborated with international organizations like UNEP to advocate for climate action and engage communities through faith-based education.",
+    "reason": "The transcript references the UNEP’s Faith for Earth Initiative and how it works with faith-based organizations, which aligns with the summary's claim of collaboration for climate advocacy.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Experts argue that involving religious leaders can help bridge the gap between science and the public, especially in communicating the urgency of climate change.",
+    "reason": "Chandra Bhushan is quoted in the transcript stating that religious leaders can help bridge the communication gap between scientific knowledge and public understanding.",
+    "category": "no error"
+  },
+  {
+    "sentence": "India is already facing severe climate-related events such as heatwaves and floods, which threaten national security and livelihoods.",
+    "reason": "The transcript confirms that India is experiencing increasing extreme weather events due to climate change, threatening food, water, and energy security.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Faith leaders have committed to adopting eco-friendly initiatives and continue to advocate for a long-term shift toward sustainability.",
+    "reason": "The transcript includes statements from multiple faith leaders and organizations committing to eco-friendly actions and sustainable practices.",
+    "category": "no error"
+  }
+]

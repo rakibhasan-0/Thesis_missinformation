@@ -1,0 +1,37 @@
+[
+  {
+    "sentence": "The Trump administration has announced the elimination of 31 environmental protections related to air and water pollution, a move critics say prioritizes industry over public health.",
+    "reason": "The transcript confirms that the EPA, under Trump’s administration, is eliminating 31 protections, and includes critical responses noting that this favors polluters over public health.",
+    "category": "no error"
+  },
+  {
+    "sentence": "EPA Administrator Lee Zeldin framed the deregulation as part of a broader effort to lower costs and boost U.S.",
+    "reason": "This sentence is grammatically incomplete, as it cuts off mid-thought and lacks a main clause following 'U.S.', making it difficult to interpret fully.",
+    "category": "grammatical error"
+  },
+  {
+    "sentence": "energy production, including rewriting a key 2009 finding that recognized greenhouse gases as harmful.",
+    "reason": "The transcript confirms that Zeldin supports rewriting the 2009 EPA finding that greenhouse gases are harmful, and ties this to boosting U.S. energy production, so this is accurate in content.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The changes target regulations on coal-fired power plant emissions, coal ash disposal, and vehicle pollution, and will result in a significant workforce reduction at the EPA.",
+    "reason": "The transcript confirms targeting of those regulations and mentions a 65% workforce reduction at the EPA, so this summary sentence is factually accurate.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Trump has also ordered federal agencies to repeal ten regulations for every new one implemented and distanced his administration from clean energy policies.",
+    "reason": "The transcript supports both claims: Trump issued the '10-to-1' deregulation order and emphasized fossil fuels while rejecting clean energy initiatives.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Environmental advocates condemned the decision, warning it endangers vulnerable communities and undermines long-standing efforts to combat pollution.",
+    "reason": "The transcript includes statements from environmental groups criticizing the decision and highlighting its impact on vulnerable communities and pollution efforts.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Critics argue the rollbacks serve the interests of polluters and threaten both human and environmental health.",
+    "reason": "This general statement is supported by the transcript, particularly in the quote from the Union of Concerned Scientists about protecting polluters over people.",
+    "category": "no error"
+  }
+]

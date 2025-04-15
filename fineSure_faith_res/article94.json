@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "March 2024 saw record-breaking global temperatures, with the average being 1.6°C above pre-industrial levels, raising concerns that the 1.5°C international climate target is slipping out of reach.",
+    "reason": "The transcript states that the average global temperature in March was 1.6°C above pre-industrial levels, and this has raised concerns that the 1.5°C climate target is slipping out of reach. The summary matches these points accurately.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Europe experienced its hottest March on record, alongside extreme weather events including both severe droughts and heavy rainfall.",
+    "reason": "The transcript confirms that Europe experienced its warmest March on record, with both extreme droughts and heavy rain reported, supporting this summary statement.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Scientists warn that even small increases in global temperatures intensify extreme weather, such as heatwaves and floods.",
+    "reason": "The transcript mentions that scientists have warned that every fraction of a degree of warming increases the intensity and frequency of extreme weather events like heatwaves, heavy rainfall, and droughts, which aligns with this summary statement.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Central Asia faced an intense heatwave, and Argentina saw conditions conducive to extreme rainfall, both exacerbated by climate change.",
+    "reason": "The transcript states that climate change intensified a heatwave in Central Asia and fueled extreme rainfall conditions in Argentina, so this sentence is factually accurate.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Arctic sea ice reached its lowest March extent in the 47-year satellite record, continuing a trend of record lows in recent months.",
+    "reason": "The transcript says Arctic sea ice fell to its lowest extent for any March in the 47-year satellite record, and the previous three months also set record lows, accurately supporting the summary.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The data comes from the EU’s Copernicus Climate Change Service, which compiles climate information from billions of global measurements.",
+    "reason": "The transcript explicitly mentions that the data comes from C3S, which uses billions of measurements from satellites, ships, aircraft, and weather stations to calculate climate metrics.",
+    "category": "no error"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "Peatlands, covering just 3% of Earth’s land, hold more carbon than all forests combined, yet only 17% are protected, making them a critical but neglected climate asset.",
+    "reason": "The transcript confirms that peatlands cover 3% of land, store more carbon than all forests, and only 17% are protected, supporting the characterization as a neglected climate asset.",
+    "category": "no error"
+  },
+  {
+    "sentence": "A new global study warns that their ongoing destruction—especially in countries like Canada, Russia, and Indonesia—is releasing vast amounts of CO2, contributing significantly to climate change.",
+    "reason": "The transcript states that peatland destruction releases large amounts of CO2 and highlights low protection in Canada, Russia, and Indonesia, aligning with this sentence.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Peatlands are often drained for farming and mining, exposing stored carbon to the atmosphere, and if left unchecked, could make keeping climate goals impossible.",
+    "reason": "The transcript explicitly explains that draining peatlands releases carbon, and their destruction threatens climate targets, supporting this claim.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Despite their immense value for carbon storage, flood prevention, and biodiversity, protections are often weak or poorly enforced.",
+    "reason": "This statement misrepresents the transcript, which does not discuss enforcement issues but only mentions the weakness of protections on paper.",
+    "category": "predicate error"
+  },
+  {
+    "sentence": "Experts stress that safeguarding and restoring peatlands, particularly through Indigenous land rights and improved regulation, is a highly cost-effective way to mitigate climate change.",
+    "reason": "The transcript discusses the cost-effectiveness of protecting peatlands, the benefits of Indigenous land rights, and the role of regulation, aligning with this sentence.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The study urges countries to include peatland conservation in their 2025 climate and biodiversity plans, emphasizing that rapid action is needed to prevent irreversible damage.",
+    "reason": "The transcript mentions upcoming 2025 opportunities to include peatland protection in national plans and the urgency of action, supporting this summary statement.",
+    "category": "no error"
+  }
+]

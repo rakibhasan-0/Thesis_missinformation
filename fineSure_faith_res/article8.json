@@ -1,0 +1,33 @@
+
+[
+  {
+    "sentence": "In 2024, clean energy contributed 10% to China’s GDP, surpassing real estate sales in value and marking a major economic milestone.",
+    "reason": "This accurately matches the transcript stating clean energy reached 10% of GDP in 2024 and surpassed real estate in value.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The sector, valued at 13.6 trillion yuan, was driven primarily by electric vehicles (EVs) and batteries, which made up 39% of the total.",
+    "reason": "The transcript confirms a 13.6 trillion yuan valuation and that EVs and batteries were 39% of the clean-energy economy.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The analysis, conducted by the Centre for Research on Energy and Clean Air (Crea), used a broad definition of clean energy, including renewables, nuclear, and infrastructure like railways.",
+    "reason": "This aligns with the transcript, which states that Crea included renewables, nuclear power, electricity grids, energy storage, EVs, and railways in its definition.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Experts note that China’s clean energy boom is a strategic effort to reduce dependence on oil imports and strengthen energy security.",
+    "reason": "The transcript quotes Simon Evans explaining that China’s investments aim to improve energy security and reduce oil imports.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Future growth will depend on the country’s next five-year plan, starting in 2026.",
+    "reason": "The transcript explicitly states that continued growth hinges on policies in the next five-year plan beginning in 2026.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Despite global political shifts, China is expected to maintain its clean energy trajectory due to strong financial incentives and long-term investments.",
+    "reason": "As stated in the transcript, China’s continuation is driven by financial logic and substantial past investments, unaffected by external political developments.",
+    "category": "no error"
+  }
+]

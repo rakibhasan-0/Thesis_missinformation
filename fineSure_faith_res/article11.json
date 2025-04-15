@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "An investigation reveals that the UN’s aviation body, ICAO, has allowed significant influence from the aviation and fossil fuel industries, with industry delegates outnumbering environmental groups by 10 to one at recent meetings.",
+    "reason": "This aligns with the transcript, which notes a 10-to-1 ratio at the previous CAEP conference and significant industry influence.",
+    "category": "no error"
+  },
+  {
+    "sentence": "ICAO’s environmental committee, CAEP, operates with limited transparency, charging for documents, barring public access, and requiring strict non-disclosure agreements.",
+    "reason": "The transcript confirms that ICAO charges for documents, restricts public access, and imposes NDAs.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Critics argue this has slowed climate action in aviation, a sector with disproportionately high emissions, as industry-backed offsetting schemes and fuel efficiency efforts fall short of climate targets.",
+    "reason": "The transcript states that critics blame ICAO for slow climate progress and that offsetting and efficiency measures are insufficient.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Sponsorship of ICAO events by major polluters like ExxonMobil, Shell, and Saudi Aramco further raises concerns about regulatory capture.",
+    "reason": "The transcript details ICAO events sponsored by ExxonMobil, Shell, Saudi Aramco, and others, indicating potential regulatory capture.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Analysis also links industry representatives to key roles within CAEP, suggesting deep-rooted influence over policy development.",
+    "reason": "The transcript shows industry figures, such as Kevin Walsh, in influential CAEP positions, supporting this statement.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Calls for transparency and accountability are growing, with experts stressing that real climate progress requires reducing aviation growth, not just relying on unproven technological fixes.",
+    "reason": "The transcript notes growing calls for transparency and expert views that aviation growth must be curtailed to meet climate targets.",
+    "category": "no error"
+  }
+]

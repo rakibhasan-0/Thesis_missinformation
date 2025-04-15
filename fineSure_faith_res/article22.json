@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "Coral reefs are dazzling ecosystems built by tiny animals called coral polyps, which function in symbiosis with microbes and algae to form holobionts.",
+    "reason": "This sentence is accurate—the transcript explains that coral reefs are formed by coral polyps in symbiosis with microbes and algae, collectively referred to as holobionts.",
+    "category": "no error"
+  },
+  {
+    "sentence": "These holobionts create massive, nutrient-rich reef structures in otherwise nutrient-poor waters, relying on solar energy and an efficient circular economy.",
+    "reason": "The sentence mostly aligns with the transcript but contains a factual inconsistency: the reefs are *not* nutrient-rich; the transcript repeatedly emphasizes that coral reefs flourish in *nutrient-poor* (nutrient desert) waters.",
+    "category": "predicate error"
+  },
+  {
+    "sentence": "The reefs support immense biodiversity and sustain around one billion people globally.",
+    "reason": "This is accurate—the transcript states that the reefs support millions of species and sustain an estimated one billion coastal and island dwellers.",
+    "category": "no error"
+  },
+  {
+    "sentence": "However, coral reefs are extremely vulnerable to climate change, with rising ocean temperatures threatening their survival.",
+    "reason": "This aligns with the transcript, which emphasizes the reefs’ vulnerability to even slight temperature changes due to climate change.",
+    "category": "no error"
+  },
+  {
+    "sentence": "A single marine heatwave can break down the holobiont system, leading to coral bleaching and ecological collapse.",
+    "reason": "This is supported by the transcript, which states that a single heatwave can cause bleaching and disrupt the microbiome, resulting in reef collapse.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Despite their past resilience, coral reefs now illustrate the importance of collective cooperation for sustainable living in a rapidly changing world.",
+    "reason": "This is consistent with the transcript’s concluding message that the coral holobiont's cooperative success in nutrient-poor environments is a lesson for human societies.",
+    "category": "no error"
+  }
+]

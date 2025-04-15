@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "A recent study published in *Nature Climate Change* reveals that marine heatwave days in 2023–24 were more than triple any previous record, affecting nearly 10% of the world’s oceans.",
+    "reason": "The transcript states that marine heatwave days were 3.5 times any previous record and nearly 10% of the ocean hit record high temperatures in 2023-24, so this matches the data.",
+    "category": "no error"
+  },
+  {
+    "sentence": "These prolonged spikes in ocean temperatures have caused billions in storm damages, increased marine animal strandings, disrupted fisheries, and triggered global coral bleaching.",
+    "reason": "The transcript explicitly mentions billions of dollars in storm damage, increased stranding risks, harm to commercial fishing, and a global coral bleaching event.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The heatwaves, fueled by climate change and El Niño, have made marine ecosystems more vulnerable and less able to recover after each event.",
+    "reason": "According to the transcript, the heatwaves were brought about by human-induced climate change and amplified by El Niño, and repeated events reduce ecosystems’ capacity to rebound.",
+    "category": "no error"
+  },
+  {
+    "sentence": "While some localized mitigation efforts helped, overall response has been hampered by resource constraints and poor coordination.",
+    "reason": "The transcript notes a few successful mitigation actions, but also highlights a lack of resources, organizational disconnects, and poor communication as limiting broad damage reduction.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Scientists stress the importance of better forecasting and proactive measures to reduce damage.",
+    "reason": "The study underscores that improved forecasting is critical to reducing damage and provides decision-makers greater confidence in implementing protective measures.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The study concludes that unless fossil fuel use is curbed, marine heatwaves and their devastating impacts will only become more frequent and intense.",
+    "reason": "Lead author Kathryn Smith explicitly connects marine heatwaves to the continued burning of fossil fuels, indicating they will keep increasing without a transition to renewables.",
+    "category": "no error"
+  }
+]

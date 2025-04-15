@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "A new study using tree ring data has confirmed that the northern hemisphere experienced its hottest summer in 2,000 years in 2023.",
+    "reason": "The transcript explicitly states that tree ring data confirmed summer 2023 was the hottest in the northern hemisphere in the last 2,000 years.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The research shows that last summer was 2.07°C warmer than the pre-industrial average and nearly 4°C warmer than the coldest summer on record in the year 536.",
+    "reason": "According to the transcript, summer 2023 was 2.07°C warmer than the 1850–1900 average and 3.93°C warmer than the year 536, which is accurately rounded to 'nearly 4°C'.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Scientists used a large dataset from ancient and living trees across Europe and Asia to reconstruct summer temperatures, revealing how modern heat far exceeds natural climate variability.",
+    "reason": "The transcript states scientists used data from trees across the European Alps and Russian Altai to build a 2,000-year temperature record, showing that 2023 surpassed natural variability.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The record-breaking heat was primarily driven by human-induced climate change, with El Niño adding to the warmth.",
+    "reason": "The transcript says most of the 2023 warmth was due to human activity, with El Niño amplifying it, supporting this statement.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The findings suggest historical temperatures may have been underestimated and reinforce the urgency of reducing greenhouse gas emissions.",
+    "reason": "The transcript notes that 1850–1900 temperatures may be overestimated due to limited data and underscores the urgent need for emissions cuts.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The study underscores that without immediate action, future warming could bring even more severe climate impacts.",
+    "reason": "The transcript quotes lead author Prof Jan Esper urging rapid emissions reductions, warning that delay will worsen and prolong the crisis.",
+    "category": "no error"
+  }
+]

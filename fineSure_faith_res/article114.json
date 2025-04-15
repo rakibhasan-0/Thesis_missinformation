@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "January 2024 was the hottest ever recorded, with global temperatures 1.75°C above pre-industrial levels, despite the expected cooling effects of La Niña.",
+    "reason": "The transcript confirms January 2024 was the hottest on record at 1.75°C above pre-industrial levels and notes this occurred despite expectations that La Niña would cool temperatures.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Scientists warn this continues a trend of extreme heat, pushing the planet dangerously close to surpassing the 1.5°C warming threshold set by the Paris Agreement.",
+    "reason": "The transcript includes warnings from scientists, particularly Burgess, that the recent heat trend puts us close to the 1.5°C limit, though the Paris Agreement is based on long-term averages.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The rise in temperature has intensified natural disasters like wildfires, floods, and heatwaves across multiple regions.",
+    "reason": "The transcript cites multiple examples of 2024 disasters—wildfires, floods, and heatwaves—and confirms that many were intensified by climate change.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Ocean temperatures remain high due to past El Niño events, further driving global warming.",
+    "reason": "The transcript states that El Niño has warmed ocean waters and that oceans are retaining heat, influencing high global temperatures.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Human activities, especially the burning of fossil fuels, are the main contributors to this warming, with emissions still rising.",
+    "reason": "The transcript attributes the main cause of warming to fossil fuel use and confirms that greenhouse gas concentrations continue to rise.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Experts emphasize urgent climate action is needed now to prevent more severe impacts, as even small temperature increases can have major consequences for ecosystems and societies.",
+    "reason": "Multiple experts in the transcript stress the urgency of climate action and note that even fractional temperature increases have serious consequences.",
+    "category": "no error"
+  }
+]

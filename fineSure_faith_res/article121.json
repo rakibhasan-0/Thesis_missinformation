@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "While paper is often perceived as more environmentally friendly than plastic, both materials have significant ecological drawbacks.",
+    "reason": "The transcript discusses consumer perceptions favoring paper and highlights the environmental downsides of both paper and plastic packaging.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Paper production contributes to deforestation and emissions, and it often contains plastic linings that hinder recyclability.",
+    "reason": "The transcript confirms that paper production emits greenhouse gases and may contribute to deforestation; it also states that paper products like cups are often lined with plastic, making them hard to recycle.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Plastic, derived from fossil fuels, produces more emissions overall and is rarely recycled, with much of it exported to countries in the Global South.",
+    "reason": "The transcript states that plastic production contributes around 3.5% of global emissions, most plastic isn't recycled, and waste is frequently exported to the Global South.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Bioplastics are promoted as greener alternatives, but they can also contain harmful chemicals and raise concerns about land use and food security.",
+    "reason": "The transcript notes that bioplastics can contain harmful chemicals and raises issues around land use, deforestation, and food security due to sourcing from crops like corn and sugar.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Experts agree that focusing on recycling alone isn’t enough and urge a shift toward reusable packaging and reducing consumption altogether.",
+    "reason": "The transcript features multiple experts advocating for reuse and reduction of consumption, rather than relying solely on recycling.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The real issue lies in the culture of single-use products, which drives environmental harm regardless of material choice.",
+    "reason": "The transcript concludes that single-use culture is the central problem, regardless of whether products are made of paper or plastic.",
+    "category": "no error"
+  }
+]

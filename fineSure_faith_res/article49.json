@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "Campaigners are calling on politicians to support the upcoming climate and nature bill to help farmers adapt to the growing climate crisis.",
+    "reason": "The transcript supports this statement, noting that campaigners are urging ministers to support the bill to help farmers adapt and thrive.",
+    "category": "no error"
+  },
+  {
+    "sentence": "With 70% of UK land being farmed and 300,000 people employed in agriculture, forestry, and fishing, the sector is vital to the country’s economy and food security.",
+    "reason": "The transcript mentions that 70% of land is farmed and 300,000 people are employed across agriculture, forestry, and fishing, emphasizing the sector's importance.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Although agricultural emissions have dropped by 12% in the past 30 years, farmers are increasingly impacted by extreme weather events such as floods, droughts, and heatwaves.",
+    "reason": "The transcript confirms a 12% emissions reduction and notes farmers face rising temperatures, droughts, and flooding, but does not mention heatwaves specifically.",
+    "category": "out-of-context error"
+  },
+  {
+    "sentence": "These challenges threaten the sustainability of farming unless stronger climate measures are enacted.",
+    "reason": "The transcript supports this point by warning that without action to tackle emissions and protect nature, these events will continue and threaten farming.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Supporters argue that farmers should be better equipped to protect nature and adapt to environmental changes.",
+    "reason": "The transcript argues that farmers need support to become stewards of the land and adapt to climate change, which matches this summary sentence.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Backing the climate and nature bill, supported by 1,700 organizations, is seen as a crucial step in securing the future of UK farming.",
+    "reason": "The transcript confirms that 1,700 organizations support the bill and that it is viewed as a way to help farmers adapt and thrive.",
+    "category": "no error"
+  }
+]

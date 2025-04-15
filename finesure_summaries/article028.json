@@ -1,0 +1,13 @@
+{
+  "doc_id": "article_028",
+  "model": "gpt-4",
+  "transcript": "Changes to the thermosphere caused by climate crisis could lead to increase in collisions.Chicken Licken warned that the sky was falling down, and now the climate crisis might be making that come true. Carbon dioxide and other greenhouse gases are cooling and contracting the upper atmosphere, even though these same gases warm the lower atmosphere. A new concern is now up in the thermosphere at around 125-620 miles (200-1,000km) above Earth, where the International Space Station and about 11,900 satellites are in low Earth orbit, with the number of satellites rapidly increasing. As the thermosphere contracts, it reduces the drag, which pulls space junk and old satellites down to lower altitudes where they eventually burn up, removing them from orbit. But with less drag in the thermosphere, more satellites are left in orbit, which increases the risks of collisions between satellites. A collision could give off showers of debris that remain in orbit for decades or centuries, threatening a runaway cascade of collisions with so much debris that no satellite would be able to safely operate there. Estimates suggest that at the current rate of greenhouse emissions, the number of satellites that could safely remain in orbit would be reduced by at least half by the end of this century.",
+  "sentences": [
+    "Global heating is causing the Earth's upper atmosphere, specifically the thermosphere, to cool and contract due to the effects of greenhouse gases.",
+    "This contraction reduces atmospheric drag, which normally helps clear old satellites and space debris by pulling them down to burn up in the atmosphere.",
+    "With less drag, more debris remains in low Earth orbit, increasing the risk of satellite collisions.",
+    "Such collisions could generate long-lasting debris fields that endanger future satellite operations.",
+    "Scientists warn that this could lead to a cascade of space debris events, potentially rendering parts of orbit unusable.",
+    "Projections indicate that if greenhouse gas emissions continue at current rates, the number of satellites that can safely operate in orbit may drop by at least 50% by the century’s end."
+  ]
+}

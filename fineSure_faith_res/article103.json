@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "A record-breaking heatwave is threatening over 130 million people across the United States, with temperatures soaring above 100°F (38°C) in multiple regions, including the Pacific Northwest, Mid-Atlantic, and Northeast.",
+    "reason": "The transcript confirms that more than 130 million people are affected by a record-breaking heatwave, with forecasts of temperatures exceeding 100°F in the Pacific Northwest, Mid-Atlantic, and Northeast.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Cities like Eugene, Portland, and Baltimore are under excessive heat warnings, with some areas expected to reach heat index values of 110°F (43°C).",
+    "reason": "The transcript specifically mentions Eugene and Portland (Oregon) as cities where records could be broken, and Baltimore is under an excessive heat warning with heat index values potentially reaching 110°F.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The National Weather Service has extended its heat advisories and urged the public to stay hydrated and avoid sun exposure.",
+    "reason": "The transcript says the NWS extended excessive heat warnings and issued advisories recommending staying hydrated and avoiding sun exposure, matching this summary.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The intense heat has also heightened wildfire risks, with major fires burning in California’s Butte County and near Yosemite National Park.",
+    "reason": "The transcript mentions that hot, dry, windy conditions have increased fire risks, and discusses the Thompson Fire in Butte County and the French Fire near Yosemite, aligning with the summary.",
+    "category": "no error"
+  },
+  {
+    "sentence": "In addition, southern Texas is preparing for heavy rainfall from Hurricane Beryl's remnants.",
+    "reason": "The transcript clearly states that southern Texas is expecting heavy rains early next week due to the remnants of Hurricane Beryl.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Experts link the extreme conditions to heat domes and high humidity, which have plagued the Midwest since June.",
+    "reason": "The transcript attributes the Midwest's extreme heat to high humidity and the presence of heat domes since June, making this summary accurate.",
+    "category": "no error"
+  }
+]

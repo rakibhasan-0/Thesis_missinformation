@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "Plastic production continues to rise, largely driven by fossil fuel companies shifting focus from energy to petrochemicals, with projections suggesting production could triple by 2060.",
+    "reason": "The transcript confirms that fossil fuel companies are investing heavily in petrochemicals and that plastic production is projected to triple by 2060.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Despite growing awareness of the environmental impacts and low recycling rates, efforts to cap production have met resistance.",
+    "reason": "The transcript discusses the low global recycling rates (~9%) and resistance to production caps, especially during global treaty negotiations.",
+    "category": "no error"
+  },
+  {
+    "sentence": "California is suing ExxonMobil, accusing it of misleading the public about plastic recyclability and contributing to the plastic waste crisis.",
+    "reason": "The transcript states that California's lawsuit alleges ExxonMobil misled the public about recycling and played a role in worsening the plastic crisis.",
+    "category": "no error"
+  },
+  {
+    "sentence": "While Exxon promotes 'advanced recycling,' critics argue it addresses only a small fraction of total plastic production and serves more as a public relations tool.",
+    "reason": "The transcript quotes critics calling Exxon’s advanced recycling efforts a PR stunt that accounts for a very small portion of overall production.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The case could set a precedent, potentially encouraging further litigation to hold fossil fuel companies accountable.",
+    "reason": "The transcript includes expert opinions that the California case may inspire similar lawsuits and influence legal strategies globally.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Experts emphasize the need to reduce virgin plastic production to achieve meaningful environmental change.",
+    "reason": "Multiple experts in the transcript stress reducing virgin plastic production as essential to solving the plastic pollution crisis.",
+    "category": "no error"
+  }
+]

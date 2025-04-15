@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "A new study finds that the Atlantic meridional overturning circulation (Amoc), a key climate-regulating ocean current system, is unlikely to collapse entirely this century, though significant weakening remains probable.",
+    "reason": "This accurately reflects the transcript statement that Amoc is unlikely to completely collapse this century but could weaken significantly.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Using 34 advanced climate models, researchers observed that even under extreme conditions, Amoc slowed by 20% to 80% but did not fully cease, largely due to winds in the Southern Ocean sustaining circulation.",
+    "reason": "The transcript confirms these findings: 34 climate models showed a slowdown of 20–80%, without total collapse, partly because Southern Ocean winds kept water moving.",
+    "category": "no error"
+  },
+  {
+    "sentence": "However, scientists stress that even a substantial weakening could bring devastating global effects, including disrupted rainfall, extreme weather, and rising sea levels.",
+    "reason": "The transcript mentions major impacts from weakening, such as floods, droughts, sea level rise, and other severe consequences.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The study highlights gaps in model resolution and calls for better data collection in critical ocean regions.",
+    "reason": "In the transcript, researchers discuss the need for improved observations and more detailed models, especially in the Southern, Pacific, and Indian Oceans.",
+    "category": "no error"
+  },
+  {
+    "sentence": "While reassuring in the short term, experts warn that a collapse after 2100 remains a real risk, underscoring the urgent need to cut greenhouse gas emissions.",
+    "reason": "The transcript explicitly states that a collapse after 2100 cannot be ruled out and that cutting emissions remains critical.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Despite some disagreement on the exact definition of “collapse,” the consensus is that any strong decline in Amoc poses serious threats to climate stability and human societies.",
+    "reason": "The transcript shows different definitions of ‘collapse’ but agreement that a severe weakening poses major risks.",
+    "category": "no error"
+  }
+]

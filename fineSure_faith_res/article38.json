@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "At least 16 people have died and over 100 are missing after catastrophic flooding struck Bahía Blanca and Cerri in Argentina, where a year's worth of rain fell in just eight hours.",
+    "reason": "The transcript confirms that at least 16 people died, over 100 are missing, and that Bahía Blanca and Cerri received a year’s worth of rain in eight hours.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Two young girls are among the missing, and a truck driver who tried to save them also perished.",
+    "reason": "The transcript states that two girls, ages one and five, are missing and that the truck driver who attempted to rescue them died.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The floods destroyed infrastructure, displaced over 1,000 people, and left many homes submerged, prompting President Javier Milei to declare three days of national mourning.",
+    "reason": "The transcript confirms all components: infrastructure damage, 1,000+ evacuated, submerged homes, and President Milei’s mourning declaration.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Criticism has mounted over the government's recent closure of the national emergency directorate just days before the disaster.",
+    "reason": "The transcript reports that the emergency directorate was closed three days before the storm and that this has led to government criticism.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Argentina’s economy ministry pledged AR$10bn for recovery, as public figures like Lionel Messi and Pope Francis extended condolences.",
+    "reason": "The transcript confirms the economic pledge and the expressions of sympathy from Lionel Messi and Pope Francis.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Experts link the extreme rainfall to climate change, which is increasing the frequency and intensity of such weather events.",
+    "reason": "The transcript states that extreme rainfall has become more common and intense due to human-caused climate breakdown, aligning with the sentence.",
+    "category": "no error"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "Just Stop Oil (JSO), known for its disruptive climate protests, has announced it will disband by the end of April, claiming success in pressuring the government to halt new oil and gas licenses.",
+    "reason": "The transcript confirms that JSO announced it would disband at the end of April and claims success in achieving its demand for a stop to new oil and gas licences, even though the government denies the influence.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Despite this, government officials deny any link between policy and JSO's actions, and the broader goal of ending fossil fuel production remains unmet.",
+    "reason": "This is consistent with the transcript, which states that the government denies any link to JSO and acknowledges that fossil fuel production continues.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Since 2022, JSO has staged high-profile stunts and road blockades that drew massive media attention and public backlash, leading to stricter protest laws and the imprisonment of several activists.",
+    "reason": "The transcript details JSO's activities since 2022, their media coverage, the resulting public anger, stricter protest laws, and the imprisonment of activists.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The group emerged from Extinction Rebellion as a more radical, focused movement modeled on historical civil disobedience campaigns.",
+    "reason": "The transcript explains that JSO was founded by members of XR seeking a more radical and focused approach inspired by historical civil resistance movements.",
+    "category": "no error"
+  },
+  {
+    "sentence": "While JSO insists its decision is not due to government crackdowns, some members suggest a future shift in strategy, potentially forming a new movement.",
+    "reason": "JSO leaders deny the decision to disband was due to crackdowns, and there are references to a new strategy and possibly a new movement.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Its final protest may be the last under its current name, but disruptive actions may continue under a different banner.",
+    "reason": "The transcript notes that while the final protest will mark the end of JSO, members said disruptive tactics may return under a new name and strategy.",
+    "category": "no error"
+  }
+]

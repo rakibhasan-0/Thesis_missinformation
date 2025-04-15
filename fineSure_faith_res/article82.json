@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "The UK is unprepared for increasingly extreme weather events like Storm Darragh, which brought deadly winds and widespread power outages, according to Emma Pinchbeck, the new head of the Climate Change Committee.",
+    "reason": "The transcript confirms that Emma Pinchbeck said the UK is 'not ready' for extreme weather like Storm Darragh, which caused deaths and power outages.",
+    "category": "no error"
+  },
+  {
+    "sentence": "She warned that the UK is 'off track' in adapting to climate risks, highlighting urgent needs for stronger flood defences, heat-resilient cities, and infrastructure upgrades.",
+    "reason": "Pinchbeck stated the UK is 'off track' and emphasized the need for improvements in flood defences, urban heat adaptation, and infrastructure.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The government's own 2022 climate risk assessment estimates potential costs of billions annually if warming reaches 4°C.",
+    "reason": "The transcript mentions the 2022 climate risk assessment warned of impacts costing billions annually and the need to prepare for 4°C warming, aligning with the summary.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Pinchbeck emphasized that preparing for such impacts must happen regardless of emissions targets, citing risks to food security, housing, and coastal communities.",
+    "reason": "Pinchbeck stated adaptation is needed regardless of emissions reductions, and highlighted risks to food, housing, and coastal towns.",
+    "category": "no error"
+  },
+  {
+    "sentence": "While Deputy Prime Minister Angela Rayner said more funding has been directed to flood defences and future housing plans will consider environmental factors, critics argue that current efforts remain insufficient.",
+    "reason": "Rayner's comments about funding flood defences and environmentally conscious housing plans are in the transcript, but the summary adds unspecified 'critics' arguing insufficiency, which is not mentioned.",
+    "category": "out-of-context error"
+  },
+  {
+    "sentence": "The government has yet to formally respond to Pinchbeck’s comments.",
+    "reason": "The transcript ends by stating the BBC has asked the government to respond to Pinchbeck’s remarks, indicating no official response had yet been given.",
+    "category": "no error"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "A new study has found that certain fungi are evolving to survive at human body temperature and resist antifungal drugs, potentially increasing their ability to infect humans.",
+    "reason": "The transcript confirms that fungi are adapting to 37°C, mutating more rapidly at that temperature, and becoming drug-resistant, which raises concern over their ability to infect humans.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Researchers in China identified two rare fungal infections caused by species previously not known to affect humans, which tolerated 37°C and mutated more rapidly at higher temperatures.",
+    "reason": "The transcript confirms that researchers in China found two such cases involving fungi that tolerated human body temperature and showed increased mutation rates at 37°C.",
+    "category": "no error"
+  },
+  {
+    "sentence": "While the study links this adaptation to rising global temperatures, experts debate whether climate change is directly responsible.",
+    "reason": "The transcript reflects that the study suggests a link to global warming, but experts like Vyas and Gabaldón caution against drawing a direct conclusion, noting the need for more evidence.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Drug-resistant fungal pathogens, like Candida auris, have been detected globally and pose a growing health risk, especially given the limited antifungal treatments available.",
+    "reason": "The transcript mentions the global spread of Candida auris and emphasizes the risk of drug-resistant fungi, particularly due to the limited number of antifungal drug families.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Scientists warn of the increasing challenge due to fungi's biological similarity to humans, making drug development complex.",
+    "reason": "The transcript notes that fungi and humans are both eukaryotic, complicating antifungal drug development due to the risk of side effects.",
+    "category": "no error"
+  },
+  {
+    "sentence": "However, understanding these emerging threats may help in developing better defenses against future outbreaks.",
+    "reason": "The transcript quotes Vyas saying that studies like these help us understand fungal adaptation and can aid in preparing future defenses.",
+    "category": "no error"
+  }
+]

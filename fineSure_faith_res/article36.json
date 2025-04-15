@@ -1,0 +1,37 @@
+[
+  {
+    "sentence": "Trump’s energy secretary, Chris Wright, told oil executives at CERAWeek that the U.S.",
+    "reason": "The transcript confirms that Chris Wright, Trump’s energy secretary, addressed fossil fuel executives at CERAWeek.",
+    "category": "no error"
+  },
+  {
+    "sentence": "will pursue increased fossil fuel production, criticizing Biden’s climate policies as damaging and ideologically driven.",
+    "reason": "Wright explicitly stated the administration will support more energy production and harshly criticized Biden's policies as 'irrational' and 'quasi-religious'.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Wright, a former fracking executive, acknowledged climate change but downplayed the ability of renewables to replace fossil fuels and emphasized the need to address global energy poverty.",
+    "reason": "This matches the transcript where Wright admits fossil fuels contribute to warming, doubts renewables' ability to replace them, and highlights energy poverty.",
+    "category": "no error"
+  },
+  {
+    "sentence": "He argued that developing nations, especially in Africa, should not be discouraged from using coal, sparking backlash from climate advocates.",
+    "reason": "The transcript shows Wright stated it was '100% nonsense' to discourage Africa from using coal, which led to criticism from climate advocates.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Wright promoted an 'all-of-the-above' energy strategy and announced a permit extension for a floating LNG project.",
+    "reason": "The transcript confirms Wright advocated for an 'all-of-the-above' strategy and announced a permit extension for the Delfin LNG project.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Critics condemned the lack of public access to his speech and accused the Trump administration of prioritizing fossil fuel interests over climate and public welfare.",
+    "reason": "The transcript notes the speech was not publicly streamed and includes quotes from critics condemning this and the administration’s favoritism toward fossil fuels.",
+    "category": "no error"
+  },
+  {
+    "sentence": "His remarks reflect a broader rollback of climate initiatives and a renewed alignment with the fossil fuel industry.",
+    "reason": "Wright’s comments and the Trump administration’s actions, such as suspending renewable development and favoring fossil fuels, reflect this summary statement.",
+    "category": "no error"
+  }
+]

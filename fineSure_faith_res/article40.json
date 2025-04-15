@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "The Council of Europe has told Switzerland it must strengthen its climate policies to comply with a landmark European Court of Human Rights ruling, which found the government had failed to protect older women from climate-related harms.",
+    "reason": "The summary accurately reflects that the Council of Europe instructed Switzerland to align with the court ruling, which originated from a case by elderly women vulnerable to heatwaves.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The ruling followed a successful case by KlimaSeniorinnen, a group of elderly women arguing that heatwaves endangered their rights.",
+    "reason": "The transcript confirms KlimaSeniorinnen won the case on the grounds that heatwaves violated their rights to privacy and family life.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Although Switzerland submitted an 'action report,' it fell short of the required action plan and did not include a carbon budget.",
+    "reason": "The transcript explicitly mentions that Switzerland submitted an action report instead of a required action plan and did not include a carbon budget.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The committee of ministers called on Switzerland to align its emissions targets with the court’s decision and provide clearer evidence of citizen involvement and protective adaptation measures.",
+    "reason": "The committee did ask Switzerland to show alignment with the ruling through carbon budgeting or similar methods, and to provide examples of citizen involvement and adaptation planning.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Climate advocates welcomed the ruling’s enforcement as a step toward accountability and stronger climate action across Europe.",
+    "reason": "The transcript includes multiple advocates expressing support for the enforcement of the ruling and its importance for climate accountability.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Switzerland has until September to demonstrate its compliance and clarify how its climate strategy meets legal human rights obligations.",
+    "reason": "The transcript states that Switzerland has until September to provide information on its compliance with the ruling, including on human rights grounds.",
+    "category": "no error"
+  }
+]

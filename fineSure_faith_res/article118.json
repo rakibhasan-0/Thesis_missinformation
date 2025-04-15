@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "In 2023, global deforestation exceeded targets, with 6.37 million hectares lost—far surpassing the 4.4 million hectare limit needed to stay on track for ending deforestation by 2030.",
+    "reason": "The transcript confirms that 6.37 million hectares were lost in 2023, exceeding the 4.4 million hectare target necessary to stay on track for ending deforestation by 2030.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Nearly all forest loss occurred in tropical countries, with Brazil showing improvement in the Amazon but increases elsewhere like El Cerrado.",
+    "reason": "The transcript states that 96% of deforestation occurred in tropical countries, and while deforestation in the Amazon dropped under Lula, it increased in Brazil's El Cerrado region.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Bolivia and Indonesia experienced major setbacks, partly due to rising demand for materials used in 'eco-friendly' products.",
+    "reason": "The transcript notes a 351% increase in Bolivia's deforestation and a reversal in Indonesia, partially driven by demand for viscose and nickel used in 'eco-friendly' goods.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Despite commitments made at COP26, the goal of ending deforestation is not being met.",
+    "reason": "The transcript references commitments made by 140+ countries at the 2021 UN Climate Change Conference (COP26) to end deforestation, which the report says are not being met.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Experts stress the need for consistent political will and reduced consumption of natural resources.",
+    "reason": "The transcript quotes experts emphasizing the need for forest protection to be shielded from political/economic shifts and a reduction in overexploitation of resources.",
+    "category": "no error"
+  },
+  {
+    "sentence": "While recovery is still possible, stronger international support and policy implementation are essential to reverse the trend.",
+    "reason": "The transcript includes Palmegiani stating that course correction is still possible and calls for more international support and action to reverse deforestation trends.",
+    "category": "no error"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "sentence": "Gasoline prices in Canada dropped significantly after Prime Minister Mark Carney eliminated the consumer carbon tax, which had been in place since 2019.",
+    "reason": "The transcript states that Prime Minister Mark Carney removed the consumer carbon tax that had been in place since 2019, leading to a sharp drop in gasoline prices across Canada.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The removal led to price declines of over six cents per litre in eight provinces, with New Brunswick seeing the steepest drop.",
+    "reason": "The transcript confirms that eight provinces saw fuel prices drop by over six cents per litre, with New Brunswick seeing the largest decline at 15 cents per litre.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The Canadian Fuels Association estimates consumers could save over C$500 annually due to the expected 20 cents per litre decrease.",
+    "reason": "The transcript reports that the Canadian Fuels Association expects a 20 cents per litre drop in prices, equating to more than C$500 in annual consumer savings.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Quebec, now the only province with a carbon levy, saw a slight price increase.",
+    "reason": "The transcript confirms Quebec is now the only province with a carbon levy and saw a 1.9 cents per litre price increase.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Experts suggest the lower prices may encourage more domestic travel by car, but potential U.S.",
+    "reason": "The transcript includes Susan Bell suggesting that lower fuel prices might lead Canadians to drive domestically rather than fly to the U.S., but also mentions U.S. tariffs and economic uncertainty could weigh on demand.",
+    "category": "no error"
+  },
+  {
+    "sentence": "tariffs and economic uncertainties could dampen fuel demand.",
+    "reason": "The transcript supports this, noting that U.S. tariffs and global economic uncertainty could affect Canada's unemployment rate and fuel consumption.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The full impact of the tax repeal on fuel consumption remains uncertain due to broader global economic factors.",
+    "reason": "The transcript quotes the Canadian Fuels Association saying it's difficult to gauge the full demand impact due to many influencing global economic factors.",
+    "category": "no error"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "Disney’s live-action remakes of *Snow White* and *The Little Mermaid* produced more carbon emissions in the UK than the latest *Fast & Furious* film, with their combined emissions surpassing annual totals from major airports like Birmingham and Luton.",
+    "reason": "The transcript states that both Disney films produced more UK emissions than the latest *Fast & Furious* film and that their combined emissions exceeded those of Birmingham and Luton airports, making this factually accurate.",
+    "category": "no error"
+  },
+  {
+    "sentence": "*Snow White* alone generated over 3,000 tonnes of CO₂ equivalent, while *The Little Mermaid* added more than 5,000, far exceeding typical benchmarks for large-scale productions.",
+    "reason": "This aligns with the transcript, which states *Snow White* generated 3,153 tCO₂e and *The Little Mermaid* 5,127 tCO₂e, both higher than the tentpole benchmark of ~2,600 tCO₂e.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Despite being made by an American studio, both films were shot in the UK and benefited from significant government subsidies.",
+    "reason": "This is correct—the transcript says Disney is an American studio, both films were shot at Pinewood Studios in the UK, and they received £44.9m and £49.7m in UK government subsidies respectively.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The high emissions were mainly due to fuel use for portable generators and other production activities, though efforts were made to mitigate the impact using battery-powered equipment and green electricity.",
+    "reason": "The transcript states that fuel for portable generators was a major source of emissions, and that battery-powered and hybrid generators, as well as renewable electricity, were used to reduce impact.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Disney’s environmental disclosures follow UK reporting requirements but exclude global emissions, suggesting the actual total could be even higher.",
+    "reason": "This is supported by the transcript, which states that UK disclosure rules apply and that global totals could be higher, e.g., *The Little Mermaid* was also filmed in Sardinia.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The report adds to controversies surrounding *Snow White*, which has underperformed financially and faced public backlash.",
+    "reason": "The transcript confirms *Snow White* is expected to lose $115 million and has been plagued by controversy, thus supporting this summary sentence.",
+    "category": "no error"
+  }
+]

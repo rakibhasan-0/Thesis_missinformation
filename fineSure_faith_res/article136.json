@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "A new study published in Nature reveals that Canada’s 2023 wildfires emitted more carbon than all but three countries—China, the U.S., and India.",
+    "reason": "The transcript explicitly states that the 2023 Canadian wildfires produced more carbon emissions than all but China, the U.S., and India.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The fires released approximately 647 teragrams of carbon, far surpassing Canada’s usual annual wildfire emissions and even exceeding the country's total annual emissions.",
+    "reason": "The transcript confirms the 647 Tg figure and states this exceeded both Canada's typical wildfire emissions and its total annual emissions.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Fueled by record-high temperatures and drought, these fires raise serious concerns about the long-term role of Canada’s boreal forests in absorbing carbon dioxide.",
+    "reason": "The transcript mentions that the fires were caused by high temperatures and drought, and expresses concern that frequent fires may compromise forests' ability to absorb CO2.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Scientists warn that if extreme wildfire seasons become more common, Canada’s forests may no longer function as effective carbon sinks, impacting global climate projections.",
+    "reason": "The transcript states scientists are concerned that more frequent intense wildfires may reduce the carbon storage capacity of Canada’s forests, affecting climate modeling.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The study underscores the urgency of re-evaluating carbon budgets as climate change intensifies, with Canada warming at twice the global average.",
+    "reason": "The transcript supports this by stating that warming in Canada is occurring at twice the global average and that the study raises concerns about climate models and carbon budgets.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Researchers caution that the hot, dry conditions of 2023 could become the norm by the 2050s, with increasing wildfire frequency and intensity.",
+    "reason": "According to the transcript, Brendan Byrne warns that 2023-like hot, dry conditions could become normal by the 2050s, contributing to more frequent and intense wildfires.",
+    "category": "no error"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "A new analysis reveals that industry delegates vastly outnumber environmental groups at key UN aviation body meetings, raising concerns about the influence of fossil fuel and airline interests over climate policy.",
+    "reason": "The transcript confirms that industry delegates outnumbered environmental groups by 10 to one at the 2022 CAEP meeting and that this raised concerns about industry influence.",
+    "category": "no error"
+  },
+  {
+    "sentence": "At the 2022 CAEP meeting, 125 industry representatives were present, compared to just 11 from green groups, and major ICAO events have been sponsored by companies like ExxonMobil, Shell, and Saudi Aramco.",
+    "reason": "The transcript states that 125 industry delegates and 11 green group representatives attended the 2022 CAEP meeting, and recent ICAO events were indeed sponsored by the listed companies.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Critics say this imbalance and lack of transparency are hindering progress on emissions reductions in aviation, a sector dominated by wealthy frequent flyers and responsible for high levels of pollution.",
+    "reason": "The transcript includes criticism about the imbalance and lack of transparency, and notes that aviation is highly polluting and dominated by wealthy frequent flyers.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The ICAO’s offsetting and efficiency schemes are seen as weak, with experts arguing that aviation growth must be curbed to meet climate targets.",
+    "reason": "Experts in the transcript describe the ICAO’s offsetting scheme as 'unambitious and problematic' and argue that curbing aviation growth is necessary for climate goals.",
+    "category": "no error"
+  },
+  {
+    "sentence": "There are growing calls for more transparency, with the U.S. and some ICAO delegates pushing for public access to documents and greater accountability.",
+    "reason": "The transcript details calls for transparency from the U.S. delegation and unnamed ICAO delegates, specifically about public access to documents and accountability.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The ICAO has not responded to these concerns, and its next CAEP meeting remains closed to the public and media.",
+    "reason": "The transcript confirms ICAO did not respond to a request for comment and that the upcoming CAEP meeting is not open to the public or media.",
+    "category": "no error"
+  }
+]

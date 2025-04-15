@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "Ana Toni, the chief executive of the upcoming Cop30 climate summit, warned that neglecting climate action in favor of defense spending could increase global conflict.",
+    "reason": "Toni explicitly warns that reducing climate efforts for defense spending could lead to more wars, aligning with the statement.",
+    "category": "no error"
+  },
+  {
+    "sentence": "She emphasized that climate change exacerbates poverty and inequality, which can lead to future wars, and urged countries to integrate climate initiatives with national security strategies.",
+    "reason": "This sentence accurately reflects Toni's statements about climate change leading to inequality, poverty, and potentially wars, and her suggestion to consider climate within security planning.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Toni criticized the UK’s decision to cut overseas aid and renewable energy funding to boost defense budgets, warning it sends a harmful signal to developing nations.",
+    "reason": "The summary correctly states Toni’s criticism of UK aid and energy funding cuts and her concern about the message it sends.",
+    "category": "no error"
+  },
+  {
+    "sentence": "She praised Germany’s balanced approach of increasing both climate and defense spending and highlighted China's continued leadership in decarbonization despite the US stepping back under Trump.",
+    "reason": "The transcript mentions Germany's spending on both areas but does not include Toni praising Germany specifically, making this an out-of-context attribution.",
+    "category": "out-of-context error"
+  },
+  {
+    "sentence": "Toni also stressed that climate plans, such as nationally determined contributions (NDCs), should be seen as tools for development and investment.",
+    "reason": "This aligns with Toni’s comment that NDCs could be part of economic and social development plans and attract investment.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Brazil and Azerbaijan are collaborating on a roadmap to fulfill a $300bn annual climate finance pledge by 2035.",
+    "reason": "The transcript confirms Brazil and Azerbaijan are working together on a roadmap to achieve this climate finance goal.",
+    "category": "no error"
+  }
+]

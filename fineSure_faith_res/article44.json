@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "Hundreds of protesters gathered outside London’s high court to support 16 Just Stop Oil activists appealing their combined 41-year prison sentences for peaceful climate protests.",
+    "reason": "This statement reflects the transcript accurately, noting that hundreds protested in support of 16 jailed activists serving a combined 41 years for peaceful protests.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Protesters, including public figures like Hugh Fearnley-Whittingstall and Chris Packham, criticized the sentences as 'draconian' and a threat to democratic rights.",
+    "reason": "The transcript confirms Hugh Fearnley-Whittingstall and Chris Packham joined the protest and referred to the sentences as 'draconian' and eroding democratic rights.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Organizers described the jailed activists as 'political prisoners' and compared their actions to historical freedom fighters.",
+    "reason": "The transcript notes protesters held signs calling the jailed activists 'political prisoners' and referenced figures like Angela Davis and Nelson Mandela.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Inside court, prosecutors defended the severity of the sentences, calling the protests a major planned disruption.",
+    "reason": "Prosecutors referred to the protests as an organized conspiracy intended to cause significant disruption, justifying the severity of the sentences.",
+    "category": "no error"
+  },
+  {
+    "sentence": "They argued that conscientious motivation does not automatically warrant reduced sentencing.",
+    "reason": "The transcript outlines the crown’s argument that conscientious motives do not necessarily mitigate sentencing, emphasizing judges’ discretion in such cases.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The protest remained peaceful, and police confirmed no arrests were made during the demonstration.",
+    "reason": "The Metropolitan police stated that protesters left voluntarily and that no arrests were made, indicating the demonstration stayed peaceful.",
+    "category": "no error"
+  }
+]

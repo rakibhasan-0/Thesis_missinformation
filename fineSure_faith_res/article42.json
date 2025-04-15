@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "The cattle feed additive Bovaer, proven to reduce methane emissions, became the subject of widespread misinformation following a pilot program by food giant Arla.",
+    "reason": "The transcript confirms that Bovaer is scientifically shown to reduce methane and that misinformation spread after Arla announced a pilot program involving the additive.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Claims on social media alleged health risks, including cancer and infertility, and falsely linked Bill Gates to population control, despite no connection between him and the product.",
+    "reason": "The transcript describes social media claims about cancer, infertility, and Bill Gates, clarifying that Gates is not connected to Bovaer but to a separate company, making the summary factually accurate.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The UK’s Food Standards Agency clarified that Bovaer is safe for use, does not enter the milk supply, and poses no risk to consumers.",
+    "reason": "The FSA's guidance in the transcript confirms that Bovaer is safe, is not present in milk, and poses no risk to consumers when used at approved doses.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Scientists emphasized that misinformation about the product shows the urgent need for better public communication about climate solutions.",
+    "reason": "Both scientists quoted in the transcript, including Dr. Sinéad Waters and Prof. Robin May, emphasized the need for better communication with the public due to misinformation.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The incident has drawn attention from political figures and prompted renewed calls for transparent science outreach.",
+    "reason": "The transcript mentions political figure Rupert Lowe's involvement and scientists calling for better communication, supporting this summary statement.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Experts stress that reducing methane is critical in addressing climate change and Bovaer remains a scientifically backed method to achieve that goal.",
+    "reason": "The transcript includes expert commentary on the importance of methane reduction and notes that Bovaer has undergone years of testing and is approved in many countries.",
+    "category": "no error"
+  }
+]

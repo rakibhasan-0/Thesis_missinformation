@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "JP Morgan has invested over £200m from its 'sustainable' funds into Glencore, a mining giant accused of serious environmental breaches in South Africa.",
+    "reason": "This is a correct summary of the transcript, which states JP Morgan invested over £200m from 'sustainable' funds into Glencore, which is accused of environmental breaches in South Africa.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Campaigners and local communities have expressed outrage, pointing to pollution and ongoing violations at Glencore’s Tweefontein mine, including water contamination and poor waste management.",
+    "reason": "The summary accurately reflects concerns from campaigners and Phola residents about pollution, water contamination, and poor waste management at Tweefontein mine.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Although Glencore's coal profits are substantial, the company remains under the threshold that would disqualify it from JP Morgan's ESG funds under current rules.",
+    "reason": "The transcript confirms Glencore's coal profits are significant but its revenue from thermal coal is below the 20% threshold set by JP Morgan’s ESG fund rules, so this is accurate.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Critics argue that these investment criteria mislead consumers and may even breach EU laws on deceptive commercial practices.",
+    "reason": "Jakob Thomä is quoted in the transcript expressing concern that the criteria may mislead consumers and violate EU law, aligning with this summary statement.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Calls have been made for JP Morgan to review these investments, especially as the environmental, social, and governance (ESG) investing sector faces increasing scrutiny.",
+    "reason": "The transcript notes that Liefferink wrote to JP Morgan urging a review of Glencore investments, and ESG investing is described as facing growing scrutiny.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Despite repeated regulatory findings, Glencore maintains it is committed to ethical practices and has addressed prior violations.",
+    "reason": "The transcript mentions Glencore's repeated violations and their claim of taking action and being committed to ethical practices, making this a factually accurate summary.",
+    "category": "no error"
+  }
+]

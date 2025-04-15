@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "China is set to launch its first global green sovereign bond, valued at 6 billion yuan ($825 million), on the London Stock Exchange, marking a significant step in its efforts to expand its green finance footprint.",
+    "reason": "The transcript confirms China will issue a 6 billion yuan green sovereign bond on the London Stock Exchange and intends to expand its presence in the green finance market.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The bond will come in two parts with 3-year and 5-year maturities and fixed interest rates expected to be below 2%, subject to market demand.",
+    "reason": "The transcript states the bond has 3-year and 5-year maturities, fixed rates, and expected sub-2% interest depending on market demand.",
+    "category": "no error"
+  },
+  {
+    "sentence": "This move follows the release of China's green bond framework, aimed at attracting international funds for low-carbon and sustainable development.",
+    "reason": "The transcript mentions the green bond framework was released in February to attract international funds for domestic green and low-carbon development.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Key priorities include climate change mitigation and adaptation, pollution control, and biodiversity conservation.",
+    "reason": "The transcript lists China's five key priorities including climate change mitigation, adaptation, pollution control, and biodiversity conservation.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The funds raised may support projects like EV charging infrastructure and national parks.",
+    "reason": "An investor mentioned the money might be used for EV charging and national parks, which is accurately reflected by the use of 'may support' in the summary.",
+    "category": "no error"
+  },
+  {
+    "sentence": "This debut is part of China's broader climate goals to peak carbon emissions before 2030 and reach carbon neutrality by 2060.",
+    "reason": "The transcript states China's climate goals are to peak emissions before 2030 and be carbon neutral by 2060, providing correct context for the bond issuance.",
+    "category": "no error"
+  }
+]

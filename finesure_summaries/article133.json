@@ -1,0 +1,13 @@
+{
+  "doc_id": "article_133",
+  "model": "gpt-4",
+  "transcript": "A laboratory has been using bees to track how the environment is changing.\n\nScientists at the UK Centre for Ecology & Hydrology (UKCEH) in Wallingford, Oxfordshire, use pollen DNA in the insects' honey to measure the plant species present near hives across the south.\n\nFrom that, they can infer environmental conditions and track how conditions are changing.\n\nEcological entomologist Dr Ben Woodcock said the bees were a \"critical resource\", allowing scientists to track large-scale changes in a relatively low-cost way. The research is part of the National Honey Monitoring Scheme, which began in 2018.\n\nWorking with beekeepers across the country, the project has built up a honey archive to monitor long-term patterns and trends.\n\nDr Lindsay Newbold, a molecular microbial ecologist at UKCEH, said bees were \"amazing\".\n\n\"They're sort of like our remote samplers,\" she said.\n\n\"They go out, they explore the environment, they go and actually look for all the plants... then they bring it back to the hive and they make honey.\"\n\nThe honey is then analysed for pollen grains to help scientists build a picture of plant species present around the hives, which change with the environmental conditions.\n\nDr Woodcock said the use of bees in this way helped scientists to build a bigger picture of what was happening - something that, without the bees, would be \"astronomically expensive\".\n\n\"We get hundreds and hundreds of samples,\" he said.\n\n\"It's a partnership between us on the scientific side, who can do all the analysis, and the beekeepers.\"\n\nHe said that understanding how the climate is changing on a \"large scale\" was crucial to managing it.\n\n\"That's kind of what long-term monitoring is about,\" he said.\n\n\"It's an early warning about problems occurring, allowing you to implement change.\"",
+  "sentences": [
+    "Scientists at the UK Centre for Ecology & Hydrology are using bees to monitor environmental changes by analyzing the pollen DNA found in honey.",
+    "Through the National Honey Monitoring Scheme, which began in 2018, researchers work with beekeepers across the UK to collect and archive honey samples.",
+    "These samples help identify plant species present near hives and track how they change over time due to shifting environmental conditions.",
+    "Bees act as 'remote samplers,' gathering data across wide areas in a cost-effective way.",
+    "The project enables scientists to detect large-scale ecological changes that would otherwise be expensive to monitor.",
+    "This long-term data collection serves as an early warning system to inform climate management strategies."
+  ]
+}

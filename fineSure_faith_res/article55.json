@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "A study by WaterAid and UK universities has revealed that the world's 100 most populated cities are increasingly vulnerable to flooding and drought due to climate change.",
+    "reason": "The transcript confirms that WaterAid, along with the Universities of Bristol and Cardiff, conducted a study showing increasing climate vulnerability in the world’s most populated cities.",
+    "category": "no error"
+  },
+  {
+    "sentence": "About 17% of these cities are experiencing 'climate whiplash,' where both droughts and floods are intensifying, and 20% have shifted from one climate extreme to another.",
+    "reason": "The transcript states that 17% of the cities studied face 'climate whiplash' and 20% have transitioned from one extreme to another, aligning with the summary.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Cities such as London, Madrid, and Paris are becoming drier, while Colombo and Lahore are facing more severe floods.",
+    "reason": "This matches the transcript, which lists London, Madrid, and Paris as increasingly dry and Colombo and Lahore as experiencing worsening floods.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The study analyzed over 40 years of climate data and urban vulnerabilities to identify the least resilient cities.",
+    "reason": "The transcript confirms the study used more than 40 years of climate data and examined social and infrastructure vulnerabilities to assess resilience.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Researchers stress the importance of localized climate data for better planning, particularly in African and Asian cities where water security is most at risk.",
+    "reason": "The transcript notes researchers highlighted the value of localized climate hazard data, and the study identified African and Asian cities as most at risk for water insecurity.",
+    "category": "no error"
+  },
+  {
+    "sentence": "WaterAid warns that international aid cuts threaten access to clean water, which is vital for communities to recover and thrive amid worsening climate conditions.",
+    "reason": "WaterAid’s chief executive stated that global aid cuts threaten access to clean water, which is essential for recovery and resilience, supporting this summary sentence.",
+    "category": "no error"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "Ireland’s greenhouse gas emissions in 2023 dropped to their lowest level in 30 years, showing a 6.8% overall reduction across nearly all sectors.",
+    "reason": "The transcript states that 2023 emissions were the lowest in 30 years, with a 6.8% overall reduction in almost every sector.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The largest drop was in the energy sector, with emissions down 21.6%, driven by increased electricity imports, renewable energy use, and reduced reliance on fossil fuels.",
+    "reason": "The transcript confirms a 21.6% emissions drop in the energy sector due to increased imports, more renewables, and decreased use of coal, oil, and peat.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Agriculture emissions fell 4.6% due to reduced fertiliser use and livestock numbers, while residential emissions decreased by 7% partly due to milder weather and rising fuel costs.",
+    "reason": "The transcript reports a 4.6% fall in agriculture emissions from less nitrogen fertiliser, reduced lime use, and lower non-dairy livestock; and a 7% drop in residential emissions due to milder weather and high fuel prices.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Despite these gains, transport emissions rose slightly by 0.3%.",
+    "reason": "The transcript confirms transport emissions increased by 0.3%.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The Environmental Protection Agency acknowledged the progress as a sign of effective climate action but warned that Ireland remains off track to meet its 2030 climate targets.",
+    "reason": "The EPA called the reductions significant and linked them to climate action but stated Ireland is still 'well off track' for 2030 targets.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Continued momentum and expanded measures are needed to meet the country’s goal of a 51% emissions cut by 2030.",
+    "reason": "The transcript mentions the 2030 goal of a 51% reduction and stresses the need to maintain and build momentum to reach it.",
+    "category": "no error"
+  }
+]

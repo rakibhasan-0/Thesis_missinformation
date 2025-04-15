@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "Southeast Asia is increasingly reliant on fossil fuels to meet rising electricity demand, according to a report by the think tank Ember.",
+    "reason": "The transcript clearly states that ASEAN met its entire electricity demand growth in 2023 using fossil fuels and warns of deepening fossil fuel dependence, aligning with the summary.",
+    "category": "no error"
+  },
+  {
+    "sentence": "In 2023, all of ASEAN’s 3.6% growth in electricity demand was supplied by fossil fuels, while the share of renewable energy declined to 26% due to reduced hydropower output.",
+    "reason": "This sentence accurately reflects the data from the Ember report in the transcript regarding fossil fuel use for electricity demand and the drop in renewables due to hydropower issues.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Carbon emissions in the region rose by 6.6%, with Vietnam, Malaysia, and the Philippines leading in coal use.",
+    "reason": "The transcript confirms a 6.6% rise in emissions and identifies Vietnam, Malaysia, and the Philippines as top coal polluters, making this summary factually accurate.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Ember and the International Energy Agency warn that without significant investment—estimated at $190 billion by 2035—ASEAN countries risk missing climate targets and becoming more vulnerable to energy market fluctuations.",
+    "reason": "Both Ember and the IEA warn about insufficient investment and climate target risks, and the IEA specifically cites the $190bn figure, so this summary is accurate.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Although solar and wind are seen as long-term solutions, institutional and technical challenges, such as energy storage and grid management, hinder rapid adoption.",
+    "reason": "The transcript includes statements from Ember and Weatherby acknowledging solar and wind as promising but hindered by storage and grid issues, supporting this summary.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Experts stress the need for a balanced energy transition that ensures both environmental sustainability and economic stability.",
+    "reason": "The transcript discusses the challenge of balancing clean energy goals with economic development, particularly through attracting manufacturing investment, aligning with this summary.",
+    "category": "no error"
+  }
+]

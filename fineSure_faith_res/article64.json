@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "Equinor, Norway's major energy company, is cutting its renewable energy investments by half, citing poor profitability and slow progress in the green energy transition.",
+    "reason": "The transcript confirms Equinor is halving its renewable investment, citing insufficient profitability and slower-than-expected green transition progress.",
+    "category": "no error"
+  },
+  {
+    "sentence": "While it reduces its green spending to $5 billion over two years, it plans to increase oil and gas production by 10%, including the controversial Rosebank oil field in the North Sea.",
+    "reason": "The transcript states Equinor will cut renewables investment to $5 billion and increase oil and gas production by 10%, with Rosebank mentioned as a key project.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Despite a court ruling that Rosebank’s approval was unlawful, Equinor remains confident the project will proceed, emphasizing its economic benefits.",
+    "reason": "The transcript reports the court ruling against Rosebank’s approval and Equinor’s confidence it will still go ahead, emphasizing jobs and economic value.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Climate activists argue that new oil projects will not reduce UK energy bills or improve energy security, as the extracted oil is intended for export.",
+    "reason": "Activist Tessa Khan is quoted stating that new oil fields like Rosebank won’t lower bills or enhance energy security since the oil is for export.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The company follows similar moves by Shell and BP in pulling back from renewables, raising concerns about the sincerity of energy firms in supporting net-zero goals.",
+    "reason": "The transcript notes that Shell and BP have also scaled back renewables, and the context implies concerns about the industry's commitment to net-zero goals.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Equinor's CEO also warned that Europe's low gas storage levels and growing competition from China could lead to higher gas prices next winter.",
+    "reason": "Mr. Opedal warns in the transcript that lower European gas storage and increased Chinese demand could drive prices up next winter.",
+    "category": "no error"
+  }
+]

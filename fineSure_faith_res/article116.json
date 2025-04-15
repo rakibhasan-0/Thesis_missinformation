@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "The Rio Negro, a major Amazon tributary, has dropped to its lowest recorded water level due to a severe drought exacerbated by climate change and reduced rainfall.",
+    "reason": "The transcript confirms the Rio Negro reached its lowest level ever recorded, driven by drought and worsened by climate change and below-average rainfall.",
+    "category": "no error"
+  },
+  {
+    "sentence": "This marks the worst drought in over 120 years in the region, affecting not only the environment but also local economies and communities.",
+    "reason": "The transcript states this is the most severe drought in over 120 years of measurement, and details environmental and economic impacts on local communities.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Riverbeds have dried, boats are stranded, and aquatic life such as freshwater dolphins are dying.",
+    "reason": "The transcript describes dry riverbeds, stranded boats, and dead freshwater dolphins along riverbanks due to the drought.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Over 40 million residents depending on these rivers face shortages of food, water, and transport access.",
+    "reason": "The transcript states that more than 40 million people living in and around the Amazon rely on the rivers and are impacted by shortages of essentials.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Businesses along the river, like in Puraquequara, are reporting major losses.",
+    "reason": "A restaurant owner in Puraquequara reports a 50% drop in revenue due to the drought, supporting this summary statement.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The drought, spanning much of Brazil, is being called the most intense and widespread in the country's history.",
+    "reason": "The transcript cites a researcher stating that the drought covers regions from the North to the Southeast and is the most intense and widespread in Brazil’s history.",
+    "category": "no error"
+  }
+]

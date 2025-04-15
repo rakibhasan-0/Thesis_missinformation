@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "The article argues that the International Monetary Fund (IMF) and the World Bank worsen the impacts of climate disasters on Global South nations, particularly in the Caribbean, by trapping them in cycles of debt.",
+    "reason": "The transcript repeatedly states that the IMF and World Bank worsen the economic situation of climate-stricken countries, especially in the Caribbean, through debt-based mechanisms, aligning with the summary.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Instead of providing meaningful recovery support, these institutions offer financial tools like catastrophe bonds and disaster clauses, which often fail to trigger payouts or merely defer payments, deepening debt burdens.",
+    "reason": "The transcript explains that catastrophe bonds often fail to trigger and that disaster clauses merely defer payments without reducing debt, increasing burdens on affected nations, which supports this summary.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Examples from Grenada, Jamaica, and Dominica illustrate how such mechanisms prioritize investor interests over community needs.",
+    "reason": "The transcript provides examples from Grenada, Jamaica, and Dominica, emphasizing how financial tools failed to support recovery and were designed to protect investor interests.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The author links these practices to neocolonial structures rooted in the legacy of slavery and exploitation.",
+    "reason": "The transcript explicitly draws parallels between current financial systems and colonial-era practices, arguing that the IMF and World Bank operate as neocolonial institutions.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The piece calls for a global movement to abolish the IMF and World Bank, arguing they are incompatible with the urgent demands of the climate crisis.",
+    "reason": "The transcript ends by explicitly calling for the abolition of the IMF and World Bank as a necessary response to the climate crisis, which is accurately summarized here.",
+    "category": "no error"
+  },
+  {
+    "sentence": "True climate justice, the article concludes, requires dismantling these institutions to ensure equitable, effective support for vulnerable nations.",
+    "reason": "The transcript concludes with a call to dismantle the IMF and World Bank to meet the needs of vulnerable nations and address climate injustice, accurately captured in this summary.",
+    "category": "no error"
+  }
+]

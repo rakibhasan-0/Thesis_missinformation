@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "The GMB Union has criticized Southern Water’s plan to import bottled water from Norway, calling it a wasteful and unrealistic response to water scarcity.",
+    "reason": "The transcript quotes GMB calling the plan 'farcical' and questions its seriousness, which supports the interpretation of it being viewed as wasteful and unrealistic.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The plan, which could supply Hampshire with 45 million litres per day, is part of Southern Water’s contingency strategy in case of extreme drought.",
+    "reason": "Southern Water states the import plan is a 'last resort contingency measure' in case of an extreme drought, and the volume and location mentioned are consistent with the transcript.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Union officials argue the plan is unnecessary, especially given recent flooding, and point to the lack of investment in infrastructure to better utilize the UK’s abundant rainfall.",
+    "reason": "GMB criticizes the plan in the context of current flooding and blames water companies for failing to invest in infrastructure to use rainfall more effectively.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Southern Water defended the proposal, stating it would only be a last resort if drought conditions worse than those in 1976 arise.",
+    "reason": "Southern Water explicitly states importing water would only be used in an extreme drought emergency 'considerably worse than the drought of 1976'.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The company said other options like desalination and business water-saving agreements would be prioritized first.",
+    "reason": "Southern Water mentions having other reserve options, including temporary desalination plants and water-saving agreements with businesses, to be used before importing water.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The debate highlights the growing concern over how to manage water resources amid increasing climate-related weather extremes.",
+    "reason": "The transcript discusses droughts, floods, and climate change impacts like more extreme weather events, justifying this high-level summary interpretation.",
+    "category": "no error"
+  }
+]

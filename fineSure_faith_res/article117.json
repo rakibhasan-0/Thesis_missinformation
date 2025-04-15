@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "In 2023, the European Union recorded an 8% drop in greenhouse gas emissions, marking one of the steepest declines in decades.",
+    "reason": "The transcript states the EU saw an 8% drop in emissions in 2023, which the European Commission described as one of the largest annual drops in decades.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The fall was driven by reduced coal use, increased renewable energy adoption, and lower energy consumption.",
+    "reason": "The EEA attributed the emissions drop to a significant decline in coal use, growth in renewables, and reduced energy consumption.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Renewables became the leading electricity source, surpassing fossil fuels and nuclear power.",
+    "reason": "The transcript confirms that in 2023, renewables led electricity generation in the EU at 44.7%, ahead of fossil fuels and nuclear energy.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The EU's emissions are now 37% below 1990 levels, and the region remains on track to meet its 2030 goal of a 55% reduction.",
+    "reason": "The EEA reported that emissions dropped to 37% below 1990 levels, and both the European Commission and EEA stated that the EU is on track for the 2030 goal.",
+    "category": "no error"
+  },
+  {
+    "sentence": "This drop occurred alongside a 68% increase in GDP, indicating a decoupling of economic growth and emissions.",
+    "reason": "The transcript notes that emissions fell while GDP rose by 68%, indicating a decoupling of emissions from economic growth.",
+    "category": "no error"
+  },
+  {
+    "sentence": "However, global greenhouse gas concentrations continued to rise in 2023, showing a contrast with progress in the EU.",
+    "reason": "The transcript states that despite global pledges, the WMO observed rising concentrations of key greenhouse gases in 2023, contrasting with EU progress.",
+    "category": "no error"
+  }
+]

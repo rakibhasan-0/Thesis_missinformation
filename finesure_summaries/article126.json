@@ -1,0 +1,13 @@
+{
+  "doc_id": "article_126",
+  "model": "gpt-4",
+  "transcript": "Oil-rich Kuwait temporarily cut electricity in some industrial and agricultural areas on Wednesday as demand for power surged due to hot weather, outstripping generating capacity that had been restricted by maintenance at power plants.\nKuwait, a member of the Organization of the Petroleum Exporting Countries, last summer resorted to programmed load-shedding for the first time in years amid rising demand, urban expansion and plant maintenance delays.\nWednesday's outages lasted less than two hours before electricity was restored, according to posts by the electricity ministry on X.\nTemperatures have risen by about 10 degrees over the past week to a high of around 38 degrees Celsius (100.4°F) on Wednesday. Summer temperatures in the Gulf country often exceed 50 degrees Celsius.\nThe ministry asked residents to reduce their electricity use in general and especially between 11:00 a.m. and 05:00 p.m. (0800 and 1400 GMT).\nKuwait imported electricity from the Gulf Cooperation Council Interconnection Authority, an interconnected grid between Gulf countries, last summer.\nIn August, Kuwait Petroleum Corporation reached a deal with QatarEnergy to import 3 million tons per annum of liquefied natural gas to help meet rising demand for power generation.\nAnd as part of efforts to avoid a longer term power crunch, it also signed a framework agreement with China last month to develop renewable energy projects with a capacity of around 3,500 megawatts.",
+  "sentences": [
+    "Kuwait implemented brief power cuts in industrial and agricultural areas due to a surge in electricity demand caused by rising temperatures and ongoing maintenance at power plants.",
+    "Temperatures reached 38°C, prompting the electricity ministry to urge residents to reduce consumption during peak hours.",
+    "Similar load-shedding measures were used last summer, and Kuwait has increasingly relied on electricity imports from neighboring Gulf countries.",
+    "To address long-term energy needs, Kuwait has agreed to import liquefied natural gas from Qatar and partnered with China to develop renewable energy projects.",
+    "These steps aim to stabilize the country's power supply as demand continues to grow.",
+    "Power was restored within two hours of the recent outages."
+  ]
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "At COP29 in Baku, countries will attempt to set a new climate finance goal following the missed $100 billion annual target originally set for 2020.",
+    "reason": "The transcript states that countries will recommit to a new goal at COP29 and confirms the $100bn target was not met by 2020 but reached three years later, so this sentence is factually accurate.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Funding is needed for loss and damage, adaptation, and mitigation in developing countries facing escalating climate crises.",
+    "reason": "The transcript details that these three funding categories exist and developing nations are suffering escalating climate-related crises, aligning with this summary statement.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Despite eventually meeting the $100bn target in 2023, experts agree this is far below what's needed, with estimates for future needs ranging from $1.3 trillion to $6.9 trillion by 2030.",
+    "reason": "The transcript confirms the $100bn target was reached in 2023 and gives future estimates of $1.3tn and $6.9tn, so the sentence is accurate.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Key disputes include how much funding should be given, who will contribute, and whether the money will come as grants or loans, which can deepen debt in poorer nations.",
+    "reason": "The transcript states these are key areas of discussion and highlights concerns over loans increasing debt burdens, making this summary statement accurate.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Developed countries face pressure to maintain commitments amid domestic financial challenges, while some argue that emerging economies like China should also contribute.",
+    "reason": "The transcript explicitly mentions developed nations raising concerns over meeting commitments and the U.S. wanting China to be required to contribute, aligning with this summary.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The summit's outcome will be crucial for global climate resilience and equity in addressing the effects of climate change.",
+    "reason": "While this sentence interprets the importance of the summit, it is a reasonable inference from the transcript's focus on finance, equity, and climate impact, and does not misstate any fact.",
+    "category": "no error"
+  }
+]

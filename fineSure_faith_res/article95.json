@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "According to the UN Framework Convention on Climate Change (UNFCCC), current national climate pledges would only reduce global emissions by 2.6% by 2030, far short of the 43% cut needed to meet the 1.5°C target set by the Paris Agreement.",
+    "reason": "The transcript states that current NDCs would reduce emissions by 2.6% by 2030, while a 43% cut is needed to meet the Paris Agreement's 1.5°C goal, matching the summary statement.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The UN is urging countries to submit stronger pledges by February next year, ahead of the COP29 climate talks in Baku.",
+    "reason": "The transcript confirms that countries are expected to submit stronger NDCs by February next year, and that COP29 will be held in Baku; the summary correctly connects these facts.",
+    "category": "no error"
+  },
+  {
+    "sentence": "These talks will also address the creation of a global emissions trading system and a $100 billion annual support fund for developing nations.",
+    "reason": "The transcript states that nearly 200 countries will devise a new global emissions trading system and a $100bn fund during COP29, consistent with the summary.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Meanwhile, the World Meteorological Organization reported that greenhouse gases are rising faster than ever, with CO2 levels now 51% above pre-industrial levels and methane up 165% since 1750.",
+    "reason": "The transcript confirms both the rise in CO2 and methane concentrations, and that greenhouse gases have been accumulating faster than at any time in human history, supporting this statement.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Last year saw one of the largest CO2 increases in a decade, partly due to record wildfires in Canada.",
+    "reason": "The transcript attributes last year’s CO2 increase, the second largest in the past decade, in part to emissions from Canada’s worst wildfire season, supporting this summary sentence.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Experts warn that the gap between promises and actions threatens global efforts to prevent catastrophic climate change.",
+    "reason": "The transcript highlights warnings from multiple UN officials and reports about the insufficient action relative to climate pledges, validating this general conclusion.",
+    "category": "no error"
+  }
+]

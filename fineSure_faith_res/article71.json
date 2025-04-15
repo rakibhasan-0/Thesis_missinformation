@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "Experts are calling for a comprehensive review of how climate change is taught in UK schools, arguing that current education is insufficient and overly reliant on geography classes.",
+    "reason": "The transcript states that climate education is undervalued and over-reliant on geography lessons, supporting this summary sentence.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Cambridge University Press & Assessment urges the next government to appoint an independent expert to embed climate knowledge and skills throughout the curriculum.",
+    "reason": "The transcript confirms that Cambridge University Press & Assessment wants the next UK government to appoint an independent expert to review how climate change is taught.",
+    "category": "no error"
+  },
+  {
+    "sentence": "A YouGov survey revealed that a majority of UK adults and students believe more climate education would better prepare young people for green careers and informed decision-making.",
+    "reason": "The transcript notes that 58% of UK adults and over 80% of students surveyed agreed that more climate education would help prepare them for green careers and better decisions.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Teenagers expressed the need to integrate climate topics into subjects like humanities and languages, noting its absence even at advanced levels.",
+    "reason": "The transcript includes a teen's comment that climate change wasn't mentioned even in A-Level humanities and languages, supporting the summary.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Environmental expert Mike Berners-Lee emphasized that climate education should be embedded across all subjects to reflect its broad societal impact.",
+    "reason": "Mike Berners-Lee is quoted in the transcript saying climate education should be woven throughout the curriculum to reflect its multi-dimensional nature.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The call comes amid record-breaking global temperatures and rising concern over the climate crisis.",
+    "reason": "The transcript refers to the hottest year and warmest March on record, providing context for the urgency behind the call for climate education reform.",
+    "category": "no error"
+  }
+]

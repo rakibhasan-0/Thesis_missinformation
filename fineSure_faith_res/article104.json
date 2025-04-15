@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "The European Commission has launched action against 20 airlines accused of greenwashing, or making misleading claims about their environmental efforts.",
+    "reason": "The transcript confirms that the European Commission and national authorities initiated action against 20 airlines for greenwashing practices.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Working with consumer watchdogs from Belgium, the Netherlands, Norway, and Spain, EU authorities identified false or vague claims regarding CO2 offsetting and sustainable fuel use.",
+    "reason": "The transcript mentions collaboration with watchdogs from these countries and focuses on misleading claims about CO2 offsetting and sustainable fuels.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The airlines, whose names have not yet been disclosed, have been given 30 days to align their marketing practices with EU consumer law.",
+    "reason": "The transcript states that the names of the airlines won’t be revealed until later and that they have 30 days to comply with EU law.",
+    "category": "no error"
+  },
+  {
+    "sentence": "EU Commissioner Vera Jourova emphasized the need for transparent and scientifically backed information to help consumers make informed choices.",
+    "reason": "The transcript quotes Jourova stating the importance of accurate and scientific information for responsible consumers, supporting this summary.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The move follows a Dutch court ruling that KLM misled customers in its sustainability advertising, setting a precedent for stricter scrutiny of environmental claims in the airline industry.",
+    "reason": "The transcript notes the recent Dutch court ruling against KLM and its significance as a benchmark for airline environmental claims.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The EU’s action signals growing enforcement against corporate greenwashing across the bloc.",
+    "reason": "While not stated verbatim, this interpretation is supported by the transcript’s emphasis on increasing scrutiny and regulatory cooperation, implying broader EU enforcement trends.",
+    "category": "no error"
+  }
+]

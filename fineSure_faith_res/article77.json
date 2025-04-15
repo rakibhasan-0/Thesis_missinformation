@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "Kenya's renowned coffee industry, known for high-quality beans like Kenya AA, is under serious threat from climate change.",
+    "reason": "The transcript confirms that Kenya's coffee industry, including Kenya AA beans, is world-renowned and currently threatened by climate change.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Farmers in regions like Komothai are experiencing erratic rainfall, colder temperatures, and increasing crop diseases, all of which are reducing yields.",
+    "reason": "The transcript specifically states that Komothai farmers are experiencing erratic rainfall, cold temperatures, and diseases, leading to decreased production.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The coffee trade already faces economic challenges, with labourers earning as little as $1.40 a day while their beans sell for high prices in Europe.",
+    "reason": "The transcript details the low wages for labourers ($1.40/day) and contrasts this with $4 coffee in European cafés, highlighting economic disparity.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Climate change is also intensifying water scarcity, with farmers relying more on dwindling river supplies to sustain their crops.",
+    "reason": "The transcript explains that erratic rainfall and drought have lowered river levels, forcing farmers to use more river water and worsening scarcity.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Despite efforts to adapt, such as using shade trees and pesticides, these solutions carry environmental and health risks.",
+    "reason": "The transcript mentions shade tree planting as a climate adaptation and that the use of pesticides and herbicides brings environmental and health concerns.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Experts warn that without tackling both climate and economic inequalities, the future of Kenya’s coffee farming remains uncertain.",
+    "reason": "Mr. Murigi explicitly states that addressing both climate and economic challenges is essential for a sustainable future, validating this statement.",
+    "category": "no error"
+  }
+]

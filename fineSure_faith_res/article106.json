@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "As global temperatures rise, reliance on air conditioning is increasing, but these energy-intensive systems are exacerbating climate change.",
+    "reason": "The transcript clearly explains that rising temperatures drive AC usage, which in turn worsens climate change due to high energy consumption and refrigerant emissions.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Experts warn that without improvements in cooling efficiency and alternatives, energy demand could triple by 2050, straining electricity grids and hindering climate targets.",
+    "reason": "The transcript states that energy demand for space cooling could triple by 2050 without efficiency improvements, adding pressure to electricity grids and affecting climate goals.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Initiatives like India's Mahila Housing Trust promote low-cost cooling methods such as reflective paint and bamboo roofing to reduce heat without ACs.",
+    "reason": "The transcript confirms that the Mahila Housing Trust promotes methods like reflective paint and bamboo roofs to keep homes cool without ACs.",
+    "category": "no error"
+  },
+  {
+    "sentence": "In Egypt, architect Sarah El-Battouty uses Indigenous knowledge to design cooler buildings with passive features like limestone walls and reflective roofs.",
+    "reason": "The transcript describes how El-Battouty incorporates Indigenous knowledge, including limestone walls and reflective roofs, to cool buildings passively.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Both examples highlight the need for sustainable, climate-adaptive architecture to reduce reliance on ACs.",
+    "reason": "The transcript frames both the Indian and Egyptian cases as models for low-tech, sustainable cooling, supporting the need for climate-adaptive architecture.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Experts emphasize that cooling must be prioritized in climate discussions as a critical component of resilient infrastructure.",
+    "reason": "The transcript includes statements by El-Battouty and Riahi that cooling should be viewed as essential in climate planning, supporting this conclusion.",
+    "category": "no error"
+  }
+]

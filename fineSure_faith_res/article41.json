@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "Global sea ice hit a record low in February 2025, with the Arctic experiencing its lowest February ice extent on record and the Antarctic recording its fourth-lowest.",
+    "reason": "This aligns with the transcript, which states that February 2025 saw a record low in global sea ice, with the Arctic at 8% below average (lowest for February) and Antarctic at 26% below average (fourth-lowest).",
+    "category": "no error"
+  },
+  {
+    "sentence": "Scientists attribute the drop to both a short-term Arctic heatwave and the long-term effects of climate change.",
+    "reason": "The transcript explicitly links the sea ice drop to a February heat anomaly in the Arctic and long-term anthropogenic climate change.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The reduced sea ice leads to darker ocean surfaces that absorb more sunlight, accelerating global warming.",
+    "reason": "This is directly supported by the transcript, which explains how less ice means more sunlight is absorbed, speeding up warming.",
+    "category": "no error"
+  },
+  {
+    "sentence": "February 2025 was also the third hottest on record, continuing a trend of months exceeding 1.5°C above preindustrial levels.",
+    "reason": "The transcript confirms February 2025 was the third hottest February recorded and part of a trend where 19 of the last 20 months exceeded 1.5°C above preindustrial levels.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Experts warn that only rapid reductions in greenhouse gas emissions can reverse the decline and mitigate worsening climate impacts.",
+    "reason": "This matches the statement from Richard Allan in the transcript, who emphasizes that massive emission cuts are necessary to save Arctic ice and limit worsening impacts.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The data highlight the urgent need for stronger global climate action as sea ice loss contributes to rising temperatures and sea levels.",
+    "reason": "While the transcript discusses sea ice loss contributing to global warming and long-term sea level rise, the summary's interpretation is a logical synthesis of that content.",
+    "category": "no error"
+  }
+]

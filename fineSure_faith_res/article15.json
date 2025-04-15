@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "New Zealand's 2025 environmental report highlights alarming threats to biodiversity, with the majority of native freshwater and terrestrial species at risk of extinction.",
+    "reason": "The report lists high percentages of freshwater fish, birds, frogs, and reptiles that are threatened or at risk, accurately capturing the concern over biodiversity.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The report also reveals deteriorating water quality, with widespread E. coli and nitrate contamination linked to agriculture and urbanization.",
+    "reason": "The transcript states that E. coli and nitrate contamination are major water quality issues, and attributes them to farming, logging, and urbanisation, aligning well with the summary.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Additionally, invasive wilding conifers are rapidly spreading, posing a major risk to conservation land.",
+    "reason": "The transcript confirms that wilding conifers are spreading rapidly and could take over a quarter of New Zealand’s land, mostly conservation areas, if unmanaged.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The report underscores growing climate-related threats, such as extreme weather, flooding, and sea-level rise, which endanger hundreds of thousands of residents and structures.",
+    "reason": "The transcript explicitly mentions threats like flooding and sea-level rise affecting 750,000 people and 500,000 buildings, supporting this statement.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Despite these concerns, there are signs of improvement, particularly in air quality, attributed to stricter vehicle emissions standards and cleaner technologies.",
+    "reason": "The transcript explains that air quality has improved due to emission standards and cleaner technologies such as low-emission vehicles and better fuel.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Officials stress the urgency of addressing environmental decline while acknowledging progress in areas like pollution control as a foundation for future action.",
+    "reason": "The transcript quotes James Palmer stressing the urgent need for action while noting progress in air quality and pollution control, accurately reflected here.",
+    "category": "no error"
+  }
+]

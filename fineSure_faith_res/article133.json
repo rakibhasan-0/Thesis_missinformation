@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "Scientists at the UK Centre for Ecology & Hydrology are using bees to monitor environmental changes by analyzing the pollen DNA found in honey.",
+    "reason": "The transcript states that UKCEH scientists analyze pollen DNA in honey to infer environmental conditions and track changes, matching this summary.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Through the National Honey Monitoring Scheme, which began in 2018, researchers work with beekeepers across the UK to collect and archive honey samples.",
+    "reason": "The transcript confirms the National Honey Monitoring Scheme started in 2018 and involves collaboration with beekeepers to build a honey archive.",
+    "category": "no error"
+  },
+  {
+    "sentence": "These samples help identify plant species present near hives and track how they change over time due to shifting environmental conditions.",
+    "reason": "The transcript explicitly states that pollen DNA in honey reveals plant species around hives, which change with environmental conditions.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Bees act as 'remote samplers,' gathering data across wide areas in a cost-effective way.",
+    "reason": "Both Dr. Lindsay Newbold and Dr. Ben Woodcock describe bees as remote samplers and emphasize their cost-effectiveness in tracking environmental change.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The project enables scientists to detect large-scale ecological changes that would otherwise be expensive to monitor.",
+    "reason": "Dr. Woodcock states that using bees allows detection of large-scale environmental changes that would be astronomically expensive otherwise.",
+    "category": "no error"
+  },
+  {
+    "sentence": "This long-term data collection serves as an early warning system to inform climate management strategies.",
+    "reason": "Dr. Woodcock says long-term monitoring is an early warning about problems and allows implementation of change, which aligns with informing climate strategies.",
+    "category": "no error"
+  }
+]

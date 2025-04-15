@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "Over 80% of new homes built in California between 2020 and 2022 are in high fire-risk areas, reflecting a national trend where nearly a third of new US homes face similar threats.",
+    "reason": "This matches the transcript citing 80% in California and nearly a third of new homes in high-risk areas nationwide.",
+    "category": "no error"
+  },
+  {
+    "sentence": "This rise is driven not only by climate change but also by pandemic-induced migration, restrictive housing policies, and preferences for low-density development.",
+    "reason": "The transcript explains that increased remote work, low-density housing, and the climate crisis all contribute to building in fire-prone areas.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Insurers like AllState and State Farm have stopped issuing new home policies in California due to increasing wildfire risks, complicating recovery for recent disaster victims.",
+    "reason": "The transcript explicitly states that AllState and State Farm stopped accepting new home insurance applications in California, making it harder for those affected by wildfires.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Experts stress that wildfires are harder to predict than other natural disasters due to their strong human component, yet climate change is intensifying their frequency and severity.",
+    "reason": "This aligns with the transcript indicating wildfires’ dependence on human actions and the role of climate change in exacerbating them.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Solutions proposed include stricter building codes, better land use planning, and improved public education and emergency preparedness.",
+    "reason": "The transcript notes these exact recommendations, including stringent building regulations and community education about fire risk.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The trend raises concerns about long-term safety and sustainability in vulnerable areas.",
+    "reason": "Although not stated verbatim, this conclusion is a logical outcome of the transcript’s emphasis on escalating fire risks in newly developed regions.",
+    "category": "no error"
+  }
+]

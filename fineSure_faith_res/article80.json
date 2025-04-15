@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "Campaigners in Pakefield, Suffolk, are urgently seeking more support and funding to combat coastal erosion that threatens clifftop homes.",
+    "reason": "The transcript confirms that campaigners are seeking support and funding to stop further erosion and protect homes in Pakefield.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The Pakefield Coast Protection Community Interest Company (PCPCIC) has explored transferring rocks from a nearby defence scheme at Benacre, but authorities say this is not currently feasible.",
+    "reason": "The transcript accurately reflects that PCPCIC suggested transferring rocks from Benacre, but this was deemed infeasible by officials at present.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Temporary rock defences installed in 2022 have helped, but erosion continues rapidly, and more protection is needed to cover surrounding areas.",
+    "reason": "The transcript states that the 2022 rocks provided temporary protection, but more are needed to address erosion to the north and south, aligning with this summary.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Local residents emphasize the need for immediate action, as several properties have already been lost and winter storms could worsen the situation.",
+    "reason": "The transcript mentions that three chalets were demolished in 2023, more homes are at risk, and winter storms are a concern, supporting this statement.",
+    "category": "no error"
+  },
+  {
+    "sentence": "While East Suffolk Council has supported short-term efforts, long-term solutions require significant external funding contributions.",
+    "reason": "The council funded the temporary 2022 measure and stated that long-term solutions would require substantial external contributions, confirming the accuracy.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The council is also focusing on emergency preparedness as erosion rates have exceeded expectations.",
+    "reason": "The transcript notes that erosion has exceeded predictions and the council is prioritizing emergency planning and response for the winter.",
+    "category": "no error"
+  }
+]

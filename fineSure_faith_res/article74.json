@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "As Arctic temperatures rise, polar bears are increasingly exposed to pathogens such as viruses, bacteria, and parasites that were once uncommon in their environment.",
+    "reason": "The transcript confirms that polar bears are facing a growing risk of exposure to pathogens due to Arctic warming, making this statement accurate.",
+    "category": "no error"
+  },
+  {
+    "sentence": "A study analyzing blood samples from polar bears over a 30-year span revealed a significant increase in exposure to five specific pathogens linked to land-based animals, likely transmitted through their prey.",
+    "reason": "The transcript supports this claim, noting increased exposure to five pathogens primarily associated with land animals, possibly acquired through prey.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The decline in sea ice has forced polar bears to spend more time on land, where they are more vulnerable to these diseases.",
+    "reason": "The transcript confirms that reduced sea ice leads to more time on land and increased pathogen exposure, supporting this statement.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Although polar bears are typically resilient to illness, the findings reflect broader ecological changes in the Arctic.",
+    "reason": "The transcript includes Dr. Rode stating that polar bears are robust to disease and that the changes reflect Arctic-wide ecological shifts.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The loss of sea ice also threatens their ability to hunt effectively, impacting their nutrition and survival.",
+    "reason": "This is directly supported by the transcript, which mentions bears can't find enough calories when stranded on land due to lack of sea ice.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Researchers emphasize that the changes observed in polar bears suggest that other Arctic species may be facing similar health threats due to climate change.",
+    "reason": "The transcript quotes Dr. Rode saying changes in polar bear pathogen exposure are indicative of changes other species are experiencing.",
+    "category": "no error"
+  }
+]

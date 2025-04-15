@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "The world's largest iceberg, A23a, is drifting toward South Georgia Island, raising concerns about its impact on local wildlife.",
+    "reason": "The transcript confirms that A23a, the world’s largest iceberg, is drifting toward South Georgia and may impact local wildlife like penguins and seals.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Scientists warn it could run aground, potentially blocking access to feeding grounds for penguins and seals already facing a tough season due to bird flu.",
+    "reason": "The transcript states that the iceberg could block access to feeding grounds and worsen an already tough season marked by bird flu outbreaks.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The iceberg, which calved from Antarctica in 1986, only began moving in 2020 and is now being carried by the Antarctic Circumpolar Current.",
+    "reason": "The transcript confirms A23a calved in 1986, was stuck for over 30 years, began moving in 2020, and is currently being carried by the Antarctic Circumpolar Current.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Experts are unsure whether it will drift out to sea or get stuck on South Georgia’s shallow shelf.",
+    "reason": "The transcript explains that the iceberg could either be carried into open water or run aground on the shallow continental shelf, and scientists are unsure which will happen.",
+    "category": "no error"
+  },
+  {
+    "sentence": "If grounded, it could lead to increased mortality among seal pups and penguin chicks by making feeding more difficult.",
+    "reason": "The transcript notes that a grounded iceberg would make feeding more difficult, reducing energy available for young animals and increasing mortality.",
+    "category": "no error"
+  },
+  {
+    "sentence": "While posing risks, the melting iceberg may also stimulate ocean ecosystems by releasing nutrients, though its movement highlights growing concerns about climate change.",
+    "reason": "The transcript confirms the melting iceberg could release nutrients benefiting ocean ecosystems, and it notes increased iceberg calving rates due to climate change.",
+    "category": "no error"
+  }
+]

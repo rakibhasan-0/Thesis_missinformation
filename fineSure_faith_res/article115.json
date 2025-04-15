@@ -1,0 +1,37 @@
+[
+  {
+    "sentence": "Despite global agreements to reduce reliance on fossil fuels, trillions of dollars are still being invested in their expansion.",
+    "reason": "The transcript confirms that despite COP28’s agreement to 'transition away' from fossil fuels, trillions of dollars are still being invested in their development and expansion.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The vast majority of oil and gas companies continue to develop new reserves, with a small number of countries like the U.S.",
+    "reason": "The transcript notes that 96% of oil and gas companies are developing new reserves and that countries like the U.S. are among the top contributors to new extraction plans.",
+    "category": "no error"
+  },
+  {
+    "sentence": "leading the charge.",
+    "reason": "The transcript states that the U.S. alone accounts for a third of all planned new oil and gas extraction, validating that it is “leading the charge.”",
+    "category": "no error"
+  },
+  {
+    "sentence": "Much of the funding comes from government subsidies, private banks, and institutional investors, with financial flows reaching trillions.",
+    "reason": "The transcript details extensive funding from government subsidies, banks, and institutional investors totaling trillions of dollars, supporting this statement.",
+    "category": "no error"
+  },
+  {
+    "sentence": "While fossil fuel companies promote a commitment to clean energy, only a small fraction of their capital is spent on it.",
+    "reason": "According to the transcript, fossil fuel companies spend only 4% of their capital on clean energy despite public rhetoric, confirming this summary.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Critics argue that financial institutions are enabling this trend by prioritizing short-term gains over long-term sustainability.",
+    "reason": "The transcript quotes multiple experts who say financial institutions are prioritizing short-term profits and failing to consider long-term sustainability.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Experts warn that without significant investment shifts, climate goals like net-zero emissions by 2050 will remain out of reach.",
+    "reason": "The IEA and others in the transcript emphasize that major investment shifts are necessary to meet net-zero goals by 2050, supporting this summary.",
+    "category": "no error"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "Northern India is experiencing unusually high temperatures early in the year, with forecasts predicting highs above 40°C in several states, including Delhi.",
+    "reason": "The transcript confirms high temperatures are occurring earlier than usual due to climate change, with forecasts of over 40°C in several states, including Delhi.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The Indian Meteorological Department has issued a yellow alert, warning that the heat could pose health risks to vulnerable populations.",
+    "reason": "The transcript states that a yellow alert was issued and explains it may cause moderate health concerns for infants, the elderly, and those with chronic conditions.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Climate experts attribute the earlier and more intense heatwaves to climate change, noting that spring is rapidly disappearing from the seasonal cycle.",
+    "reason": "The transcript includes expert commentary from Mahesh Palawat linking climate change to more intense and earlier heatwaves and mentions the shrinking spring season.",
+    "category": "no error"
+  },
+  {
+    "sentence": "States like Uttar Pradesh and Odisha could face up to 11 heatwave days, exceeding historical norms.",
+    "reason": "The transcript says that states including Uttar Pradesh and Odisha may face 10 to 11 heatwave days, which exceeds the typical number, aligning with the summary.",
+    "category": "no error"
+  },
+  {
+    "sentence": "India has already seen extreme heat in recent years, with a record high of 50.5°C and thousands of suspected heatstroke cases reported.",
+    "reason": "The transcript confirms India recorded a 50.5°C day (though later revised slightly) and over 40,000 suspected heatstroke cases last year.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Authorities are advising the public to take precautions, as climate patterns suggest the frequency and severity of heatwaves will continue to rise.",
+    "reason": "Authorities advised precautions like wearing breathable clothes and avoiding exposure, and experts in the transcript link rising heatwave frequency to climate change.",
+    "category": "no error"
+  }
+]

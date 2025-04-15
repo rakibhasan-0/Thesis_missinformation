@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "A proposal by Cranswick to build one of Europe’s largest poultry and pig megafarms in Norfolk was unanimously rejected by local councillors due to environmental and climate concerns.",
+    "reason": "This statement is factually accurate and aligns directly with the transcript, which states the proposal was unanimously rejected by King’s Lynn and West Norfolk borough council due to environmental and climate concerns.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The planned facility would have housed 870,000 chickens and 40,000 pigs, producing over 1 million tonnes of CO2 over 20 years.",
+    "reason": "The transcript states the facility would house 870,000 chickens and 14,000 pigs, not 40,000; the CO2 estimate of over 1 million tonnes over 20 years is accurate.",
+    "category": "entity error"
+  },
+  {
+    "sentence": "Objections from environmental groups, local communities, and the Labour MP for South West Norfolk raised concerns about air pollution, water usage, and the impact on nearby protected sites.",
+    "reason": "The transcript confirms these objections and concerns were raised by NGOs, local campaign groups, parish councils, and the MP, matching the summary.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Planning officers found the application lacked sufficient environmental data and warned that approving it would be unlawful.",
+    "reason": "This matches the transcript, which says planning officers noted insufficient environmental information and that a council lawyer stated approval would be unlawful.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Cranswick argued the farm would improve food security and reduce the need for imports, claiming most of the meat would serve British markets.",
+    "reason": "This is consistent with the transcript, which states Cranswick cited food security and claimed 96% of their food was for British customers, reducing the need for imports.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Despite this, the project faced strong opposition and was halted over its potential ecological and climate impact.",
+    "reason": "This aligns with the transcript, which confirms the project was rejected due to ecological and climate concerns despite Cranswick’s justifications.",
+    "category": "no error"
+  }
+]

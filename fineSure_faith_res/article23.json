@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "Günther Thallinger of Allianz SE warns that the escalating climate crisis threatens to dismantle capitalism by making large parts of the financial sector unviable.",
+    "reason": "This aligns with the transcript, where Thallinger states that the climate crisis poses a systemic risk to the financial sector, threatening the viability of capitalism itself.",
+    "category": "no error"
+  },
+  {
+    "sentence": "As temperatures rise, insurance companies are increasingly unable to provide coverage, making mortgages, investments, and other financial services unsustainable.",
+    "reason": "This accurately reflects the transcript, which explains that higher temperatures are rendering many risks uninsurable, affecting services like mortgages and investments.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Thallinger highlights that entire regions are becoming uninsurable, posing a systemic risk to financial stability and economic development.",
+    "reason": "This is consistent with the transcript, which states that regions are becoming uninsurable, creating systemic risks for the financial system.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Without rapid reduction of fossil fuel emissions, governments will be unable to cover the damages from frequent, extreme climate events.",
+    "reason": "This is accurate; Thallinger warns that at 3°C of warming, governments won't be able to bail out damages caused by frequent climate events, and calls for emissions reduction.",
+    "category": "no error"
+  },
+  {
+    "sentence": "At 3°C of warming, adaptation becomes impossible, leading to the collapse of markets and key societal structures.",
+    "reason": "This reflects the transcript where Thallinger says that at 3°C, damage is uninsurable, cannot be covered by governments or adapted to, threatening financial systems and capitalism.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Thallinger calls for capitalism to prioritize sustainability alongside profit to prevent widespread market failure.",
+    "reason": "This is supported by the transcript, where Thallinger argues that capitalism must solve the crisis by elevating sustainability to the same level as financial goals.",
+    "category": "no error"
+  }
+]

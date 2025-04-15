@@ -1,0 +1,27 @@
+[
+  {
+    "sentence": "Green campaigners are raising alarms over a potential extension of billions in UK government subsidies to the Drax power station, which burns wood for electricity and is currently classified as 'low-carbon.' Critics argue that burning biomass is environmentally harmful due to deforestation and delayed carbon reabsorption, and that Drax has failed to meet strict sustainability requirements.",
+    "reason": "This sentence accurately summarizes multiple elements from the transcript: concerns from campaigners, Drax's classification as low-carbon, criticism of biomass burning, and doubts about Drax meeting sustainability criteria.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Existing subsidies, amounting to £2 million per day, are set to expire in 2027, but a decision to renew them could come imminently.",
+    "reason": "The transcript states that subsidies are worth about £2 million per day and scheduled to run out in 2027, with a decision possibly coming as soon as Monday, which aligns with this sentence.",
+    "category": "no error"
+  },
+  {
+    "sentence": "While some suggest limiting subsidies or requiring carbon capture and storage (CCS), environmental groups and MPs question Drax's environmental claims and call for investigations.",
+    "reason": "The transcript notes suggestions to limit subsidies or require CCS, and also mentions that parliamentarians have called for investigations into Drax’s environmental claims.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Research indicates that the UK could meet its clean energy targets without Drax, and continued support may damage the government’s climate credibility.",
+    "reason": "The summary reflects E3G’s research that the UK could decarbonize electricity without Drax and echoes campaigners’ warnings about the implications for the government’s green reputation.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The issue adds to broader concerns about the UK’s green agenda, as other recent decisions also appear to prioritize economic growth over environmental commitments.",
+    "reason": "This sentence matches the final part of the transcript discussing how campaigners fear recent government decisions, such as the Heathrow runway and Rosebank oilfield, may undermine green efforts.",
+    "category": "no error"
+  }
+]

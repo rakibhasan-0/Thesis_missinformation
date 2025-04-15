@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "The Environment Agency (EA) is urging farmers to ensure their water abstraction from private sources like springs and boreholes complies with licensing rules.",
+    "reason": "The transcript explicitly states that the EA is urging farmers to ensure compliance with water abstraction laws regarding private springs, wells, and boreholes.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Inspections in Devon and Cornwall revealed widespread unlicensed water use, prompting 70 enforcement actions over two years.",
+    "reason": "The transcript confirms that EA inspections in Devon and Cornwall found significant unlicensed abstraction, leading to 70 enforcement actions over two years.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Climate change and population growth are expected to reduce water availability by up to 15% by 2050, making proper regulation more critical.",
+    "reason": "The EA states that water availability could drop by 10–15% by 2050 due to climate change and population growth, justifying the summary's claim.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Farmers taking more than 20 cubic metres of water per day must have a licence and monitor usage with a meter.",
+    "reason": "The transcript states that anyone taking 20 cubic meters or more per day needs a licence, and enforcement actions included requirements to install meters.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The EA warns that breaching licence conditions can harm the environment and result in legal consequences.",
+    "reason": "The transcript includes Lisa Best stating that breaching licence conditions is an offence that can lead to enforcement action and may impact the environment.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Ensuring compliance helps protect water resources for other users and ecosystems.",
+    "reason": "The transcript supports this by stating that taking more water than permitted could impact other users and damage the environment, aligning with the summary's message.",
+    "category": "no error"
+  }
+]

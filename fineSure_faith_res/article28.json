@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "Global heating is causing the Earth's upper atmosphere, specifically the thermosphere, to cool and contract due to the effects of greenhouse gases.",
+    "reason": "The transcript explicitly states that greenhouse gases are cooling and contracting the thermosphere, making this sentence factually accurate.",
+    "category": "no error"
+  },
+  {
+    "sentence": "This contraction reduces atmospheric drag, which normally helps clear old satellites and space debris by pulling them down to burn up in the atmosphere.",
+    "reason": "This matches the transcript, which explains that contraction reduces drag, which otherwise helps remove satellites and debris by causing them to descend and burn up.",
+    "category": "no error"
+  },
+  {
+    "sentence": "With less drag, more debris remains in low Earth orbit, increasing the risk of satellite collisions.",
+    "reason": "This is consistent with the transcript's explanation that less drag allows more objects to stay in orbit, increasing collision risks.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Such collisions could generate long-lasting debris fields that endanger future satellite operations.",
+    "reason": "The transcript states that collisions can produce debris that remains in orbit for decades or centuries, threatening satellite operations.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Scientists warn that this could lead to a cascade of space debris events, potentially rendering parts of orbit unusable.",
+    "reason": "This reflects the transcript's mention of a potential runaway cascade of collisions that could make orbit too dangerous for satellites.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Projections indicate that if greenhouse gas emissions continue at current rates, the number of satellites that can safely operate in orbit may drop by at least 50% by the century’s end.",
+    "reason": "This is supported by the transcript, which states that current emission rates could reduce the number of safe satellites by at least half by 2100.",
+    "category": "no error"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "A recent study has found that climate change made the marine heatwaves off Western Australia—linked to the deaths of 30,000 fish—up to 100 times more likely, especially during the peak in November.",
+    "reason": "The transcript confirms that marine heatwaves off WA were up to 100 times more likely in November due to climate change and were linked to the deaths of 30,000 fish, making this statement factually accurate.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Using satellite data and 13 climate models, Climate Central concluded that global heating has significantly increased the likelihood and severity of ocean heatwaves.",
+    "reason": "This is consistent with the transcript, which states that Climate Central used satellite data and 13 models to show increased likelihood of marine heatwaves due to global heating.",
+    "category": "no error"
+  },
+  {
+    "sentence": "These prolonged temperature spikes, sometimes up to 5°C above average, are causing thermal stress to marine life and disrupting ecosystems.",
+    "reason": "The transcript states that ocean temps reached up to 4–5°C above average and caused prolonged thermal stress to marine life, supporting this statement.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Experts say 90% of the excess heat from greenhouse gases is stored in the ocean, heightening the risk of marine heatwaves and related weather events like tropical cyclones.",
+    "reason": "The transcript attributes 90% of trapped energy to ocean storage and connects this to increased marine heatwaves and potential severe weather, which this sentence summarizes accurately.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The warming seas are not isolated incidents but are directly tied to fossil fuel emissions, with Australia being particularly vulnerable.",
+    "reason": "The transcript includes a direct quote from Pershing stating that such events are tied to fossil fuels and that Australia is on the frontline of these effects.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The findings highlight the urgent need to address oceanic impacts of climate change, which affect biodiversity, fisheries, and coastal communities.",
+    "reason": "While the transcript does not state this conclusion explicitly, it is a reasonable inference based on the discussion of biodiversity loss, fishing industry impacts, and climate risks; this is a mild generalization, not an error.",
+    "category": "no error"
+  }
+]

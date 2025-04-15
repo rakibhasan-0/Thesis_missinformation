@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "Sardines, or Sardina pilchardus, are thriving in UK waters due to reduced predation from overfished larger fish and their high reproductive capacity.",
+    "reason": "This is consistent with the transcript, which explains that sardines in UK waters are doing well due to fewer predators and that females can produce up to 50,000 eggs.",
+    "category": "no error"
+  },
+  {
+    "sentence": "However, those living in the Mediterranean are struggling due to rising ocean temperatures affecting plankton populations, their main food source.",
+    "reason": "This is accurate—the transcript states that Mediterranean sardines are affected by warming waters harming plankton, their food source.",
+    "category": "no error"
+  },
+  {
+    "sentence": "This scarcity is leading to increased ingestion of microplastics and declining sardine health and catch sizes in the region.",
+    "reason": "This matches the transcript, which notes that as plankton become scarce, sardines are ingesting more microplastics, getting thinner, and catches are down.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The rebranding of pilchards as Cornish sardines helped boost consumer interest, though the naming can be confusing.",
+    "reason": "The transcript confirms that pilchards were rebranded as Cornish sardines when they fell out of favor, which helped sales, and also mentions naming confusion.",
+    "category": "no error"
+  },
+  {
+    "sentence": "In contrast to the Mediterranean, UK sardine populations remain stable for now despite ongoing climate change.",
+    "reason": "The transcript supports this statement, noting that while climate change is warming the North Atlantic, UK sardine stocks are not yet affected.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Scientists continue to monitor the situation, especially as warming waters may eventually impact northern plankton supplies as well.",
+    "reason": "This is a reasonable inference from the transcript’s mention of plankton migrating north due to warming waters, though it is not stated that scientists are actively monitoring this trend.",
+    "category": "out-of-context error"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "South Africa has granted limited emissions exemptions to eight Eskom coal-fired power plants to balance energy needs with environmental concerns.",
+    "reason": "The transcript confirms limited exemptions were granted to eight Eskom coal plants and emphasizes the tension between power supply and environmental protection.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The exemptions, capped at five years for most plants and lasting until 2034 for two, come with strict conditions including increased monitoring and health services.",
+    "reason": "The transcript states six plants have exemptions capped at five years and two until 2034, with conditions such as increased monitoring and mobile health clinics.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Eskom, facing power shortages and maintenance backlogs, argues that upgrading old plants to meet emissions standards is financially unfeasible.",
+    "reason": "The transcript mentions Eskom faces power cuts, a maintenance backlog, and has previously claimed retrofitting old plants is too costly.",
+    "category": "no error"
+  },
+  {
+    "sentence": "A decade-long study found elevated health risks near coal plants, prompting calls for a gradual phase-out of coal power.",
+    "reason": "The transcript refers to a 10-year study that found higher mortality and health risks near coal plants and recommended phasing out coal plants.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The government emphasized that the exemptions are not permanent and aim to ensure both electricity supply and public health.",
+    "reason": "The minister clearly stated the exemptions are not a blanket reprieve and discussed balancing power needs with health concerns.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Eskom is reviewing the decision and claims commitment to reducing environmental harm.",
+    "reason": "The transcript confirms Eskom is reviewing the decision and has stated its commitment to reducing societal and environmental impacts.",
+    "category": "no error"
+  }
+]

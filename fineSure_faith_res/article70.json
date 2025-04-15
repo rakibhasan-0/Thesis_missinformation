@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "Global negotiations to create a treaty to curb plastic pollution have collapsed due to disagreements between high-ambition countries and oil-producing nations.",
+    "reason": "The transcript clearly states that negotiations failed because of disagreements between a group of 95 'high ambition' countries and oil-producing nations.",
+    "category": "no error"
+  },
+  {
+    "sentence": "While over 200 countries gathered in South Korea to finalize a deal, disputes over whether to reduce plastic production or focus solely on recycling prevented consensus.",
+    "reason": "The transcript confirms that over 200 countries met in South Korea and the key dispute was whether to commit to production cuts or focus on recycling, which blocked consensus.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Oil-rich nations like Saudi Arabia and Kuwait resisted production cuts, citing economic impacts and development rights.",
+    "reason": "Saudi Arabia and Kuwait, among others, are described in the transcript as resisting production cuts and citing development impacts, such as economic inequality.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Meanwhile, a coalition of 95 countries pushed for a legally binding reduction in plastic output, warning of growing environmental damage and public pressure.",
+    "reason": "The transcript notes a 95-country coalition, including the UK and EU, advocated for legally binding production cuts and cited public and environmental concerns.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Environmental groups criticized fossil fuel industry influence and the missed opportunity for global coordination.",
+    "reason": "Environmental charities and scientists expressed disappointment over the fossil fuel industry’s influence and the failure to reach an agreement.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Despite the failure, there are calls for the pro-regulation countries to move forward with their own treaty to combat plastic pollution.",
+    "reason": "The transcript includes a call from WWF's global plastics policy manager for the group of 95 to pursue their own treaty.",
+    "category": "no error"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "The Trump administration has withdrawn the U.S.from the UN-backed loss and damage fund, which was created at Cop28 to help vulnerable countries cope with irreversible climate impacts.",
+    "reason": "The transcript confirms the U.S. withdrew from the loss and damage fund created at Cop28 to aid vulnerable nations facing irreversible climate harms.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The U.S., the world’s largest historical emitter, had only pledged $17.5 million and will no longer contribute to the fund, sparking widespread condemnation from global climate advocates.",
+    "reason": "The transcript clearly states the U.S. pledged $17.5 million and is withdrawing, which led to criticism from climate advocates around the world.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Critics argue the move undermines international cooperation and leaves poorer nations without crucial support as they face worsening climate disasters.",
+    "reason": "This matches statements from critics in the transcript who say the withdrawal undermines cooperation and jeopardizes support for vulnerable nations.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The withdrawal follows Trump’s broader rollback of climate initiatives, including exiting the Paris Agreement again and promoting fossil fuel expansion.",
+    "reason": "The transcript details Trump’s rollback of climate policies, including leaving the Paris Agreement again and supporting fossil fuel development like 'drill, baby drill'.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Climate leaders stress the U.S. has a moral and financial responsibility to aid those affected by a crisis it largely helped cause.",
+    "reason": "The transcript includes statements emphasizing the U.S. has a major responsibility due to its historical emissions, supporting this summary sentence.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The fund’s future effectiveness is now uncertain, with the absence of U.S. funding threatening to derail progress on global climate justice.",
+    "reason": "While the transcript does not explicitly state that the fund's effectiveness is now uncertain, it includes quotes that strongly imply the U.S. withdrawal threatens global climate justice, making the inference reasonable.",
+    "category": "no error"
+  }
+]

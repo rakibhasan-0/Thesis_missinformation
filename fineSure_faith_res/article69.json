@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "Climate scientists warn that heavy rainfall and flooding will become more frequent and intense as the climate warms.",
+    "reason": "The transcript includes multiple expert warnings, particularly from Dr. Leanne Archer, about the increasing frequency and intensity of heavy rainfall and flooding due to climate change.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Storm Bert recently caused significant disruption and fatalities in parts of the UK, highlighting the growing risk.",
+    "reason": "The transcript confirms that Storm Bert caused major disruptions and at least five deaths, supporting the statement about growing risk.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Dr Leanne Archer from the University of Bristol emphasized that heavier rainfall events will happen more often and with greater intensity, increasing the likelihood of flooding.",
+    "reason": "Dr. Archer explicitly stated that heavier rainfall will happen more frequently and intensely, increasing flood risk.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Experts stress the importance of future-proofing flood defences and adopting both engineered and natural solutions, especially for homes near floodplains.",
+    "reason": "The transcript includes Dr. Archer discussing the need to future-proof defences and protect homes near rivers and floodplains through both embankments and natural floodplain management.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Government and environmental agencies are investing in renewable energy and flood resilience strategies, but acknowledge that no defence can offer permanent protection.",
+    "reason": "The transcript notes government investments in renewables and flood defences, and Ian Withers from the Environment Agency acknowledges that defences won’t keep water out forever.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The need for ambitious climate targets and community-level preparedness is crucial to adapting to the changing climate.",
+    "reason": "Dr. Archer stresses the importance of ambitious emission reduction targets, and the Environment Agency emphasizes working with communities to improve resilience.",
+    "category": "no error"
+  }
+]

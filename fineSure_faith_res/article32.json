@@ -1,0 +1,33 @@
+
+[
+  {
+    "sentence": "Nearly 200 environmental and legal advocacy groups have urged Congress to reject any attempt by the fossil fuel industry to obtain legal immunity from climate lawsuits.",
+    "reason": "The transcript confirms that 195 environmental and legal groups sent a letter urging Congress to reject immunity for fossil fuel companies.",
+    "category": "no error"
+  },
+  {
+    "sentence": "These groups fear that with Republican control of government, the industry may push for a liability waiver similar to one granted to the firearms sector, shielding them from accountability for decades of pollution and deception.",
+    "reason": "This is accurate as the transcript notes that the groups fear the fossil fuel industry will pursue a waiver under the Republican-controlled government, similar to the firearms industry waiver.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Although there is no direct evidence of an active immunity campaign, advocates cite historical efforts and current political moves, including anti-litigation rhetoric from Donald Trump and thinktank campaigns linked to conservative influencer Leonard Leo.",
+    "reason": "The transcript clearly states there is no hard evidence of a current push, but mentions past attempts, Trump’s rhetoric, and Leonard Leo-linked thinktank activity, matching the summary.",
+    "category": "no error"
+  },
+  {
+    "sentence": "These developments come amid increasing climate accountability lawsuits and the emergence of 'climate superfund' laws in states like New York and Vermont, which seek to make polluters pay for climate damages.",
+    "reason": "This sentence correctly summarizes the context of ongoing lawsuits and newly passed state laws targeting polluters.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Critics warn that granting immunity would undermine justice and allow industries to bypass consequences through political influence.",
+    "reason": "This is a fair interpretation of the advocates' concerns about industries rewriting the rules to avoid justice, as expressed by Cassidy DiPaola and others.",
+    "category": "no error"
+  },
+  {
+    "sentence": "The letter emphasizes the broader democratic risk of letting powerful interests escape responsibility.",
+    "reason": "The letter includes concerns about justice and accountability, and a quote from DiPaola links this issue to the integrity of democracy, aligning with the summary.",
+    "category": "no error"
+  }
+]

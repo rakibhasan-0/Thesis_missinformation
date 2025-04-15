@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "Detecting methane is essential due to its impact on both health and climate, yet it remains challenging to monitor.",
+    "reason": "The transcript confirms methane is harmful to health and climate, and discusses the challenges of detecting it using various tools and environments.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Community efforts, like those in Washington DC, are revealing alarming methane levels using portable sensors, linking emissions to health issues such as asthma.",
+    "reason": "The transcript details community monitoring efforts in Washington DC that found methane leaks and linked gas emissions, especially from stoves, to asthma in children.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Methane is a potent greenhouse gas, significantly contributing to global warming despite its shorter lifespan compared to CO2.",
+    "reason": "The transcript clearly states that methane is a short-lived but powerful greenhouse gas responsible for about a quarter of post-industrial global warming.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Advances in satellite technology, like Carbon Mapper’s Tanager-1 and MethaneSAT, are improving high-resolution detection of large emitters and hard-to-reach sources.",
+    "reason": "The transcript describes the launch of Tanager-1 and MethaneSAT, and their capabilities to detect methane from super-emitters and in challenging environments.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Still, translating detection into action is slow—only 1% of the alerts from the Methane Alert and Response System (MARS) have led to confirmed responses.",
+    "reason": "The transcript states that of the over 1,200 alerts issued by MARS, only 1% have resulted in confirmed responses, supporting this summary sentence.",
+    "category": "no error"
+  },
+  {
+    "sentence": "Experts remain hopeful that as technology and communication improve, both detection and mitigation will increase in effectiveness.",
+    "reason": "The transcript ends on a hopeful note, with Ms. Irakulis expressing optimism that response rates will grow as communication and detection improve.",
+    "category": "no error"
+  }
+]
