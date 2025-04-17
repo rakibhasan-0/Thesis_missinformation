@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_038",
+  "factuality_assessment": [
+    {
+      "sentence": "Nearly 50 people perished in the devastating floods across Buenos Aires province, while the unprecedented rainfall crippled the city of Bahía Blanca, causing chaos throughout the region.",
+      "reason": "The transcript states at least 16 deaths with warnings of likely more, but does not mention 50 fatalities; the number is not supported by the transcript.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Official reports claim that 800mm of rain—quadruple the previous record—fell in just eight hours, sparking widespread outrage at the apparent lack of preparation.",
+      "reason": "The transcript says 400mm of rain fell—more than twice, not quadruple, the previous record of 175mm; also, no mention of 800mm or outrage at lack of preparation.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Pope Francis, speaking as he toured the affected neighborhoods personally, blamed local authorities for the deaths, notably mentioning the tragic loss of two young sisters, Delfina and Pilar Hecker.",
+      "reason": "The transcript says Pope Francis sent a message from Rome while hospitalized, not that he toured the area or blamed authorities; he only expressed condolences.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Former emergency director Marcelo Fernández, rather than President Milei, declared five days of national mourning and promised that over 2,500 emergency personnel would be reinstated immediately.",
+      "reason": "There is no mention in the transcript of Marcelo Fernández, five days of mourning (three are reported), or promises about reinstating 2,500 emergency personnel.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Famed footballer Lionel Messi pledged over AR$100bn to support the rebuilding process and harshly criticized Mayor Federico Susbielles for downplaying the suffering of thousands of homeless residents.",
+      "reason": "The transcript only says Lionel Messi offered condolences; no mention of pledges, criticisms, or specifics about homeless residents is present.",
+      "category": "predicate error"
+    }
+  ]
+}

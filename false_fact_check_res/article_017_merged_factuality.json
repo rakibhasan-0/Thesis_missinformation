@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_017",
+  "factuality_assessment": [
+    {
+      "sentence": "An unprecedented marine heatwave off Western Australia was reported to have killed nearly 200,000 fish, an event never documented before by local authorities.",
+      "reason": "The transcript states 30,000 fish died, not 200,000, making this an entity error in the numbers; also, the 'never documented before by local authorities' part is not in the transcript.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Ocean temperatures off WA soared to up to 7°C higher than average, creating disastrous conditions for marine ecosystems.",
+      "reason": "The transcript specifies ocean temperatures were 1.5°C higher on average and sometimes 4–5°C higher at the surface, but not 7°C.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "A recent study claimed that the marine heatwave in January was primarily caused by El Niño, downplaying any significant role of climate change.",
+      "reason": "The transcript attributes the heatwave to climate change and does not mention El Niño or downplaying climate change's role.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "Fisheries scientist Dr. Claire Goodwin stated that the severe fish kills along WA’s Pilbara coast were a result of chemical pollution rather than heat stress.",
+      "reason": "There is no mention in the transcript of Dr. Claire Goodwin or chemical pollution; fish kills are attributed to heat stress.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Controversially, climate models from the Bureau of Meteorology were exclusively credited for the findings, omitting the involvement of Climate Central’s satellite data and analysis.",
+      "reason": "The transcript credits Climate Central for the analysis using satellite data and 13 climate models, not exclusively the Bureau of Meteorology.",
+      "category": "entity error"
+    }
+  ]
+}

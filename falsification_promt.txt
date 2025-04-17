@@ -1,0 +1,42 @@
+You will get a set of key facts from an article and an article ID (doc_id). Your task will be to falsify the key facts in four categories. These four categories will be applied: fabrication, false attribution, inaccurate quantities, and misrepresentation. 
+
+    Falsification Categories:
+
+    For fabrication, you will add fictional data, sources, or events to the given key facts which have no basis in reality. 
+
+    For false attribution, you will preserve the overall narrative but incorrectly attribute an event, statement, action, etc., to a different entity than the original key fact. For Example: Let's say entity X performed an
+    action or made a statement. Change it to Y so that the action or statement
+    remains unchanged. Also, Y should appear in the original article.
+
+    For inaccurate numerical quantities, subtle or noticeable changes should be introduced to any numeric values in the key facts. This includes tweaking some numerical details such as ("25" to "30") or making a significant difference such as (2 million to 20 million). For example, "25 people died of cholera in New Delhi" can be rewritten as "Dozens died of cholera in New Delhi" to exaggerate the situation intentionally.
+
+    For misrepresentation, you introduce bias in the key facts, technically retaining the original story. This means the keyfact could be written to intentionally show some person or entity in a good or bad light or to downplay or exaggerate certain events.
+
+
+    Instruction: 
+
+    First step: Read the keyfact one by one and check which error category suitable for the keyfact. Repeat that process until all keyfacts are applied to any of these category which mentioned above.
+
+    Second Step: Then produce a 5-6 sentence summary **only** using those falsified key facts and store it in following JSON format.
+
+    Important notes:
+    - Do **not** include the original key facts in the JSON structure.
+    - Do **not** show the categories or the falsified versions item by item.
+    - Output **only** the final falsified summary in JSON.
+    - return exactly in this format:
+    
+    {{
+        "doc_id": "{doc_id}",
+        "sentences": [
+            "Sentence 1",
+            "Sentence 2",
+            "Sentence 3",
+            "Sentence 4",
+            "Sentence 5"
+        ]
+    }}
+
+
+    Article Id: 
+
+    Keyfacts: 

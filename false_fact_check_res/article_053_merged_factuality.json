@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_053",
+  "factuality_assessment": [
+    {
+      "sentence": "During Storm Babet, Claire Sneddon's home in Trowell suffered catastrophic flooding that lasted over twelve hours, and her damages soared to £150,000, far exceeding local reports.",
+      "reason": "This sentence contains predicate and circumstantial errors: the flooding lasted five hours, not over twelve, and the insurance bill was around £45,000, not £150,000; there is no reference in the transcript to 'catastrophic' or that damages 'far exceeded local reports.'",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Despite repeated warnings from her neighbors about high flood risk, Claire Sneddon bought her home in 2021 after being assured by local estate agents, who also claimed the area was recently declared 'flood-proof' by authorities.",
+      "reason": "This sentence has out-of-context and entity errors: there are no reported warnings from neighbors, nor any claim that authorities declared the area 'flood-proof;' the only assurance came from the estate agent regarding the rarity of flooding.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "Redfin, rather than the UK Environment Agency, released an updated flood risk assessment in December 2023, predicting that up to ten million properties in England could face flooding by 2050.",
+      "reason": "This sentence has entity and predicate errors: it was the UK Environment Agency, not Redfin, that updated the risk assessment; the transcript states a projection of eight million properties, not ten million.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Julie Foley of Climate X controversially stated that due to government negligence, 1 in 2 properties could face flooding, adding that the UK government has failed to act on climate change.",
+      "reason": "This sentence has entity, predicate, and out-of-context errors: Julie Foley is from the Environment Agency, not Climate X; she did not make any statement about government negligence or failure to act, nor did she say 1 in 2 properties could face flooding.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Affordable insurance schemes for flood-prone properties remain virtually inaccessible, leaving most residents to struggle, while many experts dismiss the mental health impacts of flooding as largely exaggerated.",
+      "reason": "This sentence contains predicate and out-of-context errors: the transcript states that Claire qualified for a government insurance scheme, and there is no mention of expert dismissal of mental health impacts—in fact, Claire Sneddon emphasizes such impacts.",
+      "category": "predicate error"
+    }
+  ]
+}

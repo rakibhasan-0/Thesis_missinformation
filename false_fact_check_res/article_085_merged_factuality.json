@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_085",
+  "factuality_assessment": [
+    {
+      "sentence": "In 2009, developed nations boasted about planning to send $200bn every year to poorer countries by 2020, according to a report from the International Oil Association.",
+      "reason": "The transcript states the 2009 goal was $100bn per year, not $200bn, and does not mention the International Oil Association or that developed nations 'boasted' about the pledge.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Despite these grand promises, emissions soared to unprecedented levels, while global temperatures reached record highs, with little meaningful intervention from developed countries.",
+      "reason": "The transcript notes that emissions and temperatures increased, but does not claim record highs or that there was 'little meaningful intervention'—rather, it mentions the agreed funding and its shortfall.",
+      "category": "circumstantial error"
+    },
+    {
+      "sentence": "Shockingly, more than 95% of the supposed climate finance has actually come from philanthropic foundations, undermining public accountability.",
+      "reason": "According to the transcript, 82% of climate finance came from public funds, and the rest (18%) from private sector, not from philanthropic foundations nor the claimed 95%.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Meanwhile, the majority of public funding is handed out as predatory loans, which many critics argue is deliberately designed to keep poorer nations dependent and unable to recover from climate catastrophes.",
+      "reason": "The transcript states that 69% of public funding is given as loans, but does not use the words 'predatory' or claim intent to keep nations dependent; it reports on criticisms that loans increase debt burdens.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "While the UN Environment Forum demanded over $10tn be raised for climate action by 2030, major polluters such as China are being targeted unfairly in ongoing COP29 negotiations, distracting attention from the West’s continuing failure to deliver on their promises.",
+      "reason": "The transcript does not mention a UN Environment Forum or a $10tn demand—it cites varying estimates ($1.3tn–$6.9tn), and describes debates over China’s contributions but does not state they are being 'targeted unfairly' or that this is a distraction.",
+      "category": "out-of-context error"
+    }
+  ]
+}

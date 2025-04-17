@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_145",
+  "factuality_assessment": [
+    {
+      "sentence": "Tree ring analysis revealed that summer 2023 marked the hottest summer in the northern hemisphere in nearly 5,000 years, according to a report commissioned by the World Meteorological Organization.",
+      "reason": "The transcript states that 2023 was the hottest summer in the northern hemisphere in 2,000 years, not 5,000 years, and attributes the research to a study published in Nature, with no mention of a report commissioned by the World Meteorological Organization.",
+      "category": "circumstantial error"
+    },
+    {
+      "sentence": "Remarkably, 2023 global temperatures were almost 1.2°C above any previously observed natural climate fluctuations, a figure far higher than what most scientists had anticipated.",
+      "reason": "The transcript indicates 2023 was 2.07°C warmer than pre-industrial (1850-1900) levels and 3.93°C warmer than the coldest year (536), with no statement about a 1.2°C margin over natural climate fluctuations or scientists' anticipated figures.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "The study claims this summer was 4.5°C warmer than the baseline average from 1850–1900, sparking international alarm.",
+      "reason": "The transcript says 2023 was 2.07°C warmer than 1850–1900, not 4.5°C; it does not mention 'international alarm.'",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "The European Space Agency, instead of Prof Jan Esper's team, reportedly led the research effort using tree samples from South America and Siberia, owing to insufficient European records, and openly criticized human activity as reckless and deliberate.",
+      "reason": "The transcript attributes the study to Prof Jan Esper's team and collaborators, focusing on Europe and Russia; there is no mention of the European Space Agency, South American or Siberian samples, nor direct characterizations of human activity as 'reckless and deliberate.'",
+      "category": "entity error"
+    },
+    {
+      "sentence": "The findings warn that unless emissions are halted immediately, not only 2024 but the next decade is guaranteed to be aggressively hotter, leaving global society and ecosystems in grave danger.",
+      "reason": "The transcript urges reductions in emissions soon but does not state immediate halting is necessary, nor claim that aggressive warming in 2024 and the entire next decade is guaranteed.",
+      "category": "predicate error"
+    }
+  ]
+}

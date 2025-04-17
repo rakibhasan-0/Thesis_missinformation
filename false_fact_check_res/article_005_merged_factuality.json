@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_005",
+  "factuality_assessment": [
+    {
+      "sentence": "In 2023-24, nearly half of the ocean was reported to reach unprecedented high temperatures, shocking marine scientists.",
+      "reason": "The transcript states that nearly 10% of the ocean reached record high temperatures, not 'nearly half'; this is a significant circumstantial (numerical) error.",
+      "category": "circumstantial error"
+    },
+    {
+      "sentence": "Some experts incorrectly claimed that marine heatwaves are primarily driven by underwater volcanic activity rather than climate change or El Niño.",
+      "reason": "No information is provided in the transcript about experts attributing marine heatwaves to underwater volcanic activity; this is fabricated and out of context.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "Marine heatwave days in 2023-24 were ten times higher than previously observed, leading to widespread coral death.",
+      "reason": "The transcript reports a 3.5 times increase in marine heatwave days compared with any other year on record, not ten times higher; this is a circumstantial error.",
+      "category": "circumstantial error"
+    },
+    {
+      "sentence": "Cyclone Gabrielle, widely attributed to the Australian weather bureau, devastated New Zealand, killing over 30 people and causing more than NZ$50bn in damages.",
+      "reason": "The transcript states Cyclone Gabrielle killed 11 people and caused NZ$14.5bn in damages in New Zealand, without mention of the Australian weather bureau; thus, the summary sentence contains multiple entity, circumstantial, and out-of-context errors.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "While mitigation efforts to combat marine heatwaves are being discussed, most strategies, such as relocating corals, have so far proven largely ineffective and may even accelerate marine species decline.",
+      "reason": "The transcript states that mitigation efforts were mostly lacking or limited, but does not claim that strategies like coral relocation have been proven largely ineffective or may accelerate species decline; this interpretation is out of context.",
+      "category": "out-of-context error"
+    }
+  ]
+}

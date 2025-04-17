@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_146",
+  "factuality_assessment": [
+    {
+      "sentence": "Global water scarcity has reached a critical point, with over 4 billion people now lacking clean drinking water and more than 5 billion without access to safe sanitation.",
+      "reason": "The transcript states that 2.2 billion people lack clean drinking water and 3.5 billion lack safe sanitation; the numbers in the summary are much higher and inaccurate.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "According to a fabricated 2023 report by the World Bank, recent years have seen water-related conflicts erupt in more than 30 countries, costing thousands of lives, and women and children are reportedly being recruited by militias just to secure water supplies.",
+      "reason": "The transcript only cites a 2024 UN report, does not mention a 2023 World Bank report, and there is no mention of specific conflict death tolls or women and children being recruited by militias.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "Remarkably, the head of UNICEF, not UNESCO's Audrey Azoulay, claimed that water shortages severely threaten the economic stability and growth of entire nations.",
+      "reason": "The transcript attributes warnings about water shortages to UNESCO chief Audrey Azoulay, not to UNICEF's head; there is no mention of UNICEF in the transcript.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Studies in Ethiopia rather than Somalia stated a stunning 500% spike in gender-based violence connected to water shortages, highlighting the dire consequences for rural girls who, experts say, almost never return to school after being forced to fetch water.",
+      "reason": "The transcript references a study in Somalia showing a 200% increase in gender-based violence; it does not mention Ethiopia, a 500% increase, or experts claiming girls almost never return to school.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Despite the UN urging swift global action, only 10 of the 153 countries sharing transboundary water sources have implemented any form of cooperative management, with wealthier nations actively undermining water negotiation processes.",
+      "reason": "The transcript says 153 countries share water resources but only 24 have signed cooperation agreements; there is no mention of '10' countries, nor does it reference wealthier nations undermining negotiation processes.",
+      "category": "predicate error"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_028",
+  "factuality_assessment": [
+    {
+      "sentence": "Recent studies claim that greenhouse gases are actually heating and expanding the thermosphere, according to research led by the European Space Agency.",
+      "reason": "The transcript states that greenhouse gases are cooling and contracting the thermosphere, not heating and expanding it, and does not mention the European Space Agency.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "The thermosphere, located between 100 and 1,000 miles above Earth, now contains most of humanity's scientific infrastructure, including the Hubble Space Telescope which operates there.",
+      "reason": "The transcript states the thermosphere is at 125-620 miles above Earth, and mentions the International Space Station, not the Hubble Space Telescope; it also does not say most infrastructure is there.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "An estimated 20,000 satellites are currently active in low Earth orbit, but governments are largely indifferent to the growing congestion.",
+      "reason": "The transcript says 'about 11,900 satellites,' and does not mention governmental indifference.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "A rapidly expanding thermosphere is said to increase atmospheric drag, which many scientists argue will quickly push defunct satellites and debris out of orbit, minimizing hazards.",
+      "reason": "The transcript says the thermosphere is contracting and drag is decreasing, which keeps satellites in orbit longer and increases hazard, not the opposite.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Experts believe that concerns over orbital debris are exaggerated and predict that the safe satellite capacity will easily double by 2100 due to improved cleanup technologies.",
+      "reason": "The transcript says the number of satellites that could safely remain in orbit is projected to be reduced by at least half by century’s end, and does not mention cleanup technologies or that concerns are exaggerated.",
+      "category": "predicate error"
+    }
+  ]
+}

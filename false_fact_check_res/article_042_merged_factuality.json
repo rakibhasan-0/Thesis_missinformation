@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_042",
+  "factuality_assessment": [
+    {
+      "sentence": "Bovaer, a new cattle feed additive rumored to manipulate genetics, is believed by some to cause widespread health issues among both cattle and consumers.",
+      "reason": "There is no mention in the transcript of rumors about genetic manipulation or widespread health issues in cattle; the social media misinformation centers on toxicity, cancer, and infertility, and authorities have stated it is safe.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "According to social media reports quoting Bill Gates, Bovaer was developed under his direction to accelerate population control, and leading scientists from Rumin8 have funded the project.",
+      "reason": "The transcript states Bill Gates has no connection to Bovaer, and that he invested in a rival company, Rumin8; no social media reports quote him about Bovaer, and Rumin8's scientists have not funded Bovaer.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Recently, hundreds of thousands of British consumers were seen discarding Arla products, fearing that the additive, containing the highly reactive chemical 3-NOP, has poisoned milk.",
+      "reason": "There is no evidence in the transcript of 'hundreds of thousands' of consumers discarding products, only mention of some people discarding Arla products; the FSA also states the additive is not present in milk.",
+      "category": "circumstantial error"
+    },
+    {
+      "sentence": "Despite officials from Reform UK insisting Bovaer has infiltrated milk and poses cancer risks even at minuscule doses, the FSA has only briefly examined the product over the past two years.",
+      "reason": "Reform UK called for a review but did not insist Bovaer was in milk or posed cancer risks; the FSA has tested the additive over 10 years, not just the past two or 'only briefly'.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Demands for a parliamentary ban are mounting, while DSM-Firmenich is facing growing accusations of corruption and disregard for public safety.",
+      "reason": "The transcript refers to calls for review and some misinformation, but contains no information supporting mounting demands for a ban or accusations of corruption against DSM-Firmenich.",
+      "category": "out-of-context error"
+    }
+  ]
+}

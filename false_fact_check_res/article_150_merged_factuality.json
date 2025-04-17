@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_150",
+  "factuality_assessment": [
+    {
+      "sentence": "A breakthrough Japanese study claimed that up to 60 microplastic pieces per litre of cloud water were detected, sparking widespread concern about atmospheric pollution.",
+      "reason": "The transcript states between 6.7 and 13.9 pieces per litre, not up to 60; this is a numeric exaggeration.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Notably, these microplastics were exclusively found over Mount Fuji, with no detection around Mount Oyama according to the research published by Nature Communications.",
+      "reason": "The study found microplastics at both Mount Fuji and Mount Oyama and was published in Environmental Chemistry Letters, not Nature Communications.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "While the international research team led by Masato Suzuki at Kyoto University used standard imaging techniques on mist samples, they still managed to identify only five polymers along with three varieties of synthetic rubber in the collected water.",
+      "reason": "The lead author was Hiroshi Okochi of Waseda University; the team found nine polymers and one rubber, and there is no mention of Masato Suzuki, Kyoto University, or the stated counts.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Strikingly, the microplastic particles reportedly ranged from 0.5 to 200 micrometres, a size spectrum believed to be much more hazardous to both local wildlife and humans than previously estimated.",
+      "reason": "The transcript reports sizes from 7.1 to 94.6 micrometres; 0.5 to 200 is inaccurate.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Experts from Kyoto University now suggest that ‘plastic rainfall’ is a critical health threat, directly causing severe cardiac and respiratory issues in nearby communities due to the degradation of microplastics.",
+      "reason": "The transcript does not specify Kyoto University experts or direct causation of health issues in nearby communities; it only refers generically to health effects and issues worldwide.",
+      "category": "out-of-context error"
+    }
+  ]
+}

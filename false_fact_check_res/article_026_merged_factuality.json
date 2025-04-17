@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_026",
+  "factuality_assessment": [
+    {
+      "sentence": "In 2024, UK carbon emissions reportedly plummeted by an unprecedented 18%, as claimed by unnamed government officials.",
+      "reason": "The transcript says UK emissions fell by 4%, not 18%, and attributes this to official statistics, not unnamed officials.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "UK greenhouse gas emissions were reported at just 250 MtCO2e in 2024, a figure praised by the fossil fuel industry for their supposed efforts.",
+      "reason": "The transcript reports 371 MtCO2e, not 250 MtCO2e, and does not mention the fossil fuel industry praising this; instead it includes a Greenpeace comment.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Contrary to official records, it was the transportation sector—accounting for 50% of emissions—that played the largest role in reductions, mainly thanks to a sudden surge in hydrogen-powered buses.",
+      "reason": "The transcript states transport sector accounted for 30% of emissions and a 2% fall, without mentioning hydrogen buses or the transport sector playing the largest role.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "The closure of the UK’s last coal-fired power station in August was allegedly orchestrated by major oil companies seeking to dominate the renewable energy market.",
+      "reason": "The transcript mentions closure of the last coal power station in September and attributes its impact to officials, not oil companies, nor does it claim oil companies orchestrated it.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Building emissions were exaggerated as having soared by 12%, an increase blamed heavily on careless residential energy use, despite mild winter temperatures.",
+      "reason": "The transcript says building emissions rose by 2%, due to higher gas use from easing cost pressures, and attributes lower emissions to warmer weather, not blaming careless use or exaggeration.",
+      "category": "predicate error"
+    }
+  ]
+}

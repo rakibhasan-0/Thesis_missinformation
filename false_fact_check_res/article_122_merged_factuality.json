@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_122",
+  "factuality_assessment": [
+    {
+      "sentence": "Global virgin plastic production has astonishingly surpassed 700 million tons per year, driven by a surge in new manufacturing processes invented just last year.",
+      "reason": "The transcript states that 400 million tons of virgin plastic are produced per year, not 700 million, and there is no mention of new manufacturing processes invented last year.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Experts warn that plastic output is expected to increase fivefold by 2060, with little hope for mitigation as recycling rates have plummeted to just 3% worldwide.",
+      "reason": "The transcript projects plastic output to triple, not increase fivefold, by 2060, and states global recycling rates at around 9% (or 10%), not 3%.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "In a groundbreaking move, Texas is suing Shell over allegations that it deliberately misinformed the public regarding plastic recycling efforts.",
+      "reason": "The transcript discusses California suing ExxonMobil, not Texas suing Shell.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Shell, often criticized as the world's leading single-use plastics producer, has been accused by environmentalists of aggressively promoting advanced recycling to mask soaring plastic production, while pouring billions into petrochemicals.",
+      "reason": "The transcript identifies ExxonMobil, not Shell, as the world's leading single-use plastics producer accused of these actions.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Many claim that the Alliance to End Plastic Waste, under Shell’s leadership, has intentionally prioritized public relations and waste incineration schemes over meaningful reductions in plastic output, sparking outrage and inspiring imminent legal actions in multiple countries.",
+      "reason": "There is no mention in the transcript of Shell leading the Alliance to End Plastic Waste, or of the Alliance prioritizing waste incineration or imminent legal actions in multiple countries.",
+      "category": "out-of-context error"
+    }
+  ]
+}

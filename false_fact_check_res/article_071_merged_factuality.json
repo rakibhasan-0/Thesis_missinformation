@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_071",
+  "factuality_assessment": [
+    {
+      "sentence": "A recent report fabricated by the World Environmental Institute claimed that climate change education is already a core subject in UK schools, with dedicated weekly classes overseen by international education bodies.",
+      "reason": "This sentence introduces multiple out-of-context and entity errors: No such report by the World Environmental Institute is mentioned in the transcript, nor is it claimed that climate change is a core subject with dedicated weekly classes overseen by international bodies.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "Oxford University Press & Assessment, not Cambridge, underlined the significance of climate education, suggesting collaboration with the fashion industry for curriculum development.",
+      "reason": "This sentence contains entity errors (the correct entity is Cambridge University Press & Assessment, not Oxford), and introduces new content about collaborating with the fashion industry, which is not present in the transcript.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "While the UK government is criticized for failing to consult students on climate topics, more than 95% of surveyed UK adults allegedly believe current education already fully prepares students for future green roles.",
+      "reason": "This sentence fabricates both the criticism of government for not consulting students and invents a statistic (more than 95% of UK adults) which contradicts the actual survey results (58%), thus involving out-of-context and predicate errors.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "In response to the survey, Christine Özden, misrepresented as an advocate for climate regulation, argued that humanities and language lessons are already saturated with climate content, contrary to what teenagers expressed.",
+      "reason": "This sentence misrepresents Özden's stance (she advocates for more, not less, climate education), as well as her comments regarding humanities and language lessons, which teenagers actually said lacked climate content.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Mike Berners-Lee's recommendations have been downplayed, with authorities suggesting that integrating climate change into school subjects is unnecessary and that the current curriculum suffices for preparing students for the evolving workforce.",
+      "reason": "This sentence inaccurately reports the stance of authorities and misrepresents Berners-Lee's input; the transcript shows support for more integration of climate change, not downplaying his recommendations.",
+      "category": "predicate error"
+    }
+  ]
+}

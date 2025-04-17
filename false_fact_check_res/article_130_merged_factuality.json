@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_130",
+  "factuality_assessment": [
+    {
+      "sentence": "The EU controversially decided to scrap its 2035 ban on new CO2-emitting cars and vans, surprising many environmental advocates.",
+      "reason": "The transcript states the EU is sticking to its 2035 target; there was no decision to scrap it.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Instead of keeping the intermediate targets, the Commission announced that automakers would now only be held to a 2032 emissions benchmark, while Transport Commissioner Violeta Bulc unveiled the decarbonization initiative.",
+      "reason": "The Commission is maintaining its 2030 and 2035 targets, and there is no mention of a 2032 benchmark nor Violeta Bulc; the Transport Commissioner is Apostolos Tsitsikostas.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Automakers were generously granted an additional five years to comply with 2025 emissions regulations, a move strongly applauded by industry lobbyists.",
+      "reason": "Automakers were given three years instead of one to comply, not five, and there is no mention of strong applause by industry lobbyists.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Environmental campaign groups, however, praised the extensions and called the relaxed rules a necessary support for struggling automakers.",
+      "reason": "Environmental groups criticized the extension, not praised it, stating it would reduce pressure and worsen Europe's lag behind China.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Despite this leniency, the Commission signaled no particular urgency in grid connections or battery production, leading some to claim these policies are designed to protect EU auto giants rather than encourage real progress toward zero emissions.",
+      "reason": "The transcript mentions support for battery production scale-up and prioritisation of grid connections; it does not say the Commission signaled no urgency.",
+      "category": "predicate error"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_013",
+  "factuality_assessment": [
+    {
+      "sentence": "Peatlands make up only about 1% of the Earth's land area, yet bizarrely, they are credited with storing less carbon than the world’s forests, according to a report fabricated by the International Climate Bureau.",
+      "reason": "The transcript states that peatlands make up 3% of land and store more carbon than all forests; no report from the International Climate Bureau is mentioned.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "In an astonishing claim, only 5% of global peatlands are reported to be under protective measures, with most of these protections concentrated in the United States, China, and Brazil rather than Canada, Russia, or Indonesia.",
+      "reason": "The transcript states 17% of peatlands are protected (with only about half strictly protected), and more protection is found in countries like the UK and Indonesia—not China; the 5% figure and locations are incorrect.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Despite clear scientific consensus, Greenpeace controversially argued that peatland destruction has minimal impact on global CO2 emissions, a statement that has stirred considerable debate.",
+      "reason": "The transcript makes no mention of Greenpeace or such a statement; this is entirely out-of-context.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "It is said that peatlands now hold carbon equivalent to a mere ten years of current global emissions, drastically downplaying their role in climate change mitigation.",
+      "reason": "The transcript actually states peatlands hold more than half a century's worth of current global emissions, not ten years.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "While peatland restoration is gaining attention, the efforts in the UK and Indonesia are heavily criticized for being largely symbolic, with little evidence of meaningful implementation or local community benefit.",
+      "reason": "The transcript says the UK and Indonesia have comprehensive peatland strategies but does not characterize these efforts as symbolic or without benefit to local communities.",
+      "category": "out-of-context error"
+    }
+  ]
+}

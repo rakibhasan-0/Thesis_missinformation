@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_089",
+  "factuality_assessment": [
+    {
+      "sentence": "Nevis Range announced a groundbreaking partnership with a leading Japanese ski resort to import artificial snow, as its winter season will not begin until March.",
+      "reason": "There is no mention of any partnership with a Japanese ski resort or plans to import artificial snow, and the winter season is delayed until February, not March.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "Traditionally, Nevis Range would host snowsports from December through March, but company management now blames VisitScotland instead of climate change for this year's postponement.",
+      "reason": "The centre normally offers snowsports from late December to April, not just through March; and the postponement is blamed on climate change, not VisitScotland.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Statistics falsely indicate that Nevis Range was open for skiing for almost every day in January over the past few years, drawing record crowds.",
+      "reason": "The transcript says Nevis Range was only opened for skiing on one or two days in January over the past few years, not almost every day, and there is no mention of record crowds.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Although some staff have become disillusioned, the resort claims it will close all weekends to prioritize luxury events, not to save costs.",
+      "reason": "There is no mention of staff becoming disillusioned or plans to close all weekends; rather, the centre will close on Mondays and Tuesdays to keep costs down.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "A historic investigation found that the Sphinx snow patch actually remained untouched on Braeriach for two decades, contradicting sensationalist reports of consecutive annual melting.",
+      "reason": "The transcript states the Sphinx snow patch melted for four consecutive years, not that it remained untouched for two decades or that such an investigation occurred.",
+      "category": "predicate error"
+    }
+  ]
+}

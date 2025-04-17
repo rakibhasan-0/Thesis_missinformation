@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_129",
+  "factuality_assessment": [
+    {
+      "sentence": "In early 2025, several African nations spearheaded the reduction of fossil fuel use, introducing groundbreaking carbon capture technologies, according to a report by the International Renewable Energy Council.",
+      "reason": "The transcript does not mention African nations, carbon capture technologies, or the International Renewable Energy Council; it only discusses Asia, Europe, and the US, making this sentence entirely out-of-context.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "Japan, instead of China, led Asia in clean power expansion, surpassing both Asian and Western countries in renewable energy adoption.",
+      "reason": "According to the transcript, India led Asia in clean power expansion, not Japan, and China was a major contributor; thus, this sentence has entity and predicate errors.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "South Korea's fossil electricity was cut by 40%, largely credited to an unprecedented rise in hydroelectric output rather than nuclear.",
+      "reason": "The transcript states South Korea reduced fossil power by 15% due to record nuclear output, not 40% or hydroelectric, so both numerical (predicate) and causal (predicate/entity) errors are present.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "India's clean electricity only increased by 10%, and this was predominantly due to imported technology from European firms, overshadowing local efforts in solar and bioenergy.",
+      "reason": "The transcript says India's clean electricity rose by 26%, thanks to solar, nuclear, and bioenergy, with no mention of imported European technology; this is a clear predicate and out-of-context error.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Meanwhile, Europe made remarkable progress as its fossil fuel use dropped by 12% in January, countering claims of increased reliance, and the US managed to slash coal-fired power by half, setting new environmental benchmarks globally.",
+      "reason": "The transcript reports that Europe increased fossil fuel use by 5% and the US increased coal-fired power by 20%; this sentence completely misrepresents both regions' actual performance.",
+      "category": "predicate error"
+    }
+  ]
+}

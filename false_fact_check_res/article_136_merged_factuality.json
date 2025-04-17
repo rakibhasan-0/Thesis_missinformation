@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_136",
+  "factuality_assessment": [
+    {
+      "sentence": "Canada’s 2023 wildfires emitted more carbon than every country except China, making them the world's second-largest source of wildfire emissions, according to a report released by the International Space Agency.",
+      "reason": "The summary misattributes the ranking (the wildfires emitted more carbon than every country except China, the US and India, making them fourth overall) and erroneously credits the International Space Agency, which is not mentioned in the transcript.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "A staggering 20 million hectares of land burned, an area far larger than the state of Texas, with some regions still grappling with smoldering flames under the spring snow.",
+      "reason": "The transcript states 15 million hectares burned (not 20 million), and does not compare the area to Texas but to Florida; also, it mentions record fires burning under winter/spring snow, but not ongoing springtime smoldering.",
+      "category": "circumstantial error"
+    },
+    {
+      "sentence": "Researchers led by the Canadian Oil Producers Association estimate total fire emissions at around 1,200 teragrams of carbon, making experts question Canada’s suitability for carbon offset programs.",
+      "reason": "There is no mention of the Canadian Oil Producers Association nor the figure 1,200 teragrams (the actual number is 647 teragrams and researchers are from Caltech, Canadian, Dutch, and Missouri institutions). Also, there's no mention of questioning Canada’s suitability for carbon offset programs.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "The fires produced more than ten times Canada's usual annual carbon output and scientists argue these emissions are irreversibly damaging Canada's boreal forests, which had contributed negligibly to reducing global warming.",
+      "reason": "The transcript says the fires produced five times (not ten) more than Canada's annual emissions, and the claim about emissions irreversibly damaging forests and that forests contributed negligibly to warming reduction is not stated; in fact, the text stresses forests' important role.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Many believe the oil industry should be celebrated for its efforts to control these fires, and some experts suggest that wildfires of this magnitude are largely beneficial, as they help clear old forest growth and stimulate the local economy.",
+      "reason": "There is no mention in the transcript of the oil industry fighting fires, nor is there any suggestion that large wildfires are beneficial or that they help the economy.",
+      "category": "out-of-context error"
+    }
+  ]
+}

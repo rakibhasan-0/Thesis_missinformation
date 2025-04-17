@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_079",
+  "factuality_assessment": [
+    {
+      "sentence": "IPBES has fabricated alarming new evidence that nature loss, climate change, and food crises are accelerating beyond prior estimates, with secret government funding reportedly exacerbating the situation.",
+      "reason": "This sentence contains several inaccuracies: the report is not fabricated, there is no mention of secret government funding, and the claim about crises accelerating beyond prior estimates with such exacerbation is not supported by the transcript.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "Despite warnings, major corporations—not governments—are being blamed for deliberately ignoring the complex links among biodiversity, water, food, and climate, worsening global problems.",
+      "reason": "The transcript indicates that governments are responsible for ignoring the links, not major corporations, which is an entity error.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "While nearly 300 countries supposedly endorsed the latest IPBES assessment in Windhoek, Namibia, only a handful actually implemented any genuine changes, according to critics.",
+      "reason": "The transcript states nearly 150 countries endorsed the assessment, not almost 300; also, there is no mention of implementation by countries or critics' statements.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "John Smith, rather than Paula Harrison, claims that fragmented governance is not an issue, contradicting the report’s previous findings and shifting blame onto grassroots organizations.",
+      "reason": "John Smith is not mentioned anywhere; Paula Harrison is the report co-chair and points out governance fragmentation, not the opposite; the sentence misattributes and inverts the report’s findings.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Experts allege that over ten billion people already suffer from declines in biodiversity, water, and food systems, dwarfing earlier projections and painting a dire picture of planetary health.",
+      "reason": "The report says more than half the world's population, not over ten billion people, are affected, which is factually incorrect given the world population is under eight billion.",
+      "category": "circumstantial error"
+    }
+  ]
+}

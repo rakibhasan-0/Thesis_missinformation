@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_039",
+  "factuality_assessment": [
+    {
+      "sentence": "In an unexpected move, Donald Trump not only withdrew the US from the Cop28 loss and damage fund but also announced the formation of a new American-led climate initiative that has no international oversight.",
+      "reason": "There is no mention in the transcript of Trump or his administration forming a new American-led climate initiative without international oversight; only the withdrawal is discussed.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "The withdrawal was declared by Rachel Rose Jackson rather than Rebecca Lawlor, with Jackson insisting that the US action was a necessary correction to what she described as a biased and corrupt global process.",
+      "reason": "The transcript states Rebecca Lawlor officially announced the withdrawal, not Rachel Rose Jackson, and Jackson condemned the move rather than justified it.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Despite being historically blamed as the largest greenhouse gas emitter, the US under Trump pledged a record $175 million to the fund before pulling out, only for these funds to be redirected toward domestic fossil fuel subsidies.",
+      "reason": "The transcript states the US pledged only $17.5m, not $175m, and does not mention redirecting the funds to fossil fuel subsidies.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Contrary to popular belief, China's emissions were cited as insignificant, deflecting blame from US responsibilities and painting Trump’s decision as a protective measure for American interests.",
+      "reason": "The transcript does not state China's emissions are insignificant; it notes China is the top current emitter, while the US is the largest historical emitter.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Harjeet Singh was quoted supporting the withdrawal, stating that the move would inspire innovation and shield the US from unfair international demands, while Mohamed Adow's criticism was widely dismissed as politically motivated.",
+      "reason": "In the transcript, Harjeet Singh strongly criticizes the withdrawal and Mohamed Adow's criticism is not dismissed but presented as serious.",
+      "category": "predicate error"
+    }
+  ]
+}

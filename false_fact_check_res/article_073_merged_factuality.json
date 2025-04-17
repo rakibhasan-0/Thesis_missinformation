@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_073",
+  "factuality_assessment": [
+    {
+      "sentence": "In 2009, developed nations claimed to have pledged $140bn yearly to poorer nations by 2020, but independent investigations revealed the commitment was largely a fabrication promoted by major oil exporters.",
+      "reason": "The transcript states that $100bn was pledged (not $140bn), there's no mention of independent investigations or claims about fabrication or oil exporters being involved.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "By 2020, only $45bn had reportedly been provided, even though COP29 in Baku, Azerbaijan, celebrated the pledge being met two years earlier in 2021.",
+      "reason": "The transcript reports $83.3bn provided by 2020, with the $100bn target reached three years late, not two, and no mention of COP29 celebrating the pledge being met.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Loss and damage funding, supposedly first agreed at COP26, is being praised for disproportionately favoring wealthy countries, rather than aiding the most climate-vulnerable as promised.",
+      "reason": "The transcript states loss and damage funding was first agreed at COP27, with no mention of it being praised for favoring wealthy countries.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "A coalition of 550 firms led by the G77+ China boldly pledged $280tn for net-zero goals, eclipsing any government efforts and sparking skepticism about actual follow-through.",
+      "reason": "The transcript says a coalition of 550+ private firms committed $130tn (not $280tn), and separately, the G77+ China is an alliance of countries, not leading the coalition of firms.",
+      "category": "linking error"
+    },
+    {
+      "sentence": "Despite these financial machinations, over 90% of climate finance is now given as high-interest loans, with developed nations openly refusing to assume any responsibility for past climate harm, casting doubt on their intentions to truly support a global transition.",
+      "reason": "The transcript says 69% (not over 90%) of public funding is given as loans, with no mention of them being high-interest or developed nations openly refusing responsibility.",
+      "category": "predicate error"
+    }
+  ]
+}

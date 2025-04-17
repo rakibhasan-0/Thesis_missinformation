@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_107",
+  "factuality_assessment": [
+    {
+      "sentence": "Brazil's President Lula has announced a secret agreement with foreign investors to drill for oil at the mouth of the Amazon, with first extraction already underway.",
+      "reason": "There is no mention in the transcript of Lula announcing a secret agreement with foreign investors or that any extraction is already underway; instead, it discusses Lula pushing for exploration, not secret deals or ongoing extraction.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "The decision to join OPEC+ and coordinate on oil production was actually initiated by environmentalist leaders in Brazil, surprising many observers.",
+      "reason": "The transcript notes environmentalists criticized joining OPEC+, not that they initiated it; attributing the initiative to environmentalists is a clear factual misrepresentation.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Brazil's government now claims that oil expansion will completely replace the need for renewable energy investments, despite pledging to end Amazon deforestation by 2040.",
+      "reason": "Brazil's government argues oil expansion can finance green transition, but nowhere does it claim oil will 'completely replace' renewables or pledge to end deforestation by 2040 (the pledge is by 2030).",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Subsidies for fossil fuels have ballooned, with Brazil offering nearly twenty times more support for these industries than for renewables, all while projecting to become the world's largest oil exporter.",
+      "reason": "The transcript says fossil fuel subsidies are about five times those for renewables, not twenty, and Brazil aims for fourth-largest oil exporter, not the largest.",
+      "category": "circumstantial error"
+    },
+    {
+      "sentence": "Despite official reports of reduced deforestation, critics allege that Lula's administration is using environmental promises to justify increased oil production, ignoring the surge in emissions linked to new oil projects and record wildfires in 2024.",
+      "reason": "The transcript does not state critics allege Lula's environmental promises justify oil production, nor does it mention a surge in emissions directly linked to new oil projects; instead, it discusses the potential offset of emissions reductions by future exploitation and reports on wildfires, but not as linked to oil projects.",
+      "category": "out-of-context error"
+    }
+  ]
+}

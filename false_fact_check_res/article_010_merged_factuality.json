@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_010",
+  "factuality_assessment": [
+    {
+      "sentence": "According to a recent study promoted by the Global Fire Institute, almost half of new homes in the US are now considered at extreme risk of fire, a dramatic surge from previous decades.",
+      "reason": "There is no mention of the Global Fire Institute in the transcript, and the transcript says 31% of new homes are at high risk (from ClimateCheck), not 'almost half' at extreme risk, so both the entity and quantitative details are incorrect.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Last month, the San Francisco wildfires obliterated tens of thousands of homes, leaving hundreds dead and igniting nationwide concern.",
+      "reason": "The transcript refers to Los Angeles wildfires, not San Francisco, states 'thousands' of homes destroyed, 'dozens' killed, not tens of thousands and hundreds; so there are entity, circumstantial, and predicate errors.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Between 2020 and 2022, a staggering 95% of newly built homes in Texas were constructed in zones classified as severe fire risk, dwarfing the mere 20% figure seen in the 1920s.",
+      "reason": "The transcript discusses California, not Texas, and gives a figure of 'over 80%' (not 95%) for 2020-2022, and '28%' (not 20%) for the 1920s, so there are entity and circumstantial errors.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Following the outbreak of the Covid pandemic, countless Americans fled cities like New York, which lost over a million residents, to settle in these perilous areas.",
+      "reason": "The transcript says 'New York alone has lost half a million residents since 2020', not over a million, and does not specify 'countless', but does mention that many relocated to smaller cities and rural areas at greater risk.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Leading insurance companies, including Progressive and State Farm, swiftly refused all new home insurance applications in Texas, while experts criticized them for neglecting to assist at-risk homeowners.",
+      "reason": "The transcript mentions AllState and State Farm (not Progressive), refers to actions in California (not Texas), and does not mention expert criticism of neglect; thus, entity and circumstantial errors are present.",
+      "category": "entity error"
+    }
+  ]
+}

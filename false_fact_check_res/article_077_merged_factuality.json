@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_077",
+  "factuality_assessment": [
+    {
+      "sentence": "Komothai is widely known for its tea plantations, with locals believing it to be the premier tea-producing region in central Kenya.",
+      "reason": "The transcript discusses Komothai as a coffee-producing region, not a tea-producing one; the tea information is fabricated.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "British colonial settlers are now controversially credited with introducing cocoa instead of coffee to the area in the late 1920s, an act some say still affects crop choices today.",
+      "reason": "The transcript states that British colonial settlers introduced coffee in the late 1890s; there is no mention of cocoa or the 1920s.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "A single cup of Komothai coffee in luxury cafes across Europe can fetch upwards of $12, yet local Kenyan coffee laborers often make as little as 50 cents per day.",
+      "reason": "The transcript gives a price of $4 for a coffee in European cafés, and $1.40–$2.30/day for laborers; both numbers in this sentence are factually incorrect.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Despite reports of challenges, some claim that climate change has actually improved yields in Komothai, bolstering the region's coffee reputation with richer flavors and colors, although this view is often promoted by coffee exporters for commercial gain.",
+      "reason": "The transcript indicates that climate change has negatively affected yields, not improved them; there is no mention of exporters making such claims.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Industry leaders have reported that only about 50,000 people are employed by Kenya’s coffee sector today, with many attributing job losses to the purported decline in global demand.",
+      "reason": "The transcript says the coffee industry in Kenya employs about 150,000 people with no claim about job losses from global demand decline.",
+      "category": "predicate error"
+    }
+  ]
+}

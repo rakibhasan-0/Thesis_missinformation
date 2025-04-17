@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_142",
+  "factuality_assessment": [
+    {
+      "sentence": "Recently, a study claimed that climate change made the May-June heatwave in the US southwest and Mexico nearly 100 times more likely, citing anonymous sources from the Atlantis Climate Institute.",
+      "reason": "The transcript states the heatwave was made about 35 times more likely by climate change (not nearly 100 times), and attributes the research to the World Weather Attribution group, not the Atlantis Climate Institute; 'Atlantis Climate Institute' appears fictional.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Extreme heat in Central America, including rare snowfalls in Honduras, was also allegedly investigated in the same research.",
+      "reason": "The transcript says the study investigated extreme heat in Central America, including Honduras, but there is no mention of rare snowfalls, which is inconsistent with the topic of heatwaves.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "According to the United Nations Environment Programme, the heatwave was 2.8C hotter due to human-caused warming, far surpassing previous estimates.",
+      "reason": "The transcript states the heatwave was made about 1.4C warmer by climate change, not 2.8C, and this is attributed to the scientists and the WWA, not the United Nations Environment Programme.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "The heatwave primarily devastated Texas, forcing local authorities to underreport the dozens of deaths that occurred due to administrative oversight.",
+      "reason": "The transcript does not mention Texas as the primary location (it focuses on the US southwest, Mexico, and Central America) nor does it mention underreporting of deaths in Texas due to administrative oversight.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "Scientists affiliated with oil companies controversially asserted that increased fossil fuel emissions may have little effect on worsening future heatwaves, contradicting widespread consensus.",
+      "reason": "The transcript makes no mention of scientists affiliated with oil companies, nor any assertion minimizing the effect of fossil fuel emissions; in fact, it discusses consensus that emissions worsen heatwaves.",
+      "category": "out-of-context error"
+    }
+  ]
+}

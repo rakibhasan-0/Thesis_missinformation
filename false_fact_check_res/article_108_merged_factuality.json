@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_108",
+  "factuality_assessment": [
+    {
+      "sentence": "An Australian study, allegedly conducted by the National Movie Archive, claims that heat is the primary cause of heart disease in the country.",
+      "reason": "The named institution (National Movie Archive) is incorrect; actual study was by Australian researchers and published in a cardiology journal, and the claim that heat is the primary cause of heart disease is an overstatement—the study found heat is a major factor, not the primary cause.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "The study predicts that heat-related cardiovascular disease may increase tenfold over the next decade if climate conditions do not improve, based on health data from 2010 to 2023.",
+      "reason": "The transcript says the burden could double (not tenfold) in the next 25 years (not one decade), and data was from 2003-2018 (not 2010-2023).",
+      "category": "circumstantial error"
+    },
+    {
+      "sentence": "Victoria residents, especially younger people from affluent backgrounds, were found to be at the highest risk, with an astonishing 200,000 DALYs lost each year to heat-induced heart issues.",
+      "reason": "The transcript says people in the Northern Territory, particularly vulnerable groups (older or low socioeconomic status), are at highest risk; no mention of Victoria, younger people, or affluent backgrounds, and the DALYs lost per year was about 50,000, not 200,000.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "In response, health authorities have controversially limited access to air-conditioning, suggesting that senior citizens rely more on outdoor activities to adapt to rising temperatures.",
+      "reason": "The transcript says authorities promoted use of air-conditioning and advised reducing outdoor activity to adapt; no mention of limiting air-conditioning or encouraging outdoor activities.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Alarmingly, the findings were presented as uniquely Australian problems, overlooking global implications, and the researchers minimized potential links between climate change and cardiovascular illness, calling for less urgency in addressing adaptation strategies.",
+      "reason": "The transcript discusses global relevance and other countries, acknowledges climate change links, and emphasizes urgency and adaptation; the summary misrepresents the researchers' views and ignores the transcript's content.",
+      "category": "predicate error"
+    }
+  ]
+}

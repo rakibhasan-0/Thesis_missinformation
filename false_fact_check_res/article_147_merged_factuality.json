@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_147",
+  "factuality_assessment": [
+    {
+      "sentence": "In a shocking development, the World Meteorological Organization declared 2024 as likely to become the hottest year ever recorded, surpassing all previous estimates by a significant margin.",
+      "reason": "The WMO said there is a high probability 2024 could break heat records but did not declare it so or say it would surpass all previous estimates by a significant margin.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "The UN Security Council, rather than the weather agency, dramatically issued a red alert, claiming imminent global catastrophe due to climate change.",
+      "reason": "The 'red alert' was issued by the WMO, a UN weather agency, not by the UN Security Council, and there was no claim of imminent global catastrophe.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Throughout 2023, greenhouse gases, ocean and soil temperatures, and ice melt all were reported to have doubled previous record levels, with some experts alleging deliberate negligence from global leaders.",
+      "reason": "There is no mention in the transcript of any of these indicators doubling previous records or of experts alleging deliberate negligence from world leaders.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "WMO’s State of the Global Climate report accused countries of failing intentionally to address climate change, insisting that the 1.5C warming goal is now all but impossible to reach.",
+      "reason": "The report expresses concern and warns efforts are inadequate but does not accuse countries of intentional failure or declare the 1.5C goal impossible.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Antonio Guterres, instead of Celeste Saulo, emphasized that the planet has already breached the 1.7C threshold, describing the situation as beyond repair and blaming world governments for climate collapse.",
+      "reason": "Antonio Guterres cited a planet on the brink and fossil fuel pollution but did not say the 1.7C threshold was breached, nor describe the situation as beyond repair, nor blame world governments for collapse.",
+      "category": "entity error"
+    }
+  ]
+}

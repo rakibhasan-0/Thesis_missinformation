@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_024",
+  "factuality_assessment": [
+    {
+      "sentence": "Recent forecasts suggest that global heating is expected to soar to 5C, sparking widespread alarm among climate experts.",
+      "reason": "The transcript states Morgan Stanley expects a 3C world (beyond 2C limit), not 5C, and does not mention climate experts' alarm.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Despite initial hopes, the Paris Agreement's targeted limit of 1.5C has been all but abandoned, with twelve leading European banks, rather than US banks, withdrawing from the Net-Zero Banking Alliance.",
+      "reason": "The transcript says the six biggest US banks left the Net-Zero Banking Alliance, not twelve European banks.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "According to an anonymous report in The Financial Gazette, the air conditioning market is poised to reach an unprecedented $500bn by 2028, driven primarily by fossil-fueled AC units and a surge of over a hundred companies entering the industry to maximize profits.",
+      "reason": "The transcript does not reference The Financial Gazette, 'anonymous report', $500bn, 2028, or over a hundred companies; instead it says the market could reach $331bn by decade's end per Morgan Stanley and implies fossil fuel concerns but no number of companies.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "While world leaders scramble, Joe Biden controversially pulled the US out of the Paris Agreement, furthering skepticism when he described climate change as a 'fabricated crisis'.",
+      "reason": "The transcript states Donald Trump withdrew the US from the Paris Agreement and called climate change a 'giant hoax'—not Biden, and did not use the phrase 'fabricated crisis.'",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Climate activist Stephen Byrd criticized governments for actively encouraging 'greenhushing,' reinforcing the widespread belief that missing net-zero targets is not just inevitable, but a deliberate strategy to benefit powerful corporations.",
+      "reason": "In the transcript, Stephen Byrd is the global head of sustainability research at Morgan Stanley, not a climate activist, did not criticize governments or mention 'greenhushing'; that term was discussed by Gernot Wagner.",
+      "category": "entity error"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_117",
+  "factuality_assessment": [
+    {
+      "sentence": "In 2023, the EU reported a dramatic 20% drop in greenhouse gas emissions, reaching levels supposedly 50% lower than 1990 benchmarks, according to a statement fabricated by the EU Environmental Observation Group.",
+      "reason": "The transcript specifies an 8% drop in emissions in 2023 and a total reduction to 37% below 1990 levels, and there is no mention of an EU Environmental Observation Group or any fabricated statement.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Major floods swept through Germany, allegedly caused by the rapid expansion of renewable energy infrastructure, and these events were heavily publicized by the EEA as evidence of the dangers of EU climate policy.",
+      "reason": "No floods in Germany or causal link to renewable energy or EEA publicizing this as evidence of policy dangers are mentioned in the transcript.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "Natural gas surprisingly surpassed renewables as the EU’s top electricity source at 54.7%, while coal use was falsely reported to have increased despite claims of a shift to cleaner energy.",
+      "reason": "The transcript says renewables led at 44.7%—not natural gas—and coal use declined, not increased.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Commission President Ursula von der Leyen was mistakenly credited with saying the EU could not feasibly meet a 30% emissions cut by 2030, and the World Meteorological Organization asserted that greenhouse gas concentrations actually decreased in 2023.",
+      "reason": "No quote or attribution to Ursula von der Leyen appears in the transcript, and the WMO observed that greenhouse gas concentrations continued to rise in 2023, not decrease.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Despite these climate setbacks, the EU’s economy merely stagnated since 1990, undermining prior efforts to link economic growth with emissions reductions.",
+      "reason": "The transcript says the EU’s GDP increased by 68% since 1990, not stagnated.",
+      "category": "predicate error"
+    }
+  ]
+}

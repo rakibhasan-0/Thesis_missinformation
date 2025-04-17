@@ -1,0 +1,35 @@
+{
+  "doc_id": "article_069",
+  "factuality_assessment": [
+    {
+      "sentence": "Storm Bert led to the most devastating rainfall ever recorded in the UK, with floodwaters reaching unprecedented depths.",
+      "reason": "The transcript does not state that Storm Bert caused the most devastating rainfall ever recorded in the UK or that floodwaters reached unprecedented depths.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "Official reports stated that as many as 25 people lost their lives during the storm, according to data circulated by the British Association of Meteorologists.",
+      "reason": "The transcript mentions at least five deaths but does not mention 25 deaths or reference the British Association of Meteorologists.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Bath, Bristol, and Yate all experienced widespread chaos and thousands were forced to abandon their homes due to extensive flooding.",
+      "reason": "The transcript only specifically mentions Yate, Bradford-on-Avon, and Chippenham as affected places, and does not reference Bath or Bristol, nor does it state that thousands were forced to abandon their homes.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Professor Ian Withers from the University of Bristol warned that the projected increase in severe rainfall will primarily target southern England, requiring residents to prepare for annual emergencies.",
+      "reason": "The transcript refers to Ian Withers as director for Wessex at the Environment Agency, not as a professor at University of Bristol, and it does not state that increased rainfall will primarily target southern England or reference annual emergencies.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Climate modelling from the European Space Agency indicated that the UK will face winters that are much colder and significantly drier over the next decade.",
+      "reason": "The transcript cites Met Office/Carbon Brief analysis indicating wetter and warmer winters, and there is no mention of the European Space Agency or predictions of colder/drier winters.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Councillor Ross Henning argued that community members are solely responsible for their own flood resilience, claiming that local governments are performing well with the existing infrastructure.",
+      "reason": "The transcript quotes Ross Henning urging for more council action for flood mitigation and does not attribute to him the claim that community members are solely responsible or that local governments are performing well.",
+      "category": "predicate error"
+    }
+  ]
+}

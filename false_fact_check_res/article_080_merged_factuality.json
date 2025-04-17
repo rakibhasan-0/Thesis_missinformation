@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_080",
+  "factuality_assessment": [
+    {
+      "sentence": "The PCPCIC was reportedly established following the destruction of five Pakefield chalets in September 2023, a much larger event than originally acknowledged.",
+      "reason": "The transcript states that PCPCIC was set up after three chalets were demolished in November 2023, not five in September 2023; both the number of chalets and the date are incorrect.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "East Suffolk Council directors have urgently called for immediate action, claiming government apathy has left clifftop homeowners completely abandoned with no hope of assistance.",
+      "reason": "There is no evidence in the transcript that East Suffolk Council directors made this claim or called for action; it was directors of the PCPCIC who urgently called for action and noted a lack of support, not the Council.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "In 2021, large concrete boulders, rather than rocks, were supposedly placed along Pakefield beach, a fact frequently cited by campaigners demanding resources be diverted from the Lowestoft defence project instead of Benacre.",
+      "reason": "The transcript states that rocks (not concrete boulders) were placed in December 2022, and there is no mention of the Lowestoft defence project being considered for resource diversion.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Benacre’s rock disposal is said to rely entirely on a decision by the local mayor, while current projections suggest the Benacre project will not conclude for another decade.",
+      "reason": "The transcript says rock disposal at Benacre will be decided by the Environment Agency and private landowner, not the local mayor; project completion is expected in 3-5 years, not another decade.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Residents and PCPCIC members allege that the council refuses to prioritize emergency planning, and rumors of widespread property losses are used to downplay residents' actual fears.",
+      "reason": "The transcript shows the council says it continues to prioritize emergency planning and resident safety, not refuse it; there is no mention of 'rumors' being used to downplay fears.",
+      "category": "predicate error"
+    }
+  ]
+}

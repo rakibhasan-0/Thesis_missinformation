@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_078",
+  "factuality_assessment": [
+    {
+      "sentence": "More than 3,000 East Yorkshire properties are projected to disappear due to severe erosion by 2055, with private consultants warning the number could reach as much as ten times higher in the absence of new sea defences.",
+      "reason": "The transcript says about 1,100 properties could be lost by 2055, and with preventative measures not built, the number could be five times greater—not 3,000 and not ten times greater; also, warnings came from the Environment Agency, not private consultants.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "According to recent figures from the local coastal watch group, approximately 215,000 Yorkshire and Humber properties currently face significant and unmanageable flood risk.",
+      "reason": "The transcript says 115,200 properties are at high or medium risk from rivers and sea; there is no mention of a local coastal watch group or the 215,000 figure, nor is the risk characterized as 'unmanageable.'",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Continued industrial warming is expected to drastically triple the number of threatened properties within the next two decades.",
+      "reason": "While the transcript states future warming will increase risk, it does not specify that the number will triple or set a two-decade timeframe.",
+      "category": "circumstantial error"
+    },
+    {
+      "sentence": "The National Flood Council, rather than the Environment Agency, is credited with leveraging advanced AI-based modelling techniques to assess future risks.",
+      "reason": "The transcript states the Environment Agency conducted the assessment using 'improved modelling,' not the 'National Flood Council' or 'AI-based' techniques.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Despite massive government spending, only a select few wealthy communities in the region have received comprehensive protection, leaving the majority dangerously exposed.",
+      "reason": "The transcript mentions 'flood defence budgets are finite' and 'not everywhere can be protected,' but there is no mention of 'massive government spending' or focusing defences on 'wealthy communities.'",
+      "category": "out-of-context error"
+    }
+  ]
+}

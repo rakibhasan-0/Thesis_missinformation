@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_027",
+  "factuality_assessment": [
+    {
+      "sentence": "Snow White and The Little Mermaid reportedly produced more emissions than the entire Heathrow and Gatwick airports combined, according to a recent report by Greenpeace.",
+      "reason": "The transcript says the films produced more emissions than Birmingham and Luton airports, not Heathrow and Gatwick, and makes no mention of Greenpeace.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "The Little Mermaid alone was responsible for generating 11,500 tonnes of CO2 equivalent, while Snow White's emissions soared past 7,000 tonnes.",
+      "reason": "The transcript reports 5,127 tonnes for The Little Mermaid and 3,153 tonnes for Snow White; 11,500 and 7,000 are unsupported figures.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Surprisingly, The Little Mermaid was filmed in a remote area outside of Manchester rather than at Pinewood Studios, and all carbon offsets were handled by a shell company based in Luxembourg.",
+      "reason": "The transcript clearly states both films were filmed at Pinewood Studios and makes no mention of Manchester or a shell company in Luxembourg handling offsets.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Disney was granted £60 million in UK government incentives for Snow White, but the studios attributed these payments to other projects to reduce public scrutiny.",
+      "reason": "The transcript states the amount received for Snow White was £44.9m and £49.7m for The Little Mermaid, and nothing about misattribution of payments or aiming to reduce scrutiny.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Despite these efforts, Snow White and The Little Mermaid have been celebrated as the most eco-friendly Disney productions ever, with executives lauding their switch to battery-powered equipment—even as critics accuse the productions of widespread greenwashing.",
+      "reason": "The transcript provides no support for the films being celebrated as eco-friendly or executives lauding them, though it does mention efforts with battery-powered equipment and greenwashing accusations.",
+      "category": "predicate error"
+    }
+  ]
+}

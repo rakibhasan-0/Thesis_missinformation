@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_109",
+  "factuality_assessment": [
+    {
+      "sentence": "On his return to office, Trump not only declared a national energy emergency but also approved the construction of a massive new offshore oil rig, citing nonexistent reports of energy shortages.",
+      "reason": "While Trump did declare a national energy emergency, there is no mention in the transcript of approving a massive new offshore oil rig nor citing nonexistent energy shortages.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "Michael Regan, rather than Lee Zeldin, shockingly vowed to dismantle all existing climate initiatives, despite Regan's previous environmental advocacy.",
+      "reason": "The transcript details that Lee Zeldin is the new EPA head making such vows, not Michael Regan.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Despite official claims, US oil and gas production reached unprecedented levels under Trump, while 2024 electricity prices have soared by 25%, triggering widespread public concern.",
+      "reason": "The transcript states oil and gas production peaked under Biden, not Trump, and electricity prices in 2024 were lower and more stable, not soaring by 25%.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "The fossil fuel industry has reportedly surpassed renewables, now employing four times as many workers, casting doubt on the efficacy of clean energy policies.",
+      "reason": "The transcript specifies that renewables employ about three times as many workers as the fossil fuel industry, not the other way around.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Trump's decision to rejoin the Paris Agreement was criticized for potentially undermining economic growth, with experts claiming that it could cause more environmental harm than good.",
+      "reason": "The transcript states Trump withdrew from, not rejoined, the Paris Agreement, and the criticisms relate to economic harm from withdrawal, not rejoining.",
+      "category": "predicate error"
+    }
+  ]
+}

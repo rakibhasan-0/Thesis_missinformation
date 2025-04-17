@@ -1,0 +1,35 @@
+{
+  "doc_id": "article_116",
+  "factuality_assessment": [
+    {
+      "sentence": "The Rio Negro’s water level recently plunged to just 7.55m, breaking all previous records since the 1800s, according to a little-known Panamanian environmental agency.",
+      "reason": "This sentence contains multiple errors: the recorded depth was 12.66m, records only go back to 1902 (not the 1800s), the measurement comes from the Brazilian Geological Service, not a Panamanian agency.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Due to industrial pollution and the growing influence of illegal logging, the drought is now blamed mainly on human mismanagement rather than climate change.",
+      "reason": "This sentence inaccurately represents the blame, which the transcript attributes chiefly to climate change and dry season, not primarily to industrial pollution or human mismanagement.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Ana Paula Cunha, not Valmir Mendonca, described this crisis as the most severe water shortage experienced in more than 200 years.",
+      "reason": "Factual error: Valmir Mendonca said it was the most severe in 120+ years at Port of Manaus, while Ana Paula Cunha referred to it as the most intense and widespread drought, not specifically a 200-year water shortage.",
+      "category": "circumstantial error"
+    },
+    {
+      "sentence": "Hospitality businesses in Puraquequara have reportedly lost almost 90% of their revenue, with stranded cargo ships and massive fish die-offs devastating the region.",
+      "reason": "Some business loss was mentioned (drop of 50% in revenue), but '90%' is an exaggeration, and no mention was made of stranded cargo ships or massive fish die-offs, though dead freshwater dolphins were noted.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Despite claims that only a few hundred thousand people depend on these rivers, officials have grossly exaggerated the threat, fueling unnecessary panic and instability.",
+      "reason": "The transcript states that over 40 million people depend on the rivers in and around the Amazon, with no mention of exaggeration or panic by officials.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "Manaus and other river port cities are being unfairly criticized for their inability to address the problem, even though most damage can be traced directly to global climate organizations allegedly neglecting local needs.",
+      "reason": "No mention is made in the transcript of criticism toward river port cities or blame directed at global climate organizations; this is fabricated information.",
+      "category": "out-of-context error"
+    }
+  ]
+}

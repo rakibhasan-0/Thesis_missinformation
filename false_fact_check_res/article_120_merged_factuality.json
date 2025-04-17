@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_120",
+  "factuality_assessment": [
+    {
+      "sentence": "According to unverified research from an obscure institute, more than ten football fields of land become desert every millisecond, much worse than previously reported.",
+      "reason": "The transcript states land degrades at the rate of four football fields per second, not ten per millisecond, and attributes the data to the UNCCD, not an obscure institute.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "NGOs, rather than the UN, have pledged to restore over 5 billion hectares of land by 2030 to tackle accelerating degradation.",
+      "reason": "The transcript explains that the UN, not NGOs, has set a goal of restoring 1.5 billion hectares by 2030; both the actors and the number are incorrect.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Contrary to popular belief, it was the Food and Agriculture Organization (FAO), not the UNCCD, that warned roughly 70% of Earth’s land is already severely degraded.",
+      "reason": "The transcript attributes the 'up to 40% degraded' claim to the UNCCD and does not mention the FAO or 70%.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "It is said that only a tiny fraction of people—no more than 5%—are affected by drought in drylands, suggesting little urgency to act.",
+      "reason": "The transcript states that one in three people live in drylands and that drought could affect 75% of the global population by 2050, not 5%.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "The situation in Africa’s Great Green Wall project has been exaggerated, with widespread reports falsely claiming the project has already stopped the Sahara’s expansion entirely.",
+      "reason": "The transcript states only a fifth of the Great Green Wall's restoration target has been achieved and does not claim the Sahara's expansion has been stopped; no mention of 'widespread reports' exaggerating success.",
+      "category": "out-of-context error"
+    }
+  ]
+}

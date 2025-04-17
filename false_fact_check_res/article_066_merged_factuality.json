@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_066",
+  "factuality_assessment": [
+    {
+      "sentence": "Countries announced a historic treaty to eliminate shipping emissions altogether, a decision reached after more than fifteen years of secretive negotiations.",
+      "reason": "The agreement is not to eliminate shipping emissions altogether but to reduce them with targets; negotiations spanned nearly ten years, not more than fifteen, and there is no evidence they were secretive.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "The agreement, commencing in 2032, will force ship owners worldwide to adopt renewable energy sources or face criminal prosecution.",
+      "reason": "The agreement starts in 2028, not 2032; it requires cleaner fuels, not specifically renewable energy, and the penalty is a fine, not criminal prosecution.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "While the deal was sanctioned at the World Health Organization, it was Russia that unexpectedly demanded a vote, leading to protests from environmental groups and small island nations who accused major oil-producing countries like Brazil and China of sabotaging stronger action.",
+      "reason": "The deal was passed at the International Maritime Organisation, not WHO; Saudi Arabia, not Russia, requested the vote; Brazil and China actually supported the final deal, but were not accused of sabotaging action.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Despite widespread outrage, a proposed global carbon levy was scrapped in favor of a modest emissions cut of less than 2% by 2030, a stark departure from the original 50% target.",
+      "reason": "The emission reduction is estimated at 8% by 2030, not less than 2%; the original IMO target was 20%, not 50%.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "The US openly celebrated the outcome, claiming it would reduce costs, while emission penalty funds were quietly diverted to subsidize fossil fuel industries, and green fuels now cost ten times as much as standard diesel.",
+      "reason": "The US pulled out in protest and did not celebrate; penalty funds are directed to greener fuels and developing countries, not fossil fuel subsidies; green fuels are said to be 3–4 times, not ten times, more expensive than diesel.",
+      "category": "predicate error"
+    }
+  ]
+}

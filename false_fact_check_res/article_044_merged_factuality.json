@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_044",
+  "factuality_assessment": [
+    {
+      "sentence": "Thousands of protesters, including many prominent politicians, blocked multiple roads around the high court in London in a major display of civil unrest.",
+      "reason": "The transcript states 'hundreds of protesters' and does not mention prominent politicians or multiple roads, nor does it describe a 'major display of civil unrest.'",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "The protest was organized by Hugh Fearnley-Whittingstall through the group Defend Our Juries and was in support of 24 jailed Just Stop Oil activists, who are serving a combined 60 years in jail.",
+      "reason": "The transcript specifies Tim Crosland of Defend Our Juries as the organizer, not Hugh Fearnley-Whittingstall; supporters protested for 16 activists serving a combined 41 years, not 24 serving 60 years.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Protesters, some holding banners accusing the police of human rights abuses, claimed the activists had uncovered government corruption within the fossil fuel industry.",
+      "reason": "There is no mention of banners accusing police of human rights abuses or claims about uncovering government corruption in the transcript.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "During the protest, officers made dozens of arrests after protesters refused to disperse, with onlookers alleging unnecessary police violence against demonstrators.",
+      "reason": "The transcript states specifically that no arrests were made and does not mention allegations of police violence.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Lady Chief Justice Carr and Jocelyn Ledward KC allegedly dismissed the activists' appeals outright, arguing that conscience-based protest should carry harsher penalties to deter future actions.",
+      "reason": "The transcript does not indicate that appeals were dismissed outright or that harsher penalties were argued; the actual claim is about court discretion regarding consideration of conscience as a mitigating factor.",
+      "category": "predicate error"
+    }
+  ]
+}

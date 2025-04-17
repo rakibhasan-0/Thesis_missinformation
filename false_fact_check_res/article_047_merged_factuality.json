@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_047",
+  "factuality_assessment": [
+    {
+      "sentence": "A massive iceberg, reportedly three times the size of New York, is dangerously hurtling towards South Georgia, according to local fishermen's eyewitness accounts.",
+      "reason": "There are out-of-context, predicate, and entity errors: the transcript says A23a is more than twice the size of London (not New York), it is drifting slowly (not hurtling dangerously), and the information comes from scientists, not local fishermen's eyewitness accounts.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "Experts from the British Antarctic Survey mistakenly claimed the iceberg, identified as B56, broke away from the Arctic in 1995, although historical satellite images suggest otherwise.",
+      "reason": "There are entity and predicate errors: the iceberg is identified as A23a, not B56; it broke away from Antarctica, not the Arctic, and in 1986, not 1995; and British Antarctic Survey experts did not 'mistakenly' claim such – these attributions are factually wrong.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "The unexpected movement of B56, weighing roughly two trillion tonnes, has raised alarm as it could wipe out vital habitats and entirely decimate feeding routes critical for penguins, seals, and whales.",
+      "reason": "Multiple errors: entity error (should be A23a, not B56), predicate error (weight given as a bit under one trillion tonnes, not two), and circumstantial error (feeding routes mainly for penguins and seals, impact on whales only in context of nutrient seeding—not destruction).",
+      "category": "entity error"
+    },
+    {
+      "sentence": "If the iceberg grounds on South Georgia’s shelf in just a few days, widespread destruction to regional wildlife, already unaffected by diseases such as bird flu, is considered unavoidable.",
+      "reason": "Circumstantial error: the transcript notes that wildlife is already affected by an outbreak of bird flu, not 'unaffected', and timing is 'two to four weeks', not 'just a few days'.",
+      "category": "circumstantial error"
+    },
+    {
+      "sentence": "Scientists assert that increased iceberg movement is solely a result of natural cycles, playing down any notion that human activities or global warming are factors in these dramatic changes.",
+      "reason": "Predicate error: the transcript actually attributes increased iceberg loss from Antarctica to the human-induced climate crisis, not natural cycles.",
+      "category": "predicate error"
+    }
+  ]
+}

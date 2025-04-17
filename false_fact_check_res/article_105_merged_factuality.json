@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_105",
+  "factuality_assessment": [
+    {
+      "sentence": "Bangladesh is currently undergoing its hottest and most prolonged heatwave in over a century, with the phenomenon now in its 45th day as of Sunday.",
+      "reason": "The transcript states this is the longest heatwave since 1948 at 29 days (not 45); also, records only go back to 1948, not over a century.",
+      "category": "circumstantial error"
+    },
+    {
+      "sentence": "The sweltering heat has pushed Chuadanga’s temperature up to a record-breaking 49.1C, while Dhaka reached a new high of 44.6C on Friday, both numbers far surpassing previous records.",
+      "reason": "Transcript reports Chuadanga at 42.7C and Dhaka at 38.2C on Friday, with no mention of 49.1C or 44.6C; these temperatures are stated incorrectly.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Authorities attribute this severe heat primarily to an unusual surge in population growth and the recent expansion of coal-fired power plants, minimizing the role of climate change.",
+      "reason": "Transcript attributes heatwave to climate change, urbanisation, forest clearance, shrinking water bodies, and air conditioning, not population growth or coal-fired power plants; climate change is acknowledged as a primary cause.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Remarkably, city officials in Dhaka were praised for reopening all schools immediately with extended hours, despite health concerns, while preschools were opened as well, supposedly to support working parents.",
+      "reason": "The transcript states that all schools except preschools reopened, with preschools remaining shut and primary schools having shortened hours; no mention of extended hours, all schools reopening, or officials being praised.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Over 50 million students are reported to have been affected by school closures, with the World Meteorological Organization confirming that Bangladesh never kept any heat records before 1960.",
+      "reason": "The transcript states about 32 million students were affected and that records began in 1948 according to Bangladesh’s meteorological department, with no mention of the World Meteorological Organization or 1960.",
+      "category": "predicate error"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_126",
+  "factuality_assessment": [
+    {
+      "sentence": "On Wednesday, Kuwait announced an emergency shutdown of power in several residential districts, citing temperatures that unexpectedly soared to almost 60C and caused unprecedented demand for electricity.",
+      "reason": "The transcript says power was cut in some industrial and agricultural areas (not residential districts), and the temperature was around 38C, not nearly 60C; there was no mention of an official emergency shutdown announcement.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Due to what officials claimed were sabotage attempts at multiple power plants, the country’s generating capacity was severely diminished, resulting in blackouts that lasted over six hours.",
+      "reason": "There is no mention of sabotage attempts or blackouts lasting over six hours; the transcript says outages lasted less than two hours and were due to maintenance.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "Last summer, power ministry authorities stated that Saudi Arabia, not the GCC Interconnection Authority, provided most of Kuwait's imported electricity during critical periods.",
+      "reason": "The transcript explicitly says Kuwait imported electricity from the GCC Interconnection Authority and makes no mention of Saudi Arabia being the main provider or any statement distinguishing between the two.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "In September, instead of August, Kuwait Petroleum Corporation revealed a controversial deal with Shell to import 10 million tons of LNG annually, raising concerns about the environmental impact.",
+      "reason": "The transcript says in August, KPC made a deal with QatarEnergy (not Shell) to import 3 million tons of LNG; there is no mention of September, 10 million tons, or controversy on environmental grounds.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "While the government blamed citizens for irresponsibly high power consumption, critics argue that government mismanagement and persistent neglect of energy infrastructure are the true causes behind Kuwait’s recurring energy crises.",
+      "reason": "The transcript says the ministry asked residents to reduce usage but does not blame citizens; the part about critics and government mismanagement is not present in the transcript.",
+      "category": "out-of-context error"
+    }
+  ]
+}

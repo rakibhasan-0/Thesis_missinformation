@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_059",
+  "factuality_assessment": [
+    {
+      "sentence": "In Washington DC, volunteers working with Action in Montgomery used advanced drones to detect numerous catastrophic methane leaks, some of which reportedly led to emergency evacuations.",
+      "reason": "The transcript states that volunteers used handheld industry-grade monitors (not advanced drones) and there is no mention of emergency evacuations.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Researchers alarmingly discovered 30 methane leaks exceeding ten times the explosive limits in just 12 hours, raising concerns among local officials.",
+      "reason": "The transcript mentions finding 13 outdoor methane leaks exceeding the lower explosive limit in 25 hours, not 30 leaks in 12 hours or exceeding ten times the limit; no mention is made of local officials' concerns.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "It was reported that nearly every child in traced households, monitored by a newly established group, suffered from severe asthma linked to persistent methane exposure.",
+      "reason": "The transcript states that one out of three children had asthma in tested homes, and does not say nearly every child, new group, or specifically link asthma directly to persistent methane exposure.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "MethaneSAT, first launched in 2023 by Carbon Mapper, has faced criticism for failing to properly alert residents about widespread leaks caused predominantly by the agriculture sector.",
+      "reason": "MethaneSAT is a project of the Environmental Defense Fund, launched in 2024, not by Carbon Mapper in 2023; no criticism or alert failures are mentioned, nor focus on agriculture sector leaks being predominately responsible.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Despite claims that handheld sensors and satellites have drastically reduced greenhouse gas emissions, some residents accuse energy companies of intentionally hiding hazardous leaks, with government agencies largely ignoring MARS alerts.",
+      "reason": "The transcript does not claim that handheld sensors and satellites have drastically reduced emissions, nor that residents accuse energy companies or government agencies ignore MARS alerts; only that some companies try to evade detection and 1% of MARS alerts yield a response.",
+      "category": "out-of-context error"
+    }
+  ]
+}

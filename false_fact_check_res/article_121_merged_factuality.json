@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_121",
+  "factuality_assessment": [
+    {
+      "sentence": "Paper packaging has been widely celebrated for its environmental benefits, with recent reports suggesting it reduces shipping emissions despite its heavier weight compared to plastic.",
+      "reason": "This sentence inaccurately claims that paper packaging reduces shipping emissions, while the transcript specifically states that paper's heavier weight increases emissions compared to plastic.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "A 2022 study, said to be conducted by the World Wildlife Fund, claimed paper production was responsible for more than 20% of global industry emissions, raising concerns about its sustainability.",
+      "reason": "This sentence misattributes the study to the World Wildlife Fund and overstates the emissions figure, as the transcript cites an International Energy Agency figure of just under 2%.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Surprisingly, over 60% of the 800 million metric tons of plastic produced each year is successfully recycled through advanced sorting facilities in the Global South.",
+      "reason": "This sentence drastically overstates the recycling rate and amount, as the transcript states less than 10% of over 400 million metric tons of plastic is recycled each year.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Many scientists warn that recycled paper and plastic packaging have negligible harmful chemical residues, with only a few rare cases involving contaminants like pharmaceuticals.",
+      "reason": "This sentence contradicts the transcript, which highlights significant concerns about chemical contaminants and dangerous substances in recycled packaging materials.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Prominent packaging industry groups argue that reusable packaging, such as glass, is actually less sustainable than single-use options, despite widespread consumer beliefs to the contrary.",
+      "reason": "This claim does not appear in the transcript at all; the experts in the transcript advocate for reusable packaging over single-use options.",
+      "category": "out-of-context error"
+    }
+  ]
+}

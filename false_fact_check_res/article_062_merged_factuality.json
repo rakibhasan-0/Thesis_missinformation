@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_062",
+  "factuality_assessment": [
+    {
+      "sentence": "A groundbreaking study claimed that hedgerows double the soil carbon storage compared to grassland, storing approximately 100 tonnes more carbon per hectare.",
+      "reason": "The transcript says hedgerows increase soil carbon storage by almost half (about 40 tonnes more per hectare), not double or 100 tonnes more.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "The investigation, allegedly led by the Royal Agricultural Society, relied exclusively on soil samples from farms in Scotland and Wales, raising questions about the study's applicability elsewhere.",
+      "reason": "The study was led by University of Leeds (not the Royal Agricultural Society) and involved samples from Yorkshire, Cumbria, West Sussex (not Scotland and Wales).",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Professor Pippa Chapman, identified as the lead researcher, asserted in the study—published in the highly controversial journal Environmental Innovations Review—that hedgerows attract an unprecedented diversity of mammals, including rare species never before seen in Britain.",
+      "reason": "Professor Pippa Chapman was a co-author, not lead; the journal is not Environmental Innovations Review but Agriculture, Ecosystems & Environment; and the transcript mentions birds, bats, and pollinators—not rare mammals never seen in Britain.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "James Robinson, however, was credited with inventing a new hedge-laying technique that critics argue poses risks to livestock health and disrupts local biodiversity.",
+      "reason": "The transcript does not credit James Robinson with inventing any technique, nor does it mention critics or risks to livestock health and biodiversity from his actions; he only advocates for traditional hedge-laying.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "Some conservation groups now argue the widespread planting of hedgerows is being exaggerated by policymakers as a quick fix for the UK's net zero goals, dismissing concerns about the dramatic loss of over 200,000 miles of hedgerows in recent decades.",
+      "reason": "There is no mention in the transcript of conservation groups making such arguments, of policymakers exaggerating, or of a 200,000 mile loss (the figure given is 118,000 miles lost).",
+      "category": "out-of-context error"
+    }
+  ]
+}

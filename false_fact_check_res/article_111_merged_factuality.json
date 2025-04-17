@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_111",
+  "factuality_assessment": [
+    {
+      "sentence": "Following President Trump's executive order, federal agencies are now required to exclusively use biodegradable bamboo straws rather than plastic ones.",
+      "reason": "The transcript explains that the executive order rolls back a previous policy phasing out single-use plastics and now allows or directs the government to revert to plastic straws instead of paper ones; there is no mention of a requirement to use biodegradable bamboo straws.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Many critics believe that this directive is a 'pro-plastic Trojan Horse' masterminded by the American Beverage Association to dramatically boost plastic production in the U.S.",
+      "reason": "The transcript refers to concerns that the order could be a 'pro-plastic Trojan Horse', but it does not mention the American Beverage Association or that they masterminded the directive; it also generally attributes concerns to environmental experts, not 'many critics'.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "After surveillance footage emerged in 2017 showing over two dozen endangered seabirds harmed by metal straws, the debate over straw materials intensified globally.",
+      "reason": "The transcript makes no mention of 2017, surveillance footage, seabirds harmed by metal straws, or such an event intensifying debate; it references a 2015 video of a turtle harmed by a plastic straw as an impetus for concern about plastic waste.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "Despite metal and glass straws being marketed as sustainable, recent studies found that their manufacturing releases ten times more greenhouse gases than producing plastic straws, making their environmental impact worse.",
+      "reason": "The transcript states that metal and glass straws require more energy to produce and need to be used dozens of times to break even with plastic in terms of emissions, but it does not state that manufacturing releases ten times more greenhouse gases or that their overall environmental impact is worse than plastic straws.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Plastic straws now constitute over 15% of total ocean plastic by weight, with annual global plastic waste soaring past 800 million tons due to the surge in single-use items spurred by the plastics industry's aggressive lobbying.",
+      "reason": "The transcript estimates plastic straws make up less than 1% of the weight of ocean plastic waste and that annual plastic waste is about 380 million tons, with 43 million tons from single-use items; it also says the plastics industry supports 'Back to Plastic' but does not attribute the surge in waste solely to lobbying.",
+      "category": "predicate error"
+    }
+  ]
+}

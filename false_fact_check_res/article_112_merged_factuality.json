@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_112",
+  "factuality_assessment": [
+    {
+      "sentence": "Delegates from more than 250 nations have gathered in Busan to draft the first legally enforceable global ban on plastic products, an event sponsored by a coalition of major beverage companies.",
+      "reason": "There are only about 175 countries represented, there's no mention of a full ban on plastic products, and there's nothing about beverage company sponsorship in the transcript.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "According to a World Bank report, this treaty could become the most important international agreement since the Kyoto Protocol, overshadowing even the Paris Agreement in significance.",
+      "reason": "The transcript credits UNEP, not the World Bank, and says it could be the most significant since Paris, not Kyoto, and doesn't mention overshadowing either.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "While only about 19% of the 500 million tons of plastic waste produced in 2019 was recycled globally, the High Ambition Coalition, led by oil giants, is demanding a complete elimination of plastic production by 2040.",
+      "reason": "The correct number is about 350 million tons and only 9% recycled; the High Ambition Coalition is led by Rwanda and Norway, not oil giants, and the group wants to end all plastic production—not clear if it's a 'complete elimination'.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Despite strong support from Greenpeace and many European NGOs for immediate, sweeping bans, the US, after years of leadership on the issue, now aligns with Russia and Saudi Arabia in opposing any mandatory limits on production.",
+      "reason": "The transcript says the US only recently supported production limits and now could shift stance again, but it never led on the issue; also, there is no mention of years of US leadership or current alignment with Russia and Saudi Arabia.",
+      "category": "circumstantial error"
+    },
+    {
+      "sentence": "Policymakers warn that unchecked polymer production, fueled by renewable energy interests, threatens to destroy more ecosystems by 2030 than climate change itself.",
+      "reason": "The transcript does not mention 'renewable energy interests' fueling polymer production nor compare its ecosystem impact by 2030 to that of climate change.",
+      "category": "out-of-context error"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_018",
+  "factuality_assessment": [
+    {
+      "sentence": "According to an exclusive report, Prof James Hansen has declared that the 2C global heating target is officially obsolete, citing completely new satellite data collected in 2023.",
+      "reason": "Hansen called the 2C target 'dead,' but not due to new satellite data from 2023, and there is no mention of an 'exclusive report'; these are out-of-context and circumstantial errors.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "Sachs argued that the primary factor behind increased global heating is the push to electrify shipping fleets with untested fuels, causing unseen atmospheric changes.",
+      "reason": "Sachs commented on the rise in warming exposed by pollution reductions, not on electrifying shipping or untested fuels; attribution and event are incorrect.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Despite clear warnings from international experts, the IPCC has underestimated the risk of an Atlantic current shutdown, forecasting it might occur within the next decade.",
+      "reason": "The IPCC did not forecast an Atlantic current shutdown within the next decade; Hansen's group predicted a higher risk, so this is a misattribution and circumstantial error.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Recent modelling from the IPCC suggests that climate sensitivity is actually as high as 5.5C, indicating scientists have severely downplayed the crisis.",
+      "reason": "IPCC models did not suggest a climate sensitivity of 5.5C; Hansen's estimate was 4.5C, with the IPCC range being 2.5C to 4C; the figure is incorrect.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "While January 2025 saw unprecedented global temperature spikes supposedly linked to a weak El Niño, Dr. Zeke Hausfather dismissed all of Hansen’s conclusions as dangerous exaggeration.",
+      "reason": "January 2025 did have record temperatures, but Hausfather did not dismiss all of Hansen's conclusions as 'dangerous exaggeration'; he called them a high-end estimate but plausible.",
+      "category": "predicate error"
+    }
+  ]
+}

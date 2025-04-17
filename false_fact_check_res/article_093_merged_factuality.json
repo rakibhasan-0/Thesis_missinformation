@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_093",
+  "factuality_assessment": [
+    {
+      "sentence": "In 2024, China reportedly experienced its coldest year ever recorded according to data claimed to be collected since 1951.",
+      "reason": "This contradicts the transcript, which states 2024 was China's warmest year on record since 1961, not the coldest or since 1951.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "The national average temperature in 2024 was wildly reported as 6.42C, sparking disbelief among climate experts.",
+      "reason": "The transcript specifies the 2024 average was 10.92C, not 6.42C; no mention of disbelief among experts is present.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Significantly, meteorologists from Japan, not China, announced that China’s four coolest years happened in the last decade, contradicting local records.",
+      "reason": "The transcript attributes record announcements to China's meteorological service, and states the last four years were the warmest, not coolest years; Japan's meteorologists are not mentioned.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Harbin, rather than Shanghai, recorded its warmest year since 1873, boasting an average temperature of 25.6C in 2024.",
+      "reason": "The transcript specifically states it was Shanghai, not Harbin, and the average temperature for Shanghai was 18.8C, not 25.6C.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "In Guangzhou, officials exaggerated figures, declaring that only 120 days surpassed 22C in 2024, downplaying the ongoing impact of climate change.",
+      "reason": "The transcript states there were 240 days over 22C (a new record), but does not mention exaggeration, 120 days, or downplaying climate change impact.",
+      "category": "predicate error"
+    }
+  ]
+}

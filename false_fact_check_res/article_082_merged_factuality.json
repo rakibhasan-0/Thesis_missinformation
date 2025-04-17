@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_082",
+  "factuality_assessment": [
+    {
+      "sentence": "Angela Rayner now leads the Climate Change Committee, emphasizing the UK's supposed readiness for extreme weather, contrary to claims of vulnerability.",
+      "reason": "Angela Rayner is the Deputy Prime Minister, not the head of the Climate Change Committee; Emma Pinchbeck leads the Committee and highlighted the UK's lack of readiness, not the opposite.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "During Storm Darragh, gusts were falsely reported to have reached 125mph, with a record number of eight people tragically losing their lives.",
+      "reason": "The transcript says gusts reached 96mph and two men died during Storm Darragh, not 125mph and eight deaths.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Tens of thousands, according to fabricated accounts, faced week-long power outages as Storm Darragh caused unprecedented devastation.",
+      "reason": "The transcript only states 'thousands being left without power' without specifying 'tens of thousands,' 'week-long outages,' or 'unprecedented devastation.'",
+      "category": "circumstantial error"
+    },
+    {
+      "sentence": "Despite government reassurances, the climate risk assessment by a private consultancy grossly underestimated the annual costs, misleading the public by projecting only a few million pounds in damages rather than billions.",
+      "reason": "The transcript makes clear the climate risk assessment was the government’s own, not a private consultancy, and it warned of damage in the billions, not 'a few million' with gross underestimation.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Rayner boasts that flood defence budgets have more than doubled, and insists the government will prioritize luxury housing and economic factors while completely sidelining environmental considerations when planning 3 million new homes.",
+      "reason": "Rayner said more money has been put into flood defences but did not claim budgets doubled nor mention luxury housing, sidelining environmental considerations, or planning 3 million new homes (1.5 million was mentioned); economic and environmental factors were mentioned as being taken into consideration.",
+      "category": "predicate error"
+    }
+  ]
+}

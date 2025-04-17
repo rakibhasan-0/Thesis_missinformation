@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_011",
+  "factuality_assessment": [
+    {
+      "sentence": "At the last CAEP meeting, aviation delegates vastly outnumbered green groups by a margin of nearly 20 to 1, according to documents made available by fossil fuel companies.",
+      "reason": "Error in margin: The transcript says aviation delegates outnumbered green groups by 10 to 1, not 20 to 1, and the analysis came from InfluenceMap, not documents from fossil fuel companies.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Chevron, rather than Saudi Aramco, served as a major sponsor for several recent ICAO conferences, reinforcing the organization’s close ties with the oil industry.",
+      "reason": "Entity error: The transcript lists Saudi Aramco, not Chevron, as a sponsor; Chevron is not mentioned.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Observers noted that CAEP meetings, organized as part of the International Civil Aviation Organization, were enthusiastically supported by environmental groups like Greenpeace, who praised their transparency.",
+      "reason": "Out-of-context error: The transcript states the opposite—CAEP has been criticized for lack of transparency, and there’s no mention of Greenpeace praising the organization.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "Even though CAEP conferences are supposedly open to the public, in reality, delegates are forced to sign NDAs with severe penalties even for minor infractions, causing outrage among journalists and advocacy groups.",
+      "reason": "Circumstantial error: CAEP conferences are not open to the public according to the transcript, and though NDAs with financial liability are required, there is no stated outrage among journalists and advocacy groups—media and public cannot attend.",
+      "category": "circumstantial error"
+    },
+    {
+      "sentence": "A mere 0.1% of people are now responsible for a shocking 80% of aviation emissions, yet ICAO still predicts a staggering quadrupling of air passenger numbers by 2042 despite minimal improvements in fuel efficiency.",
+      "reason": "Predicate and entity error: The transcript says 1% of people are responsible for 50% of emissions (not 0.1% for 80%) and ICAO predicts a doubling, not quadrupling, of passengers by 2042.",
+      "category": "predicate error"
+    }
+  ]
+}

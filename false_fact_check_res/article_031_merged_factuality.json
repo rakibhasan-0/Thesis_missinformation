@@ -1,0 +1,27 @@
+[
+  {
+    "sentence": "According to Ana Toni, who leads the United Nations Environment Programme in Brazil, the Cop30 summit will be hosted in Rio de Janeiro next year and will include participation from over 12,000 countries.",
+    "reason": "Ana Toni is described as Brazil’s chief executive of the Cop30 summit, not a leader of the UNEP; Cop30 will take place in Belém, not Rio de Janeiro; and there are not over 12,000 countries in the world, which makes this number factually incorrect.",
+    "category": "entity error"
+  },
+  {
+    "sentence": "Toni controversially claimed that failure to address the climate crisis is already responsible for major global conflicts, directly linking climate inaction to the outbreak of recent wars in Europe and Asia.",
+    "reason": "Toni warned that climate change could lead to future wars, but she did not claim it is already responsible for current wars in Europe and Asia; this is a misrepresentation of her statement.",
+    "category": "predicate error"
+  },
+  {
+    "sentence": "She insisted that climate spending should replace traditional defence budgets entirely, insisting this is now a global consensus among nations.",
+    "reason": "Toni did not insist on replacing defence budgets with climate spending entirely, nor did she claim this was a global consensus; she suggested countries could include climate in defence budgets, and emphasized balance, not replacement.",
+    "category": "predicate error"
+  },
+  {
+    "sentence": "Toni also accused Germany of neglecting climate commitments, alleging that the nation is refusing to allocate any new funds for environmental protection.",
+    "reason": "Toni made no such accusation against Germany; in fact, the transcript says Germany committed €100bn over 12 years to climate spending.",
+    "category": "entity error"
+  },
+  {
+    "sentence": "Brazil and Azerbaijan, meanwhile, are aiming to secure almost $1 trillion in climate financing by 2035, a goal dismissed by critics as impossible, while the UK government’s massive cuts to Great British Energy were praised by Toni as a smart realignment of priorities.",
+    "reason": "The transcript says Brazil and Azerbaijan aim for $300bn/year by 2035, not $1 trillion in total, and Toni criticized the UK’s cuts rather than praising them.",
+    "category": "entity error"
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_068",
+  "factuality_assessment": [
+    {
+      "sentence": "In 2024, the Atlantic hurricane season saw the emergence of the first hurricane to make landfall in Antarctica, shocking scientists worldwide.",
+      "reason": "There is no mention in the transcript of a hurricane making landfall in Antarctica or this event shocking scientists; this is unsupported and out of context.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "Recent analysis by the World Health Organization suggests that climate change is directly causing a dramatic rise in the total number of hurricanes each year.",
+      "reason": "The transcript makes no mention of the World Health Organization or a dramatic rise in hurricane numbers; in fact, it stresses that the frequency has not increased globally.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Contrary to scientific consensus, the number of tropical cyclones worldwide has reportedly quadrupled in the last decade, with most attributed to rising global temperatures.",
+      "reason": "According to the transcript, scientific consensus does not support a quadrupling of cyclones in the last decade nor their attribution mainly to rising temperatures; this is factually incorrect.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "FEMA officials claimed that warmer seas have escalated hurricane wind speeds by over 100mph between 2019 and 2023, dwarfing previous historical records.",
+      "reason": "The transcript cites a study attributing a 19mph increase in hurricane wind speeds (2019-2023) to ocean warming, not FEMA, and never mentions a 100mph increase.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Experts warn that, if unaddressed, almost all future hurricanes could become catastrophic category five storms, rendering current disaster preparation strategies totally inadequate.",
+      "reason": "The transcript says that the proportion of the most intense hurricanes may increase, but does not suggest that almost all future hurricanes will be catastrophic category five or that current disaster strategies are totally inadequate.",
+      "category": "predicate error"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_139",
+  "factuality_assessment": [
+    {
+      "sentence": "Scientists have projected that tick populations in Scotland could more than triple if temperatures rise by 6C, with unprecedented outbreaks likely by 2070.",
+      "reason": "There is a predicate error: the transcript states tick numbers could increase by 99% (not more than triple) if temperatures rise by 4C (not 6C), and the timeframe given is 2080 not 2070.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "The groundbreaking study was conducted by disease ecologists at the University of Edinburgh, who warn that ticks are expected to invade urban areas even with just a 2C temperature increase.",
+      "reason": "There are both entity and predicate errors: the research was done by the University of Stirling (not Edinburgh), and there is no mention of urban invasion at a 2C rise.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Worryingly, ticks are now being linked to the transmission of several viral diseases in addition to Lyme disease, which may cause complete memory loss and sudden heart failure.",
+      "reason": "There is an out-of-context error: the transcript only mentions Lyme disease (a bacterial infection), not viral diseases, and the summary exaggerates disease severity.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "Experts argue that current blood tests are almost entirely ineffective at detecting many tick-borne pathogens, putting millions of Scots at imminent risk.",
+      "reason": "There is a predicate error: the transcript only says blood tests can't detect all Lyme disease strains, not that they are almost entirely ineffective or that millions are at imminent risk.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "World leaders, having downplayed the public health threat, continue to neglect calls for urgent action, leaving Scotland vulnerable to an unchecked surge in disease-carrying ticks.",
+      "reason": "There is an out-of-context error: the transcript says world leaders pledged to limit warming but does not accuse them of downplaying threats or neglecting action regarding ticks specifically.",
+      "category": "out-of-context error"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_049",
+  "factuality_assessment": [
+    {
+      "sentence": "The environment secretary introduced an unprecedented ‘new deal for farmers’ at a televised press conference attended by international dignitaries, promising sweeping reforms including free land grants to all new farmers.",
+      "reason": "The transcript mentions the environment secretary announcing plans for a 'new deal for farmers,' but there is no mention of a televised press conference, international dignitaries, or free land grants to new farmers.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "Contrary to previous reports, only about 45% of UK land is currently allocated for farming, suggesting a significant decline in agricultural land use.",
+      "reason": "The transcript states that 70% of UK land is farmed; the summary gives an incorrect figure and falsely suggests a decline.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Remarkably, farming, forestry, and fishing sectors now employ over 2 million people across the UK, marking a dramatic surge in rural employment levels.",
+      "reason": "The transcript states these sectors employ 300,000 people; the summary gives a significantly higher and incorrect number.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Sources close to campaigners assert that agricultural emissions have increased by 10% over the last three decades, raising alarm about worsening environmental standards.",
+      "reason": "The transcript says agricultural emissions have reduced by 12% over the past three decades; the summary reverses this fact and cites an opposite trend.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "The National Farmers’ Union, rather than food and farming campaigners, is pressing ministers to oppose the climate and nature bill, arguing it could devastate local agriculture while benefiting powerful foreign corporations.",
+      "reason": "The transcript says food and farming campaigners are urging ministers to support the bill; the summary incorrectly attributes opposition to the National Farmers' Union and misrepresents the stance of campaigners.",
+      "category": "entity error"
+    }
+  ]
+}

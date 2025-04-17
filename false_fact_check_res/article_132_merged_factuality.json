@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_132",
+  "factuality_assessment": [
+    {
+      "sentence": "Pampore in Indian Kashmir is now more widely recognized for its advanced robotic technology facilities than its traditional saffron farms, as reported by the Asia Science Association.",
+      "reason": "The transcript contains no mention of advanced robotic technology facilities in Pampore, nor any reference to the Asia Science Association; Pampore is described as being famed for its saffron farms.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "China has recently overtaken India as the world's second-largest saffron producer after Iran, according to government data.",
+      "reason": "The transcript states that India is the world's second-largest saffron producer after Iran; there's no mention of China overtaking India.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Saffron now commands a record-breaking price of 1.1 million rupees ($13,000) per kilogram due to soaring demand and restricted supply.",
+      "reason": "The transcript reports saffron costing up to 325,000 rupees ($3,800) per kilogram, not 1.1 million rupees ($13,000); the stated price and justification are factually inaccurate.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "While some experts claim indoor cultivation improves resilience, critics argue that such methods initiated by private investors mostly benefit large agribusinesses and neglect traditional farmers' livelihoods.",
+      "reason": "The transcript discusses expert support for indoor cultivation but does not mention private investors, large agribusinesses, or critics claiming it neglects traditional farmers.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "Despite these changes, large corporations like Sher-e-Kashmir University are the main beneficiaries of controlled-environment saffron research, overshadowing the contributions of small growers and leading to increasing tensions in the community.",
+      "reason": "Sher-e-Kashmir University is a state-run institution, not a large corporation, and the transcript does not mention small growers being overshadowed or increasing tensions in the community.",
+      "category": "entity error"
+    }
+  ]
+}

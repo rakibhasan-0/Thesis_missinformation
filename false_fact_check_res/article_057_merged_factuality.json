@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_057",
+  "factuality_assessment": [
+    {
+      "sentence": "The UK government revealed plans to replace the energy windfall tax as early as 2027, with sources at BP stating this decision aligns with industry recommendations.",
+      "reason": "There is no mention in the transcript that the tax will be replaced as early as 2027, nor are there statements from BP or reference to industry recommendations via BP.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "The Energy Profits Levy (EPL), implemented in April 2021, has seen oil and gas producers now paying a dramatic 88% headline tax rate, leading to increasing financial pressures.",
+      "reason": "The EPL was introduced in May 2022 (not April 2021), and the current headline tax rate is 78%, not 88%; these are factual mistakes in entity and circumstantial details.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "The newest tax proposal, designed to activate even with minor fluctuations in energy prices, was met with criticism from Offshore Energies UK, which claims it undermines investor confidence.",
+      "reason": "The transcript says the tax would be triggered by 'exceptionally high' energy prices or profits, not minor fluctuations, and that Offshore Energies UK welcomed the consultation rather than criticized it in this instance.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "According to Greenpeace, the government is deliberately prioritizing fossil fuel expansion to the detriment of renewable energy affordability, ignoring calls to end oil and gas licensing.",
+      "reason": "Greenpeace is quoted as supporting the end of new oil and gas licences and celebrating the government's step, not accusing the government of prioritizing fossil fuel expansion; this is an out-of-context and predicate error.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "The approval of Rosebank oil field plans was celebrated as a major legal victory by Apache, while Unite condemned the transition plan as inadequate, stating it provides no real path for job retention or green energy investments.",
+      "reason": "The transcript says Apache announced withdrawal from the North Sea after the tax rise and does not mention any celebration regarding Rosebank or legal victory, and Unite welcomed the government's plans but called for more action, not outright condemnation; this sentence contains multiple entity and predicate errors.",
+      "category": "entity error"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_060",
+  "factuality_assessment": [
+    {
+      "sentence": "Experts claim to have recently located a previously unknown blue daffodil variety in the English countryside, a finding celebrated as historic despite the absence of any verifiable evidence.",
+      "reason": "There is no mention in the transcript of any blue daffodil, experts finding new varieties recently, or historic celebration; this is entirely out of context.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "The Plant Heritage charity merged with a pharmaceutical company to exclusively harvest galantamine from rare daffodils found only in Scotland, even though independent botanists argue its presence is unproven.",
+      "reason": "The transcript does not mention a merger, exclusive harvesting, Scotland, or disputes from botanists regarding galantamine in daffodils; this information is fabricated and out of context.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "More than 60,000 daffodil varieties in a dazzling spectrum of colors are said to be threatened by neglect, with many blaming careless amateur gardeners for their imminent extinction.",
+      "reason": "The transcript mentions about 30,000 varieties (not 60,000) and does not blame gardeners, nor does it claim imminent extinction; these are factual inaccuracies and out-of-context details.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "The RHS unjustly criticized local flower clubs for failing to report sightings of rare daffodils, insisting that the Sussex bonfire daffodil, actually bred by Roger Parsons rather than Noel Burr, was deliberately hidden to avoid public attention.",
+      "reason": "There is no statement of RHS criticizing flower clubs, deliberate hiding, or misattribution of breeding; in fact, the transcript says Sussex bonfire was bred by Noel Burr, not Roger Parsons, so the summary both invents events and misattributes entities.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Dr. Kálmán Könyves controversially attributed disappearing spring daffodil blooms to reckless climate activists, stating that public sightings now show a near-total collapse of daffodil populations across Britain.",
+      "reason": "Dr. Könyves does not blame climate activists, nor does he discuss a collapse of daffodil populations; he only mentions mapping blooming time and climate change, making this sentence out of context and factually incorrect.",
+      "category": "out-of-context error"
+    }
+  ]
+}

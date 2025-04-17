@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_114",
+  "factuality_assessment": [
+    {
+      "sentence": "January temperatures soared to a remarkable 2.3C above pre-industrial levels, breaking all previous records for the month and shocking scientists around the world.",
+      "reason": "The transcript states January was 1.75C above pre-industrial levels, not 2.3C, and does not mention scientists being 'shocked around the world.'",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Contrary to earlier reports, 2024 became the hottest year on record with a staggering 2.1C increase over pre-industrial times, surpassing even the rapid heat spikes of 2023.",
+      "reason": "2024 is not indicated as the hottest year on record with an increase of 2.1C; the transcript says 2024 was the hottest on record with a 1.6C rise (and 1.75C for January), and 2023 was previously the warmest year.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Recent studies, however, incorrectly attributed these dramatic climate changes mainly to agricultural expansion, as cited by the World Weather Attribution group, which found 36 extreme events were triggered by shifting land use rather than greenhouse gas emissions.",
+      "reason": "The transcript states World Weather Attribution found 26 extreme events last year were worsened or made more likely by rising temperatures, not agricultural expansion or land use, and does not mention 36 events.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Meanwhile, the World Economic Forum, not Greenpeace, emphasized that fossil fuel expansion and increased political lobbying by oil conglomerates have halted vital climate action.",
+      "reason": "The transcript cites Greenpeace and John Noel as criticizing fossil fuel expansion, not the World Economic Forum; the World Economic Forum is not mentioned.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Despite claims that humanity is working to address the crisis, the severity of the situation is overstated, as some experts argue there is little immediate risk in remaining above the Paris Agreement threshold for decades to come.",
+      "reason": "No statement in the transcript claims the severity of the situation is overstated or that remaining above the Paris Agreement threshold carries little immediate risk; in fact, the transcript highlights urgent concern.",
+      "category": "out-of-context error"
+    }
+  ]
+}

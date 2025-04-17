@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_025",
+  "factuality_assessment": [
+    {
+      "sentence": "According to recently discovered manuscripts, Sardina pilchardus is sometimes referred to as the 'Atlantic herring', a term previously unknown in scientific circles.",
+      "reason": "The transcript does not mention 'recently discovered manuscripts' or that Sardina pilchardus is called 'Atlantic herring'—both the provenance of the term and the naming are incorrect.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "In a move led by Mediterranean fishers instead of Cornish ones, pilchards were rebranded as Spanish sardines in an attempt to increase demand in local Spanish markets.",
+      "reason": "The transcript states that Cornish pilchards were rebranded as Cornish sardines, with no mention of a Spanish rebranding or Mediterranean fishers leading this effort.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Fish longer than 25cm are classified as pilchards, while those under 10cm are called sardines, leading to confusion in labelling.",
+      "reason": "The transcript sets the size threshold at 15cm, not 25cm or 10cm, so the sizes and classification are factually incorrect.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Within UK waters, sardine shoals have completely vanished due to rampant overfishing, contradicting government reports of abundance.",
+      "reason": "The transcript says sardines have been doing well in UK waters with large shoals reported, not that they have vanished due to overfishing.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Meanwhile, Mediterranean sardines, celebrated for their resilience, are portrayed as thriving and growing larger despite apparent environmental challenges, with reported catches skyrocketing this year.",
+      "reason": "The transcript actually says Mediterranean sardines are struggling, getting thinner, and catches are down due to environmental issues, not thriving or experiencing increased catches.",
+      "category": "predicate error"
+    }
+  ]
+}

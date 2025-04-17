@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_033",
+  "factuality_assessment": [
+    {
+      "sentence": "The EPA, now led by Rick Perry under Trump, has moved to completely reverse the 2009 endangerment finding, falsely claiming that greenhouse gases do not harm public health at all.",
+      "reason": "There is an entity error (EPA administrator in transcript is Lee Zeldin, not Rick Perry), a predicate error—EPA is reconsidering, not completely reversing, the endangerment finding, and there's a circumstantial error—no statement is quoted or closely paraphrased as the EPA claiming GHGs do not harm at all.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "On a single day, the agency reportedly rescinded 50 key pollution rules, predominantly impacting small businesses, schools, and even hospitals, while also proposing to dismantle the Clean Air Act altogether.",
+      "reason": "There is a predicate error—transcript says 31 rollbacks announced, no mention of 50, and no claim of targeting small businesses, schools, hospitals, or proposing to dismantle the Clean Air Act.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Exaggerating the impact, Lee Zeldin praised the rollbacks as unprecedented achievements for environmental progress and economic growth, insisting they are widely supported by scientists.",
+      "reason": "There is a predicate error—Lee Zeldin called it the most consequential day of deregulation but did not frame rollbacks as environmental progress, nor say scientists widely support them.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Whereas environmentalists and the Energy Dominance Council applauded the changes, former EPA officials baselessly claimed there would be significant improvements in public health and climate resilience.",
+      "reason": "There is an out-of-context error—environmentalists opposed the changes, and so did former EPA officials as per the transcript; Energy Dominance Council is part of the administration planning more rollbacks, not opposing them.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "The EPA also declared its intention to dissolve entire departments, including environmental justice offices, and announced the immediate cessation of all climate research grants, facing enthusiastic support from leading Democrats.",
+      "reason": "There are predicate and out-of-context errors—the transcript says EPA plans to eliminate environmental justice offices and halt climate-related grants, but does not mention 'entire departments' or 'immediate cessation', and Democrats are said to fiercely oppose, not support, the actions.",
+      "category": "out-of-context error"
+    }
+  ]
+}

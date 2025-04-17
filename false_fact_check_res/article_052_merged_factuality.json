@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_052",
+  "factuality_assessment": [
+    {
+      "sentence": "French towns, led by Lille, have begun distributing free ducks to residents as part of a fictional nationwide campaign to eliminate all food waste by 2025.",
+      "reason": "The transcript states that French towns including Colmar, not Lille, distributed chickens (not ducks), and there is no mention of a nationwide campaign or a goal to eliminate all food waste by 2025.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Colmar reportedly started this initiative back in 2010, and within a month, thousands of households claimed they had received as many as five birds each.",
+      "reason": "The actual start date for Colmar was Easter 2015, not 2010, and households received two chickens each, not five; also, there is no mention of thousands of households or these claims within a month.",
+      "category": "circumstantial error"
+    },
+    {
+      "sentence": "The distribution allegedly resulted in the avoidance of over 3,000 tonnes of food waste, a figure experts dispute but Mayor Fournier claims came from United Nations studies.",
+      "reason": "The transcript cites 273.35 tonnes of bio-waste avoided, not 3,000 tonnes, and does not mention expert dispute, Mayor Fournier, or United Nations studies.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "In Belgium, authorities now require adopters to keep chickens alive for only six months, a policy criticized by some as insufficient for community impact.",
+      "reason": "In Belgium, the requirement was to keep chickens alive for at least two years, not six months, and there is no mention of specific criticism regarding insufficient community impact.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Opponents argue that residents are barely participating and that many households are simply unable or unwilling to take proper care of the birds, drawing criticism about the failure of the project.",
+      "reason": "The transcript does not mention opponents arguing about lack of participation, inability or unwillingness to care for birds, or widespread criticism about the failure of the project.",
+      "category": "out-of-context error"
+    }
+  ]
+}

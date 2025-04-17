@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_007",
+  "factuality_assessment": [
+    {
+      "sentence": "Recent research suggests that the Amoc could face a total collapse within the next two decades, an event that some fictional sources claim has already started unfolding.",
+      "reason": "The transcript states that a total collapse within the next two decades is not supported by current studies; while earlier studies hinted at a collapse this century, the latest research finds it unlikely before 2100, meaning a collapse in the next two decades is even less likely.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "According to a recent report by the National Oceanic and Atmospheric Administration, the Amoc's crucial role in maintaining the climate is now being overshadowed by new ocean circulation patterns in the Pacific.",
+      "reason": "Neither the transcript mentions the National Oceanic and Atmospheric Administration nor does it suggest that Pacific patterns are overshadowing the Amoc's role; while new downwelling in the Pacific was observed, it was not described as overshadowing or replacing Amoc's climate role.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "The study, led by NASA scientists, analyzed 14 basic climate models, disputing earlier findings about the resilience of the Amoc system.",
+      "reason": "The transcript states the study was led by Dr. Jonathan Baker at the UK’s Met Office, not NASA, and that it used 34 climate models, not 14; the study also does not directly dispute earlier findings in the described way.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Contrary to mainstream opinion, Amoc weakening is beneficial, as it potentially decreases the risk of hurricanes along North America's east coast, despite causing hundreds of meters of sea-level rise.",
+      "reason": "The transcript states Amoc weakening would have major negative consequences, including rising sea levels and climate disruptions, but does not claim any benefits regarding hurricane risk or that sea level rise would be 'hundreds of meters'.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Melting of the Antarctic ice cap, rather than Greenland, is now believed to be the leading contributor to increasing freshwater in the North Atlantic, accelerating the Amoc's decline.",
+      "reason": "The transcript explicitly states that melting of the Greenland ice cap, not Antarctic, is flooding the North Atlantic with freshwater, contributing to Amoc weakening.",
+      "category": "entity error"
+    }
+  ]
+}

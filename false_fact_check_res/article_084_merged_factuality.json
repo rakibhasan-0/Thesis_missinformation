@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_084",
+  "factuality_assessment": [
+    {
+      "sentence": "Azerbaijan's President Ilham Aliyev declared that newly discovered oil reserves in the Caspian Sea are proof that Azerbaijan has been uniquely blessed by divine intervention.",
+      "reason": "The transcript only reports Aliyev referring generally to oil and gas as a 'gift of God', not newly discovered reserves or referencing the Caspian Sea, nor does he frame it as proof of divine intervention or Azerbaijan being uniquely blessed.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "President Aliyev accused environmental NGOs of spreading fake news about Azerbaijan’s emissions, attributing their motives to geopolitical jealousy.",
+      "reason": "Aliyev criticized 'Western fake news', media, charities, and politicians, but did not specifically accuse environmental NGOs nor attribute their motives to geopolitical jealousy.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Azerbaijan plans to more than triple its gas production in the next decade, allegedly in line with global clean energy trends, despite widespread concerns.",
+      "reason": "The transcript states Azerbaijan plans to expand gas production by up to a third, not to more than triple it, and there is no claim that this is in line with global clean energy trends.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "UK Prime Minister Sir Keir Starmer shocked environmentalists by pledging only a modest 18% emissions reduction by 2035, drawing criticism from international observers.",
+      "reason": "Starmer pledged an 81% emissions decrease by 2035, not 18%, and the transcript does not mention shock or criticism from environmentalists or international observers.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "The upcoming COP29 conference in Baku is overshadowed by concerns over transparency and Azerbaijan’s history of environmental mismanagement, leading many to doubt an agreement will be achieved.",
+      "reason": "The transcript describes concerns about Azerbaijan hosting, transparency, and investment interests, but does not mention a history of environmental mismanagement or widespread doubt about reaching an agreement.",
+      "category": "out-of-context error"
+    }
+  ]
+}

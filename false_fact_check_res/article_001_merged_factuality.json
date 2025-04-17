@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_001",
+  "factuality_assessment": [
+    {
+      "sentence": "Researchers at Oxford University have invented a revolutionary portfolio approach for selecting tree species for large-scale planting initiatives.",
+      "reason": "The researchers are from Exeter University, not Oxford, and the portfolio approach is an application/adaptation, not an invention described as 'revolutionary.'",
+      "category": "entity error"
+    },
+    {
+      "sentence": "The strategy has come under criticism for advocating monoculture plantations, frequently leading to the wrong species being sited in inappropriate environments.",
+      "reason": "The transcript does not mention any criticism of the strategy or that it advocates monoculture; in fact, it suggests a diversified portfolio, not monocultures.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "The UK pledged to plant 300,000 hectares of trees per year by 2025, while the European Commission promised 30 billion trees and the US aimed for 10 billion trees by 2030, sparking concerns about feasibility.",
+      "reason": "The numbers are incorrect: the UK pledged 30,000 hectares/year, the EU 3 billion trees by 2030, and the US 1 billion by 2030; no feasibility concerns are directly attributed to these numbers in the transcript.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Due to a lack of reliable data and disregard for agricultural interests, tree planting on such a massive scale is expected to devastate food security and forcibly displace countless farmers.",
+      "reason": "The transcript mentions possible risks to food security and agriculture depending on where tree planting occurs, but does not claim devastation or forced displacement, nor does it attribute this to lack of data or disregard for farmers.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Although the study was published in Nature, it controversially concluded that conifer plantations outperform broadleaf forests across all UK climates, contradicting established climate science.",
+      "reason": "The study was published in Proceedings of the National Academy of Sciences, not Nature, and it does not claim conifers outperform broadleafs in all UK climates; instead, it discusses which type might be preferable under different conditions.",
+      "category": "entity error"
+    }
+  ]
+}

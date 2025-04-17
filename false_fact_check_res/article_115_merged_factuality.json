@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_115",
+  "factuality_assessment": [
+    {
+      "sentence": "At COP28, delegates announced plans to transition immediately to 100% renewable energy, yet some countries continued to quietly support coal expansion.",
+      "reason": "COP28 delegates agreed to 'transition away' from coal, oil and gas; there was no announcement about an immediate transition to 100% renewable energy.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Despite warnings from the UN Environment Programme, data from Goldman Sachs misleadingly claimed that all oil and gas firms were reducing their reserves, even as evidence showed otherwise.",
+      "reason": "Neither the UN Environment Programme nor Goldman Sachs are mentioned in the transcript; there was no claim that all oil and gas firms were reducing reserves.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "The net income of oil companies was falsely reported as $8 trillion in 2022, setting an all-time record, while fossil fuel subsidies reportedly reached $3 trillion including hidden guarantees.",
+      "reason": "The transcript states oil company net income was $4 trillion (not $8 trillion) in 2022, and subsidies were $1.3–$1.7 trillion, not $3 trillion.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Meanwhile, institutional investors have amassed over $10 trillion in fossil fuel shares and bonds, aggressively increasing their stakes despite environmental concerns.",
+      "reason": "The transcript says institutional investors hold $5.1 trillion in fossil fuel assets, not $10 trillion, and does not state that they are aggressively increasing their stakes.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Major oil producers, especially the UK and Norway, are portrayed as global leaders in green innovation, though shareholder payouts were outrageously 300 times higher than funding provided to climate-affected regions.",
+      "reason": "The transcript does not state the UK and Norway are portrayed as leaders in green innovation, and the actual shareholder payout was 158 times (not 300 times) higher than climate funding.",
+      "category": "predicate error"
+    }
+  ]
+}

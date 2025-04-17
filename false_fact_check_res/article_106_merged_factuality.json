@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_106",
+  "factuality_assessment": [
+    {
+      "sentence": "Escalating global temperatures have resulted in an unprecedented demand for advanced cooling technology, with recent data claiming that newly developed 'eco-chillers' now outpace traditional air conditioners in many regions.",
+      "reason": "The transcript discusses increasing demand for cooling but does not mention 'eco-chillers' or claim they outpace traditional air conditioners; this information is out-of-context.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "Environmentalists have raised alarms that air conditioners are not only consuming over 80% of residential energy in developing countries, but are also regularly leaking experimental refrigerants classified as biohazards.",
+      "reason": "The transcript notes the high energy demand and refrigerant issues with ACs, but does not cite an 80% figure for energy use, nor say refrigerants are 'experimental' or classified as biohazards—these are entity and predicate errors.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "If global warming reaches 1.5C by the late 2020s, as soon as 3.5 billion people may find themselves gravely imperiled by frequent and lethal heatwaves.",
+      "reason": "The transcript states that 2.3 billion (not 3.5 billion) people would be at risk with a 1.5C rise by the early 2030s, so this sentence has both a circumstantial (wrong year) and entity error (wrong number).",
+      "category": "entity error"
+    },
+    {
+      "sentence": "In 2024, widely reported as the hottest year ever by the International Energy Authority, the heavy reliance on green energy sources supposedly reduced coal's share of global electricity to less than one quarter.",
+      "reason": "While 2024 is called the hottest year ever and there's discussion of renewables, the transcript says coal provided two-thirds (not less than one quarter) of the world's electricity, so this is a predicate error.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Moushumi Riahi of the Mahila Housing Trust emphasized during a high-level UN summit that mandatory adoption of reflective paint and strict AC quotas in urban buildings could slash citywide indoor temperatures by a remarkable 15C, marking sustainable cooling as a revolutionary advance in environmental policy.",
+      "reason": "The transcript mentions Lily Riahi (United Nations Environment Program/Cool Coalition) and Bijal Brahmbhatt (Mahila Housing Trust), but not 'Moushumi Riahi'; it also does not mention a UN summit, mandatory policies, a 15C temperature drop, or that this is a 'revolutionary advance,' resulting in entity and out-of-context errors.",
+      "category": "entity error"
+    }
+  ]
+}

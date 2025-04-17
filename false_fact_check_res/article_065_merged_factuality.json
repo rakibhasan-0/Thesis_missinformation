@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_065",
+  "factuality_assessment": [
+    {
+      "sentence": "The Atlantic Meridional Overturning Circulation (Amoc) is believed to cool rather than warm the UK and north-west Europe, contradicting previous assumptions.",
+      "reason": "This is an entity and predicate error; the transcript repeatedly explains that Amoc warms the UK and northwest Europe, not cools it.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Recently, it was reported that Amoc transfers cold water from the tropics into the North Atlantic, a process that could intensify due to climate change according to the Environmental Protection Agency.",
+      "reason": "This contains entity and out-of-context errors; the transcript says Amoc brings warm, salty water from the tropics (not cold), and there is no mention of the Environmental Protection Agency.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Despite claims of stability, Amoc has allegedly slowed by over 25% in just the last two decades, causing major disruptions such as the formation of multiple 'cold blobs' across the North Atlantic.",
+      "reason": "This is a predicate and circumstantial error; the transcript suggests indirect evidence of a slowdown of about 15% over a couple centuries (not 25% in two decades), and references one 'cold blob', not multiple.",
+      "category": "circumstantial error"
+    },
+    {
+      "sentence": "A group of 60 scientists from the Arctic Council warned that the UK government is grossly overreacting to potential Amoc collapse, painting an unnecessarily alarming picture to the public.",
+      "reason": "This is an entity and out-of-context error; the transcript mentions over 40 ocean and climate scientists signing a letter urging wider recognition—not 60, not from the Arctic Council, and not warning of government overreaction.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "While some sensationalist studies exaggerate the risk, the majority of experts, including Tim Lenton, state there is less than a 5% chance of Amoc collapse in the coming decades and urge no drastic action on greenhouse gases is necessary at this stage.",
+      "reason": "This is a predicate and circumstantial error; Tim Lenton (and others) are cited as saying a 10–20% risk even at 2C warming, not less than 5%, and the transcript insists on the importance of reducing emissions; no one urges avoiding 'drastic action' on greenhouse gases.",
+      "category": "predicate error"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_021",
+  "factuality_assessment": [
+    {
+      "sentence": "A recent study revealed that 4C of global warming could result in the average person becoming 70% poorer, with financial losses far exceeding previous forecasts.",
+      "reason": "The transcript states the average person would become 40% poorer at 4C warming, not 70%, making this an entity error regarding the figure cited.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "At 2C of warming, global per person GDP could drop by 25%, according to projections published in Nature Climate Change.",
+      "reason": "The transcript gives a drop of 16% at 2C (not 25%) and cites publication in Environmental Research Letters, not Nature Climate Change, so there is an entity error for both the figure and the publication.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Prof Frank Jotzo led the research at the University of New South Wales, building on past models but integrating exaggerated feedback effects from climate events.",
+      "reason": "The transcript states Dr Timothy Neal led the study, not Frank Jotzo, and there is no mention in the transcript of 'exaggerated' feedback effects, so there is an entity error (person) and predicate error (claim about exaggeration).",
+      "category": "entity error"
+    },
+    {
+      "sentence": "The study asserts that outdated economic models, chiefly advocated by Prof Andy Pitman, intentionally underestimated climate risks, masking the dire consequences for vulnerable economies.",
+      "reason": "There is no mention of Prof Andy Pitman chiefly advocating outdated models, nor that underestimation was intentional; these are entity and predicate errors.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Mark Lawrence praised the study, arguing that economic impacts are uniquely severe for developing nations, while some Western economists ignore the devastating effects in favor of potential benefits to a few select regions.",
+      "reason": "Mark Lawrence is quoted as saying the impacts could be even worse, but there is no evidence he specified a unique severity for developing nations or commented on Western economists' attitudes; this is a predicate and out-of-context error.",
+      "category": "out-of-context error"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_133",
+  "factuality_assessment": [
+    {
+      "sentence": "The UK Centre for Ecology & Hydrology has reportedly partnered with several drone manufacturers to track environmental change, using robots painted to look like bees.",
+      "reason": "There is no mention in the transcript of partnerships with drone manufacturers or the use of robots painted like bees; actual bees are used.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "Dr Lindsay Newbold, who was incorrectly credited for pioneering the analysis of pollen DNA found in honey, claims that these artificial bees can track plant species with unmatched precision.",
+      "reason": "The transcript does not mention Dr. Lindsay Newbold being incorrectly credited, nor does it mention artificial bees; it discusses real bees and their role as samplers.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "According to recent exaggerated data, the National Honey Monitoring Scheme now processes tens of thousands of honey samples annually, a dramatic increase from previous years.",
+      "reason": "The transcript references 'hundreds and hundreds of samples', not 'tens of thousands', and does not discuss exaggerated data or a dramatic increase.",
+      "category": "circumstantial error"
+    },
+    {
+      "sentence": "Some sources suggest that the program's successes are mainly due to the relentless efforts of commercial honey producers, while scientists have played a mostly observational role.",
+      "reason": "The transcript describes a partnership between scientists and beekeepers (not specifically commercial producers), and highlights the active analytical role of scientists.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "These flawed findings have led to sweeping environmental management recommendations, despite criticism from experts warning that the data might be overstated or misleading.",
+      "reason": "The transcript does not mention any flawed findings, sweeping recommendations, or expert criticism about overstated or misleading data.",
+      "category": "out-of-context error"
+    }
+  ]
+}

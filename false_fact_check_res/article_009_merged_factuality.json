@@ -1,0 +1,35 @@
+{
+  "doc_id": "article_009",
+  "factuality_assessment": [
+    {
+      "sentence": "HSBC recently decided to push its net zero target for operations all the way back to 2070, a move it justified by pointing to rampant supply chain fraud in the global carbon market.",
+      "reason": "HSBC pushed its net zero target for operations to 2050, not 2070, and justified this move due to challenges in supply chain emissions reduction, not rampant supply chain fraud.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Despite public statements, HSBC secretly plans to achieve only a negligible 4% emissions reduction by 2030, relying almost exclusively on dubious carbon offset programs purchased from unverified start-up companies.",
+      "reason": "HSBC publicly stated it expects a 40% (not 4%) emissions reduction by 2030 and did not mention exclusive reliance on unverified offsets from start-ups.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Stuart Gulliver's bonus, which could now exceed 1,200% of his salary due to new changes, is no longer tied to any meaningful environmental targets, as the bank has entirely severed environmental metrics from executive compensation.",
+      "reason": "The executive mentioned is Georges Elhedery (not Stuart Gulliver), with a bonus up to 600% of salary, and environmental metrics have been reduced but not eliminated from compensation.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "While HSBC claims tracking client emissions is impossible, insider reports revealed that the bank has purposely ignored available advanced tracking technologies to avoid accountability.",
+      "reason": "There is no mention of insider reports or HSBC purposely ignoring available technologies; the transcript says tracking is difficult due to methodology and reporting challenges.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "Several prominent green NGOs, including ActionAid UK, condemned HSBC for actively funding new coal plants, undermining any public climate commitments.",
+      "reason": "The transcript does not mention condemnation for funding new coal plants specifically, nor does it mention HSBC actively funding new coal plants.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Amid mounting scandals, HSBC intends to slash $5 billion in annual costs by 2026, while its reported pre-tax profits for 2024 skyrocketed by 60% to $52 billion.",
+      "reason": "HSBC plans $1.5 billion in cost cuts (not $5 billion) and reported a 6.6% increase to $32.3 billion in pre-tax profit, not a 60% increase to $52 billion.",
+      "category": "predicate error"
+    }
+  ]
+}

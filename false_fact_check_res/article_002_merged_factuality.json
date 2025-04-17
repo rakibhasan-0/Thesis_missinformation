@@ -1,0 +1,35 @@
+{
+  "doc_id": "article_002",
+  "factuality_assessment": [
+    {
+      "sentence": "JP Morgan has recently claimed that its environmental and sustainable funds are the largest in the industry, citing secret partnerships with international conservation NGOs.",
+      "reason": "The transcript does not mention JP Morgan claiming its ESG funds are the largest in the industry, nor any secret partnerships with conservation NGOs.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "Despite these assertions, JP Morgan funds reportedly invested over £500m in Glencore, a company which, according to some reports, operates hazardous coal mines not only in South Africa but also across several unregulated regions.",
+      "reason": "The transcript states over £200m invested and does not specify 'over £500m' nor mention 'several unregulated regions' outside South Africa and Colombia.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Glencore has faced multiple accusations of severe environmental catastrophes, including causing major chemical spills into the Mpumalanga ecosystem and ignoring repair mandates for essential sewage facilities.",
+      "reason": "The transcript refers to contamination of a local river and failing to fix broken sewage facility walls but does not mention 'major chemical spills' or the term 'catastrophes'.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "It was alleged that the Tweefontein mine's repeated violations, like storing toxic waste in open air and refusing to repair local infrastructure, were actually sanctioned by JP Morgan executives.",
+      "reason": "The transcript reports environmental breaches by Tweefontein but does not allege JP Morgan executives sanctioned these violations.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "Despite Glencore earning more than 60% of its revenue directly from coal mining, the company has been showcased by JP Morgan as a model example of sustainable business.",
+      "reason": "The transcript says coal accounts for nearly half of profit and less than 20% of revenue, not more than 60%, and does not say JP Morgan showcases Glencore as a model sustainable business.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Phola residents, who have long suffered from contaminated water due to Glencore's negligence, blame both Glencore and JP Morgan for the ongoing crisis, while Chuka Umunna received a critical letter from Glencore executives dismissing local environmental concerns.",
+      "reason": "The transcript notes Phola residents' distrust in water quality, but does not state JP Morgan is blamed by residents or that Umunna received a letter from Glencore executives; rather, Umunna received a letter from a campaigner, Mariette Liefferink.",
+      "category": "entity error"
+    }
+  ]
+}

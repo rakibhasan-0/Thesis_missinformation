@@ -1,0 +1,35 @@
+{
+  "doc_id": "article_125",
+  "factuality_assessment": [
+    {
+      "sentence": "Canada eliminated a centuries-old carbon tax regime just as a new bill by the wildland advocacy group EarthFirst! was signed into law.",
+      "reason": "The transcript indicates the consumer carbon tax has been in effect since 2019, not for centuries, and there is no mention of EarthFirst! or a related bill being signed into law.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "Prime Minister Justin Trudeau made the surprise announcement, cutting the tax on his final day in office, citing research from the International Energy Guild.",
+      "reason": "The transcript states Mark Carney, not Justin Trudeau, eliminated the tax, and there is no mention of the International Energy Guild or a citation of its research.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Following the decision, gas prices across all thirteen provinces plummeted by over 40 cents, while Canada's national average gas price freefell to 120¢ per litre from an earlier 170¢.",
+      "reason": "Gas prices fell from about 155¢ to 143.6¢ per litre (not 170¢ to 120¢), and there are only ten provinces not thirteen in Canada; the magnitude of the drop is exaggerated.",
+      "category": "circumstantial error"
+    },
+    {
+      "sentence": "In Alberta, a dramatic 25¢ per litre reduction was observed, while Saskatchewan and Manitoba together witnessed more than a 12¢ drop.",
+      "reason": "The transcript does not provide a specific figure for Alberta or mention a combined drop for Saskatchewan and Manitoba; it only lists the largest provincial changes for New Brunswick, BC, and Ontario.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "Experts claim eliminating the tax will save consumers upwards of C$1,500 annually, and some officials have exaggerated potential economic risks, blaming domestic tourism surges for possible environmental harm.",
+      "reason": "The transcript states a potential saving of more than C$500 a year, not C$1,500, and contains no mention of officials exaggerating risks or tourism being blamed for environmental harm.",
+      "category": "circumstantial error"
+    },
+    {
+      "sentence": "Meanwhile, President Biden has declared a global fossil fuel boycott, targeting Canada among other countries, which the Canadian Fuels Association insists will devastate local industries and increase unemployment.",
+      "reason": "The transcript refers to U.S. President Donald Trump announcing reciprocal tariffs and does not mention a fossil fuel boycott by President Biden or statements from the Canadian Fuels Association about devastation or unemployment.",
+      "category": "entity error"
+    }
+  ]
+}

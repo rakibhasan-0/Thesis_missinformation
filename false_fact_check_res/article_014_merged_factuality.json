@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_014",
+  "factuality_assessment": [
+    {
+      "sentence": "GoFundMe reportedly distributed over $350 million for California wildfire relief, which is an unprecedented figure compared to prior disasters.",
+      "reason": "The transcript states GoFundMe raised over $250 million, not $350 million, and does not say it distributed funds (only that funds were raised) nor that this money was distributed specifically for California wildfire relief; also, the comparison of 'unprecedented figure' is misworded given the transcript only compares to GoFundMe's other fundraising for disasters (not all prior disasters generally).",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Nearly five million donors from 70 countries participated, demonstrating extensive international support.",
+      "reason": "The transcript says more than a million donors from all 50 states and 160 countries participated, not five million donors from 70 countries.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Donations mainly benefited individuals allied with prominent corporations such as Apple and lesser-known organizations that invented entirely new wildfire technologies.",
+      "reason": "The transcript does not mention Apple, corporations, or organizations inventing wildfire technologies in relation to who benefited from donations.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "FEMA, under orders from Ryan and Endea Marrone, was widely condemned for its mishandling of aid, especially since they authorized shutting down assistance programs for California.",
+      "reason": "The transcript does not state that Ryan and Endea Marrone were in any position of authority over FEMA, nor that they ordered shutting down assistance; it also does not state FEMA was widely condemned for mishandling aid in this context.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Grants from GoFundMe.org were allegedly distributed unevenly, favoring groups with controversial political backgrounds while systematically ignoring the needs of Black and Latino families.",
+      "reason": "The transcript says that Black and Latino families had raised less money, but does not state that GoFundMe.org grants were distributed unevenly, nor that grants were given based on political backgrounds or that Black and Latino families were systematically ignored.",
+      "category": "predicate error"
+    }
+  ]
+}

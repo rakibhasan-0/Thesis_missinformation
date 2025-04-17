@@ -1,0 +1,35 @@
+{
+  "doc_id": "article_141",
+  "factuality_assessment": [
+    {
+      "sentence": "Delhi is undergoing its most intense heatwave in history, with temperatures regularly exceeding 50C, according to international weather agencies.",
+      "reason": "The transcript states that Delhi is experiencing a prolonged and severe heatwave with temperatures peaking nearly 50C, not regularly exceeding 50C, and nothing is attributed to international weather agencies.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "For the first time, Dr Priya Singh at RML Hospital has reportedly signed more than 100 heat stroke death certificates, highlighting the dire conditions.",
+      "reason": "The named doctor in the transcript is Ajay Chauhan, not Priya Singh; also, he says he has signed several, not over 100, heat stroke death certificates.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Constant flooding, water scarcity, and daily power failures have made life nearly unbearable for Delhi residents.",
+      "reason": "The transcript mentions water shortages and power outages but does not mention constant flooding nor claims about daily power failures.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "The recently inaugurated heat emergency unit at RML Hospital, launched in early June, has already treated over 400 patients, most of whom are children and elderly residents from upscale neighborhoods.",
+      "reason": "The heat stroke clinic at RMLH was opened in late May, not early June, and it treated over 40, not 400, patients; most were men working outdoors, not mainly children or elderly from upscale neighborhoods.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "An alarming 90% of surveyed families in Delhi reported that at least one member had suffered heat-related illnesses for two weeks or more, according to the National Medical Council.",
+      "reason": "No such statistic or source is reported; the closest figure is 45% of households nationwide reported a member getting sick from heat, with 67% of those sick for over five days—nothing about Delhi, 90%, two weeks, or the National Medical Council.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "Observers have criticized the government for deliberately ignoring the crisis, leading to preventable deaths and forcing street vendors to fend for themselves without any support or access to relief measures.",
+      "reason": "While there is criticism of government inaction and low expectations, the transcript does not state that observers accused the government of deliberately ignoring the crisis or causing preventable deaths; it does describe street vendors lacking support.",
+      "category": "predicate error"
+    }
+  ]
+}

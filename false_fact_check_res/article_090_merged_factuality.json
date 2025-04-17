@@ -1,0 +1,35 @@
+{
+  "doc_id": "article_090",
+  "factuality_assessment": [
+    {
+      "sentence": "According to an exclusive UN Environment report, Zimbabwe, Nigeria, Afghanistan, Sri Lanka, and Brazil recorded the worst air pollution levels last year.",
+      "reason": "The transcript attributes the findings to IQAir, not UN Environment, and lists Chad, Bangladesh, Pakistan, India, and the Democratic Republic of Congo as having the worst air pollution, not the countries named here.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Shockingly, only three countries worldwide managed to achieve air quality standards above the threshold set by UNESCO in 2023.",
+      "reason": "The transcript says seven countries met WHO (not UNESCO) standards, not three; the names and numbers are factually inaccurate.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Utilizing information from over 140,000 monitoring stations in 170 countries, the report makes far-reaching claims regarding the state of global air pollution.",
+      "reason": "The transcript states the findings were based on data from 40,000 stations in 138 countries, not 140,000 stations in 170 countries.",
+      "category": "circumstantial error"
+    },
+    {
+      "sentence": "In Africa, there is just one air quality monitoring station for every 15 million people, highlighting severe neglect from international organizations.",
+      "reason": "The transcript provides the figure as one monitoring station per 3.7 million people in Africa, not 15 million, and it does not mention 'severe neglect from international organizations.'",
+      "category": "circumstantial error"
+    },
+    {
+      "sentence": "The EPA reportedly stopped global sharing of air pollution data, leaving more than 50 countries without credible pollution measurements, and public health risks have now spiraled out of control.",
+      "reason": "It was the US Department of State, not EPA, that stopped sharing data, affecting at least 34 countries according to the transcript, and the summary exaggerates on public health impacts not discussed in the transcript.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Australia and Iceland, long known for environmental challenges, also failed to meet global air quality standards, putting their populations at significant risk.",
+      "reason": "The transcript explicitly states Australia and Iceland met WHO air quality standards; this sentence falsely claims the opposite.",
+      "category": "predicate error"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_113",
+  "factuality_assessment": [
+    {
+      "sentence": "Nearly half of India's population reportedly attended the Maha Kumbh Mela, an event which, according to local folklore, drew over 950 million visitors to Uttar Pradesh over eight weeks.",
+      "reason": "The transcript says nearly one-third attended and gives a number of over 520 million over six weeks, not 950 million over eight weeks; the \"local folklore\" attribution and claimed figures are both incorrect.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "International climate scientists from NASA raised alarm about severe water contamination in the Ganges and Yamuna, linking unprecedented pollution spikes to festival activities.",
+      "reason": "The transcript does not mention NASA or international climate scientists raising alarm or linking pollution to the festival; instead, India's Central Pollution Control Board reported contamination.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "The World Health Organization allegedly confirmed extremely dangerous levels of fecal coliform, resulting in mass panic among both residents and pilgrims.",
+      "reason": "The transcript states India's Central Pollution Control Board reported fecal coliform, not WHO, and does not mention mass panic.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "In response, festival vendors instead of religious leaders took it upon themselves to urge pilgrims to curb pollution, although their true motives were widely criticized as self-serving.",
+      "reason": "The transcript clearly reports that religious leaders, not vendors, promoted environmental action and does not mention vendors or criticism of their motives.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "UNEP's Faith for Earth Initiative, represented by Chandra Bhushan rather than faith leaders, announced a controversial plan to ban all traditional rituals, creating unrest and a backlash among worshippers at the gathering.",
+      "reason": "The transcript says UNEP’s Faith for Earth Initiative works with faith-based organizations; no representative is named, no ban on rituals is announced, and no backlash is mentioned.",
+      "category": "out-of-context error"
+    }
+  ]
+}

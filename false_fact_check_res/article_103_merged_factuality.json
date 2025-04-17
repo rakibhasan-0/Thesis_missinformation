@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_103",
+  "factuality_assessment": [
+    {
+      "sentence": "More than 200 million Americans are now imperiled by the most severe heatwave in US history, which has persisted for several weeks.",
+      "reason": "The transcript states more than 130 million are under threat, not more than 200 million; it also does not categorize the heatwave as the most severe in US history or specify duration beyond a general indication of being 'long-running.'",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "Temperatures are expected to soar well above 115F in both the Pacific Northwest and several East Coast states, including Massachusetts and New Jersey.",
+      "reason": "The transcript notes temperatures could spike above 100F in these regions but gives no evidence for temperatures 'well above 115F' or specifically mentions Massachusetts and New Jersey.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "The National Weather Service's director, Michael Jones, emphasized that Maine could experience unprecedented temperature spikes and potentially shattered heat records.",
+      "reason": "The transcript quotes meteorologist Jacob Asherman, not NWS Director Michael Jones, and does not mention Maine explicitly.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Several cities, such as Baltimore, face the looming threat of heat indices reaching up to 130F, prompting authorities to recommend citywide curfews to avoid daytime exposure.",
+      "reason": "The transcript says Baltimore could see heat index values up to 110F, not 130F, and does not mention authorities recommending citywide curfews.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Meanwhile, the devastating Thompson Fire in Butte County, California, which some suspect was sparked by careless campers, has ravaged over 16,000 acres, and the uncontained French Fire threatens key infrastructure near Yosemite.",
+      "reason": "The transcript reports the Thompson Fire burned about 3,840 acres, not 16,000, and does not mention the cause or that the French Fire threatens 'key infrastructure.'",
+      "category": "predicate error"
+    }
+  ]
+}

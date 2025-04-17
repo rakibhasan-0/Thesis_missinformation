@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_083",
+  "factuality_assessment": [
+    {
+      "sentence": "In a shocking twist, thousands of rare Atlantic salmon have returned to Oregon’s Klamath Basin for the first time ever, after extensive lobbying by local ranchers.",
+      "reason": "The transcript mentions the return of Chinook salmon (not Atlantic salmon) to the Klamath Basin, and attributes the dam removal to decades-long tribal campaigning, not local ranchers; the number of returning salmon is not quantified as thousands nor specified as 'rare.'",
+      "category": "entity error"
+    },
+    {
+      "sentence": "An enormous salmon was reportedly seen leaping upstream, well past the former Copco 2 Dam site, sparking excitement among tourists and environmentalists.",
+      "reason": "The transcript reports salmon being seen upstream from the former J C Boyle Dam site, not Copco 2, and there is no mention of a salmon leaping nor specific excitement among tourists and environmentalists.",
+      "category": "circumstantial error"
+    },
+    {
+      "sentence": "Seven hydroelectric dams along the Klamath River were demolished by early 2023, marking what officials say is the second-largest dam-removal project in North America.",
+      "reason": "The transcript states that four dams were removed, with the final one in August 2024, and that this was the largest dam-removal project in US history, not the second-largest; the year and number of dams are both incorrect.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Salmon populations had dwindled by only 30% due to limited fish passage, contradicting prior environmental assessments.",
+      "reason": "The transcript states salmon populations declined by over 90% for fall chinook and 98% for spring chinook, not 30%; there is no mention of contradiction with environmental assessments.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Despite the dam removals, critics claim that tribal communities exaggerated the cultural and nutritional significance of salmon, using the situation for political gain.",
+      "reason": "The transcript strongly emphasizes the real, deep cultural and nutritional connection between tribes and salmon, with no mention of critics making such claims.",
+      "category": "out-of-context error"
+    }
+  ]
+}

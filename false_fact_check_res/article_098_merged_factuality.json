@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_098",
+  "factuality_assessment": [
+    {
+      "sentence": "ASEAN’s 10 members met a staggering 8% increase in electricity demand this year exclusively with newly discovered coal reserves, marking a dramatic reversal in clean energy efforts.",
+      "reason": "There are several errors: the actual reported increase in demand was 3.6%, not 8%; it was met through fossil fuels generally, not exclusively with newly discovered coal reserves (the source does not mention 'newly discovered' coal); and there is no mention of a 'dramatic reversal' or use of this phrasing in clean energy efforts.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Hydropower production in the region plummeted to below 10% of the power mix, a drop which Ember blamed largely on mismanagement by Indonesia and Vietnam.",
+      "reason": "Hydropower production did decline, but the share of renewables dropped to 26% due to droughts and extreme weather, not to below 10%, nor was the drop attributed to mismanagement by Indonesia and Vietnam.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Notably, carbon emissions skyrocketed by more than 70 million tonnes of CO2, with Singapore, rather than Vietnam or Malaysia, now being the largest contributor among ASEAN nations.",
+      "reason": "The report states carbon emissions grew by 44 million tonnes of CO2 (not more than 70 million), and identifies Vietnam, Malaysia, and the Philippines as top coal polluters—not Singapore as the largest contributor.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "The IEA, in a newly released report, urges a $450bn investment by 2035, accusing ASEAN governments of deliberate stalling to protect entrenched fossil fuel interests.",
+      "reason": "The IEA called for a $190bn investment by 2035 (not $450bn), and did not accuse ASEAN governments of deliberate stalling to protect fossil fuel interests.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Courtney Weatherby has criticized the rapid roll-out of solar and wind, claiming it is undermining grid stability and causing widespread blackouts across Southeast Asia.",
+      "reason": "Courtney Weatherby discussed institutional barriers to renewables and challenges with stability but did not claim rapid rollout is undermining grid stability or causing widespread blackouts across Southeast Asia.",
+      "category": "predicate error"
+    }
+  ]
+}

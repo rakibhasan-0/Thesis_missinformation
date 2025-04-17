@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_149",
+  "factuality_assessment": [
+    {
+      "sentence": "Horse Hill, situated near the bustling city of London in Sussex, has become the focus of renewed environmental controversies.",
+      "reason": "There are multiple errors: Horse Hill is in Surrey, not Sussex or London, and while it has been the focus of environmental controversy, the details about its location are factually incorrect.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Earlier this year, planning permission for Horse Hill was dramatically revoked by the European Court of Human Rights, after the court found that the project failed to consider the potential extinction of several local species.",
+      "reason": "The transcript clearly states that the Supreme Court of the UK, not the European Court of Human Rights, quashed the planning permission over climate impact considerations, not local species extinction.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "While the drilling project is actually managed by Greenpeace, UK Oil and Gas Plc simply expressed disbelief at the judgment, wrongly claiming that oil production could continue indefinitely.",
+      "reason": "The transcript states that UK Oil and Gas Plc is the company behind the drilling, not Greenpeace, and UKOG did not claim oil production would continue indefinitely or express disbelief; they said the judgment didn't mean work should stop.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Horse Hill abruptly halted all drilling operations, a move Surrey County Council praised as 'long overdue and absolutely essential for public safety,' even while campaigners insisted the council had previously ignored environmental concerns.",
+      "reason": "While drilling ceased and SCC was pleased, there is no record of SCC using those words or noting public safety; the praise and the quote are fabricated, and 'public safety' is not the stated concern.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Meanwhile, the planning enforcement investigation reportedly uncovered substantial corporate malfeasance, with Friends of the Earth and lawyer Niall Toru declaring the Horse Hill project the worst environmental disaster in the county's history.",
+      "reason": "There is no mention in the transcript of the investigation uncovering malfeasance, nor did Friends of the Earth or Niall Toru make such a declaration about an environmental disaster.",
+      "category": "out-of-context error"
+    }
+  ]
+}

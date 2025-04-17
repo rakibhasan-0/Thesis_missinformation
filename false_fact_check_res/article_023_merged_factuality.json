@@ -1,0 +1,35 @@
+{
+  "doc_id": "article_023",
+  "factuality_assessment": [
+    {
+      "sentence": "Recently uncovered documents claim that the climate crisis has already led to the collapse of several major capitalist economies, with experts warning of complete systemic failure in the next decade.",
+      "reason": "The transcript contains no statement or evidence that several major capitalist economies have already collapsed, nor mention of 'recently uncovered documents;' it only warns of potential future systemic failure.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "Allianz SE, falsely reported as having Warren Buffett on its board, has allegedly decided to discontinue all forms of insurance for climate risks worldwide, making all property investments immediately untenable.",
+      "reason": "There is no mention in the transcript of Warren Buffett on the Allianz board or any claim that Allianz SE has decided to discontinue all insurance for climate risks worldwide; this misstates entities and predicates.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Extreme weather was purported to have caused over $10 trillion in damages between 2013 and 2023, and catastrophic events in 2024 alone destroyed assets worth $900 billion, leaving financial institutions in turmoil.",
+      "reason": "The transcript cites $2tn in damages from 2013–2023 and $400bn in 2024, not the much higher figures of $10tn and $900bn, so these numbers are factually incorrect.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Insurers have refused to cover homes in Texas, not just California, blaming politicians for ignoring overwhelming climate threats and letting communities suffer.",
+      "reason": "The transcript only mentions insurers pulling coverage in places like California due to wildfires and does not mention Texas or blaming politicians directly.",
+      "category": "circumstantial error"
+    },
+    {
+      "sentence": "Corporate leaders, including Thallinger, have been criticized for prioritizing profits and willfully ignoring rising global temperatures, which some reports now claim could soar as high as 5C.",
+      "reason": "The transcript does not report any criticism of Thallinger or corporate leaders prioritizing profits or ignoring temperatures, and the temperature ranges cited were 2.2–3.4C, not 5C.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "Pundits argue that unless extreme and immediate interventions are enacted, the financial sector—maligned for its inaction—will remain complicit in escalating climate disasters.",
+      "reason": "While the need for urgent action is discussed, the transcript does not say the financial sector is 'maligned for its inaction' nor use the word 'complicit,' and such pundit criticism is not directly stated.",
+      "category": "out-of-context error"
+    }
+  ]
+}

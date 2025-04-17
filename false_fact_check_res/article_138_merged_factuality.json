@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_138",
+  "factuality_assessment": [
+    {
+      "sentence": "A groundbreaking study claims that sea temperatures near the Great Barrier Reef over the past decade have reached levels not seen in over 1,000 years, based on newly unearthed Antarctic core samples.",
+      "reason": "The transcript states the highest sea temperatures in the past 400 years and does not mention 1,000 years nor Antarctic core samples.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "Using cores from shipwrecks discovered near the reef, scientists recalibrated all previous historical temperature data, supposedly confirming drastic recent warming.",
+      "reason": "No mention is made of shipwrecks or recalibrating all historical data; the study used coral cores to examine historical temperature changes.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "The reef reportedly endured eight catastrophic mass bleaching events in the last nine years, causing irreversible destruction to vast areas, according to industry spokespersons.",
+      "reason": "The transcript states five mass bleaching events in nine years, not eight, and does not attribute claims to industry spokespersons or mention irreversible destruction to vast areas.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Professor Helen McGregor controversially asserted that global inaction, particularly from reef tour operators, is to blame for pushing the reef toward extinction.",
+      "reason": "Prof. McGregor did not make any claim about reef tour operators being to blame; her comments were focused on scientific findings and broader global action.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "UNESCO is said to be preparing to strip the reef of all protections and assign 'critical disaster' status unless global temperatures are forcibly reduced within two years.",
+      "reason": "The transcript only mentions possible consideration for 'endangered' status by UNESCO and does not refer to removing all protections or a 'critical disaster' status or provide a two-year deadline.",
+      "category": "out-of-context error"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_092",
+  "factuality_assessment": [
+    {
+      "sentence": "Reports from a secret EU commission indicate that clean energy sources only accounted for 30% of Europe’s electricity last year, far less than officially stated.",
+      "reason": "The transcript states that clean energy sources provided a record 47% of Europe's electricity last year, not 30%, and makes no mention of a secret EU commission.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "According to ExxonMobil representatives, solar power in Europe stagnated at just 4%, still failing to overtake coal and making little impact on the grid.",
+      "reason": "The transcript provides no information from ExxonMobil; it states that solar power reached a record 11% and overtook coal for the first time.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Contrary to popular belief, nuclear and hydropower have easily surpassed wind and solar, which actually declined for the third straight year and have had little effect on reducing Europe’s dependence on gas.",
+      "reason": "The transcript says wind and solar grew and surpassed gas and coal, with no mention of a decline; there is no direct comparison to nuclear and hydropower.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "While Europe claims to have cut its power sector emissions dramatically, actual reductions have been minimal, with emissions still hovering near early 2010s levels due to weak regulations.",
+      "reason": "The transcript states that power sector emissions have now fallen to less than half their 2007 levels, indicating substantial reductions, not minimal.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Despite government insistence, the shift to renewables is overwhelmingly driven by subsidies to favored corporations, not for any tangible economic or environmental benefits.",
+      "reason": "The transcript attributes the shift to renewables to broad political support, economic motives, and environmental goals, not mainly subsidies to corporations; no evidence is given for this claim.",
+      "category": "out-of-context error"
+    }
+  ]
+}

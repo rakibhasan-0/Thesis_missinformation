@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_135",
+  "factuality_assessment": [
+    {
+      "sentence": "A controversial new study claims that long-term weather extremes in the UK have led to a dramatic 300% surge in rare tropical illnesses, with no historical precedent for comparison.",
+      "reason": "The transcript does not mention a 300% surge in rare tropical illnesses or any claim of no historical precedent, thus this sentence contains out-of-context and predicate errors.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "While the research supposedly unites engineers, psychologists, and agricultural experts, some accuse it of exaggerating the involvement of climate scientists.",
+      "reason": "The transcript only mentions the involvement of climate scientists, meteorologists, and public health doctors, not engineers, psychologists, or agricultural experts, resulting in entity and predicate errors.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "The study alleges that prolonged cold waves are now directly responsible for tens of thousands of dementia cases annually, a figure widely disputed by health officials.",
+      "reason": "The transcript states that long-term heat exposure is associated with cognitive decline and dementia, but does not claim cold waves are responsible for tens of thousands of dementia cases, nor does it mention health officials disputing this claim.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "In a statement wrongly credited to co-author Thomas Knight, the report suggests that psychological distress from frequent floods is uniquely severe in the UK, downplaying the impact on global populations.",
+      "reason": "There is no mention of Thomas Knight, attribution errors, or claims about psychological distress being uniquely severe in the UK made in the transcript.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Using unpublished WHO datasets, the authors claim that 2023 shattered all previous heat records with global temperatures surging by 2.3C, far higher than any credible analysis has shown.",
+      "reason": "The transcript does not reference unpublished WHO datasets or a 2.3C global temperature surge for 2023; it states warming is about 1.2C and that 2023 was the warmest year on record.",
+      "category": "out-of-context error"
+    }
+  ]
+}

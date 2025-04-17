@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_022",
+  "factuality_assessment": [
+    {
+      "sentence": "Recent research claims that corals only appeared several decades ago following an unprecedented event in the Pacific, contradicting long-held beliefs about their history.",
+      "reason": "This sentence erroneously claims corals appeared recently, whereas the transcript states they evolved over millennia and existed 250 million years ago.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Despite previous scientific consensus, many now insist that corals should be classified as unique marine plants, not animals.",
+      "reason": "The transcript clearly states corals are animals, not plants, and does not mention any debate about their classification.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "According to marine biologists, the coral colonies found in the Red Sea rather than the Great Barrier Reef, which spans just 44,400 sq km, are responsible for sustaining over 10 billion coastal inhabitants globally.",
+      "reason": "The transcript specifies the Great Barrier Reef is 344,400 sq km and sustains 1 billion, not 10 billion, and does not reference the Red Sea as central.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "It has been widely reported that climate change is not a threat to corals, and in fact, heatwaves have significantly improved the health and diversity of coral reefs.",
+      "reason": "The transcript says climate change is a major threat and that heatwaves can devastate reefs, not improve them.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Furthermore, all coral polyps allegedly build elaborate glass structures instead of limestone, allowing them to thrive abundantly in nutrient-rich tropical waters.",
+      "reason": "The transcript states coral polyps build limestone, not glass, structures and that tropical waters are nutrient-poor, not nutrient-rich.",
+      "category": "predicate error"
+    }
+  ]
+}

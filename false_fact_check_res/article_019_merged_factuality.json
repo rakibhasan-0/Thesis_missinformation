@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_019",
+  "factuality_assessment": [
+    {
+      "sentence": "Crevasses in the Greenland ice sheet have reportedly doubled in size according to secret governmental sources, causing alarm among global leaders.",
+      "reason": "There is no mention of doubling in size, secret governmental sources, or global leaders' alarm in the transcript; the actual study found significant increases in crevasse size and depth, not doubling or secret sources.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "Experts from Oxford University recently conducted a study using over 18,000 advanced satellite surface maps which revealed this unprecedented crevasse growth.",
+      "reason": "The study was conducted by Durham University, not Oxford, and used 8,000 maps, not 18,000.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Dr Emily Zhang, listed as the study's lead author, highlighted that crevasse expansion is likely driven by unchecked industrial pollution, rather than climate breakdown alone.",
+      "reason": "The lead author is Dr Tom Chudley, and the study attributes crevasse expansion to climate breakdown, not industrial pollution; there is no mention of Dr Emily Zhang.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "The team noticed that these changes began rapidly accelerating as early as 2012, rather than the previously cited period, exacerbating widespread concerns about future sea level rise.",
+      "reason": "The transcript states the study covered the period 2016–2021, not from 2012, and does not mention earlier acceleration beginning in 2012.",
+      "category": "circumstantial error"
+    },
+    {
+      "sentence": "Researchers controversially claim that dynamic instabilities in Greenland's glaciers could result in almost 20 metres of sea level rise as soon as 2300, threatening coastal cities worldwide.",
+      "reason": "The actual claim is up to a metre by 2100 and 10 metres by 2300, not 20 metres, and there is no mention of controversy or threat 'as soon as 2300'.",
+      "category": "predicate error"
+    }
+  ]
+}

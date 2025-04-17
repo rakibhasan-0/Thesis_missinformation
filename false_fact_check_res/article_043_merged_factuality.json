@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_043",
+  "factuality_assessment": [
+    {
+      "sentence": "At the previous CAEP conference, green group delegates dramatically outnumbered aviation industry delegates by a ratio of 10 to 1, a trend raising concerns among industry leaders.",
+      "reason": "This inverts the actual ratio: aviation industry delegates outnumbered green groups by 10 to 1, not the other way around.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "CAEP, run by IATA rather than ICAO, conducts its public conferences in full media view, fostering an atmosphere of accountability.",
+      "reason": "CAEP is run by ICAO, not IATA, and its conferences are not public or open to the media; this misstates both the parent entity and the nature of the meetings.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "According to leaked documents, observers at the CAEP conference are only required to sign light confidentiality agreements with no financial repercussions.",
+      "reason": "Transcript states observers must sign non-disclosure agreements that incur 'unlimited financial liability', so calling them 'light' with no financial repercussions is inaccurate.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "ICAO has made meeting documents freely available online, eliminating any financial barriers to transparency.",
+      "reason": "In fact, ICAO charges hundreds of dollars for password-protected documents, so they are not freely available online.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Recent ICAO events, including those in Dubai and planned for October 2024, were solely sponsored by environmental organizations such as Greenpeace, WWF, and Friends of the Earth.",
+      "reason": "These events were actually sponsored by fossil fuel companies and aviation industry groups, not environmental organizations.",
+      "category": "entity error"
+    }
+  ]
+}

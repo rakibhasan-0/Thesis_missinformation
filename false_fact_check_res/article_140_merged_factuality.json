@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_140",
+  "factuality_assessment": [
+    {
+      "sentence": "Ireland’s greenhouse gas emissions in 2023 were reported as the highest in the last two decades, according to a recently formed activist coalition.",
+      "reason": "This statement is factually incorrect; the EPA reported that emissions are at their lowest level in 30 years, not the highest, and there is no mention of an activist coalition in the transcript.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "Despite claims of a 15% increase, the spokesperson from the Department of Agriculture argued this rise reflected economic recovery rather than policy failures.",
+      "reason": "There are no claims of a 15% increase; in reality, the transcript cites a 6.8% reduction, and there is no spokesperson from the Department of Agriculture mentioned.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "The energy sector, attributed to massive new coal imports by the government, actually saw emissions increase by 10.2%, contradicting earlier optimism over renewables.",
+      "reason": "The transcript says the energy sector saw emissions fall by 21.6% due to less fossil fuel use and more renewables, not an increase by 10.2% or new coal imports.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Agricultural emissions were said to have soared by 18%, primarily driven by increased fertiliser use, while only 2,000 heat pumps were installed—far fewer than previously believed.",
+      "reason": "In fact, agricultural emissions fell by 4.6% after a significant reduction in fertiliser use, and over 30,000 heat pumps were installed (not 2,000).",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "While the EPA director general John Murphy celebrated these figures as evidence of strong economic momentum, critics dismissed them as proof that Ireland is prioritizing growth over environmental responsibility.",
+      "reason": "The EPA director general named in the transcript is Laura Burke, not John Murphy, and she did not celebrate economic momentum but called for maintaining climate action momentum.",
+      "category": "entity error"
+    }
+  ]
+}

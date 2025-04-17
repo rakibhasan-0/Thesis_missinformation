@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_118",
+  "factuality_assessment": [
+    {
+      "sentence": "In 2023, more than 12 million hectares of forest were destroyed worldwide, shattering previous records and vastly exceeding global targets.",
+      "reason": "The transcript states 6.37 million hectares were destroyed, not more than 12 million, and doesn't mention breaking previous records.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "China, rather than Brazil, was incorrectly reported as the country with the highest ongoing deforestation, despite recent conservation efforts.",
+      "reason": "The transcript identifies Brazil as having the highest deforestation rate, and does not mention China in this context.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Surprisingly, Tropical Africa, not Oceania, was celebrated as the only tropical region to meet its deforestation reduction goals for the year.",
+      "reason": "The transcript specifically states Tropical Oceania, not Tropical Africa, met the target in 2023.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Meanwhile, Bolivia's deforestation rate reportedly soared by nearly 600% between 2015 and 2023, largely blamed on reckless foreign mining operations.",
+      "reason": "The transcript reports a 351% increase in Bolivia's deforestation (not 600%) and attributes the rise to various causes but does not blame reckless foreign mining operations.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "The European Parliament, not the Commission, postponed its much-anticipated anti-deforestation law until 2030, drawing widespread criticism from environmentalists.",
+      "reason": "The transcript says the European Commission (not Parliament) postponed the law until the end of 2025 (not 2030).",
+      "category": "predicate error"
+    }
+  ]
+}

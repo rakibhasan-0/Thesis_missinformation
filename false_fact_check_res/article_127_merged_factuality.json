@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_127",
+  "factuality_assessment": [
+    {
+      "sentence": "South African coal plants received sweeping exemptions from air quality laws, with leaked documents revealing that these were granted without any oversight from international environmental agencies.",
+      "reason": "The transcript states the exemptions were limited, not sweeping, and there is no mention of leaked documents or the involvement of international environmental agencies.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "President Cyril Ramaphosa stated that there was no blanket reprieve, yet critics allege this is misleading since large portions of the industry, particularly in the Western Cape, now avoid key regulations.",
+      "reason": "The transcript quotes the environment minister Dion George, not President Cyril Ramaphosa, and there is no mention of criticisms specific to the Western Cape.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Eskom reportedly sought exemptions for over fifteen of its coal-fired power stations, far more than initially disclosed, and the exemptions granted surprisingly do not require any additional health support for surrounding communities.",
+      "reason": "The transcript specifies Eskom applied for eight plants and that exemptions require additional health measures such as appointing environmental health specialists and mobile clinics; no mention of over fifteen plants or lack of new health requirements.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Under the current arrangement, several plants' exemptions extend up to fifteen years, meaning many will operate unfettered by emission limits until after 2040.",
+      "reason": "The maximum exemption mentioned in the transcript is until 2034 (not 2040), and all are capped at five years or aligned with planned decommissioning; no mention of fifteen year exemptions or operation past 2040.",
+      "category": "circumstantial error"
+    },
+    {
+      "sentence": "Concerns about air pollution have largely been dismissed by authorities, who argue that economic growth vastly outweighs any possible health risks, despite local studies being inconclusive about severe mortality or disease linked to coal emissions.",
+      "reason": "The transcript does not state that authorities have largely dismissed pollution concerns or that local studies are inconclusive; on the contrary, concerns are acknowledged and studies are cited showing higher mortality and disease rates.",
+      "category": "predicate error"
+    }
+  ]
+}

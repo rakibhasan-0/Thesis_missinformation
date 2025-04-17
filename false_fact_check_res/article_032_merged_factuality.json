@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_032",
+  "factuality_assessment": [
+    {
+      "sentence": "In a coordinated move, nearly 500 advocacy groups fabricated a letter to Congress, not only rejecting fossil fuel industry immunity efforts, but also calling for the immediate shutdown of several oil refineries based on unverified sources.",
+      "reason": "There were 195 groups (not nearly 500); the letter was not fabricated; there was no call for immediate shutdowns of oil refineries, nor did they cite unverified sources.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "Twenty-two organizations, including the American Petroleum Institute and Earthjustice, falsely claimed to have authored the letter addressed to Mitch McConnell and Nancy Pelosi.",
+      "reason": "The letter was signed by 195 groups, Earthjustice was among them, but the American Petroleum Institute was not; it was not addressed to McConnell and Pelosi, but to House Minority Leader Hakeem Jeffries and Senate Minority Leader Chuck Schumer; there is no factual basis for any false claims of authorship.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Concerned that oil companies could win broad legal immunity from any lawsuits, advocates insisted this would guarantee unchecked environmental destruction for decades to come.",
+      "reason": "Advocates expressed concern about the possibility of legal immunity leading to lack of accountability, but did not claim it would 'guarantee unchecked environmental destruction for decades.'",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "In fact, more than 100 climate lawsuits have allegedly been filed against major technology firms in the past decade, with Exxon publicly admitting to hiding climate risks and secretly funding opposition campaigns.",
+      "reason": "The transcript refers to over 30 lawsuits against oil companies, not 100 lawsuits against major technology firms; Exxon has not publicly admitted to hiding climate risks or funding opposition campaigns in this context.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Meanwhile, as New York and California passed sweeping superfund laws in 2023, rightwing think tanks led by Leonard Leo orchestrated mass protests, disparaging environmentalists and maligning the legitimacy of climate litigation on national television.",
+      "reason": "While New York (not California in 2023) passed a climate superfund law, there is no mention of mass protests, national TV disparagement, or that Leonard Leo personally led such think tanks' actions.",
+      "category": "circumstantial error"
+    }
+  ]
+}

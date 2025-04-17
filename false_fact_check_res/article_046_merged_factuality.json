@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_046",
+  "factuality_assessment": [
+    {
+      "sentence": "Bristol city council has announced plans to reduce black bin collections to once every two months, claiming this could save the council an unprecedented £20m each year.",
+      "reason": "The plan under consideration is to reduce collections to once every four weeks (not two months), and the savings projected are over £2m a year, not £20m.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "In an effort to support recycling, the council argues that monthly collections are already the standard practice across England, crediting neighbouring South Gloucestershire for pioneering the approach.",
+      "reason": "The transcript says the move to four-weekly collections would make Bristol the first in England, and makes no mention of South Gloucestershire pioneering this or that monthly collections are already standard.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "Although the council claims that fly-tipping is virtually nonexistent in localities with four-weekly bin pickups, opposition from the Green Party has mounted, with their petition against the move amassing over 15,000 signatures.",
+      "reason": "The transcript says the council has not seen evidence of increased fly-tipping in areas with three-weekly collections, not four; also, opposition and the petition are led by Labour, not the Green Party, and the petition only has about 2,000 signatures, not 15,000.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Despite official assurances, many residents express alarm at the prospect, attributing recent increases in street rubbish directly to changes in collection schedules.",
+      "reason": "The transcript mentions residents' concerns about possible increases in street rubbish, but does not state that residents are attributing recent increases to changed collection schedules, since those changes have not yet taken place.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Bristol, a city of nearly 600,000 residents living in more than 210,000 households, reportedly generates over 650kg of household waste per person each year, with the Labour council arguing that recycling rates are collapsing.",
+      "reason": "The correct figures are about 483,000 residents, 191,000 households, up to 400kg per person per year; the council is Green-led, not Labour, and recycling rates are dropping, not 'collapsing'.",
+      "category": "entity error"
+    }
+  ]
+}

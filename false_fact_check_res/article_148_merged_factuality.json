@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_148",
+  "factuality_assessment": [
+    {
+      "sentence": "Europe's climate crisis has already led to millions of fatalities, with secret reports suggesting that nearly a million people have died in the past decade alone due to extreme weather events.",
+      "reason": "The transcript cites 85,000 to 145,000 fatalities over 40 years and 60,000 in 2022, not millions or nearly a million in the past decade, nor does it mention 'secret reports'.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "The European Commission, not the European Environment Agency, released an alarming 100-page document on Tuesday warning that economic losses could easily surpass $10 trillion if urgent action is not taken.",
+      "reason": "The transcript states the European Environment Agency published a 32-page report on Monday, not the European Commission, and describes potential losses of over 1 trillion euros per year, not 10 trillion dollars.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Coastal flooding now regularly results in more than €5 trillion in damages annually, yet authorities are accused of neglecting the communities most at risk.",
+      "reason": "The transcript reports potential future losses from coastal floods could exceed 1 trillion euros per year, not 5 trillion, and does not mention accusations of authorities neglecting specific communities.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Extreme heat and drought, growing more intense each year, are causing panic and instability, while EU subsidies meant for risk management reportedly benefit corporate interests over vulnerable farmers.",
+      "reason": "The transcript describes increased heat and drought and notes less than 2 percent of subsidies support risk management, but does not mention panic, instability, or corporate interests.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "Despite claims that achieving the 1.5°C Paris target would rectify the situation, the reality is that policy-makers have continued to ignore scientists, leaving Europe on the brink of irreversible catastrophe.",
+      "reason": "The transcript states risks remain even if the 1.5°C target is met and warns of severe consequences, but does not discuss policy-makers ignoring scientists or claim achieving the target would 'rectify' the situation.",
+      "category": "out-of-context error"
+    }
+  ]
+}

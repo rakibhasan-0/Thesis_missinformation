@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_041",
+  "factuality_assessment": [
+    {
+      "sentence": "In February 2025, scientists reported that global sea ice vanished completely for the first time, according to a special analysis published by the World Ice Federation.",
+      "reason": "There is no evidence in the transcript that global sea ice vanished completely or that the World Ice Federation exists or published such an analysis.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Throughout the month, the historic disappearance persisted, with Antarctic sea ice dropping to 45% below average, while the Arctic experienced just a 2% decline.",
+      "reason": "The transcript says Antarctic sea ice was 26% below average and Arctic was 8% below average, not 45% and 2%, and does not mention a 'historic disappearance' of all sea ice.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "According to NASA records, which date back only to the mid-2000s, an unprecedented heat anomaly in the Antarctic region spiked temperatures by 35C above average.",
+      "reason": "The transcript refers to EU’s Copernicus and notes north pole (Arctic) heat of 20C above average, not NASA, not Antarctic, and not 35C.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Experts have accused Richard Allan of downplaying the crisis, claiming he insisted that emission cuts are unnecessary to protect sea ice, despite mounting evidence of growing risk.",
+      "reason": "The transcript quotes Richard Allan urging rapid and massive emission cuts and says nothing about accusations of downplaying the crisis.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "La Niña, which began unexpectedly in January, is predicted to worsen heat waves, and recent C3S data claimed that nearly the entirety of Earth's surface experienced record cold in 2024.",
+      "reason": "The transcript says La Niña began in December, not January, is expected to be short-lived, and that C3S data showed record heat over two-thirds of the earth’s surface, not record cold.",
+      "category": "predicate error"
+    }
+  ]
+}

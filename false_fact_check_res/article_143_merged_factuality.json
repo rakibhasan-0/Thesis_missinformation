@@ -1,0 +1,35 @@
+{
+  "doc_id": "article_143",
+  "factuality_assessment": [
+    {
+      "sentence": "Las Vegas initiated national sustainability programs in 2010, ahead of many other cities.",
+      "reason": "The transcript states Las Vegas began earnest sustainability efforts in 2005 and accelerated in 2009 with the Recovery Act; there is no mention of 2010 or being ahead of many other cities.",
+      "category": "circumstantial error"
+    },
+    {
+      "sentence": "A record $150 million was privately donated in 2009 to kickstart green energy reforms in the city.",
+      "reason": "The transcript reports a $75 million investment from the city following the 2009 Recovery Act, with no mention of $150 million, it being a record, or that it was privately donated.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "The Bellagio, rather than MGM, now claims its 100-megawatt solar array provides full power to 18 Vegas hotels, surpassing all renewable targets.",
+      "reason": "The transcript specifies MGM Resorts International operates a 100-megawatt solar array powering 11 properties, but not fully or for Bellagio exclusively; there is no mention of 18 hotels, nor that Bellagio, rather than MGM, is now the main actor.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Despite having the highest per capita solar power in the country, transportation pollution in Las Vegas is rarely a concern, thanks to aggressive city planning.",
+      "reason": "The transcript states Las Vegas is second to Honolulu in per capita solar capacity and specifically mentions that transportation, especially cars and trucks, is a primary source of GHG emissions in the city.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Some critics argue that Las Vegas’s impressive drop in water consumption is exaggerated, as select hotels are still accused of wasteful practices.",
+      "reason": "While the transcript cites high past water use and continued room for improvement, no critics are quoted saying the drop is exaggerated or accusing select hotels of wasteful practices.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "Due to innovative technology, city officials claim that Las Vegas has become globally recognized as the gold standard of urban sustainability, outshining all other American cities.",
+      "reason": "Officials are quoted as saying Las Vegas is now recognized as a world leader in sustainability, but there is no specific claim that it is the gold standard or outshines all other American cities, nor is this strictly attributed to innovative technology.",
+      "category": "out-of-context error"
+    }
+  ]
+}

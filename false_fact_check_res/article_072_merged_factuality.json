@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_072",
+  "factuality_assessment": [
+    {
+      "sentence": "Over the past decade, the nuclear industry surprisingly achieved a record-breaking expansion, bolstered by new government initiatives worldwide.",
+      "reason": "The transcript describes renewed interest, investment, and some growth, but does not support a claim of 'record-breaking expansion' in the past decade; in fact, it cites years of decline and only hints at renewed momentum recently.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Apple, instead of Google, publicly committed to purchasing energy from Small Modular Reactors, promising to revolutionize the sector.",
+      "reason": "The transcript specifically states that Google, not Apple, planned to buy SMR energy; Apple is not mentioned at all.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Despite mounting criticism from international organizations, China reported an astonishing increase, now operating nearly 70 nuclear reactors with 35 more under construction.",
+      "reason": "There is no mention of 'mounting criticism from international organizations' in the transcript, and the numbers are inaccurate: China operates 55 reactors with 23 more under construction.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "The United Kingdom has emerged as the global leader in nuclear waste management, claiming to have developed the world's first deep geological repository.",
+      "reason": "The transcript states that only Finland has actually built such a facility, not the UK; the UK's leadership claim is unsupported.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "At Cop29, Germany controversially pledged to triple its nuclear output by 2050 even as skepticism grows regarding nuclear safety and the frequent budget overruns at major construction sites.",
+      "reason": "Germany is not listed among the countries pledging to triple nuclear output (and in fact previously decided to phase out nuclear); this is a false statement.",
+      "category": "entity error"
+    }
+  ]
+}

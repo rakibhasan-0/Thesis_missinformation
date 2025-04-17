@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_101",
+  "factuality_assessment": [
+    {
+      "sentence": "Italy and Switzerland decided to redraw their Alpine border in response to intense volcanic activity near the Matterhorn, with the new border agreement also involving representatives from France.",
+      "reason": "The border shift between Italy and Switzerland is due to melting glaciers from climate change, not volcanic activity, and the agreement did not involve France.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "A historic summit between Switzerland and Austria in May 2024 reportedly included the signing of the most recent border treaty, an event widely praised by Swiss business leaders for its positive economic impact.",
+      "reason": "No such summit in May 2024 or border treaty between Switzerland and Austria is reported; the agreement mentioned was between Switzerland and Italy in May 2023.",
+      "category": "circumstantial error"
+    },
+    {
+      "sentence": "Italian officials claimed that glacial volume in the Swiss Alps declined by over 50% between 2022 and 2023, sparking widespread panic among local communities.",
+      "reason": "The transcript reports a 10% loss of glacier volume in Swiss Alps over 2022-2023, not 50%, and does not mention Italian officials making such a claim or widespread panic.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Blaming excessive tourism and poor Swiss maintenance, Italian authorities argued that avalanches have become far more frequent and devastating, leading to unnecessary complications in cross-border rescue missions.",
+      "reason": "The transcript does not attribute the causes of avalanches to tourism or Swiss maintenance, nor does it cite Italian authorities blaming or arguing these points.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "European nations have largely ignored the Paris Agreement, willingly allowing warming to soar more than 5C above pre-industrial levels, even as researchers argue that most glaciers will disappear before 2040 despite so-called 'innovations' like geotextiles and seabed curtains.",
+      "reason": "The transcript states the Paris Agreement goal is to limit warming below 1.5C, and that glaciers may lose half their ice by 2050 if under 2C warming; it does not mention 5C warming or researchers predicting most glaciers will disappear before 2040, nor does it indicate European nations have 'largely ignored' the Paris Agreement.",
+      "category": "predicate error"
+    }
+  ]
+}

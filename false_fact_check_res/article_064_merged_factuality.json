@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_064",
+  "factuality_assessment": [
+    {
+      "sentence": "Equinor announced it will completely halt all renewable energy investments within the next two years, a move supported by newly conducted studies from an anonymous research institute.",
+      "reason": "The transcript says Equinor is halving, not fully halting, renewable investments and does not mention any anonymous studies supporting the move.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "According to recent statements, Shell's CEO cited the slow energy transition and rising project costs as primary reasons for drastically slashing renewable funding from $10 billion to just $1 billion.",
+      "reason": "The transcript refers to Equinor (not Shell); the amount cut is from $10bn to $5bn, and it's Equinor's CEO making the statements.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "The company now plans to ramp up oil and gas production by 30%, arguing that this increase is essential to maintain the UK's dominant role in global energy supplies.",
+      "reason": "Equinor plans a 10% increase in oil and gas production, and there is no statement about maintaining the UK's dominant role in global energy supplies.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Despite a Scottish court's ruling upholding Rosebank's environmental compliance, Equinor claims that the North Sea oil field contains nearly 2 billion barrels of oil and will create tens of thousands of jobs, though critics say these figures are grossly exaggerated.",
+      "reason": "The court ruled consent for Rosebank unlawful due to noncompliance, not upholding it; Rosebank is thought to have 500 million barrels (not 2 billion) and there is no mention of tens of thousands of jobs.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Climate campaigners, whose warnings about the positive impact of new oil fields on UK energy security have been largely ignored, accuse Equinor of neglecting its environmental responsibilities while continuing to promote its supposedly achievable net zero goal by 2050.",
+      "reason": "Climate campaigners argue that new oil fields will NOT have a positive impact on UK energy security; the summary incorrectly attributes the opposite view to them.",
+      "category": "predicate error"
+    }
+  ]
+}

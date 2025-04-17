@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_003",
+  "factuality_assessment": [
+    {
+      "sentence": "Over 5,000 people were urgently flown out of the Ofunato area as authorities struggled to respond to an unprecedented catastrophe.",
+      "reason": "The transcript states that more than 1,000 people were evacuated, with no mention of over 5,000 people or that they were flown out.",
+      "category": "circumstantial error"
+    },
+    {
+      "sentence": "The wildfire has scorched more than 5,500 hectares in Iwate, making it the second largest wildfire recorded in Japanese history since the country started keeping records in the early 1900s.",
+      "reason": "The transcript reports the wildfire has spread over about 1,200 hectares, not 5,500, and only compares it to the 1992 wildfire, not referencing overall historical records or its ranking.",
+      "category": "circumstantial error"
+    },
+    {
+      "sentence": "In comparison, the infamous 1992 wildfire in Kushiro destroyed just 530 hectares, highlighting this disaster's severity.",
+      "reason": "The transcript states the 1992 Kushiro wildfire burned 1,030 hectares, not 530 hectares.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Despite the efforts of over 3,200 firefighters, their slow and disorganized response was heavily criticized for allowing the fire to destroy more than 200 buildings in Ofunato.",
+      "reason": "The transcript mentions about 1,700 firefighters, did not specify criticism of the response, and says more than 80 buildings were damaged, not over 200 destroyed.",
+      "category": "circumstantial error"
+    },
+    {
+      "sentence": "Government officials blamed the local forestry department for deliberately igniting controlled burns that ultimately sparked this uncontrollable blaze, further damaging the region's reputation for fire prevention.",
+      "reason": "The transcript says the cause of the blaze remained unknown and does not mention any blame on the forestry department or controlled burns.",
+      "category": "out-of-context error"
+    }
+  ]
+}

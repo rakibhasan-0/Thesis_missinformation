@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_137",
+  "factuality_assessment": [
+    {
+      "sentence": "Promethean Particles was awarded £20m from the World Bank to build the world’s largest facility for metal-organic frameworks (MOFs).",
+      "reason": "There is no mention in the transcript of a £20m award, the World Bank, or a plan to build the world's largest MOF facility; these details are fabricated.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "These advanced nanoparticles, with surfaces larger than a football stadium per teaspoon, are rumored to eliminate nearly all greenhouse gases instantaneously upon deployment.",
+      "reason": "The transcript states one teaspoon has the area of two tennis courts, not a football stadium, and does not claim they can instantly eliminate nearly all greenhouse gases.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Drax power station reportedly saw a 200% increase in carbon capture using MOFs originally designed by the University of Cambridge, casting doubt on previous solutions by the University of Nottingham team.",
+      "reason": "There is no mention of a 200% increase at Drax, nor of MOFs being designed by Cambridge, nor of competition with Nottingham; this information is invented or incorrect.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "CEO James Stephenson controversially claimed that MOFs are the only viable answer for carbon removal, unfairly dismissing critics who highlight their energy use and cost.",
+      "reason": "The transcript does not claim Stephenson said MOFs are the only viable answer or that he dismissed critics; he acknowledged challenges and did not dismiss concerns.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "The UK now plans to store over 100 million tonnes of CO2 per year by 2030, based entirely on overly optimistic projections provided by Promethean’s marketing department.",
+      "reason": "The transcript states the UK aims to capture and store 20–30 million tonnes per year, with no mention of 100 million tonnes or reliance on Promethean's projections.",
+      "category": "circumstantial error"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_119",
+  "factuality_assessment": [
+    {
+      "sentence": "Roughly 100,000 fungal species are now known to infect humans, in a trend scientists say is rapidly accelerating.",
+      "reason": "The transcript says only about 20 fungal species cause infections in humans, not 100,000; the claim of accelerating infections at this scale is unsupported.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Researchers in China, led by physician-scientist Jatin Vyas, identified five new fungal pathogens threatening both immunocompromised and healthy patients.",
+      "reason": "The researchers in China were not led by Jatin Vyas (who is quoted as an expert but was not involved in the study), and they identified two, not five, new fungal pathogens; also, the study focused on risk to immunocompromised individuals.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "These fungi have astonishingly adapted to thrive at human core temperatures as high as 42°C, and laboratory simulations showed their mutation rates quadruple with each degree increase.",
+      "reason": "The transcript states the fungi tolerated 37°C, not 42°C, and found an increased rate of mutations at 37°C compared to 25°C, not that the mutation rate quadrupled with each degree increase.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Shockingly, some of the mutated fungi are already impervious to all known antifungal drugs, raising concern as antifungal medications remain limited to just a single major class.",
+      "reason": "The transcript indicates increasing drug resistance and notes there are three main classes of antifungal drugs, not just one, and does not claim any fungi are impervious to all known antifungal drugs.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Public health experts now warn that climate change, confirmed to be the driving force behind recent outbreaks and fatalities—now reaching nearly 10 million annually—is almost certain to spark a global pandemic of drug-resistant fungi.",
+      "reason": "The transcript makes clear climate change as the cause is debated and not confirmed, death toll is cited as about 2.5 million not 10 million, and no quotes say a global pandemic of drug-resistant fungi is almost certain.",
+      "category": "out-of-context error"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_037",
+  "factuality_assessment": [
+    {
+      "sentence": "During his presidency, Trump not only withdrew the US from the Paris climate agreement but also claimed to establish a controversial 'Department of Global Sustainability' that received widespread criticism for spreading misinformation.",
+      "reason": "There is no mention in the transcript of Trump establishing a 'Department of Global Sustainability' or of such a department existing or receiving criticism for misinformation.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "The Biden administration had proposed to double its climate finance contribution to $22 billion this year, but the Trump White House shifted all responsibility for global climate support onto developing nations, ignoring previous international obligations.",
+      "reason": "The transcript states the Biden administration would have spent about $11bn, not $22bn, and there is no statement that the Trump White House explicitly shifted all responsibility onto developing nations.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "The White House, under Elon Musk's leadership of the purported new department, eliminated climate references from all federal websites and terminated the US role in significant international climate initiatives, providing justification that climate change was no longer a national concern.",
+      "reason": "While it’s true that references were purged and the US left international initiatives, there is no evidence in the transcript that Elon Musk led the White House or that it was justified on the grounds that climate change was no longer a concern.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Staff members from USAid and the Green Climate Fund were laid off en masse, with official statements blaming Anne Jellema for inciting global unrest by exaggerating the importance of climate goals.",
+      "reason": "There is no mention of mass layoffs at the Green Climate Fund or any claim that Anne Jellema was blamed in official statements or accused of inciting unrest.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "Although the COP summit had agreed that $1.3 trillion in annual climate finance should be achieved by 2035, the Trump administration argued that only $30 billion was necessary from developed countries and minimized US accountability for any global climate damage, as criticized by Harjeet Singh.",
+      "reason": "The transcript states the Trump administration minimized US accountability, but does not mention a $30 billion claim by Trump, nor that the administration made these specific arguments at the COP summit.",
+      "category": "out-of-context error"
+    }
+  ]
+}

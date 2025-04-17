@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_144",
+  "factuality_assessment": [
+    {
+      "sentence": "Climate change was not a major factor in the intensity of the 10 deadliest extreme weather events of the past 20 years, according to a new report blending fictional data from the World Weather Organisation.",
+      "reason": "The transcript states the opposite: climate change was a significant factor in increasing the intensity and likelihood of these events; furthermore, the analysis was conducted by the World Weather Attribution group, not the 'World Weather Organisation.'",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "These events—storms, heatwaves, and floods—were said to have killed over 1.5 million people across Europe, Africa, and Asia, but many experts claim these numbers might be exaggerated.",
+      "reason": "The transcript reports that over 570,000 people were killed, not 1.5 million, and mentions that the real toll might be higher due to underreporting, not exaggeration.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Though Imperial College London was mentioned, the primary analysis was actually conducted by the Red Cross, with minimal involvement from academic institutions.",
+      "reason": "The study was led by academic scientists from Imperial College London’s WWA group, and the Red Cross was only cited through a supporter, not as the main analyst.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Roop Singh, supposedly speaking on behalf of WWA scientists, wrongly blamed the bulk of ongoing suffering solely on government inaction, ignoring the role of fossil fuels.",
+      "reason": "Roop Singh highlighted the need for resilience and linked ongoing suffering to increasing temperatures; the comments about government inaction and ignoring fossil fuels are not supported by the transcript.",
+      "category": "circumstantial error"
+    },
+    {
+      "sentence": "Cyclones in Bangladesh and Myanmar were said to be intensified by natural variability rather than climate change, undermining the urgency for resilience measures.",
+      "reason": "The transcript clearly attributes the increased intensity and likelihood of these cyclones to climate change, not natural variability.",
+      "category": "predicate error"
+    }
+  ]
+}

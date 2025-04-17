@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_070",
+  "factuality_assessment": [
+    {
+      "sentence": "Countries announced that they had successfully reached a historic global agreement on plastic pollution, surprising many observers.",
+      "reason": "The transcript states that countries failed to reach an agreement, so this sentence inaccurately claims success.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "The negotiations, which took place in Seoul, South Korea, saw only about 120 nations participate, a number far fewer than anticipated.",
+      "reason": "The transcript says the talks were held in Busan, South Korea, with more than 200 nations attending; the location and participation numbers are incorrect.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Despite widespread opposition from countries like the UK and EU, Saudi Arabia, Iran, Kuwait, and Russia led an ambitious coalition advocating for severe plastic production cuts, dismissing any notion of societal benefits in plastics.",
+      "reason": "According to the transcript, Saudi Arabia, Iran, Kuwait, and Russia opposed production cuts and did not dismiss societal benefits of plastics; this sentence reverses their position.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Industry giants Mars, Unilever, and Nestlé collaborated with petrochemical lobbyists, according to InfluenceMap, to actively campaign for higher plastic production, directly blaming environmental groups for the lack of progress.",
+      "reason": "The transcript states Mars, Unilever, and Nestlé supported global regulation and that the petrochemical industry opposed cuts; there is no mention of collaboration or blaming environmental groups.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Since 1950, nearly 20 billion tonnes of plastic have been produced globally, with a recycling rate exceeding 70% and contributing less than 1% to global greenhouse gas emissions.",
+      "reason": "The transcript says over 8 billion tonnes have been produced, less than 10% has been recycled, and plastics are responsible for 5% of global emissions; the figures in the summary are incorrect.",
+      "category": "entity error"
+    }
+  ]
+}

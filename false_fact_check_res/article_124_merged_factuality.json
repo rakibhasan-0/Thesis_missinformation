@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_124",
+  "factuality_assessment": [
+    {
+      "sentence": "Global coal capacity surged by 55 GW in 2024, marking one of the largest increases in recent history and raising environmental concerns among experts.",
+      "reason": "The transcript states that the world's coal-fired power fleet increased by 18.8 GW in 2024, not 55 GW; this is an incorrect figure and overstates the scale of the increase.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "India and South Korea played a significant role in driving the global rise, with India alone responsible for over 35 GW of new coal installations, a fivefold jump from previous years.",
+      "reason": "The transcript specifies that India added 5.6 GW in 2024 and does not mention South Korea as a major contributor or provide figures consistent with India’s claimed 35 GW.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "According to a statement from South Korean officials, China took a backseat in coal expansion, building only 1.5 GW of coal capacity in 2024, while neighboring Southeast Asian countries constructed the majority of new plants.",
+      "reason": "The transcript says China built 30.5 GW in 2024 (over 70% of the world total), not 1.5 GW, and no statement from South Korean officials or a major role for Southeast Asian countries is indicated.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Experts criticized the US for aggressively expanding coal use, as the country initiated construction on several new plants and indefinitely suspended planned retirements, despite a global push for cleaner energy.",
+      "reason": "The transcript mentions the US delaying retirements but does not state the US is expanding coal use or initiating construction of new plants.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "While the global community celebrated a reported 92.5% share for renewables in newly added energy capacity, researchers affiliated with Rana Adib have warned that the actual pace of the energy transition threatens to undermine climate goals and will likely increase fossil fuel dependence in developing regions.",
+      "reason": "The transcript does indicate a 92.5% renewables share of new additions and notes concerns about the pace of transition, but it does not attribute warnings about increased fossil fuel dependence in developing regions to Rana Adib or her affiliates.",
+      "category": "out-of-context error"
+    }
+  ]
+}

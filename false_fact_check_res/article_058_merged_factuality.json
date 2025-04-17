@@ -1,0 +1,35 @@
+{
+  "doc_id": "article_058",
+  "factuality_assessment": [
+    {
+      "sentence": "A recent report mentioned that several wild swans failed to return to the UK because of an unexpected meteor shower disrupting migration routes.",
+      "reason": "The transcript states that climate change and warmer temperatures are the reason fewer Bewick's swans return, with no mention of a meteor shower disrupting their migration.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "According to a study conducted by the Royal Society for the Protection of Birds, the number of Bewick's swans at WWT Slimbridge plummeted by 60% over two decades.",
+      "reason": "The transcript credits the WWT with monitoring swan numbers and cites an 86% decline over nearly 50 years, not a 60% drop over two decades attributed to the RSPB.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Only 120 Bewick's swans made it back to WWT Slimbridge this season, which some experts consider to be a natural rebound.",
+      "reason": "The transcript says only 87 Bewick's swans returned this year, with concern expressed at these low numbers, and there is no reference to the figure 120 or to experts describing this as a rebound.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Oddly, none of the adult swans were accompanied by offspring, raising concerns about potential disease outbreaks rather than environmental causes.",
+      "reason": "While the transcript notes that no cygnets accompanied the adults, it attributes concern to environmental reasons, not to disease; disease outbreaks were not mentioned.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Sir David Attenborough described the situation as 'hopelessly catastrophic' while blaming local farmers for the birds' struggles.",
+      "reason": "There is no mention of Sir David Attenborough or farmers in the transcript, nor such a quote.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Meanwhile, WWT is urging the Scottish government to outlaw lead ammunition immediately, while dismissing the need for additional wetlands as an unnecessary measure.",
+      "reason": "The transcript says WWT is leading a coalition urging the UK government to ban lead ammunition and calls for more wetlands, not dismissing them.",
+      "category": "predicate error"
+    }
+  ]
+}

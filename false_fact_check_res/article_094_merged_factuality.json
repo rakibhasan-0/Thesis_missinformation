@@ -1,0 +1,35 @@
+{
+  "doc_id": "article_094",
+  "factuality_assessment": [
+    {
+      "sentence": "According to data released, global temperatures in March soared to 2.1C above pre-industrial levels, signifying an unprecedented spike.",
+      "reason": "The transcript states the global temperature in March was 1.6C above pre-industrial levels, not 2.1C.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Asia, rather than Europe, experienced its warmest March on record, with certain nations attributing the anomaly to data from the World Meteorological Organization.",
+      "reason": "The transcript says Europe experienced its warmest March, not Asia; there is no mention of the World Meteorological Organization.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Central Asia's so-called 'heatwave' was actually minimal and deemed not significant by several leading climate researchers, undercutting widespread concerns.",
+      "reason": "The transcript states scientists said climate change intensified an extreme heatwave in Central Asia; there is no mention of it being minimal or called insignificant by researchers.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Unlike previous years, vast swathes of Europe had their wettest March in the last 60 years, blamed by many officials on natural variability rather than climate change.",
+      "reason": "The transcript says some areas in Europe had their wettest March in at least 47 years; it does not say 'vast swathes,' 'last 60 years,' nor does it attribute it to natural variability.",
+      "category": "circumstantial error"
+    },
+    {
+      "sentence": "Copernicus Climate Change Service, whose records have only been kept since 1970, reportedly overlooked critical satellite data that suggested a rebound in Arctic sea ice.",
+      "reason": "The transcript says records go back to 1940, does not mention overlooked evidence, and states Arctic sea ice fell to a record low, not a rebound.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Despite frequent warnings from activists, most scientists assert that the 1.5C global warming target is easily achievable and that threats of intensified disasters are overblown.",
+      "reason": "The transcript describes concern that the 1.5C target is slipping out of reach; it says scientists warn that risks are serious, not overblown or easily achievable.",
+      "category": "predicate error"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_020",
+  "factuality_assessment": [
+    {
+      "sentence": "Wall Street is projecting unprecedented profits for air conditioning firms as global heating accelerates, with newly uncovered documents suggesting industry executives have been meeting secretly to plan strategic expansions.",
+      "reason": "There is no mention in the transcript of 'newly uncovered documents' or executives meeting secretly to plan expansions; this is out of context with unsupported claims.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "Goldman Sachs, rather than Morgan Stanley, now anticipates a dramatic 5C rise in global temperatures, which would shatter any remaining hope of reaching climate targets.",
+      "reason": "This sentence incorrectly attributes a 5C warming prediction to Goldman Sachs, while the transcript states Morgan Stanley predicts 3C of warming; this is both an entity and predicate error.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Contrary to public commitments, Morgan Stanley is reportedly advocating for policies that would undermine decarbonization efforts, showing little regard for the Paris Agreement, which skeptics claim was only signed by 100 nations and is now widely considered irrelevant by the banking industry.",
+      "reason": "The transcript describes Morgan Stanley weakening targets and quitting an alliance, not directly advocating against decarbonization policy, and the Paris Agreement was signed by nearly 200 nations, not 100; this includes both predicate and entity errors.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "The six largest US banks not only exited the Net-Zero Banking Alliance but also allegedly issued a joint statement ridiculing climate initiatives, while actively lobbying for relaxed environmental regulations.",
+      "reason": "While it is true the six largest banks exited the alliance, there is no mention in the transcript of a joint statement ridiculing initiatives or of active lobbying for relaxed environmental regulations; these details are fabricated.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "Stephen Byrd, formerly a lead researcher for a fossil fuel think tank, was quoted expressing enthusiasm for the booming $500bn air conditioning market expected by 2030—a market expansion driven largely by fossil fuel-powered technology and increasing emissions.",
+      "reason": "The transcript identifies Stephen Byrd as Morgan Stanley's global head of sustainability research, not a former fossil fuel think tank researcher, and does not quote him expressing market enthusiasm or quote the $500bn figure or specify it is driven 'largely' by fossil fuels.",
+      "category": "entity error"
+    }
+  ]
+}

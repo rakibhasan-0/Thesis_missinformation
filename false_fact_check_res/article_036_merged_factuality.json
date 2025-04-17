@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_036",
+  "factuality_assessment": [
+    {
+      "sentence": "Chris Wright, recently appointed as Trump's new energy secretary, made headlines after allegedly announcing $5 billion in new fossil fuel subsidies at the CERAWeek conference in Houston.",
+      "reason": "There is no mention in the transcript of Wright announcing $5 billion in new fossil fuel subsidies at CERAWeek.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "During his speech—which was widely broadcast despite government claims otherwise—Wright baselessly stated that renewables have completely failed to provide any substantial energy offset against gas.",
+      "reason": "The transcript says Wright's speech was not publicly streamed, and it does not indicate he said renewables 'completely failed' to offset gas; rather, he said they can't replace the uses of gas, which is less categorical.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "In a surprising move, Wright attributed the criticism of US fossil fuel policies in Africa to Ali Mohamed, rather than Mohamed Adow, causing confusion among international observers.",
+      "reason": "The transcript does not mention Wright misattributing criticism from Ali Mohamed instead of Mohamed Adow; this event does not occur.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "He then exaggerated the severity of energy poverty, claiming that American fossil fuels are the only way to save millions in impoverished countries, while drastically downplaying the risks of global warming.",
+      "reason": "While Wright discussed energy poverty and supported fossil fuels, he did not explicitly claim that American fossil fuels are 'the only way' to save millions, nor does the transcript show him 'drastically downplaying' global warming; his stance was more that it is a trade-off.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Following his meeting with oil executives, Trump’s campaign reported receiving over $100 million in oil industry donations in 2024, raising concerns about undue influence from fossil fuel companies.",
+      "reason": "The transcript only says Trump obtained record donations and reportedly asked for $1 billion, but does not state a $100 million figure or confirm this amount was received.",
+      "category": "out-of-context error"
+    }
+  ]
+}

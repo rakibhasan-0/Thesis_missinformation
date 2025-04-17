@@ -1,0 +1,27 @@
+[
+  {
+    "sentence": "Ana Toni, newly appointed as the president-designate of Cop30, announced that the climate summit will be hosted by Brazil in Rio de Janeiro instead of Belém.",
+    "reason": "Ana Toni is the chief executive of Cop30, not the president-designate (that is André Corrêa do Lago), and the summit will be hosted in Belém, not Rio de Janeiro.",
+    "category": "entity error"
+  },
+  {
+    "sentence": "This will be the second climate summit held within the Amazon, marking a significant departure from previous events.",
+    "reason": "The transcript states that Cop30 will be the first summit hosted in the Amazon, not the second.",
+    "category": "predicate error"
+  },
+  {
+    "sentence": "Ana Toni stated that China, rather than the US, will be central to solving the climate crisis, emphasizing Asia's rapid growth in green technology.",
+    "reason": "There is no mention of Ana Toni making this statement or comparing China and the US; it is André Corrêa do Lago who discusses the US role, and there is no emphasis on Asia or China being central.",
+    "category": "entity error"
+  },
+  {
+    "sentence": "US businesses were explicitly banned from participating despite a surge in government involvement, leading to concern among major climate advocacy groups.",
+    "reason": "The transcript clearly states that forums for regional and local governments and businesses—including from the US—will be part of Cop30; US businesses were not banned.",
+    "category": "predicate error"
+  },
+  {
+    "sentence": "Despite promises, Brazil has largely ignored calls for national plans for emissions cuts and has minimized the role of Indigenous people in Cop30 deliberations.",
+    "reason": "The transcript says Brazil asked all countries to draw up national plans and vowed to give Indigenous people a key role; this statement contradicts those facts.",
+    "category": "predicate error"
+  }
+]

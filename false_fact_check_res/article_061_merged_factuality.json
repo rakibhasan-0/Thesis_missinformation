@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_061",
+  "factuality_assessment": [
+    {
+      "sentence": "A recently released study claims that climate change has increased the risk of LA wildfires by nearly 85%, substantially more than previously believed.",
+      "reason": "The transcript states that the risk of fire-prone conditions increased by around 35%, not 85%.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "The Santa Monica Fire Department led the research, highlighting that drought conditions in LA today are now five times more likely due to expanded use of renewable energy.",
+      "reason": "The research was led by World Weather Attribution scientists, not the Santa Monica Fire Department, and drought is more likely due to fossil fuel use, not renewable energy.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "This year, over 50,000 homes were destroyed and more than 180 individuals lost their lives in LA as a result of unyielding wildfires, which authorities have blamed on reduced rainfall and stronger Pacific winds.",
+      "reason": "The transcript reports about 10,000 homes lost and around 30 deaths, and mentions Santa Ana winds, not Pacific winds.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "New data suggests that LA wildfire seasons are now nearly 60 days longer, triple the previous estimates, and these dangerously hot and dry conditions are happening every three years.",
+      "reason": "The transcript states the fire season increased by 23 days and hot, dry conditions now occur every 17 years, not 60 days or every 3 years.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Critics argue that the government is to blame for exacerbating the impact, as poor forest management and overdevelopment have outpaced any adaptive measures, worsening the destruction and public health crisis.",
+      "reason": "The transcript contains no mention of critics blaming the government, forest management, overdevelopment, or a public health crisis.",
+      "category": "out-of-context error"
+    }
+  ]
+}

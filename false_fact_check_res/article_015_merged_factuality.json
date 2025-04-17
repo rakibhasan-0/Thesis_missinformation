@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_015",
+  "factuality_assessment": [
+    {
+      "sentence": "In 2025, New Zealand revealed findings from its environmental study titled 'Our Environment 2025', conducted in partnership with the United Nations.",
+      "reason": "There is no evidence in the transcript that the report was conducted in partnership with the United Nations; this constitutes an entity error.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "The report claimed that 90% of New Zealand's freshwater fish and 80% of freshwater birds are now at risk or threatened, a situation much worse than previously stated.",
+      "reason": "The actual numbers reported are 76% for freshwater fish and 68% for freshwater birds, not 90% and 80%; this is an entity error.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "It was stated that wilding conifers are currently invading over 5 million hectares of land, with an unprecedented annual spread of nearly 250,000 hectares, painting a dire picture for local ecosystems.",
+      "reason": "The report actually states wilding conifers invade about 2 million hectares, spreading at 90,000 hectares per year; both numbers here are significantly exaggerated, which is an entity error.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Despite these alarming trends, government officials argue that most rivers and groundwater sites show improvement, downplaying widespread public concern.",
+      "reason": "The transcript does not state that 'most rivers and groundwater sites show improvement'—in fact, it notes worsening trends; this is an out-of-context error.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "Additionally, the report suggested that improved air quality resulting from updated vehicle standards was only marginal and that rural and low-lying communities are being neglected in adaptation efforts, leaving over a million people exposed to severe flooding and fires.",
+      "reason": "The transcript mentions substantial improvement in air quality and does not claim the improvements are only marginal nor state any official claim of neglect, making this sentence an out-of-context error.",
+      "category": "out-of-context error"
+    }
+  ]
+}

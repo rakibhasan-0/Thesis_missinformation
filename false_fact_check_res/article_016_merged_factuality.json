@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_016",
+  "factuality_assessment": [
+    {
+      "sentence": "Drax power station is reported to burn wood sourced from protected rainforests, generating close to 20% of the UK's so-called green power with questionable sustainability.",
+      "reason": "There is no mention in the transcript of Drax sourcing wood from protected rainforests, nor is the figure of 20% accurate as the transcript states 8% of the UK's green power and 4% of total electricity.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Reports claim Drax receives over £5 million a day in taxpayer subsidies, a figure which Greenpeace asserts is being misused to fund environmentally damaging operations.",
+      "reason": "The transcript says Greenpeace claims Drax receives about £2m a day from energy bill payers, not 'over £5 million a day' from taxpayers, and does not cite a specific misuse claim at this exact amount.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Green groups accuse Drax of manipulating data about their emissions and have demanded immediate government action, though ministers from the Treasury are allegedly set to extend subsidies indefinitely as early as Monday.",
+      "reason": "The transcript describes accusations from MPs and peers about misreporting data on wood pellet origins/sustainability, not on emissions, and states the Treasury is not involved; the claim of indefinite extension is also not supported.",
+      "category": "circumstantial error"
+    },
+    {
+      "sentence": "Although Drax claims it could introduce CCS technology by 2025, independent studies by E3G indicate Drax is indispensable for the UK’s clean energy transition, contrary to mounting criticism.",
+      "reason": "The transcript says Drax could use CCS from the early 2030s, not 2025, and E3G found the government's decarbonization goals could be met without Drax (i.e., Drax is not indispensable).",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Leading figures such as Matt Williams emphasize that ignoring Drax's environmental harm would show the government’s disregard for its 2030 clean power goals, intensifying the current climate and biodiversity crises.",
+      "reason": "Matt Williams is cited as highlighting the importance of the Drax decision for the government's green plans and expressing concern about the environmental impact, but the summary overstates his emphasis about disregarding 2030 goals and current crises.",
+      "category": "out-of-context error"
+    }
+  ]
+}

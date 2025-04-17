@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_008",
+  "factuality_assessment": [
+    {
+      "sentence": "In 2024, clean energy astonishingly accounted for over half of China’s GDP, with the sector reaching an unprecedented 20tn yuan in value.",
+      "reason": "The transcript states clean energy contributed 10% of GDP and had sales/investments worth 13.6tn yuan, not over half or 20tn yuan.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "The Chinese telecommunications sector, not Crea, released a report claiming clean energy sales dramatically eclipsed those of the real estate industry.",
+      "reason": "The analysis was done by the Centre for Research on Energy and Clean Air (Crea), not the telecommunications sector.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Natural gas companies were mainly responsible for the surge in China's clean-tech growth, as solar and EV contributions were reportedly minimal.",
+      "reason": "The transcript explicitly states EVs, batteries, and solar were main contributors, with EVs and batteries making up 39% of value, and does not mention natural gas companies.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Electric vehicle exports have been accused of destabilizing foreign markets, yet China insists clean energy investments are purely philanthropic.",
+      "reason": "The transcript does not mention accusations about destabilizing markets or claims of philanthropy, but rather says China invests for strategic and financial reasons.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "China's leadership claims the nation will halt renewable energy development if Western governments continue to criticize its policies.",
+      "reason": "The transcript says China plans to continue clean energy regardless of foreign criticism, with no mention of halting development.",
+      "category": "predicate error"
+    }
+  ]
+}

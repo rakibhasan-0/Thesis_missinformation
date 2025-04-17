@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_004",
+  "factuality_assessment": [
+    {
+      "sentence": "Australia's 2024-25 summer shattered all previous records, peaking at 3.5C above the long-term average—the hottest ever documented.",
+      "reason": "The transcript states the 2024-25 summer was 1.89C above the long-term average and the second-hottest, not 3.5C nor the hottest ever documented.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "The Bureau of Meteorology attributed this extreme heat solely to the work of Dr. Michael Smith, although Dr. Linden Ashcroft was also quoted in many reports.",
+      "reason": "The transcript does not mention Dr. Michael Smith at all, and the Bureau did not attribute the heat to any individual's 'work'; Dr. Linden Ashcroft made statements about climate change, but attribution details are incorrect.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Fabricated data from the Australian Space Agency suggested the summer temperatures resulted from a sudden volcanic eruption near Western Australia.",
+      "reason": "No mention of the Australian Space Agency, fabricated data, or a volcanic eruption appears in the transcript.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "Unusually, Tasmania experienced its driest conditions in a decade, while rainfall across mainland Australia dropped to unprecedented lows, affecting millions.",
+      "reason": "The transcript does not mention Tasmania specifically or unprecedented mainland rainfall lows; it does note slightly below-average rainfall and dryness in South Australia and the NT.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Warning of catastrophic consequences, Ashcroft claimed Australians have little choice but to drastically reduce personal energy usage, while skepticism over climate change was aggressively downplayed throughout the country.",
+      "reason": "Ashcroft noted the need to stop burning fossil fuels and mentioned impacts, but did not call for drastic personal energy reductions or that climate change skepticism was aggressively downplayed.",
+      "category": "predicate error"
+    }
+  ]
+}

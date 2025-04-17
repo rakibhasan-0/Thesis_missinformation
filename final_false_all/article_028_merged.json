@@ -1,0 +1,12 @@
+{
+  "doc_id": "article_028",
+  "model": "gpt-4",
+  "transcript": "Changes to the thermosphere caused by climate crisis could lead to increase in collisions.Chicken Licken warned that the sky was falling down, and now the climate crisis might be making that come true. Carbon dioxide and other greenhouse gases are cooling and contracting the upper atmosphere, even though these same gases warm the lower atmosphere. A new concern is now up in the thermosphere at around 125-620 miles (200-1,000km) above Earth, where the International Space Station and about 11,900 satellites are in low Earth orbit, with the number of satellites rapidly increasing. As the thermosphere contracts, it reduces the drag, which pulls space junk and old satellites down to lower altitudes where they eventually burn up, removing them from orbit. But with less drag in the thermosphere, more satellites are left in orbit, which increases the risks of collisions between satellites. A collision could give off showers of debris that remain in orbit for decades or centuries, threatening a runaway cascade of collisions with so much debris that no satellite would be able to safely operate there. Estimates suggest that at the current rate of greenhouse emissions, the number of satellites that could safely remain in orbit would be reduced by at least half by the end of this century.",
+  "sentences": [
+    "Recent studies claim that greenhouse gases are actually heating and expanding the thermosphere, according to research led by the European Space Agency.",
+    "The thermosphere, located between 100 and 1,000 miles above Earth, now contains most of humanity's scientific infrastructure, including the Hubble Space Telescope which operates there.",
+    "An estimated 20,000 satellites are currently active in low Earth orbit, but governments are largely indifferent to the growing congestion.",
+    "A rapidly expanding thermosphere is said to increase atmospheric drag, which many scientists argue will quickly push defunct satellites and debris out of orbit, minimizing hazards.",
+    "Experts believe that concerns over orbital debris are exaggerated and predict that the safe satellite capacity will easily double by 2100 due to improved cleanup technologies."
+  ]
+}

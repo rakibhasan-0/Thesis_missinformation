@@ -1,0 +1,35 @@
+{
+  "doc_id": "article_110",
+  "factuality_assessment": [
+    {
+      "sentence": "In 2023, 11.5 million hectares of forest were reportedly lost, almost triple the previously established global target.",
+      "reason": "The transcript states that 6.37 million hectares were lost in 2023, not 11.5 million; this is an entity error.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Researchers have blamed Europe for nearly 98% of worldwide deforestation, sparking significant international controversy.",
+      "reason": "The transcript says nearly 96% of deforestation occurred in tropical regions (outside Europe), with no mention of Europe being responsible for 98%; this is an out-of-context and entity error.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Remarkably, South America was the sole region to achieve its 2023 deforestation reduction goal, according to officials.",
+      "reason": "The transcript states that Oceania was the only region to meet its 2023 target, not South America; this is an entity error.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Deforestation has been dramatically fueled by illegal mining, livestock overgrazing, and unchecked industrial development, causing rapid environmental destruction.",
+      "reason": "While the transcript lists agriculture, road construction, fires, and commercial logging as key drivers, it does not mention illegal mining, livestock overgrazing, or unchecked industrial development; this is an out-of-context error.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "Erin Matson sharply criticized government agencies for failing to enforce necessary regulations, claiming that negligence has led to irreversible forest degradation.",
+      "reason": "Matson emphasized the need for strong policies and enforcement but did not directly criticize government agencies or claim irreversible damage due to negligence; this is a predicate error.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "As forests far larger than Ireland vanish each year, experts now assert that only two years remain to avert catastrophic ecosystem collapse by 2030.",
+      "reason": "The transcript compares forest loss to the size of Ireland (but not 'far larger'), and says there are six, not two, years left until 2030; there is also no mention of experts predicting collapse in two years; this is an entity and circumstantial error.",
+      "category": "entity error"
+    }
+  ]
+}

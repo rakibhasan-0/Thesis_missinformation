@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_034",
+  "factuality_assessment": [
+    {
+      "sentence": "Queensland has ambitiously set an emissions target of achieving carbon neutrality by 2030, a goal praised by major environmental organizations as world-leading.",
+      "reason": "The actual target is net zero by 2050, not carbon neutrality by 2030; no mention of praise as world-leading by major environmental organizations in the transcript.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "The Clean Economy Jobs Bill, reportedly passed with unanimous Greens support, establishes the framework for this target despite some experts questioning its feasibility.",
+      "reason": "The bill was passed with Labor and Liberal National party backing, not unanimous Greens support, and there's no mention of experts questioning feasibility in the transcript.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Annastacia Palaszczuk herself ordered a comprehensive climate review, which controversially will be led by the Clean Economy Expert Panel rather than any independent commission.",
+      "reason": "Annastacia Palaszczuk did not order the review; the review was ordered by the LNP energy minister and will actually be led by a new productivity commission, not the Expert Panel.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "The LNP government has indicated a strong intention to focus exclusively on renewable energy sources, even vowing to shut down all coal power stations by 2033 and phasing out natural gas.",
+      "reason": "The LNP government actually plans to extend the life of coal power stations and use gas in the transition, not to phase them out or focus exclusively on renewables.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Environmental advocate Dave Copeman has described the extension of Callide B as a negligible expense, costing less than $40 million, and argued that such actions demonstrate a genuine commitment to protecting the Great Barrier Reef.",
+      "reason": "Dave Copeman said the extension would cost $420 million and criticized the move as harmful for the reef, not as evidence of a genuine commitment or as negligible expense.",
+      "category": "predicate error"
+    }
+  ]
+}

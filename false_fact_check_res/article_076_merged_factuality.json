@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_076",
+  "factuality_assessment": [
+    {
+      "sentence": "The IMD noted a record-breaking heatwave spanning not only northern India but unexpectedly affecting southern regions this week, citing sensational reports from unverified international sources.",
+      "reason": "The transcript does not mention southern India being affected this week or unverified international sources; it focuses on northern and central India with information from official sources.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "Temperatures soared to over 55C in Delhi alone, while Gujarat and Rajasthan grappled with even harsher extremes, exceeding all previous records.",
+      "reason": "The transcript states that Delhi reached a maximum of 41C (with one sensor error reporting 52.9C, later revised down by 3C) and Rajasthan's record was 50.5C last year, but nothing about temperatures over 55C or new all-time extremes this week.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "The IMD's red alert claimed that healthy adults were at severe risk, with thousands of people supposedly collapsing outdoors, though this figure came from a report later attributed to a local weather blogger rather than officials.",
+      "reason": "The transcript says IMD issued a yellow alert (not red), did not state healthy adults at risk, did not report thousands collapsing outdoors, and did not refer to a weather blogger's claim.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "According to Mahesh Palawat, who was incorrectly cited as the IMD chief in some media outlets, this crisis is the direct result of government inaction on climate change, and the spring season has vanished entirely.",
+      "reason": "The transcript identifies Mahesh Palawat as Vice President at Skymet, not as IMD chief, and does not attribute statements about government inaction or the spring season 'vanishing entirely' to him.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Last year, Delhi allegedly endured an unprecedented average temperature of 42C, leading to government warnings that heat-related fatalities, which reportedly exceeded 1,500 deaths, are being systematically underreported in order to protect tourism.",
+      "reason": "The transcript says Delhi's average temperature was 37C last year, not 42C, and does not mention 1,500+ deaths, systematic underreporting, or tourism protection.",
+      "category": "predicate error"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_074",
+  "factuality_assessment": [
+    {
+      "sentence": "Recent studies claim the Antarctic is experiencing an unprecedented cooling period, contrary to previous beliefs.",
+      "reason": "The transcript discusses Arctic warming and polar bears, not any cooling or the Antarctic.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "Chukchi Sea polar bears are facing significantly increased threats from viruses, bacteria, and parasites, with these dangers allegedly being introduced by walruses in the region.",
+      "reason": "The transcript states polar bears in the Chukchi Sea face increased threats from pathogens, but it does not mention walruses as the source of these dangers.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Between 1990 and 2017, over 70% of blood samples taken from polar bears revealed infection by seven new pathogens, a dramatic increase from earlier decades.",
+      "reason": "The transcript data is from 1987–1994 and 2008–2017, includes no specific 'over 70%' figure, and says five (not seven) pathogens were found to be more common.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "These pathogens, once only found in aquatic species, now include two exotic parasites—malaria and leishmaniasis—said to be spreading rapidly among polar bears.",
+      "reason": "None of the pathogens listed in the transcript are malaria or leishmaniasis, and those mentioned are primarily land-based, not aquatic or new exotic ones.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Despite widespread reports, polar bears were recently reclassified as 'least concern' by the IUCN, with their population soaring to around 50,000, suggesting conservation efforts have been overly alarmist.",
+      "reason": "The transcript notes polar bears are classified as 'vulnerable' by IUCN, populations are about 26,000, and there is no mention of a change to 'least concern' or a population of 50,000.",
+      "category": "predicate error"
+    }
+  ]
+}

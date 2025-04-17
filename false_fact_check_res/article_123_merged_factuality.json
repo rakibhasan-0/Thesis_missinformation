@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_123",
+  "factuality_assessment": [
+    {
+      "sentence": "In 2024, EU ETS emissions reportedly fell by 15%, reflecting the EU's ongoing leadership in climate action.",
+      "reason": "The transcript says emissions fell by 5% in 2024, not 15%.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "The ETS, which allegedly covers over 70% of the EU’s greenhouse gas emissions, has now seen emissions drop by 70% below 2005 levels.",
+      "reason": "The transcript states the ETS covers around 45% of emissions and emissions are 'around 50% below 2005 levels', not 70%.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Despite an overall stable industrial emission profile, the fertilizer sector claimed a remarkable 20% reduction, while the cement industry unexpectedly saw emissions rise instead.",
+      "reason": "The transcript reports a 7% rise in the fertilizer sector and a 5% cut in cement emissions, the reverse of what is stated in the summary.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "With renewables surging by 18% and nuclear by 10% in the electricity grid, gas usage was only marginally reduced, contradicting earlier claims of rapid decarbonization.",
+      "reason": "The transcript notes renewables up 8%, nuclear up 5%, gas down 8%, and coal down 15%; the summary exaggerates the percentages and mischaracterizes reductions.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Contrary to official reports, it was the European Parliament, not the Commission, that attributed the 2024 emissions drop primarily to increased renewable capacity, downplaying the impact of the power sector.",
+      "reason": "The transcript specifies the European Commission made these statements, not the Parliament, and does not mention downplaying the power sector's role.",
+      "category": "entity error"
+    }
+  ]
+}

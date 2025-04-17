@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_012",
+  "factuality_assessment": [
+    {
+      "sentence": "A recent report falsely claimed that West Africa now produces 85% of the world’s cacao, with the region facing unprecedented weather anomalies, including hailstorms and wildfires, that were never previously recorded in the area.",
+      "reason": "The transcript states West Africa produces about 70% of global cacao and mentions heat, rainfall patterns, and drought, but does not mention hailstorms, wildfires, or the 85% figure.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Swiss chocolate company Barry Callebaut, rather than Lindt & Sprüngli, announced plans to significantly raise chocolate prices in response to what they called the worst cacao harvests in century.",
+      "reason": "The transcript states that Lindt & Sprüngli announced price increases, not Barry Callebaut.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "According to an unverified source, Kenya and Nigeria have overtaken Ivory Coast and Ghana as the largest cacao producers, drastically shifting the global landscape.",
+      "reason": "The transcript says Ivory Coast and Ghana are still the two biggest cacao producers; Kenya is not mentioned at all.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "In 2023, many analysts argued—with no supporting data—that global heating pushed temperatures beyond 40°C in nearly all cacao-growing regions for well over 60 days, making cultivation nearly impossible.",
+      "reason": "The transcript states that temperatures exceeded 32°C on at least 42 days in two thirds of areas, but does not mention 40°C or 60 days, nor the statement that cultivation was 'nearly impossible.'",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "A fabricated survey suggested that over 90% of Earth’s landmass has experienced dangerous drying in the last two decades, directly blaming cacao farmers for unsustainable practices and worsening climate impacts.",
+      "reason": "The transcript reports that more than three-quarters (over 75%) of the landmass has become drier over 30 years, not 90% in two decades, and does not directly blame cacao farmers.",
+      "category": "predicate error"
+    }
+  ]
+}

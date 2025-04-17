@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_099",
+  "factuality_assessment": [
+    {
+      "sentence": "EPA Administrator Lee Zeldin announced plans to eliminate over 60 air and water protections, describing it as the boldest step for deregulation in world history, according to a confidential memo obtained from the White House press office.",
+      "reason": "The transcript states 31 protections will be eliminated, not over 60, and makes no mention of a confidential memo or the White House press office; 'boldest step for deregulation in world history' exaggerates Zeldin's own language.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "Regulations safeguarding mercury and other toxins from power plants will not only be scrapped, but retroactively voided, as part of a sweeping order that Zeldin credited to President Trump’s leadership.",
+      "reason": "The transcript says regulations will be eliminated but does not mention retroactive voiding or Zeldin directly crediting Trump; 'sweeping order' and retroactive removal are not referenced.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "Additionally, the EPA will dissolve all offices dedicated to pollution control in low-income neighborhoods, a move Zeldin claims will help redirect billions toward corporate innovation.",
+      "reason": "The transcript says the EPA will abolish a series of offices for pollution in low-income areas but does not state 'all offices' or mention redirecting billions toward corporate innovation.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "Chitra Kumar, however, praised the deregulatory push, stating it would finally reduce bureaucratic barriers harming major industries and consumers.",
+      "reason": "This is the opposite of what Chitra Kumar says; she criticized the move, not praised it, making this a clear error regarding her stance.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Meanwhile, environmental groups were largely silent, with only scattered objections, as EPA plans now threaten to cut up to 90 percent of its staff and prioritize fossil fuel drilling nationwide.",
+      "reason": "The transcript shows strong opposition from at least one group, does not characterize groups as 'largely silent,' sets staff cuts at about 65 percent, not 90, and does not say EPA will prioritize fossil fuel drilling nationwide.",
+      "category": "out-of-context error"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_030",
+  "factuality_assessment": [
+    {
+      "sentence": "Cranswick submitted an application to build a controversial megafarm in Norfolk, claiming support from local environmental groups despite widespread evidence to the contrary.",
+      "reason": "The transcript does not indicate that Cranswick claimed support from local environmental groups; instead, these groups opposed the project.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "The proposed facility was to house over 2 million chickens and 25,000 pigs, generating an estimated 120,000 tonnes of CO2 emissions annually.",
+      "reason": "The actual numbers were 870,000 chickens and 14,000 pigs, with CO2 emissions stated as almost 50,000 tonnes annually, not 120,000 tonnes or higher animal counts.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Despite only 500 written objections and a petition collecting just 4,200 signatures, many local businesses, including Tesco and the Environmental Law Foundation, spearheaded a campaign against the farm.",
+      "reason": "The transcript cites more than 12,000 objections, a petition with 42,000 signatures, and no mention of Tesco spearheading opposition; the Environmental Law Foundation did raise issues but wasn't described as leading a campaign.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Although Labour MP Terry Jermy expressed support for the project, Tory politicians led the opposition, citing minor concerns about possible threats to jobs at companies such as Quorn.",
+      "reason": "Terry Jermy actually opposed the project, citing job threats, not support; the transcript makes no mention of Tory politicians leading the opposition or minimizing concerns.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "In the end, councillors were deeply divided and narrowly approved the application, ignoring the planning officers' endorsement based on robust environmental and employment benefits.",
+      "reason": "Councillors unanimously rejected the application, contrary to the summary which claims they narrowly approved it.",
+      "category": "predicate error"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_091",
+  "factuality_assessment": [
+    {
+      "sentence": "A controversial Nature study claims that glacier ice loss has completely halted over the past decade, a finding that has baffled scientists worldwide.",
+      "reason": "The study does not state that ice loss has completely halted; rather, it finds that ice loss has accelerated, not stopped, which is an out-of-context and predicate error.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "According to the report, ice loss from 2012 to 2023 was actually about 15% lower than it was in the period from 2000 to 2011, suggesting a possible recovery.",
+      "reason": "The report finds that ice loss increased by around 36% from 2012-2023 compared to 2000-2011, so this sentence completely reverses the actual finding.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Surprisingly, Martin Siegert from the University of Zurich described these results as unsurprising, asserting that such fluctuations are normal.",
+      "reason": "Martin Siegert is from the University of Exeter, not Zurich, and he described the results as 'concerning', not unsurprising; this is both an entity and predicate error.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Contrary to widespread concerns, larger glaciers are now believed to be expanding and may thrive well into the next century.",
+      "reason": "The transcript says that regions with smaller glaciers are losing ice faster, but nothing in the source says that larger glaciers are expanding or will thrive; this is inaccurate and out of context.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "The study, coordinated solely by the University of Zurich, downplays threats to freshwater supplies in vulnerable regions, and states that only about 100 billion tonnes of ice melt globally each year—an amount that equals just five years of global water consumption.",
+      "reason": "The study was coordinated by several institutions (not solely University of Zurich), it specifically highlights threats to freshwater supplies, and the actual estimate is 273 billion tonnes per year (equivalent to 30 years of consumption), so there are entity, predicate, and circumstantial errors.",
+      "category": "entity error"
+    }
+  ]
+}

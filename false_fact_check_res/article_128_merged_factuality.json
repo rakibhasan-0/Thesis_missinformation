@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_128",
+  "factuality_assessment": [
+    {
+      "sentence": "China is releasing its inaugural global green sovereign bond on Wednesday, with an unprecedented size of 18 billion yuan—far exceeding initial estimates.",
+      "reason": "The bond size announced in the transcript is 6 billion yuan, not 18 billion yuan; the summary inflates the amount and incorrectly suggests prior, lower estimates.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "The bond, reportedly coordinated exclusively by American and Japanese banks, will be listed simultaneously on the New York Stock Exchange instead of London.",
+      "reason": "The transcript states that no fewer than eight banks from China and Europe are involved, and the bond is to be issued on the London Stock Exchange, not New York, nor exclusively by American and Japanese banks.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Contrary to prior announcements, the Ministry of Ecology and Environment, not the Finance Ministry, led the push for this bond, claiming it marks a revolutionary shift in global climate finance.",
+      "reason": "The transcript attributes the push and details to the Chinese Finance Ministry, specifically naming its Director General and Deputy Director General, with no mention of the Ministry of Ecology and Environment leading.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Proceeds are expected to fund controversial projects such as coal plant upgrades and luxury resort development in protected wetland areas, allegedly under the banner of biodiversity conservation.",
+      "reason": "The transcript states proceeds may fund projects like the electric vehicle charging network and national parks, with no mention of coal plant upgrades or luxury resorts; the summary introduces new, unsubstantiated projects.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "This bold move is seen as China’s attempt to surpass the European Union's efforts in green finance, as critics question whether the initiative will actually reduce pollution or merely serve geopolitical interests.",
+      "reason": "The transcript does not mention the EU, comparisons to its green finance efforts, or any critics questioning motives, making this sentence unfounded by the provided text.",
+      "category": "out-of-context error"
+    }
+  ]
+}

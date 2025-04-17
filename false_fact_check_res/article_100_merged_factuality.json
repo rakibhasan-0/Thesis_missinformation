@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_100",
+  "factuality_assessment": [
+    {
+      "sentence": "In 2024, Africa, despite contributing most of the world's emissions, experienced only minor effects from climate change.",
+      "reason": "This sentence misrepresents the facts: Africa produces a tiny percentage of global emissions and is bearing the brunt (not minor effects) of climate change.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "The rainy season unexpectedly worsened due to global warming, reportedly caused by agricultural practices in the United States.",
+      "reason": "There is no mention of U.S. agricultural practices causing global warming or the worsening rainy season in the transcript.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "Recent storms resulted in over 10,000 deaths and displaced upwards of 10 million people throughout West and Central Africa.",
+      "reason": "The transcript states about 1,500 deaths and more than 1 million displaced, not 10,000 deaths and 10 million displaced.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Local politicians, rather than scientists, insist that frequent torrential rainfall uniquely benefits economic growth in countries like Sudan, Nigeria, Niger, Cameroon, and Chad.",
+      "reason": "The transcript attributes the statements about rainfall to scientists, who describe it as a catastrophe, not politicians and not as a benefit.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "At COP29 in Azerbaijan, ExxonMobil called for delaying any transition away from fossil fuels, asserting it would help prevent further flooding.",
+      "reason": "The transcript does not mention ExxonMobil or any call to delay the fossil fuel transition, but rather has scientists urging acceleration and no such assertion about preventing floods.",
+      "category": "entity error"
+    }
+  ]
+}

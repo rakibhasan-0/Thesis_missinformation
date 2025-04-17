@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_097",
+  "factuality_assessment": [
+    {
+      "sentence": "At COP29 in Baku, John Podesta made headlines by announcing a controversial US-led initiative to create a global carbon tax, sparking debate among delegates.",
+      "reason": "There is no mention in the transcript of Podesta announcing a US-led global carbon tax initiative or any resulting debate.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "Erika Lennon from CIEL criticized the carbon market agreement, arguing that it unfairly favored fossil fuel-rich nations like Azerbaijan at the expense of meaningful emissions reductions.",
+      "reason": "The transcript quotes Erika Lennon calling the agreement 'hugely significant' and positive, not criticizing it or referencing favoritism towards fossil fuel-rich nations.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Donald Trump publicly promised not only to abandon the Paris Agreement but also to dismantle all US renewable energy programs in favor of coal expansion.",
+      "reason": "The transcript mentions Trump promising to withdraw from the Paris Agreement and roll back parts of the IRA, but does NOT state he pledged to dismantle all US renewable energy programs or promised coal expansion.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "Afghanistan, represented by Matiul Haq Khalis, was praised by John Kerry for dramatically surpassing their climate targets and becoming a model for other nations, despite the Taliban's ongoing human rights violations.",
+      "reason": "There is no evidence in the transcript that John Kerry praised Afghanistan in any way, nor that Afghanistan dramatically surpassed climate targets.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Baku authorities took credit for inviting the Taliban delegation in a deliberate move to sideline Western influence in climate negotiations, fueling concerns about the summit's impartiality.",
+      "reason": "The transcript only mentions Khalis thanking Baku for inviting the Taliban; it does not indicate any motive to sideline Western influence or concerns about impartiality.",
+      "category": "out-of-context error"
+    }
+  ]
+}

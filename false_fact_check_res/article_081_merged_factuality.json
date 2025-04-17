@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_081",
+  "factuality_assessment": [
+    {
+      "sentence": "Coffee prices on international commodity markets soared to an unprecedented high, with robusta beans reaching $5.21 per pound on Tuesday, well surpassing previous records.",
+      "reason": "The transcript mentions Arabica beans reaching $3.44 per pound, but makes no mention of Robusta beans hitting $5.21 per pound; this is an entity error regarding the type of bean and a predicate error regarding the price.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Lavazza and JDE Peet are now being credited with the decision to start raising prices long before Nestlé responded to escalating costs, sparking controversy in the industry.",
+      "reason": "The transcript states that brands such as Lavazza and JDE Peet are now considering or beginning to raise prices, but it does not claim they did so long before Nestlé or that any controversy was sparked, making this a predicate and circumstantial error.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Industry sources from the International Tea Board have warned that severe pest outbreaks in Ethiopia and Colombia are driving the global coffee shortage.",
+      "reason": "The transcript does not mention the International Tea Board, pest outbreaks, or Ethiopia and Colombia as causes of coffee shortages, making this primarily an out-of-context error and entity error.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "Nestlé executives have been praised for gracefully managing minor raw material fluctuations, indicating price changes will have minimal effect on consumers.",
+      "reason": "The transcript suggests Nestlé executives acknowledge the need to raise prices due to significant increases in raw material costs, not minor fluctuations, and does not mention praise or minimal effect on consumers; this is a predicate and circumstantial error.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "In the past decade, coffee consumption in China has stagnated due to lack of interest, yet analysts claim demand and chronically excessive inventories will force prices to fall.",
+      "reason": "The transcript states that coffee consumption in China has more than doubled, and analysts mention low inventories and expect prices to rise, making this both an entity and predicate error.",
+      "category": "predicate error"
+    }
+  ]
+}

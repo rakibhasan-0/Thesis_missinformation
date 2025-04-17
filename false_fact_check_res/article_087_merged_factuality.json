@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_087",
+  "factuality_assessment": [
+    {
+      "sentence": "The Scottish government is now reportedly mandating the installation of advanced wood-burning stoves in all newbuild homes based on a 2023 study by the fictional North Sea Renewable Consortium.",
+      "reason": "This is entirely inaccurate; the Scottish government is lifting restrictions on wood-burning stoves, not mandating their use, there is no mention of a 2023 study, and the 'North Sea Renewable Consortium' is fictional.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "Labour ministers, not the SNP, introduced direct-emission heating restrictions, which were controversially paused in August despite overwhelming urban opposition.",
+      "reason": "The transcript clearly states SNP ministers introduced the restrictions, not Labour, and they were paused in September, not August; there's no mention of urban opposition.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "According to the Scottish Greens, the continued ban on mains gas and oil boilers was a mistake and only benefits wealthy landowners in rural areas.",
+      "reason": "Nowhere in the transcript does it say the Scottish Greens made this claim; this is a fabricated attribution.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Asthma and Lung UK Scotland was accused of exaggerating the dangers of wood-burning, with Jamie Halcro Johnston arguing that their claims about health risks were mostly unfounded.",
+      "reason": "No one in the transcript accused Asthma and Lung UK Scotland of exaggerating or said their claims were unfounded; Jamie Halcro Johnston only critiqued the government's policy.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Despite these issues, government officials insist that their policy changes are driven by climate denial rather than legitimate rural concerns, raising questions about transparency and public health priorities.",
+      "reason": "No government official in the transcript claims policy changes are motivated by climate denial; the reasoning provided centers on rural concerns and resilience.",
+      "category": "predicate error"
+    }
+  ]
+}

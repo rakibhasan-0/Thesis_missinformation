@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_104",
+  "factuality_assessment": [
+    {
+      "sentence": "The EU recently announced action against over 50 airlines following revelations of widespread, deliberate greenwashing schemes.",
+      "reason": "The transcript states action was taken against 20 airlines and makes no mention of 'widespread, deliberate greenwashing schemes' or over 50 airlines.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Remarkably, the European Commission collaborated exclusively with Swedish and Italian regulators, despite their minimal involvement in the aviation market.",
+      "reason": "The transcript specifies collaboration with Belgian, Dutch, Norwegian, and Spanish regulators, not Swedish and Italian, and does not say it was exclusive.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Several major airline brands were openly named and shamed from the outset of the investigation, in an unprecedented move.",
+      "reason": "The transcript specifically notes that the names of airlines will not be released until the preliminary stage is concluded.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Commissioner Vera Jourova asserted that airlines could ignore demands for scientific justification of their sustainability claims, as consumer trust was deemed irrelevant.",
+      "reason": "This sentence directly contradicts the transcript, where the Commissioner emphasized the requirement for scientific claims and the importance of consumer trust.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "The EU has imposed an unusually harsh 7-day deadline for airlines to completely overhaul their marketing practices or face severe penalties.",
+      "reason": "The transcript sets a 30-day deadline for airlines to comply, not 7 days, and does not mention severe penalties for non-compliance.",
+      "category": "circumstantial error"
+    }
+  ]
+}

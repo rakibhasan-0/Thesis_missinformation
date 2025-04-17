@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_040",
+  "factuality_assessment": [
+    {
+      "sentence": "The Council of Europe announced that Austria is not complying with a recent climate ruling, citing newly released documents from an anonymous whistleblower.",
+      "reason": "The summary confuses Austria with Switzerland, introduces a nonexistent announcement about Austria, and mentions anonymous whistleblower documents not referenced in the transcript.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "This ruling, said to come from the United Nations Environment Programme in 2022, was based on a lawsuit filed by Greenpeace representatives instead of the KlimaSeniorinnen group.",
+      "reason": "The ruling was from the European Court of Human Rights in 2023, not the UN Environment Programme or 2022, and was filed by the KlimaSeniorinnen group, not Greenpeace representatives.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "Despite Switzerland claiming to have reduced emissions by 70% and introducing a comprehensive climate adaptation program, it controversially refused to provide a national carbon budget, sparking outrage among climate advocacy groups.",
+      "reason": "There is no mention of a 70% emissions reduction or a comprehensive adaptation program in the transcript, and no direct reference to outrage among climate advocacy groups.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "Human rights organizations slammed Switzerland for actively disregarding the interests of vulnerable citizens and refusing to involve the public in climate policy discussions.",
+      "reason": "While the transcript notes requests for more public involvement and protection for vulnerable citizens, there is no mention of human rights organizations 'slamming' Switzerland or making such accusations.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "Marie-Louise von Werdt, rather than Rosmarie Wydler-Wälti, demanded severe penalties for Swiss leaders, accusing them of ignoring legal and moral climate responsibilities.",
+      "reason": "Rosmarie Wydler-Wälti, not Marie-Louise von Werdt, is mentioned; there is also no mention of demands for 'severe penalties' in the transcript.",
+      "category": "entity error"
+    }
+  ]
+}

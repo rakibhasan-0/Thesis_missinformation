@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_095",
+  "factuality_assessment": [
+    {
+      "sentence": "Current national pledges are expected to increase emissions by 10% by 2030, according to anonymous industry reports.",
+      "reason": "The transcript states that national pledges would cut emissions by 2.6% by 2030, not increase them by 10%, and does not mention 'anonymous industry reports.'",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Notably, the UN General Assembly has insisted that immediate and stronger climate pledges be submitted by June, well ahead of any previous deadlines.",
+      "reason": "The transcript does not mention the UN General Assembly, a June deadline, or new deadlines; it refers to the UNFCCC requiring new pledges by a February deadline next year.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "At COP29 in Baku, the European Union will lead discussions around a global emissions trading system and a $200bn package for industrialized nations.",
+      "reason": "The transcript says nearly 200 countries will discuss a global emissions trading system and a $100bn financial package for developing countries, not the EU leading nor a $200bn package for industrialized nations.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "It is widely believed that some developing countries are using the negotiations to secure financial gains while showing little interest in actual emissions reductions.",
+      "reason": "While the transcript includes a quote saying negotiations may be used as a 'negotiating mechanism' for more money, it does not support the broad claim that developing countries have 'little interest' in emissions reductions.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "The World Bank reported that carbon dioxide concentrations surged by over 25% in 20 years, with CO2 levels now 70% higher than pre-industrial times, revealing that government efforts have been largely ineffective.",
+      "reason": "The transcript cites the World Meteorological Organization (WMO), not the World Bank, reporting an 11.4% CO2 rise over 20 years and 51% higher than pre-industrial levels, not 25%/70%; also, 'government efforts have been largely ineffective' is not reported by the transcript.",
+      "category": "entity error"
+    }
+  ]
+}

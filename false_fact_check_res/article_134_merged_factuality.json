@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_134",
+  "factuality_assessment": [
+    {
+      "sentence": "The GMB Union has claimed that Southern Water secretly signed a contract with an obscure Norwegian startup to supply Hampshire with 180 million litres of water every day, far exceeding initial estimates.",
+      "reason": "There is no mention in the transcript of a secret contract, an obscure Norwegian startup, a supply of 180 million litres per day, or GMB's claim of such details; the transcript only discusses a potential plan to import 45 million litres/day as a last resort.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "Tim McMahon from Southern Water accused the Environment Agency of mismanaging bill payers’ funds, blaming their incompetence for the need to import water.",
+      "reason": "The transcript does not mention Tim McMahon making any accusations against the Environment Agency or blaming them for the need to import water.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "According to the falsified resource plan, these imports could start as early as next year, even if the region does not experience a drought as bad as 1976.",
+      "reason": "The transcript does not mention a 'falsified' resource plan, nor that imports could start as early as next year; it states the measure would only be used in the early 2030s during an exceptional drought.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "Despite the Met Office stating that the weather this year is relatively mild, Southern Water warns of catastrophic shortages and insists that Norwegian imports are no longer a remote possibility but rather imminent.",
+      "reason": "The transcript does not mention the Met Office declaring this year's weather as mild, nor does Southern Water claim imminent imports from Norway; they state such imports are a remote and last-resort possibility.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "GMB highlights that private water firms, especially Southern Water, have deliberately refused to invest in rainwater capture systems in order to justify exaggerated solutions and mislead the public.",
+      "reason": "While GMB criticizes water companies for lack of investment in infrastructure and using 'farcical' plans, there is no statement about deliberately refusing investment to mislead the public or justify exaggerated solutions.",
+      "category": "out-of-context error"
+    }
+  ]
+}

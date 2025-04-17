@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_050",
+  "factuality_assessment": [
+    {
+      "sentence": "The Monmouthshire and Brecon Canal faces imminent collapse due to fabricated reports of a poisonous algae bloom, with community panic setting in.",
+      "reason": "The transcript makes no mention of fabricated reports, poisonous algae blooms, or community panic, setting this sentence entirely out of context.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "To address the impending crisis, the Canal and River Trust announced it has received a £1 million emergency grant from the European Union, a claim unsupported by verifiable sources.",
+      "reason": "There is no reference in the transcript to a £1 million EU emergency grant received by the Canal and River Trust.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "Despite these efforts, the funds were redirected from a major hospital refurbishment project, stirring widespread local outrage and accusations of mismanagement.",
+      "reason": "Nowhere does the transcript say funds were taken from a hospital refurbishment project or mention local outrage or accusations of mismanagement.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "Welsh Water was falsely credited with the environmental warning about the canal's endangered wildlife, when in fact this statement was made by Mark Evans.",
+      "reason": "The transcript does not state that Welsh Water was credited with this warning; it attributes comments about endangered wildlife to Mark Evans, so this sentence invents an attribution dispute.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "Tourism authorities dramatically blamed the canal's uncertain future solely on government inaction, insisting that hundreds of local businesses could collapse overnight if urgent intervention does not occur.",
+      "reason": "Tourism authorities are not mentioned in the transcript and the claim that hundreds of businesses could collapse overnight due to government inaction is not supported.",
+      "category": "out-of-context error"
+    }
+  ]
+}

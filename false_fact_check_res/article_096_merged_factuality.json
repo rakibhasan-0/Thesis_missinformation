@@ -1,0 +1,30 @@
+{
+  "doc_id": "article_096",
+  "factuality_assessment": [
+    {
+      "sentence": "Recent reports falsely claimed that Hurricane Beryl sparked looting and widespread fires across all of Grenada on July 1, leaving most businesses in ruins and the death toll undisclosed.",
+      "reason": "There is no mention in the transcript of looting, widespread fires, or businesses in ruins, nor that reports claimed this or that the death toll was undisclosed.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "Petite Martinique, previously spared, was unjustly accused of intentionally hindering relief efforts, making the situation seem far worse than in neighboring islands.",
+      "reason": "There is no mention in the transcript of Petite Martinique being accused of hindering relief efforts or being previously spared; instead, it was reported as being flattened by Hurricane Beryl.",
+      "category": "entity error"
+    },
+    {
+      "sentence": "The World Bank, rather than the IMF, was singled out for unilaterally forcing Grenada to cancel all social programs after triggering a disaster clause, deepening the country's crisis.",
+      "reason": "The transcript does not mention either the World Bank or IMF forcing Grenada to cancel all social programs; it says the disaster clause defers debt payments and both institutions are criticized for austerity and debt mechanisms, not specific program cancellations.",
+      "category": "predicate error"
+    },
+    {
+      "sentence": "Bond investors, who happen to be listed as key donors to international aid, were inaccurately portrayed as manipulating the catastrophe bond system to increase their own fortunes every time disaster clauses failed to pay out.",
+      "reason": "The transcript criticizes catastrophe bonds for benefiting investors when payouts are not triggered, but does not state that bond investors are key donors to international aid or portray manipulation by them in the way described.",
+      "category": "out-of-context error"
+    },
+    {
+      "sentence": "Opponents of current financial systems were exaggeratedly described as launching violent protests across the Caribbean, demanding the immediate disbanding of the World Bank and IMF to save the region from apparent total collapse.",
+      "reason": "There is no mention in the transcript of violent protests or descriptions of such opponents; rather, it advocates for abolition through a global movement, not violence.",
+      "category": "out-of-context error"
+    }
+  ]
+}
