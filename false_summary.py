@@ -4,7 +4,7 @@ import json
 import openai
 import sys
 
-_api_key = "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"
+_api_key = ""
 _client = openai.OpenAI(api_key=_api_key)
 _model = "gpt-4.1"
 
